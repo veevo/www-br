@@ -1,0 +1,234 @@
+baseURL = "https://br.veevo.org/"
+title = "Veevo | Conhece-te a ti mesmo"
+language = "pt-BR"
+theme = "parsa"
+summaryLength = "10"
+paginate = 5
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+  page = ["HTML"]
+
+[taxonomies]
+  category = "categorias"
+  topic = "topicos"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/headroom/headroom.js"
+  [[params.plugins.js]]
+  URL = "plugins/instafeed/instafeed.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/masonry/masonry.js"
+  [[params.plugins.js]]
+  URL = "plugins/reading-time/readingTime.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/smooth-scroll/smooth-scroll.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+  
+
+  
+# navigation
+[menu]
+    
+   [[menu.main]]
+  name = "Spiritism"
+  URL = "spiritism"
+  weight = 3
+
+  [[menu.main]]
+  name = "Articles"
+  URL = "articles"
+  weight = 4
+
+  [[menu.main]]
+  name = "Resources"
+  URL = "resources"
+  weight = 5
+  
+  
+[params]
+#logo = "images/logo.png"
+home = "Home"
+# hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
+homeLayoutToggle = true
+# Meta data
+description = "Veevo | Know thyself. Content for enlightening the humanity"
+# about author
+author = "veevo.org"
+authorImage = "images/banner-img.png"
+shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+# Contact Form Action
+contactFormAction = "#"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# copyright
+copyright = ", Veevo.org"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  
+  # search
+  [params.search]
+  enable = true
+
+  # Instagram feed
+  [params.instafeed]
+  enable = true
+  userID = "4044026246"
+  accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+
+  # footer
+  [params.footer]
+
+    # spiritism
+    [[params.footer.spiritism]]
+	name = "Introduction"
+	URL = "spiritism"
+    
+    [[params.footer.spiritism]]
+	name = "FAQ"
+	URL = "spiritism/faq"
+
+    [[params.footer.spiritism]]
+	name = "Learn"
+	URL = "spiritism/learn"
+
+    [[params.footer.spiritism]]
+	name = "Spiritist Councils"
+	URL = "spiritism/councils"
+
+    [[params.footer.spiritism]]
+	name = "Spiritist Centers"
+	URL = "spiritism/centers"
+
+    [[params.footer.spiritism]]
+	name = "Mediumship"
+	URL = "spiritism/mediumship"
+
+    [[params.footer.spiritism]]
+	name = "Advanced Topics"
+	URL = "spiritism/advanced"
+
+    
+    # Resources
+    [[params.footer.resources]]
+	name = "All Resources"
+	URL = "resources"
+
+    [[params.footer.resources]]
+	name = "Articles"
+	URL = "articles"
+    
+    [[params.footer.resources]]
+	name = "Biographies"
+	URL = "bio"
+
+    [[params.footer.resources]]
+	name = "Studies"
+	URL = "studies"
+    
+    [[params.footer.resources]]
+	name = "Books"
+	URL = "books" 
+
+    [[params.footer.resources]]
+	name = "Movies"
+	URL = "movies" 
+
+    [[params.footer.resources]]
+	name = "Videos"
+	URL = "videos"
+    
+
+    # Help
+    [[params.footer.contribute ]]
+	name = "How can you help"
+	URL = "contribute/"
+    
+    [[params.footer.contribute ]]
+	name = "Translate"
+	URL = "contribute/translate"
+
+    [[params.footer.contribute ]]
+	name = "Report an error"
+	URL = "contribute/report-error"
+
+    [[params.footer.contribute ]]
+	name = "Submit a Fix"
+	URL = "contribute/submit-a-fix"
+
+	[[params.footer.contribute ]]
+	name = "Share"
+	URL = "contribute/share"
+
+
+	# social site
+	[[params.social]]
+	icon = "ti-facebook"
+	URL = "https://facebook.com/veevo"
+	  
+	[[params.social]]
+	icon = "ti-twitter-alt"
+	URL = "https://twitter.com/veevo"
+	
+	[[params.social]]
+	icon = "ti-linkedin"
+	URL = "https://linkedin.com/veevo"
+	  
+	[[params.social]]
+	icon = "ti-github"
+	URL = "https://github.com/veevo"
+
+
+	# about-us
+	[[params.help]]
+	name = "About Us"
+	URL = "help/about-us"
+
+	[[params.help]]
+	name = "Pillars"
+	URL = "help/pillars"
+
+	[[params.help]]
+	name = "Disclaimer"
+	URL = "help/disclaimer"
+
+	[[params.help]]
+	name = "Contact Us"
+	URL = "help/contact-us"
+
+	[[params.help]]
+	name = "Blog"
+	URL = "help/Our Blog"
+
+    [[params.footer.resources]]
+	name = "Vocabulary"
+	URL = "vocabulary"
+
+    [[params.footer.resources]]
+	name = "The Gospel"
+	URL = "gospel"
