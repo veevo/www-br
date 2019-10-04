@@ -1,2 +1,2 @@
-# www-pt
-Repositório em Português
+# www-br
+Repositório Veevo em Português
