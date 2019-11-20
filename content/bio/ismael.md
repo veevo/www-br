@@ -1,9 +1,8 @@
 ---
 title: Ismael
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 TODO:
@@ -16,7 +15,6 @@ Não se pode negar o sentimento de veneração que envolve a nobre figura de Ism
 ## Referências
 TODO:
 
-## Veja Também
-TODO:
+:
 
 

@@ -1,9 +1,9 @@
 ---
 title: Amélie Gabrielle Boudet
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+- allan-kardec
+- spiritism
 ---
 
 
@@ -121,7 +121,6 @@ Em 26 de janeiro de 1883, o conceituado médium parisiense, Sr. E. Cordurié, re
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/amelieboudet.html)
 
-## Veja Também
-TODO
+
 
 

@@ -1,9 +1,8 @@
 ---
 title: Manoel Philomeno de Miranda
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 Manoel Philomeno de Miranda was a physician born in Conde, state of Bahia, Brazil on November 14, 1876 and died in the city of Salvador, capital of the same state, on July 14, 1942. He was introduced to Spiritism in 1914 by the medium Saturnino Favila and later became a member of the União Espírita Baiana ("Spiritist Union of Bahia"), now Federação Espírita do Estado da Bahia ("Spiritist Federation of the State of Bahia"), which was founded in 1915.
@@ -18,8 +17,7 @@ This partnership brought to the public several works, especially on the theme of
 TODO
 
 
-## Veja Também
-TODO
+
 
 
 

@@ -1,9 +1,8 @@
 ---
 title: Francisco Candido Xavier (Chico Xavier)
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 O maior e mais prolífico médium psicógrafo do mundo em todas as épocas, Francisco Cândido Xavier nasceu em Pedro Leopoldo, modesta cidade de Minas Gerais, em 2 de abril de 1910, desencarnando no dia 30 de junho de 2002, filho de João Cândido Xavier e a mãe Maria João de Deus, que tiveram nove filhos: Maria Cândida, Luíza, Carmozina, José Cândido, Maria de Lurdes, Francisco Cândido, Raymundo, Maria da Conceição e Geralda. Sua mãe desencarnou em 1915 e, em 1960, seu pai.
@@ -227,7 +226,6 @@ English: TODO:: Add link to SGNY
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/chicoxavier.html)
 
 
-## Veja Também
-TODO
+
 
 

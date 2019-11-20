@@ -1,9 +1,8 @@
 ---
 title: William Staiton Moses
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 Nascido a 5 de novembro de 1839 em Domington, Inglaterra, William Stainton Moses iniciou seus estudos sob a direção de seu pai e foi em seguida confiado a um professor particular. Em 1855, ingressou na Escola de Gramática de Bedford, onde estudou durante três anos. Aos 23 anos de idade, Stainton Moses voltou para Oxford, onde recebeu seu diploma. Em 1870, sua atenção foi atraída para o Espiritismo durante o tempo em que residiu na casa do Dr. Speers, em Londres.
@@ -17,8 +16,7 @@ Contribuiu para a fundação da Associação Nacional Britânica dos Espirituali
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/williammoses.html)
 
 
-## Veja Também
-TODO
+
 
 
 

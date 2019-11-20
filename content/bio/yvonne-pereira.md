@@ -1,9 +1,8 @@
 ---
 title: Yvonne A. Pereira
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 Nascida em Rio das Flores (RJ), Yvonne completaria 78 anos de idade no dia 24 de dezembro de 1984, ano em que faleceu. Sua desencarnação ocorreu em março.
@@ -95,8 +94,7 @@ Em Barra do Piraí (RJ), participou ativamente do Grêmio Espírita de Beneficê
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/yvonne.html)
 
 
-## Veja Também
-TODO
+
 
 
 

@@ -1,9 +1,8 @@
 ---
 title: Humberto de Campos
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 
@@ -38,7 +37,6 @@ Os que lerem suas obras de antes e de depois de morto, poderão constatar a real
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/humbertodecampos.html)
 
-## Veja Também
-TODO
+
 
 

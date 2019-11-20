@@ -1,9 +1,12 @@
 ---
 title: Andre Luis
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+- medicina
+- espiritismo
+- rio-de-janeiro
+- psicografia
+- chico-xavier
 ---
 
 
@@ -16,7 +19,7 @@ Faithful to the solid foundation of the codification by Allan Kardec, his novels
 
 Whether spiritist or not, we should all strive to learn from the pages of his life so we may be better prepared to face our own.
 
-## Veja Também
-TODO
 
+## Fonte
+[SGNY.org](//sgny.org)
 

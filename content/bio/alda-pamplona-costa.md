@@ -1,8 +1,7 @@
 ---
 title: Alda Pamplona da Costa
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
+topics: 
 - perfis
 ---
 
@@ -20,7 +19,6 @@ D. Alda, como todos a chamavam, faleceu perto de completar 90 anos de idade. Seu
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/aldapamplona.html)
 
-## Veja Também
-TODO
+
 
 

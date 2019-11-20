@@ -1,9 +1,8 @@
 ---
 title: Corina Novelino
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 
@@ -34,7 +33,6 @@ A desencarnação de Corina Novelino ocorreu no dia 10 de fevereiro de 1980, em 
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/delphine.html)
 
-## Veja Também
-TODO
+
 
 

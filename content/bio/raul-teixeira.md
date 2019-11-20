@@ -1,16 +1,21 @@
 ---
 title: J. Raul Teixeira
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+- raul-teixeira
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
+Natural da cidade de Niterói (RJ), Raul Teixeira é licenciado em Física, Mestre e Doutor em Educação. Professor aposentado da Universidade Federal Fluminense. É um dos fundadores da Sociedade Espírita Fraternidade, localizada em Niterói (RJ).
 
-## Veja Também
-TODO
+A instituição mantém uma obra de Assistência Social Espírita denominada "Remanso Fraterno", que atende a crianças e família socialmente carentes, apoiando-as no seu soerguimento material e espiritual.
+
+Conferencista dos mais requisitados no Brasil e no Exterior, já levou a  mensagem espírita a  45 países, tendo servido como médium na recepção de 35 livros, publicados pela Editora Fráter.
+
+Há 37 anos Raul Teixeira visita o Paraná, trazendo sua palavra de orientação e lucidez.
+
+
+## Fonte
+[RaulTeixeira.com.br (site oficial)](http://www.raulteixeira.com.br/biografia.php) 
 
 

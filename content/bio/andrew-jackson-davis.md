@@ -1,9 +1,8 @@
 ---
 title: Andrew Jackson Davis
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 
@@ -39,14 +38,13 @@ n the latter years of his life, having finally acquired a medical degree, Andrew
 
 
 ## Referências
-TODO:: Add link to SGNY
+SGNY
 First Spiritual Temple The Ayer Institute 16 Monmouth Street, Brookline, MA, 02446 -5605 USA  
 Forerunners to Modern Spiritualism  
 Andrew Jackson Davis (1826-1910)  
 By Rev. Simeon  
 
 
-## Veja Também
-TODO
+
 
 

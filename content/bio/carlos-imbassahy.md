@@ -1,9 +1,8 @@
 ---
 title: Carlos Imbassahy
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 
@@ -74,7 +73,6 @@ Finalmente, aos 84 anos, foi acometido de uma leucose aguda que, em pouco mais d
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/carlosimbassahy.html)
 
-## Veja Também
-TODO
+
 
 

@@ -1,9 +1,8 @@
 ---
 title: Hugo Gonçalves (O Paizinho)
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 
@@ -115,7 +114,6 @@ Além do Coral, o Centro Espírita Allan Kardec conta com um grupo musical (aind
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/hugogoncalves.html)
 
-## Veja Também
-TODO
+
 
 

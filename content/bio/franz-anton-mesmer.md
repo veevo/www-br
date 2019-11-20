@@ -1,9 +1,8 @@
 ---
 title: Franz Anton Mesmer
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 
@@ -35,7 +34,6 @@ Um grupo de médicos da Academia de Berlim redescobre o seu paradeiro, mas, já 
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/franzanton.html)
 
-## Veja Também
-TODO
+
 
 

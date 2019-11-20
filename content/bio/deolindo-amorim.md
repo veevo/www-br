@@ -1,9 +1,8 @@
 ---
 title: Deolindo Amorim
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 
@@ -35,7 +34,6 @@ Não é sem razão que Deolindo Amorim é o escritor e jornalista espírita bras
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/deolindo.html)
 
-## Veja Também
-TODO
+
 
 

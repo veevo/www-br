@@ -1,9 +1,8 @@
 ---
 title: Bezerra de Menezes
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+
 ---
 
 Nascido na antiga Freguesia do Riacho do Sangue, município de Jaguaretama, no Ceará, aos 29 dias do mês de agosto de 1831, e desencarnado no Rio de Janeiro, a 11 de abril de 1900.
@@ -160,7 +159,6 @@ We will help you in another way: Bringing you, whenever you need, new pupils of 
 English: Spiritist Group of New York - Aug 2002 Great Mediums and Spiritual Guides - Translated by Jussara Korngold - TODO:: Add link to SGNY  
 Portuguese: [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/bezerrademenezes.html)
 
-## Veja Também
-TODO
+
 
 

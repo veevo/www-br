@@ -1,9 +1,11 @@
 ---
 title: Sebastião Lasneau
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+- espiritismo
+- brasil
+- minas-gerais
+- chico-xavier
 ---
 
 Sebastião Lasneau nasceu em Barra do Piraí,  pequena cidade do Vale do Paraíba, no Estado do Rio de Janeiro, no dia 12 de novembro, de 1900, como filho de Evilásio Antônio Lasneau e Etelvina Santos Lasneau. Desencarnou na mesma cidade em 30 de março de 1969.
@@ -34,8 +36,7 @@ Lasneau foi, de fato, um dos grandes vultos  espíritas brasileiros, cuja obra t
 (Extraído de “O Espírita Mineiro”, trabalho de  Antônio de Souza Lucena e Paulo Alves Godoy, com depoimentos de Arnaldo Rocha e Cléber Varandas)
 
 
-## Veja Também
-TODO
+
 
 
 

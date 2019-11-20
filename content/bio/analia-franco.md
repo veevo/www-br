@@ -1,9 +1,9 @@
 ---
 title: Anália Franco
-description: TODO
 date: 2019-02-01 19:00:00
-tags: 
-- perfis
+topics: 
+- espiritismo
+- sao-paulo
 ---
 
 
@@ -49,7 +49,6 @@ A obra de Anália Franco foi, incontestavelmente, uma das mais salientes e merit
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/analiafranco.html)
 
-## Veja Também
-TODO
+
 
 
