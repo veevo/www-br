@@ -2,95 +2,96 @@
 title: Emmanuel
 date: 2019-02-01 19:00:00
 topics: 
-
+- spiritism
+- emmanuel
+- chico-xavier
+- jesus
+- roma
+- materializacao
+- psicografia
+- psicofonia
+- espirito-superior
+- livro-dos-espiritos
+- evangelho-segundo-espiritismo
 ---
 
-Emmanuel é o nome do Espírito que tutelou a atividade mediúnica de Francisco Cândido Xavier, o maior médium psicógrafo de sempre, com mais de 400 obras psicografadas.
+Emmanuel é o nome dado pelo médium espírita brasileiro Chico Xavier ao espírito a que atribui a 
+autoria de boa parte de suas obras psicografadas. Esse espírito era apontado por Chico Xavier 
+como seu orientador espiritual.
 
-Ao tempo da passagem de Jesus pela Terra, chamou-se Públio Lentulus Cornélio, um senador romano. Ao que se sabe, foi a única autoridade que efetuou perfeita descrição do Mestre Jesus, através da célebre carta, publicada em numerosas línguas, autêntica obra-prima. Encontrou-O, pessoalmente, solicitando-Lhe auxílio para a cura de sua filha Flávia, que, supomos, estaria leprosa. Desencarnou em Pompéia, no ano 79, vítima das lavas do Vesúvio. Anos depois, reencarnaria como judeu na Grécia, em Éfeso, já não mais sob a toga de orgulhoso senador romano, mas sim na estamenha do modesto escravo Nestório, que, na idade madura, participava das reuniões secretas dos cristãos nas catacumbas de Roma.
+Há também um livro homônimo de Chico Xavier que leva a assinatura de Emmanuel, publicado em 1938.
 
-Podemos conhecer melhor a história desse Espírito através das suas obras: Há Dois Mil Anos e Cinqüenta Anos Depois, transmitidas mediunicamente através de Chico Xavier. Estes livros constituem obras-primas singulares da literatura mediúnica e histórica.
+## Obra Mediunica
+A obra mediúnica atribuída a Emmanuel é composta por dezenas de livros, muitos deles 
+traduzidos para diversos idiomas. São romances históricos, livros de aconselhamento espiritual, 
+obras de exegese bíblica, etc.
 
-Elias Barbosa diz-nos que Emmanuel, o mentor espiritual estimado e respeitado de Chico Xavier, foi a personalidade de Manoel da Nóbrega, renascido em 18 de outubro de 1517, em Sanfins, Entre Douro e Minho, Portugal, quando reinava D. Manuel I, o Venturoso. Inteligência privilegiada, ingressou na Universidade de Salamanca, Espanha, aos 17 anos, e, com 21, inscreve-se na Faculdade de Cânones da Universidade de Coimbra, freqüentando aulas de Direito Canônico e Filosofia. Em 14 de Junho de 1541, em plena mocidade, recebe a láurea doutoral.
+Queridos Amigos, é com muita alegria que disponibilizamos uma tabela com as reencarnações de Emmanuel, 
+descritas ao longo do livro Chico, Diálogos e Recordações. A trajetória deste Benfeitor, ao lado de Chico, 
+que trabalha incessantemente para nossa evolução, muito nos inspira e motiva a igualmente 
+procurarmos cumprir com nossos deveres de discípulos do Cristo. Cada degrau a seu tempo, angariando 
+luz divina e cobrindo nossa multidão de pecados, chegaremos ao Pai! Muita Paz!!
 
-Mais tarde, a 25 de Janeiro de 1554, seria um dos principais fundadores da grande metrópole São Paulo. Foi também o fundador da cidade de Salvador, Bahia, a primeira capital do Brasil.
+“Emmanuel, exatamente assim, com dois “m” se encontra grafado o nome do espírito, no original 
+francês “L’ Évangile Selon le Spiritisme”, em mensagem datada de Paris, em 1861 e inserida no cap. XI, 
+item 11 da citada obra, intitulada “O Egoísmo”.
 
-A informação de que Emmanuel teria sido o Padre Manoel da Nóbrega, foi dada pelo próprio Emmanuel em várias comunicações através da mediunidade idônea e segura de Francisco Cândido Xavier.
+O nome ficou mais conhecido, entre os espíritas brasileiros, pela psicografia do médium mineiro Francisco Cândido Xavier. Segundo ele, foi no ano de 1931 que, pela primeira vez, numa das reuniões habituais do Centro Espírita, se fez presente o bondoso espírito Emmanuel.
 
-No início da atividade mediúnica de Chico, nos anos trinta, ainda sem se identificar, disse-lhe que gostaria de trabalhar com ele durante longos anos, mas que necessitaria de três condições básicas para o fazer: (primeiro requisito) disciplina, (segundo requisito) disciplina, e (terceiro requisito) disciplina. O que foi plenamente cumprido por Chico Xavier, tanto no que se refere ao seu mandato mediúnico quanto à sua vida profissional, a serviço do Estado, como funcionário público, até o instante de sua aposentadoria. Além disso, Emmanuel, no início de sua nobre missão junto ao Chico Xavier, disse-lhe que se alguma vez ele o aconselhasse algo que não estivesse de acordo com as palavras de Jesus e Kardec, deveria esquecê-lo, permanecendo fiel a Jesus e Kardec.
+Descreve Chico: 
 
-Emmanuel fez também parte da falange do Espírito da Verdade que trouxe à Terra o Cristianismo restaurado, definição sua da Doutrina Espírita. No Evangelho segundo o Espiritismo, Allan Kardec inseriu uma mensagem de Emmanuel, recebida em Paris, 1861, intitulada O Egoísmo (Cap. XI, Item 11).
+> “Via-lhe os traços fisionômicos de homem idoso, sentindo minha alma envolvida na suavidade de sua presença, mas o que mais me impressionava era que a generosa entidade se fazia visível para mim, dentro de reflexos luminosos que tinham a forma de uma cruz.”
 
-Para além dos dois livros históricos citados, temos ainda várias dezenas de outros, dos quais destacamos: Paulo e Estevão , obra que, segundo Herculano Pires, justificaria, por si só, a missão mediúnica de Francisco Cândido Xavier; Ave, Cristo e Renúncia, livros estes que, juntamente com os citados anteriormente, ajudam-nos a entender o nascimento do Cristianismo e sua gradual distorção histórica. Outrossim, estes cinco livros são baseados em fatos históricos verdadeiros. Emmanuel também foi considerado o quinto evangelista, pela superior interpretação do pensamento de Jesus. Em prol disso, basta a análise dos seguintes livros de sua autoria, pela mediunidade de Chico Xavier: Caminho, Verdade e Vida , Pão Nosso , Vinha de Luz e Fonte Viva.
+Convidado a se identificar, apresentou alguns traços de suas vidas anteriores, dizendo-se ter sido senador romano, descendente da orgulhosa “gens Cornelia” e, também sacerdote, tendo vivido inclusive no Brasil.
 
-Há, ainda, a necessidade de registrar outras obras de Emmanuel, transmitidas através de Chico Xavier,  e que são preciosas: A Caminho da Luz , que nos relata a história da civilização à luz do Espiritismo, e Emmanuel, livro constituído por diversas dissertações importantes sobre Ciência, Religião e Filosofia, que preocupam a Humanidade.
+De 24 de outubro de 1938 a 9 de fevereiro de 1939, Emmanuel transmitiu ao médium mineiro as suas impressões, dando-nos a conhecer o orgulhoso patrício romano Públio Lentulus Cornelius, em vida pregressa Públio Lentulus Sura, e que culminou no romance extraordinário: Há Dois Mil Anos.
 
+Públio é o homem orgulhoso, mas também nobre. Roma é o seu mundo e por ele batalha. Não admite a corrupção, mostrando, desde então, o seu caráter íntegro. Intransigente, sofre durante anos a suspeita de ter sido traído pela esposa a quem ama. Para ela, nos anos da mocidade, compusera os mais belos versos: “Alma gêmea da minhalma/ Flor de luz da minha vida/ Sublime estrela caída/ Das belezas da amplidão...” e, mais adiante: “És meu tesouro infinito/ Juro-te eterna aliança/ Porque eu sou tua esperança/ Como és todo o meu amor!”
 
+Tem a oportunidade de se encontrar pessoalmente com Jesus, mas entre a opção de ser servo de Jesus ou servo do mundo, escolhe a segunda.
 
-# English
-Emmanuel, written exactly as is, with a double ” m ” is the name of the spirit, in the original French “L’Evangile Selon le Spiritisme,” in a message dated in Paris, in 1861 and inserted in the chap. XI, item 11 of the mentioned work, entitled “Selfishness.”
+Não é por outro motivo que escreve, ao início da citada obra mediúnica: “Para mim essas recordações têm sido muito suaves, mas também muito amargas. Suaves pela rememoração das lembranças amigas, mas profundamente dolorosas, considerando o meu coração empedernido, que não soube aproveitar o minuto radioso que soara no relógio da minha vida de Espírita, há dois mil anos.”
 
-The name became well-known, among the Brazilian spiritists, due to the psychographed works of the medium, Francisco Cândido Xavier. According to him, it was in the year 1931 that, at a regular meeting at the Spiritist Center that the kind spirit Emmanuel, first appeared to him.
+Desencarnou em Pompéia, no ano de 79, vítima das lavas do vulcão Vesúvio, cego e já voltado aos princípios de Jesus.
 
-Francisco Xavier, thus, describes Emmanuel:
->“I saw the countenance of an older man and my soul was feeling the gentleness of his presence; however what impressed me the most was that the generous spirit made himself visible to me within the luminous reflections in the form of a cross.”
+Cinqüenta anos depois, no ano de 131, ei-lo já de retorno ao palco do mundo. Nascido em Éfeso, de origem judia, foi escravizado por ilustres romanos que o conduziram ao antigo país de seus ascendentes. Nos seus 45 anos presumíveis, Nestório mostra no porte israelita, um orgulho silencioso e inconformado. Apartado do filho, que também fora escravizado, tornaria a encontrá-lo durante uma pregação nas catacumbas onde ele, Nestório, tinha a responsabilidade da palavra. Cristão desde os dias da infância, é preso e, após um período no cárcere, por manter-se fiel a Jesus, é condenado à morte.
 
-We invited him to introduce himself. He informed us of some features of his previous lives, describing that he had been a Roman senator, descendant of the proud “Gens Cornelia” and, as well as a priest, who had lived in Brazil.
+Junto com o filho, Ciro, e mais uma vintena de cristãos, num fim de tarde, foi conduzido ao centro da arena do famoso circo romano, situado entre as colinas do Célio e do Aventino, na capital do Império. Atado a um poste por grossas cordas presas por elos de bronze, esquelético, munido somente de uma tanga que lhe cobria a cintura, até os rins, teve o corpo varado por flechas envenenadas. Com os demais, ante o martírio, canta, dirigindo os olhos para o Céu e, no mundo espiritual, é recebido pelo seu amor, Lívia.
 
-From October 24th, 1938 to February 9th, 1939 , Emmanuel transmitted his impressions to the medium Francisco Cândido Xavier, allowing us to know that he had been Públio Lentulus Sura and in the following incarnation, the proud Roman, Públio Lentulus Cornelius, whose life culminated in the extraordinary novel: “Two thousand years ago.”
+Pelo ano 217, peregrina na Terra outra vez. Moço, podemos encontrá-lo nas vestes de Quinto Varro, patrício romano, apaixonado cultor dos ideais de liberdade.
 
-Públio had been a proud man, but also a nobleman. Rome was his world and he fought its’ battles. He doesn’t admit to being involved in its corruption, thus demonstrating since that time his righteous character. Being very strict, he suffered for many years, suspecting that he had been betrayed by the wife to whom he had consecrated his love. For her, in the years of his youth, he composed the most beautiful verses: “Twin soul of my soul,” “Flower of light of my life,” “Sublime fallen star,” “From the beauties of the immensities…” and, later on: “You are my infinite treasure,” “I swear eternal allegiance to you,” “Because I am your hope” “As you are all my love!”
+Afervorado a Jesus, sente confranger-lhe a alma a ignorância e a miséria com que as classes privilegiadas de Roma mantinham a multidão.
 
-He had the opportunity of meeting Jesus personally, but between the option of being a servant of Jesus or of being a servant of the world, he chose the latter.
+O pensamento do Cristo, ele sente, paira acima da Terra e, por mais lute a aristocracia romana, Varro não ignora que um mundo novo se formava sobre as ruínas do velho.
 
-It is for no other reason that he writes, at the beginning of the mentioned mediumistic work:
->“To me, those memories have been very tender, as well as very bitter. Gentle, for the friendly remembrances, but deeply painful, considering that my hardened heart, did not know how to take advantage of this radiant moment that had rung in the clock of my Spiritist life Two thousand years ago “.
+Vítima de uma conspiração para matá-lo, durante uma viagem marítima, toma a identidade de um velho pregador de Lyon, de nome Corvino. Transforma-se em Irmão Corvino, o moço, e se torna jardineiro. Condenado à decapitação, tem sua execução sustada após o terceiro golpe, sendo-lhe concedida a morte lenta, no cárcere.
 
-He disincarnated in Pompeii , in the year of 79, victim of the lava which flowed from the Mount Vesuvius ’ volcano. At that time he had becoming blind, but was already devoted to the principles of Jesus.
+Onze anos após, renasce e toma o nome de Quinto Celso. Desde a meninice, iniciado na arte da leitura, revela-se um prodígio de memória e discernimento.
 
-Fifty years later, in the year of 131, he returns to the stage of the world. This time he was born in Ephesus , of Jewish origin, he was enslaved by an illustrious Roman who drove him to the old country of his descendants. At 45 years of age, presumably, Nestorio displays the appearance of an Israelite, with a silent and unconformable pride. Separated from his son, who had also been enslaved; he would again meet him during a sermon as he, Nestorio, preached in the catacombs. A Christian since his childhood, he was arrested and jailed, and because of his continued faith to Jesus, he was condemned to death.
+Francamente cristão, sofreu o martírio no circo, amarrado a um poste untado com substância resinosa ao qual é ateado fogo. Era um adolescente de mais ou menos 14 anos.
 
-Together with his son, Ciro, and about 20 other Christians, at the end of an afternoon, he was driven to the center of the arena of the famous Roman circus, located among the hills of Celio and of Aventino, in the capital of the Empire. Tied to a post by thick ropes attached to links of brass, extremely thin, and dressed with only a piece of cloth that covered his waist to the kidneys, his body was pierced by poisoned arrows. With the others, facing martyrdom, he sings, raising his eyes to the Sky and subsequently in the spiritual world, he is received by his former love, Livia.
+Sua derradeira reencarnação se deu a 18 de outubro de 1517 em Sanfins, Entre-Douro-e-Minho, em Portugal, com o nome de Manoel da Nóbrega, ao tempo do reinado de D. Manoel I, o Venturoso.
 
-Around the year 217, he once again reincarnates on Earth. As a young man, we can now find him as Quinto Varro, a passionate Roman dedicated to the ideals of freedom.
+Inteligência privilegiada, ingressou na Universidade de Salamanca, Espanha, aos 17 anos. Aos 21, está na faculdade de Cânones da Universidade, onde freqüenta as aulas de direito canônico e de filosofia, recebendo a láurea doutoral em 14 de junho de 1541.
 
-Faithful to Jesus, he feels his soul oppressed by the ignorance and the poverty in which the privileged classes of Rome maintained the crowds.
+Vindo ao Brasil, foi ele quem estudou e escolheu o local para a fundação da cidade de São Paulo, a 25 de janeiro de 1554. A data escolhida, tida como o dia da Conversão do apóstolo Paulo, pretende-se seja uma homenagem do universitário Manoel da Nóbrega ao universitário Paulo de Tarso.
 
-He feels that the thoughts of the Christ hover over the Earth, but the Roman aristocracy attempts to battle it. Quinto Varro doesn’t ignore that a new world had been created in the ruins of the old one.
+O historiador paulista Tito Lívio Ferreira, encerra sua obra “Nóbrega e Anchieta em São Paulo de Piratininga” descrevendo: “Padre Manoel da Nóbrega fundara o Colégio do Rio de Janeiro. Dirige-o com o entusiasmo de sempre. Aos 16 de outubro de 1570, visita amigos e principais moradores. Despede-se de todos, porque está, informa, de partida para a sua Pátria. Os amigos estranham-lhe os gestos. Perguntam-lhe para onde vai. Ele aponta para o Céu.
 
-Becoming a victim of a conspiracy to kill him, during a trip on the high seas, he assumes the identity of an old preacher of Lyon , named Brother Corvino, and start to work as a gardener. After being convicted to be beheaded, his execution was suspended after the third blow, and instead was granted a slow death, in jail.
+No dia seguinte, já não se levanta. Recebe a Extrema Unção. Na manhã de 18 de outubro de 1570, no próprio dia de seu aniversário, quando completava 53 anos, com 21 anos ininterruptos de serviços ao Brasil, cujos alicerces construiu, morre o fundador de São Paulo.
 
-Eleven years later, he reincarnates as Quinto Celso. From his childhood, he was introduced to the art of the reading, and revealed having a prodigious memory and great discernment.
+E as últimas palavras de Manoel da Nóbrega são: 'Eu vos dou graças, meu Deus, Fortaleza minha, Refúgio meu, que marcastes de antemão este dia para a minha morte, e me destes a perseverança na minha religião até esta hora.'
 
-As true Christian, he suffered the martyrdom in the circus, tied to a post. He is anointed with a resinous substance and is set on fire. He was about 14 years-old.
+E morreu sem saber que havia sido nomeado, pela segunda vez, Provincial da Companhia de Jesus no Brasil: a terra de sua vida, paixão e morte.”
 
-His last reincarnation took place on October 18th, 1517 in Sanfins, Entre- Douro-e-Minho, in Portugal , under the name of Manoel de Nóbrega, at the time of the reign of D. Manoel I, The Lucky One.
+(A título de curiosidade, encontramos registros que o deputado Freitas Nobre, já desencarnado na atualidade, declarou, em programa televisivo da TV Tupi de São Paulo), na noite de 27 para 28 de julho de 1971, que ao escrever um livro sobre Anchieta, teve a oportunidade de encontrar e fotografar uma assinatura de Manuel da Nóbrega, como E. Manuel.)
 
-Possessing a privileged intelligence, he entered the University of Salamanca , in Spain , at 17 years of age. At 21, he was in College at “Canones da Universidade” where he attended the classes of canonical right and philosophy, and received the Doctoral Laureate Degree on June 14, 1541 .
+Assim, o E inicial do nome do mentor de Francisco Cândido Xavier se deveria à abreviatura de Ermano, o que, segundo ele, autorizaria a que o nome fosse grafado Emanuel, um “m” somente e pronunciado com acentuação oxítona. 
 
-While in Brazil , it was he who studied and chose the place for the foundation of the city of São Paulo , on January 25th, 1554 . The chosen date, was due to the day of the Conversion of the Apostle Paulo, intent on paying homage to Paul of Tarsus.
+## O retrato de Emmanuel 
+Foi feito um retrato do espírito Emmanuel pelo pintor mineiro Delpino Filho. Chico Xavier informou que o espírito não "posou" para o pintor. Na verdade, o artista foi auxiliado por um pintor desencarnado, que era amigo de Emmanuel. O médium afirmou que o retrato produzido é fiel ao benfeitor, quando na personalidade do senador romano Publius Lentulus Cornelius. O único detalhe que poderia ser corrigido no retrato se refere aos lábios, que são na realidade mais estreitos e masculinos. A pintura original se encontra na sede do Grupo Espírita Luiz Gonzaga, em Pedro Leopoldo, numa sala de preces, feita no quarto onde Chico nasceu, em 1910.
 
-The historian from São Paulo , Tito Lívio Ferreira, ends his work: “Nóbrega and Anchieta in São Paulo of Piratininga” describing: “Priest Manoel de Nóbrega had founded the School of Rio de Janeiro . On October 16th, 1570 , he supervises it with the same enthusiasm; he then visits his friends and local inhabitants and bids goodbye to everyone, as he had been informed he would be returning to his Homeland. His friends find his attitude to be strange, and so they ask him where he is going, and he replies pointing the Sky.
-
-On the following day, he no longer awakens. He receives the Extreme Unction. On the morning of October 18th, 1570 , the very day of his birthday, when he had concluded 53 years of age, 21 of which had been of constant service to Brazil , whose foundations he had built, the founder of the city of São Paulo passed away.
-
-The last words of Manoel de Nóbrega were: “I give you thanks, my God, my Fortress, my Refuge, who marked this day for my death ahead of time, and conceded me the perseverance in my religion until this last hour.”
-
-He died without knowing that because of his works the city had been awarded, for the second time, the title of “The Provincial of Jesus’ Company in Brazil ”- the earth of his life, his passion and death.”
-
-As a curiosity, we found in the registry that the deputy Freitas Nobre, who has already disincarnated, declared, in a TV program (of the TV Tupi of São Paulo), on the night of the 27th to July 28th, 1971, that when he was writing a book about Anchieta, he had the opportunity of finding and photographing a signature of Manuel of Nóbrega, like E. Manuel.
-
-Thus, the initial “E” of Francisco Cândido Xavier’s mentor was derived from an abbreviation of Ermano, which, according to him, would authorize his name to be written Emanuel, one “m” only, and pronounced with the accent in the last syllables.
-
-
-## Referências
-Allan Kardec (Excerpted From Posthumous Works) | TODO:: Add link to SGNY   
-[O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/emmanuel.html)
-
-## Bibliografia
-TODO: Add link
-
-
-
+## Fonte
+[Personagens Do Espiritismo | Emmanuel](https://personagensdoespiritismo.blogspot.com/2013/12/emmanuel.html)
 
 

@@ -2,9 +2,15 @@
 title: Cesare Lombroso
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- mediunidade
+- caracterologia
+- italia
+- materializacao
+- mediums
+- hipnose
+- frenologia
 ---
-
 
 Nasceu em 6 de novembro de 1835, em Verona, na Itália. Desencarnou em 19 de outubro de 1909, em Turim, na Itália.
 

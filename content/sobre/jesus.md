@@ -1,9 +1,11 @@
 ---
 title: Jesus
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  TODO
 date: 2019-02-01 19:00:00
-tags:
-- about
+topics:
+- jesus
+- biblia
+- evangelho
+- espirito-puro
 ---
 
 Jesus – O ser mais perfeito que Deus ofereceu aos homens para lhes servir de modelo e guia.

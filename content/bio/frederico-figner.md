@@ -2,9 +2,11 @@
 title: Frederico Figner
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- autor-espiritual
+- feb
+- chico-xavier
 ---
-
 
 Israelita de nascimento, viveu no lar paterno os preconceitos de sua raça contra o Carpinteiro de Nazaré. Na verdade, porém, Figner, como muitos outros judeus, não tinha religião alguma.
 

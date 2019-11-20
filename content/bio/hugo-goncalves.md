@@ -2,7 +2,8 @@
 title: Hugo Gonçalves (O Paizinho)
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- cairbar-schutel
 ---
 
 
@@ -15,25 +16,6 @@ Em 1880 chegava ao Brasil uma família de imigrantes portugueses liderada por Fr
 Hugo Gonçalves retornou ao mundo físico no dia 6 de outubro de 1913. O parteiro foi Cairbar Schutel, o qual sugeriu que o rebento se chamasse Vitor Hugo, seu autor literário preferido. Dona Cândida gostou de Hugo, mas não de Vitor.
 
 Aos 12 anos de idade, revelou boa tendência literária, passando a escrever para o Jornal O Clarim, fundado e dirigido por seu mestre Cairbar Schutel, em Matão-SP. Vale a pena relembrar um poema que o menino Hugo escreveu nesse tempo:
-
-## MINHA ORAÇÃO
-
-Jesus, Educador da Humanidade,  
-Que disseste: "Deixai que os pequeninos  
-Comigo venham ter..."  
-Ensina-me a formar os paladinos da justiça, do bem e da verdade.  
-Ensina-me a ensinar o bem-viver.  
-Com palavras, exemplos e carinhos,  
-Dá que eu conduza ao porto desejado  
-Estas almas em flor.  
-Que cada coração por mim tocado  
-Tenha perfume bom dos rosmarinhos  
-Onde esteja o divino amor. Que eu nunca seja pedra de tropeço,  
-Que eu nunca escandalize uma criança,  
-Que eu saiba respeitar seu coração,  
-Dá-me esta força poderosa e mansa,  
-Este dom de educar que não tem preço,  
-Talento, esforço, amor e inspiração.  
 
 A partir dos 13 anos, passou a trabalhar com os demais irmãos, executando duras tarefas na pedreira de propriedade do pai, tendo por companheira e instrumento, uma sisuda marreta. Ainda em plena adolescência, no âmbito escolar, todos os dias fulminava com o olhar uma bonita descendente de italianos, que descobriu chamar-se Dulce Ângela Caleffi ("A Mãezinha de Cambé"). Ela, só com o passar do tempo, veio a notar aquele olhar interesseiro. Não tardou a sentir umas fisgadas no coração. Por alguns anos o futuro romance ficou apenas na paquera.
 
@@ -111,9 +93,24 @@ O Coral Hugo Gonçalves foi criado em 3 de agosto de 1997 e, desde então, apesa
 
 Além do Coral, o Centro Espírita Allan Kardec conta com um grupo musical (ainda sem nome, mas que ficaria bem sendo chamado Sexteto Hugo Gonçalves) composto por 6 integrantes doCoral que se apresenta nas reuniões noturnas de 4ª feira, cantando músicas exclusivamente de cunho religioso. Não dispõe de um maestro, mas é orientado por Wilson, um dos integrantes, com seu conhecido violão. Um grupo bem afinado que prepara o ambiente para os trabalhos de doutrinação, esparzindo eflúvios de paz com seus cânticos suaves.
 
+## Minha oração 
+Jesus, Educador da Humanidade,  
+Que disseste: "Deixai que os pequeninos  
+Comigo venham ter..."  
+Ensina-me a formar os paladinos da justiça, do bem e da verdade.  
+Ensina-me a ensinar o bem-viver.  
+Com palavras, exemplos e carinhos,  
+Dá que eu conduza ao porto desejado  
+Estas almas em flor.  
+Que cada coração por mim tocado  
+Tenha perfume bom dos rosmarinhos  
+Onde esteja o divino amor. Que eu nunca seja pedra de tropeço,  
+Que eu nunca escandalize uma criança,  
+Que eu saiba respeitar seu coração,  
+Dá-me esta força poderosa e mansa,  
+Este dom de educar que não tem preço,  
+Talento, esforço, amor e inspiração.  
+
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/hugogoncalves.html)
-
-
-
 

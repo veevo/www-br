@@ -2,7 +2,10 @@
 title: Humberto de Campos
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- humberto-de-campos
+- irmao-x
+- chico-xavier
 ---
 
 
@@ -31,12 +34,7 @@ Crônicas de Além-Túmulo; Brasil, Coração do Mundo, Pátria do Evangelho; Bo
 
 Nas primeiras mensagens, temos um Humberto bem humano, com características próprias do intelectual do mundo. Logo depois, ele se vai espiritualizando, sutilizando as ideias e expressões, tornando-se então o escritor espiritual predileto de milhares.
 Os que lerem suas obras de antes e de depois de morto, poderão constatar a realidade do fenômeno espírita e a autenticidade da mediunidade de Chico Xavier.
- 
-
 
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/humbertodecampos.html)
-
-
-
 

@@ -2,7 +2,13 @@
 title: Francisco Peixoto Lins (Peixotinho)
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- peixotinho
+- scheilla
+- 2a-guerra-mundial
+- materializacao
+- psicofonia
+- psicografia
 ---
 
 

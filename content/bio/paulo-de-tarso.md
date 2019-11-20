@@ -6,6 +6,8 @@ topics:
 - gospel
 - paul-of-tarsus
 - stephen
+- superior-spirit
+- emmanuel
 ---
 
 Nascido em Tarso, na Cilícia da Ásia Menor (15 km do mar Mediterrâneo), seu

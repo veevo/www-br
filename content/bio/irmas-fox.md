@@ -2,7 +2,12 @@
 title: Irmãs Fox
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- usa
+- materializacao
+- psicofonia
+- psicografia
+- mesas-girantes
 ---
 
 
@@ -19,13 +24,9 @@ Na noite de 31 de março de 1848, descobriu-se um meio de entrar em contato com 
 Todos ficaram abalados com os acontecimentos. Numa semana a senhora Fox ficou grisalha. E como tudo sugeria que os fenômenos estivessem ligados às duas meninas, Margareth e Kate, elas foram afastadas de casa. Mas em casa do seu irmão David Fox, para onde foi Margareth, e na casa de sua irmã Leah, onde Kate ficou hospedada, os mesmos ruídos se fizeram ouvir. Leah, a irmã mais velha, teve de interromper as aulas de música, pois passou também a ser intermediária dos fenômenos. Descobriu-se que o Espírito comunicante era um antigo vendedor ambulante de nome Charles Rosma, que, daquele modo, procurava revelar a sua presença e entrar em contato com as pessoas da casa. O indivíduo portador desse nome fora, anos antes, assassinado na casa de Hydesville. O assassinado revelou que havia sido morto com uma faca de açougueiro, cinco anos antes; que o corpo tinha sido levado para a adega; que só na noite seguinte é que havia sido sepultado; tinha passado pela despensa, descido a escada, e enterrado a três metros aproximadamente do solo. Adiantou, também, que o móvel do crime fora o dinheiro que possuía, cerca de quinhentos dólares. Os mais interessados em esclarecer o caso resolveram escavar a adega, visando encontrar os despojos do suposto assassinado. É bom se esclareça que chegaram à identidade e à história do Espírito por meio de uma combinação alfabética segundo a qual cada letra era indicada por um certo número de pancadas. Charles Rosma fora mascate e estava com 31 anos ao ser assassinado naquela casa. O assassino fora um antigo inquilino. Só poderia ter sido o Sr. Bell. Mas onde a prova do fato, o cadáver da vítima? A solução seria procurá-lo na adega, onde estaria enterrado. As escavações, porém, não levaram a resultados definitivos, pois deram n'água, sem que se tivesse encontrado qualquer indício. Por essa razão foram suspensas.
 
 No verão de 1848, o próprio Sr. David Fox, auxiliado por alguns interessados, retomou o empreendimento. A uma profundidade de um metro e meio, encontraram uma tábua. Aprofundada a cova, encontraram o carvão, cal, cabelos e alguns fragmentos de ossos que foram reconhecidos por um médico como pertencentes a esqueleto humano; mais nada. As provas do crime eram precárias e insuficientes, razão talvez pela qual o Sr. Bell não foi denunciado.  Em 23 de Novembro de 1904, o periódico Boston Journalnoticiou a descoberta, na velha cabana dos Fox, do esqueleto de um homem com todas as bugigangas próprias de um mascate. Meninos de uma escola achavam-se brincando na adega da casa onde moravam os Fox, que estava então abandonada, pois tinha fama de ser mal-assombrada. Em meio aos escombros de uma parede − talvez falsa − que existira na adega, os garotos encontraram partes de um esqueleto humano. Junto ao esqueleto foi achada uma lata de uma espécie costumeira usada por mascates. Esta lata encontra-se agora em Lilydale, a sede central dos espíritas norte-americanos, para onde foi transportada a velha casa de Hydesville. Como o leitor pode ver, 56 anos depois dos fenômenos de Hydesville, em 22 de novembro de 1904, ficou comprovada a história de Charles Rosma, relatada à família de Kate e Margareth Fox, em 1848.
-Ao transferir residência para Rochester, a família de John Fox deparou com o primeiro óbice: o pastor da igreja metodista, a que pertenciam, intimou as meninas, sob pena de expulsão, a abjurarem tais práticas. Essa imposição foi repelida pelas irmãs Fox e, por isso, elas foram expulsas daquela comunidade religiosa. Em Rochester, as meninas tiveram de submeter-se a três investigações públicas, realizadas no Corinthian Hall, e sofreram nas mãos dos investigadores. No decurso das pesquisas, foram despidas e depois, ao se vestirem, tiveram os vestidos amarrados, apertados nos corpos, pondo-se elas sobre um piso isolante, afora outras precauções para se evitar a possibilidade de fraude. No final, as várias comissões que se formaram com esse objetivo declararam que se ouviram batidas distintas nas paredes, no assoalho e em outros objetos, estando as irmãs amarradas. E que suas perguntas, das quais algumas foram feitas mentalmente, tinham sido respondidas corretamente.  
- 
 
+Ao transferir residência para Rochester, a família de John Fox deparou com o primeiro óbice: o pastor da igreja metodista, a que pertenciam, intimou as meninas, sob pena de expulsão, a abjurarem tais práticas. Essa imposição foi repelida pelas irmãs Fox e, por isso, elas foram expulsas daquela comunidade religiosa. Em Rochester, as meninas tiveram de submeter-se a três investigações públicas, realizadas no Corinthian Hall, e sofreram nas mãos dos investigadores. No decurso das pesquisas, foram despidas e depois, ao se vestirem, tiveram os vestidos amarrados, apertados nos corpos, pondo-se elas sobre um piso isolante, afora outras precauções para se evitar a possibilidade de fraude. No final, as várias comissões que se formaram com esse objetivo declararam que se ouviram batidas distintas nas paredes, no assoalho e em outros objetos, estando as irmãs amarradas. E que suas perguntas, das quais algumas foram feitas mentalmente, tinham sido respondidas corretamente.  
 
 ## Referências
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/irmasfox.html)
-
-
-
 
