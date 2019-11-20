@@ -2,7 +2,10 @@
 title: Maria de Nazaré
 date: 2019-02-01 19:00:00
 topics: 
-
+- jesus
+- mary
+- evangelho
+- biblia
 ---
 
 Junto da cruz, o vulto agoniado de Maria produzia dolorosa e indelével impressão.

@@ -2,7 +2,10 @@
 title: Leopoldo Machado
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- brasil
+- bahia
+- rio-de-janeiro
 ---
 
 Nasceu no Arraial de Cepa Forte, hoje Jandaíra, Bahia, em 30 de setembro de 1891.

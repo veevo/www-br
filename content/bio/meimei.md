@@ -2,7 +2,9 @@
 title: Meimei ( Irma de Castro)
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritsmo
+- meimei
+- evangelizacao-infantil
 ---
 
 Seu nome de batismo, aqui na terra, foi Irma Castro. Nasceu a 22 de outubro de 1922, em Mateus Leme-MG. Aos 2 anos de idade, transferiu-se para Itaúna-MG com a família, composta pelo pai, mãe e quatro irmãos: Ruth, Carmen, Alaíde e Danilo. Os pais eram Adolfo Castro e Mariana Castro. Com 5 anos, ficou órfã de pai.
@@ -21,7 +23,7 @@ Logo depois, seu Espírito já esclarecido começou a manifestar-se através de 
 
 Seu nome Meimei (expressão chinesa, que significa "amor puro"), agora tão venerado como um Espírito de Luz, foi lhe dado em vida, carinhosamente, pelo esposo Arnaldo Rocha.
 
-## Referências
+## Fonte
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/meimei.html)
 
 
