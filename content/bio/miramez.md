@@ -2,73 +2,55 @@
 title: Fernando Mizamez de Olivideo (Miramez)
 date: 2019-02-01 19:00:00
 topics: 
-- spiritism
-- spain
-- brazil
+- espiritsmo
+- espanha
+- brasil
 ---
 
-Fernando Miramez de Olivídeo was born in Spain and, as a young man, deepened 
-in the history of the peoples and nations of the Earth showing great interest 
-in the discovery of the Americas, falling in love with the lands of Santa Cruz.
+Fernando Miramez de Olivídeo nasceu na Espanha e, ainda jovem, aprofundou-se na história dos povos e nações da Terra mostrando grande interesse na descoberta das Américas, apaixonando-se pelas terras de Santa Cruz.
 
-In 1649 Miramez descends on the coast of Brazil. Barefoot your boots and step 
-the ground, tears mares your eyes and fall into generous soil. At this moment 
-Earth and Spirit made an exchange of energies and values, whose beneficial 
-results would be observed through the ages.  
+Em 1649 desce Miramez no litoral do Brasil. Descalça as botas e pisa a terra, lágrimas marejam seus olhos e caem no solo generoso. Neste momento Terra e Espírito fizeram uma permuta de energias e valores, cujos resultados benéficos seriam constatados através dos tempos.  
+Em pouco tempo já falava dialetos indígenas e africanos, catequizando e aliviando dores físicas e espirituais dos irmãos humildes.
 
-In a short time, indigenous and African dialects have spoken, catechizing and 
-relieving physical and spiritual pain saches of humble brothers.
+iramez é o guia espiritual do médium João Nunes Maia e o orienta desde 1958, quando manifestou-se pela primeira vez durante uma reunião na União Espírita Mineira, em Belo Horizonte. Fernando Olivídeo era espanhol e, a serviço do rei da Espanha, pisou nas terras brasileiras para nunca mais sair. Doou todos os seus bens na sua terra natal e tornou-se protetor de índios e negros, sendo por eles chamado Pai Branco.
 
-iramez is the spiritual guide of medium João Nunes Maia and guides him since 1958, 
-when he first spoke during a meeting at the Spiritist Union of Minas Gerais, in 
-Belo Horizonte. 
+O nobre espanhol tinha grande interesse pelas histórias dos povos e nações da Terra. Procurava informações sobre as descobertas de Cristóvão Colombo e Pedro Álvares Cabral e, mesmo sem conhecê-las , já sentia afeto pela Terra de Santa Cruz. Rapaz inteligente e estudioso tinha grande carinho pelo povo humilde, pelos índios invadidos na sua cultura, pelos negros que sofriam sob os açoites.
 
-Fernando Olivídeo was Spanish and, in the service of the King of Spain, stepped on 
-Brazilian lands never to leave. He donated all his possessions in his homeland 
-and became protector of Indians and blacks, being called White Father.
+A amizade do rei, Filipe IV, facilitou a realização do antigo desejo de Miramez: conhecer as terras do Novo Mundo. O rei conhecia os princípios de integridade e a elevada moral de Fernando. Porém, achava que ele tinha algumas deficiências a corrigir: era avesso às guerras, repudiava a violência e defendia os direitos dos povos e, principalmente, dos indivíduos.
 
-The Spanish nobleman had great interest in the stories of the peoples and nations 
-of the Earth. He was looking for information on the findings of Christopher Columbus 
-and Pedro Álvares Cabral and, even without knowing them, he already felt affection 
-for the Land of Santa Cruz. Intelligent boy and scholar had great affection for the 
-humble people, for the Indians invaded in their culture, by the blacks who suffered 
-under the whips.
+Nomeado pelo rei para realizar uma ambiciosa missão de posse de terras e a conter o poderio português, Miramez percebe a oportunidade de conhecer e viver na Terra de Santa Cruz, e participar da sua preparação como Pátria do Evangelho.
 
-The king's friendship, Philip IV, facilitated the realization of Miramez's ancient desire: to know the lands of the New World. The king knew the principles of integrity and the high morale of Ferdinand. However, He thought he had some shortcomings to correct: he was averse to wars, repudiated violence and defended the rights of peoples and, especially, individuals.
+## O idioma do coração 
+Em 1649, Miramez desembarca como turista, no Maranhão. Em terras brasileiras, ele transmite ao soberano da Espanha somente os acontecimentos que poderiam ser benéficos ao Brasil, omitindo as notícias que poderiam prejudicar os povos que já residiam na terra.
 
-Appointed by the king to carry out an ambitious mission of land ownership and to contain Portuguese might, Miramez realizes the opportunity to know and live in the Land of Santa Cruz, and participate in his preparation as the Homeland of the Gospel.
+O desprendimento de Fernando era tão grande que, no início, mesmo sem saber o idioma, entendia os novos amigos pelos gestos e por intuição. Os nativos, por sua vez, viam nele um amigo que proporcionaria alívio aos sofrimentos e às perseguições pelas quais passavam.
 
-## The language of the heart 
-In 1649, Miramez landed as a tourist in Maranhão. In Brazilian lands, he transmits only the events that could be beneficial to Brazil to the sovereign of Spain, omitting the news that could harm the peoples who already lived on earth.
+> " Vai , vende todos os seus bens e segue-me "
 
-Fernando's detachment was so great that, at first, even without knowing the language, he understood new friends by gestures and intuition. The natives, in turn, saw in him a friend who would provide relief to the sufferings and persecutions they went through.
+Os índios e escravos já eram a sua família e a volta a Espanha não era seu desejo. 
+Meditando sobre o seu retorno ao país natal, ele sente uma voz suave, dentro da sua 
+consciência, que diz: "vai, vende todos os teus bens, distribuí-os entre os pobres 
+e terás um tesouro no céu; depois, vem e segue-me!" 
+Era a fala de Jesus citada na parábola do mancebo rico, presente no Evangelho. 
+( Mateus, XIX, 16-24, Lucas, XVII, 18-25 e marcos, X, 17-25).
 
-> " Go, sell all your goods and follow me "
+Surpreso, sentia que aquela voz era sua conhecida, mas, de onde? E a voz, interna, continuou: "Fernando, podes vender todas as tuas posses na Espanha e distribuir o dinheiro entre os necessitados de tua pátria! Os daqui, necessitando passar pelos processos renovadores, precisam mais da tua riqueza mental, do resultado de tuas mãos operosas, do tesouro armazenado em teu coração e da tua presença confortadora!
 
-The Indians and slaves were already their family and the return to Spain was not his wish. 
-Meditating on his return to his home country, he feels a soft voice, within his 
-conscience, which says, "go, sell all your goods, distribute them among the poor 
-and you will have a treasure in heaven; then come and follow me!" 
-It was the speech of Jesus quoted in the parable of the rich mancebo, present in the Gospel. 
-( Matthew, XIX, 16-24, Luke, XVII, 18-25 and mark, X, 17-25).
+Seguindo a sua consciência, o nobre espanhol envia procuração a amigos de confiança, na Espanha, autorizando-os a vender os seus bens e distribuir o resultado entre os carentes e sofredores da Península Ibérica. 
 
-Surprised, I felt that voice was known to you, but where? And his voice, internally, continued: "Fernando, you can sell all your possessions in Spain and distribute the money among the needy of your homeland! Those here, in need of going through the renewing processes, need your mental wealth more, the result of your working hands, the treasure stored in your heart and your comforting presence!
+## Índios e negros o chamavam Pai Branco 
+Desde então, sua vida se entrelaçou mais ainda à dos índios e negros da Terra de Santa Cruz. Todos o tinham como o Pai Branco, Filho do Sol ou Homem que veio da Luz.
 
-Following his conscience, the Spanish nobleman sends power of attorney to trusted friends in Spain, authorizing them to sell their assets and distribute the result among the needy and suffering of the Iberian Peninsula. 
+Catequizadores descobriram aquele homem culto e fascinante como pastor de dois rebanhos: trabalhando arduamente pela aproximação entre índios e negros e obtendo êxito na amizade entre as duas raças. Assim, Miramez passou a freqüentar o grupo de catequizadores, por perceber ali campo propício à prática dos seus ideais. Conseguiu, com seu trabalho e esforço conjunto, a promulgação da lei de proteção aos índios, em 1680.
 
-## Indians and blacks called him White Father 
-Since then, his life has intertwined even more with that of the Indians and blacks of the Land of Santa Cruz. Everyone had him as the White Father, Son of the Sun, or Man who came from the Light.
+Espírito de imenso amor, Fernando Miramez de Olivídeo renunciou a maiores patamares de luz a que tem direito, por merecimento, e permanece ligado à Terra amada, orientando o Centro Espírita Maria Nunes e outros trabalhos para o progresso da humanidade.
 
-Catequizadores discovered that cultured and fascinating man as a shepherd of two flocks: working hard for the rapprochement between Indians and blacks and succeeding in friendship between the two races. Thus, Miramez began to frequent the group of catequizadores, because he perceived there field conducive to the practice of his ideals. He succeeded, with his work and joint effort, the promulgation of the Indian protection law in 1680.
+Sua morte ocorreu num quadro de elevada suavidade. Os negros e os índios catequizados formavam extensa fila para beijar-lhe as mãos, que tanto os ajudaram a viver. Enquanto esteve lúcido, Miramez abençoava-os, um por um. Nos momentos derradeiros, Fernando Miramez de Olivídeo percebeu a presença da mãe extremosa, bem como de sublimada entidade que ele prefere não identificar, por julgar não merecer tamanha honra.
 
-Spirit of immense love, Fernando Miramez de Olivídeo resigned to higher levels of light to which he is entitled, for deserving, and remains connected to the beloved Earth, guiding the Spiritist Center Maria Nunes and other works for the progress of humanity.
+Com lágrimas nos olhos, Miramez desprendeu-se do vaso físico e, já fora dele, chorou de felicidade e agradecimento, por ter ingressado no Brasil pelas portas do amor e da caridade, que lhe foram abertas por Jesus.
 
-His death occurred in a picture of high softness. The blacks and the catequized Indians formed extensive lines to kiss their hands, which helped them so much to live. While lucid, Miramez blessed them one by one. In the final moments, Fernando Miramez de Olivídeo realized the presence of the extreme mother, as well as a sublimated entity that he prefers not to identify, because he deems not deserve such honor.
+Ao desprender-se do vaso físico, e já fora dele, Miramez chorou de felicidade e agradecimento por ter ingressado no Brasil pelas portas do amor e da caridade!
 
-With tears in his eyes, Miramez detached himself from the physical vessel and, outside him, wept with happiness and thanks, for entering Brazil through the doors of love and charity, which were opened to him by Jesus.
-
-As he detached himself from the physical vessel, and already outside it, Miramez cried with happiness and thanks for entering Brazil through the gates of love and charity!
-
-## Source
+## Fonte
 [Personangens do Espiritismo](https://personagensdoespiritismo.blogspot.com/2013/12/miramez.html)
 
