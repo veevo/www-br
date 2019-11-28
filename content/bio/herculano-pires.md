@@ -2,7 +2,8 @@
 title: José Herculano Pires
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- herculano-pires
 ---
 
 José Herculano Pires nasceu na cidade de Avaré, no estado de São Paulo em 25 de setembro de 1914 e desencarnou em 09 de março de 1979. Filho do farmacêutico José Pires Correia e da pianista Bonina Amaral Simonetti Pires, fez seus primeiros estudos em Avaré, Itaí e Cerqueira César.
