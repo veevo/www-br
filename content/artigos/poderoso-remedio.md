@@ -1,8 +1,13 @@
 ---
-title: Um poderoso remedio
-date: 2019-05-14T14:46:10+06:00
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+title: Um poderoso remédio
+date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
+topics: 
+- religiao
+- depressao
+- suicidio
+- alcoolismo
+- vicios
 ---
 
 > "A fé é um remédio poderoso."
@@ -86,9 +91,13 @@ o que, até hoje, eles chamaram prodígios e que, no entanto, não passa de um
 desenvolvimento das faculdades humanas.
 
  
-## Fonte
-[Momento Espirita](http://www.momento.com.br/pt/ler_texto.php?id=483)
-Revista Seleções do Reader's Digest, março/2000, pág. 69    
-O Evangelho segundo o Espiritismo, cap. XIX, item 12.  
+
+## Source
+Fonte:  
+Revista Seleções do Reader's Digest, março/2000, pág. 69  
+O Evangelho segundo o Espiritismo, cap. XIX, item 12.
+
+
+[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=483)
 
 
