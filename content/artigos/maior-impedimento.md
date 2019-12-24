@@ -9,6 +9,8 @@ topics:
 - gula
 - inveja
 - preguica
+- ociosidade
+- humildade
 ---
 
 Diz antiga narrativa, que um sacerdote sábio, desejando ensinar o caminho do

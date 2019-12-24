@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - egoismo
 - orgulho
+- humildade
 ---
 
  Você se considera uma pessoa egoísta, orgulhosa ou é alguém que sempre busca

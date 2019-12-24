@@ -3,11 +3,14 @@ title: Assemelhar-se às crianças
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
+- intolerancia
+- tolerancia
 - apego
 - materialismo
 - jesus
 - criancas
 - evangelho
+- amor
 ---
 
 Apresentaram a Jesus então umas criancinhas, a fim de que ele as tocasse. E

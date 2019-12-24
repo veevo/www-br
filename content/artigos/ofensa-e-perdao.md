@@ -10,6 +10,7 @@ topics:
 - revolta
 - vinganca
 - agressividade
+- ciume
 ---
 
 Ofensa e perdão

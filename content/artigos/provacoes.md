@@ -4,8 +4,10 @@ date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
 - provas
+- calunia
 - difamacao
 - injuria
+- resignacao
 ---
  
 
@@ -65,8 +67,6 @@ esperança em relação aos dias vindouros.
 Com resignação dinâmica, conseguiremos superar os dias mais graves, tendo
 sempre em mente que, dos braços da cruz em que nos encontramos atados,
 conseguiremos alçar mais rapidamente às elevadas esferas da libertação.
-
- 
 
 
 ## Source

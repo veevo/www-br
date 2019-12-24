@@ -3,12 +3,15 @@ title: Enfermidades
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
+- calunia
+- difamacao
 - enfermidades
 - odio
 - paz
+- doencas
+- familia
 ---
  
-
 Quando o assunto é doença, todos temos uma história para relatar. Não existe
 quem não a conheça, por si mesmo, ou através da experiência dos amigos,
 parentes, familiares, colegas.
@@ -74,5 +77,4 @@ Momentos de alegria, pelo Espírito Joanna de Angelis,
 psicografia de Divaldo Pereira Franco, ed. Leal.
 Em 23.12.2009.
 
-
-[Original Article (pt-BR)](
+[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=226)

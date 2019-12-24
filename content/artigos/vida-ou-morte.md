@@ -7,6 +7,9 @@ topics:
 - morte
 - raiva
 - odio
+- impaciencia
+- mal-humor
+- negligencia
 ---
 
 Todos os seres vivos nascemos, vivemos um determinado tempo. E morremos um dia.

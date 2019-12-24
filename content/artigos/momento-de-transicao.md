@@ -3,10 +3,15 @@ title: Momento de Transicao
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
+- calunia
+- difamacao
 - transicao-planetaria
 - animosidade
 - difamação
 - deslealdade
+- desonestidade
+- dignidade
+- livre-arbitrio
 ---
 
 A Espiritualidade Superior noticia que a Terra se encontra em fase de
@@ -88,10 +93,8 @@ Trata-se do livre-arbítrio a moldar o futuro, em todas as suas perspectivas.
 Pense nisso.
 
  
-
 ## Source
 Redação do Momento Espírita.
 Em 01.10.2010.
-
 
 [Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2764)
