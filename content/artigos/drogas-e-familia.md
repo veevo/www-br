@@ -7,6 +7,7 @@ topics:
 - drogas
 - cigarro
 - familia
+- violencia
 ---
  
 O uso de drogas é um problema de grandes dimensões em todo o mundo. Atinge

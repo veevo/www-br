@@ -6,6 +6,7 @@ topics:
 - impaciencia
 - paciencia
 - tolerancia
+- rebeldia
 ---
 
 Como anda nossa tolerância?

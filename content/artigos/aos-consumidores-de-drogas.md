@@ -4,6 +4,7 @@ date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
 - drogas
+- violencia
 ---
 
 Talvez você já tenha dito ou ouvido a infeliz afirmativa: Se eu uso drogas, o
@@ -96,7 +97,5 @@ Temos certeza de que você conseguirá.
 ## Source
 Redação do Momento Espírita.
 Em 5.7.2013.
-
-
 
 [Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=800)

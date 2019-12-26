@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - vinganca
 - amor
+- violencia
 ---
 
 Quando, na Antiguidade, alguém queria matar um urso, pendurava uma pesada tora

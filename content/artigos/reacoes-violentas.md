@@ -78,6 +78,7 @@ abençoada luz em todas as circunstâncias.
 Redação do Momento Espírita,com base no cap. 6, do livro Perfis
 da vida, pelo Espírito Guaracy Paraná Vieira, psicografia
 de Divaldo Pereira Franco, ed. Leal.
+
 Em 24.03.2012.
 
 [Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3382)

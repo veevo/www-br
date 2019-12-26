@@ -6,6 +6,8 @@ topics:
 - impaciencia
 - paciencia
 - amor
+- vaidade
+- humildade
 ---
 
 

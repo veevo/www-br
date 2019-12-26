@@ -3,6 +3,7 @@ title: A verdadeira coragem
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
+- violencia
 - vinganca
 - coragem
 - raiva
@@ -82,6 +83,5 @@ Iluminação interior, pelo Espírito Joanna de Ângelis, psicografia
 de Divaldo Pereira Franco, ed. LEAL.
 
 Em 18.9.2019.
-
 
 [Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2298)

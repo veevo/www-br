@@ -95,8 +95,4 @@ melhor.
 Redação do Momento Espírita.
 Em 15.4.2019.
 
-
-
 [Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5716)
-
-

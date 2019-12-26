@@ -7,6 +7,7 @@ topics:
 - mateus
 - evangelho
 - jesus
+- mateus
 ---
 
 O Apóstolo Mateus, no capítulo vinte e dois de seu Evangelho, relata o momento

@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - inveja
 - maledicencia
+- raiva
 ---
 
 Conta-se que um vaga-lume estava no afã de acender seu facho e apagá-lo.
@@ -90,6 +91,7 @@ a luz e para o amor.
 ## Source
 Redação do Momento Espírita, com base
 em fábula, de autoria desconhecida.
+
 Em 5.2.2016.
 
 [Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4698)

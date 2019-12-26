@@ -103,10 +103,8 @@ Redação do Momento Espírita, com base no conto
 A toalha mágica, do livro ...E foram felizes para sempre –
 contos de fadas para adultos, de Allan B. Chinen,
 ed. Cultrix.
+
 Em 2.6.2015.
-
- 
-
 
 [Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4482)
 

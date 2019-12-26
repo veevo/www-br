@@ -10,6 +10,7 @@ topics:
 - paz
 - doencas
 - familia
+- raiva
 ---
  
 Quando o assunto é doença, todos temos uma história para relatar. Não existe
@@ -75,6 +76,7 @@ semelhantes ao Pai que nos criou, perseguindo a perfeição.
 Redação do Momento Espírita, com base no cap. 17 do livro
 Momentos de alegria, pelo Espírito Joanna de Angelis,
 psicografia de Divaldo Pereira Franco, ed. Leal.
+
 Em 23.12.2009.
 
 [Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=226)

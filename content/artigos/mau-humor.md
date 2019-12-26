@@ -8,6 +8,7 @@ topics:
 - mau-humor
 - doenca
 - cooperacao
+- raiva
 ---
 
 
@@ -90,6 +91,5 @@ do livro Calma, pelo Espírito Emmanuel, psicografia de
 Francisco Cândido Xavier, ed. Geem.
 
 Em 16.02.2009.
-
 
 [Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2115)

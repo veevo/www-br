@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - orgulho
 - humildade
+- raiva
 ---
 
 Os afazeres nas manhãs de sábado, naquela família, eram rotineiros, quase

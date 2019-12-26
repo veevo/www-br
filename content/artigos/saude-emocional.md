@@ -8,6 +8,7 @@ topics:
 - compaixao
 - amor
 - saude
+- raiva
 ---
  
 
@@ -79,6 +80,5 @@ coração.
 Redação do Momento Espírita.
 
 Em 17.07.2010.
-
 
 [Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2671)

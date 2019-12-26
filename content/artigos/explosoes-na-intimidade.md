@@ -6,6 +6,8 @@ topics:
 - luxuria
 - depressao
 - desespero
+- rebeldia
+- violencia
 ---
 
 Na agitação dos dias atuais, as criaturas se assoberbam e angustiam,

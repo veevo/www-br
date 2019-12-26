@@ -5,6 +5,9 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - ciume
 - natal
+- vaidade
+- humildade
+- lucas
 ---
 
 

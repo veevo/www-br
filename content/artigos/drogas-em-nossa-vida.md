@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - inveja
 - drogas
+- raiva
 ---
 
 Drogas são substâncias entorpecentes, excitantes, alucinógenas utilizadas com a
@@ -98,8 +99,7 @@ e atos.
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 12 e no
 livro Momento Espírita, v. 6, ed. FEP.
+
 Em 14.1.2014.
-
-
 
 [Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1465)

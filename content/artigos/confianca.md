@@ -7,6 +7,7 @@ topics:
 - gula
 - egoismo
 - preguica
+- violencia
 ---
 
 A confiança nas próprias forças enche o homem de coragem e disposição para

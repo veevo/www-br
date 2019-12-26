@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - impaciencia
 - paciencia
+- rebeldia
 ---
 
 Nada mais comum, nas atividades terrenas, do que o hábito enraizado das

@@ -10,6 +10,7 @@ topics:
 - crueldade
 - indiferenca
 - egoismo
+- rebeldia
 ---
 
 

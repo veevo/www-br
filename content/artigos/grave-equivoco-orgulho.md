@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - orgulho
 - humildade
+- rebeldia
 ---
 
 Raul era oftalmologista. Seus anos de clínica e cirurgia lhe haviam granjeado

@@ -7,6 +7,7 @@ topics:
 - paciencia
 - estresse
 - irritacao
+- violencia
 ---
 
 O que se faz naquele dia em que tudo parece dar errado?

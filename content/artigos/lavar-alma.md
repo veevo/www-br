@@ -6,6 +6,7 @@ topics:
 - orgulho
 - humildade
 - alma
+- raiva
 ---
 
 Naquela manhã, a caminho do trabalho, Marcela ouviu uma conversa no ônibus: Eu
@@ -90,6 +91,5 @@ itens 7 e 8  de O Evangelho segundo o Espiritismo, de
 Allan Kardec, ed. FEB.
 
 Em 5.2.2018.
-
 
 [Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5337)

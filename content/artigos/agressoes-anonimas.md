@@ -6,6 +6,7 @@ topics:
 - redes-sociais
 - tecnologia
 - agressividade
+- raiva
 ---
 
 Expressar nossos pensamentos e sentimentos é um direito. No entanto, se ao
@@ -76,21 +77,11 @@ lembremo-nos da orientação de Emmanuel:
 na direção dos outros, com o equilíbrio e a tolerância com que desejamos que
 elas venham até nós.
 
-                  Redação do Momento Espírita, com citação do cap. 24, do Livro
-                           da esperança, pelo Espírito Emmanuel, psicografia de
-                                             Francisco Cândido Xavier, ed. CEC.
-                                                                   Em 8.6.2016.
-
- 
-
-Escute o áudio deste texto
-
-voltar voltar imprimir imprimir este texto indique indique este texto
-voltar ao topo topo
-© Copyright - Momento Espírita - 2019 - Todos os direitos reservados - No ar
-desde 28/03/1998
-
-
 ## Source
+Redação do Momento Espírita, com citação do cap. 24, do Livro
+da esperança, pelo Espírito Emmanuel, psicografia de
+Francisco Cândido Xavier, ed. CEC.
+
+Em 8.6.2016.
 
 [Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4809)
