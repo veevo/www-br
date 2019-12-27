@@ -12,6 +12,10 @@ topics:
 - saude
 - materialismo
 - disciplina
+- disciplina
+- amor
+- paciencia
+- serenidade
 ---
 
 Aspiração humana, a beleza física atinge em cheio nosso senso estético. Enche

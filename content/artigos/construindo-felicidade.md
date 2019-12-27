@@ -7,6 +7,13 @@ topics:
 - tolerancia
 - humildade
 - compreensao
+- aprendiz
+- compreensao
+- esforco
+- felicidade
+- paciencia
+- tolerancia
+- tranquilidade
 ---
 
 O desânimo lhe pesava aos ombros, como nunca antes.

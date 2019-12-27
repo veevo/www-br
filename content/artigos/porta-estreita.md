@@ -11,6 +11,15 @@ topics:
 - deus
 - dinheiro
 - sexo
+- aprendiz
+- compaixao
+- esforco
+- bondade
+- felicidade
+- amor
+- lealdade
+- pureza
+- sabedoria
 ---
 
 Em certo trecho do Evangelho, Jesus afirma ser estreita a porta que conduz à

@@ -8,6 +8,11 @@ topics:
 - depressao
 - tristeza
 - acomodacao
+- confianca
+- esforco
+- justica
+- generosidade
+- tranquilidade
 ---
 
 

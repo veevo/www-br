@@ -4,6 +4,9 @@ date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
 - drogas
+- coragem
+- felicidade
+- amor
 ---
 
 Uma das graves problemáticas da humanidade é a utilização de drogas.

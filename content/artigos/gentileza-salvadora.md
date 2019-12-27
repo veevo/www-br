@@ -6,6 +6,15 @@ topics:
 - negligencia
 - gentileza
 - violencia
+- afabilidade
+- benevolencia
+- caridade
+- compaixao
+- coragem
+- felicidade
+- auxilio
+- amor
+- sinceridade
 ---
 
 

@@ -10,6 +10,8 @@ topics:
 - paciencia
 - humildade
 - brandura
+- disciplina
+- sabedoria
 ---
 
 Na Epístola aos Efésios, capítulo 5, versículos 14 a 17, Paulo de Tarso

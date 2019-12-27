@@ -8,6 +8,9 @@ topics:
 - consumismo
 - materialismo
 - criancas
+- felicidade
+- amor
+- responsabilidade
 ---
 
 Desde pequenos, um hábito se instala em nós: resolver problemas comprando

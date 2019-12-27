@@ -7,6 +7,13 @@ topics:
 - tolerancia
 - emocoes
 - magoa
+- aprendiz
+- compreensao
+- esforco
+- perdao
+- amor
+- paciencia
+- tolerancia
 ---
 
 

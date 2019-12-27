@@ -7,6 +7,12 @@ topics:
 - raiva
 - odio
 - agressividade
+- disciplina
+- justica
+- humildade
+- amor
+- paciencia
+- tolerancia
 ---
 
 Está se tornando comum as pessoas reagirem com violência ao mal que lhes

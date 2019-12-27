@@ -8,6 +8,13 @@ topics:
 - egoismo
 - vaidade
 - humildade
+- compaixao
+- compreensao
+- disciplina
+- esforco
+- lealdade
+- renuncia
+- sabedoria
 ---
 
 

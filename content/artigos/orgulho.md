@@ -8,6 +8,12 @@ topics:
 - arrogancia
 - amor
 - brandura
+- altruismo
+- coragem
+- perdao
+- felicidade
+- amor
+- tolerancia
 ---
 
 Uma das maiores dificuldades com que se debate a Humanidade é o orgulho.

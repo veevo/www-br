@@ -8,6 +8,11 @@ topics:
 - desespero
 - rebeldia
 - violencia
+- compreensao
+- etica
+- amor
+- respeito
+- tolerancia
 ---
 
 Na agitação dos dias atuais, as criaturas se assoberbam e angustiam,

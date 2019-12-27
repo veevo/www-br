@@ -7,6 +7,9 @@ topics:
 - difamacao
 - trabalho
 - traicao
+- companheirismo
+- gratidao
+- respeito
 ---
 
 O dia apenas amanhecera e Jorge já se achava a meio caminho da empresa em que

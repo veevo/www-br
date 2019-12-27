@@ -10,6 +10,9 @@ topics:
 - infelicidade
 - jesus
 - renuncia
+- esforco
+- felicidade
+- respeito
 ---
 
 Ele era um jovem rapaz. Sua casa era luxuosa e seus pertences valiosos.

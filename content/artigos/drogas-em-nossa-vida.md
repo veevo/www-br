@@ -6,6 +6,8 @@ topics:
 - inveja
 - drogas
 - raiva
+- renuncia
+- vigilancia
 ---
 
 Drogas são substâncias entorpecentes, excitantes, alucinógenas utilizadas com a

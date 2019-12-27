@@ -7,6 +7,15 @@ topics:
 - orgulho
 - humildade
 - perdao
+- caridade
+- compaixao
+- coragem
+- justica
+- perdao
+- gratidao
+- amor
+- mansidao
+- paciencia
 ---
 
 Pai nosso, que estás no céu, na terra, no fogo, na água e no ar. Pai nosso,

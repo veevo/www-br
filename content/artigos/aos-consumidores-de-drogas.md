@@ -5,6 +5,9 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - drogas
 - violencia
+- justica
+- respeito
+- sinceridade
 ---
 
 Talvez você já tenha dito ou ouvido a infeliz afirmativa: Se eu uso drogas, o

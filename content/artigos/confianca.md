@@ -8,6 +8,16 @@ topics:
 - egoismo
 - preguica
 - violencia
+- aprendiz
+- compaixao
+- confianca
+- coragem
+- disciplina
+- esforco
+- etica
+- amor
+- responsabilidade
+- sabedoria
 ---
 
 A confiança nas próprias forças enche o homem de coragem e disposição para

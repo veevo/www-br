@@ -7,6 +7,12 @@ topics:
 - spiritism
 - divine-laws
 - moral-laws
+- caridade
+- etica
+- justica
+- fielidade
+- felicidade
+- amor
 ---
 
 A palavra lei expressa uma regra ou um conjunto de regras, criadas com o objetivo de definir e regulamentar diversas situações entre os homens.

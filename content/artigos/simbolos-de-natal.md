@@ -4,6 +4,8 @@ date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
 - natal
+- amor
+- respeito
 ---
 
 O Natal, que comemoramos a cada ano, apresenta alguns aspectos pouco

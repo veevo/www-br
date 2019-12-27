@@ -7,6 +7,8 @@ topics:
 - consumismo
 - materialismo
 - competitividade
+- serenidade
+- tranquilidade
 ---
 
 Uma vida simples, com prazeres singelos. Parece atraente? Para alguns, a poesia

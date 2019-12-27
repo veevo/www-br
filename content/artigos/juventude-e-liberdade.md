@@ -8,6 +8,8 @@ topics:
 - liberdade
 - juventude
 - drogas
+- amor
+- responsabilidade
 --- 
 
 Cresce o número de adolescentes grávidas...

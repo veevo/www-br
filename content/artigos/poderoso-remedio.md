@@ -8,6 +8,9 @@ topics:
 - suicidio
 - alcoolismo
 - vicios
+- confianca
+- coragem
+- resignacao
 ---
 
 > "A fé é um remédio poderoso."

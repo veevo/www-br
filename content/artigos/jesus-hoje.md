@@ -5,6 +5,10 @@ date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
 - jesus
+- coragem
+- justica
+- felicidade
+- humildade
 ---
 
 Alguns conseguem vê-lO apenas como a figura histórica, quase mítica, a surgir na Palestina, em meio à subjugação que Roma impunha.

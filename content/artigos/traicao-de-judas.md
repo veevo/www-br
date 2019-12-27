@@ -7,6 +7,9 @@ topics:
 - judas
 - jesus
 - compaixao
+- compaixao
+- justica
+- amor
 ---
 
 Um ouvinte nos escreveu perguntando se Judas, ao nascer, trouxe a missão de

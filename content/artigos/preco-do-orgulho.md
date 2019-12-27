@@ -6,6 +6,8 @@ topics:
 - orgulho
 - humildade
 - raiva
+- esforco
+- amor
 ---
 
 Os afazeres nas manhãs de sábado, naquela família, eram rotineiros, quase

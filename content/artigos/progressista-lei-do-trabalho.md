@@ -6,6 +6,9 @@ topics:
 - ociosidade
 - leis-divinas
 - trabalho
+- calma
+- dignidade
+- esforco
 ---
 
         O trabalho é uma lei para todas as humanidades planetárias.

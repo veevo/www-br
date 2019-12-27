@@ -6,6 +6,8 @@ topics:
 - orgulho
 - humildade
 - rebeldia
+- renuncia
+- sabedoria
 ---
 
 Raul era oftalmologista. Seus anos de clínica e cirurgia lhe haviam granjeado

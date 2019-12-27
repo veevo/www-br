@@ -14,6 +14,10 @@ topics:
 - amizade
 - solidariedade
 - bondade
+- coragem
+- esforco
+- bondade
+- amor
 ---
 
 Há um antigo conto popular japonês que narra a história de uma moça tiranizada

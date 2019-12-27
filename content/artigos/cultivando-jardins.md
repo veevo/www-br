@@ -6,6 +6,12 @@ topics:
 - orgulho
 - vaidade
 - humildade
+- justica
+- perdao
+- bondade
+- gratidao
+- amor
+- responsabilidade
 ---
 
 Todos os dias, antes das seis da manhã, Francisco Toda se encontra na lida

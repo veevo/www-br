@@ -6,6 +6,10 @@ topics:
 - vinganca
 - jesus
 - amor
+- felicidade
+- amor
+- serenidade
+- sabedoria
 ---
 
 Inimigo. A palavra traz uma carga negativa impressionante! O inimigo é

@@ -6,6 +6,9 @@ topics:
 - egoismo
 - orgulho
 - humildade
+- caridade
+- felicidade
+- responsabilidade
 ---
 
  Você se considera uma pessoa egoísta, orgulhosa ou é alguém que sempre busca

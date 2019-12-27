@@ -9,6 +9,9 @@ topics:
 - religiao
 - dalai-lama
 - gandhi
+- esforco
+- amor
+- tolerancia
 ---
 
 

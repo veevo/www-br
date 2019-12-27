@@ -10,6 +10,12 @@ topics:
 - lar
 - adolescencia
 - educacao
+- aprendiz
+- esforco
+- etica
+- amor
+- respeito
+- tolerancia
 ---
 
 

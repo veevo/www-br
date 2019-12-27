@@ -6,6 +6,13 @@ topics:
 - apego
 - morte
 - tristeza
+- aprendiz
+- etica
+- bondade
+- amor
+- paciencia
+- solidariedade
+- tolerancia
 ---
 
 Morrer. Desse destino, nenhum ser humano escapará. E, no entanto, como tememos

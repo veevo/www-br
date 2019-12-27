@@ -8,6 +8,13 @@ topics:
 - amor
 - vaidade
 - humildade
+- caridade
+- disciplina
+- esforco
+- perdao
+- amor
+- mansidao
+- tranquilidade
 ---
 
 

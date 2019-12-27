@@ -6,6 +6,8 @@ topics:
 - paciencia
 - impaciencia
 - serenidade
+- serenidade
+- respeito
 ---
 
 

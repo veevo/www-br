@@ -9,6 +9,11 @@ topics:
 - violencia
 - divaldo-franco
 - agressividade
+- calma
+- companheirismo
+- confianca
+- perdao
+- tranquilidade
 ---
 
 Defesa pessoal

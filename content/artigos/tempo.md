@@ -10,6 +10,10 @@ topics:
 - sabedoria
 - amor
 - tempo
+- calma
+- amor
+- paciencia
+- sabedoria
 --- 
 
 Um autor desconhecido escreveu certa vez que a alegria, a tristeza, a vaidade,

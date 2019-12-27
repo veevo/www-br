@@ -9,6 +9,10 @@ topics:
 - doenca
 - cooperacao
 - raiva
+- calma
+- paciencia
+- serenidade
+- tolerancia
 ---
 
 

@@ -7,6 +7,10 @@ topics:
 - humildade
 - perdao
 - auto-conhecimento
+- confianca
+- dignidade
+- discernimento
+- responsabilidade
 ---
 
 A vaidade é uma brecha moral que infelicita bastante a humanidade.

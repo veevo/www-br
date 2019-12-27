@@ -7,6 +7,17 @@ topics:
 - violencia
 - familia
 - amor
+- aprendiz
+- companheirismo
+- coragem
+- fielidade
+- perdao
+- felicidade
+- amor
+- resignacao
+- respeito
+- responsabilidade
+- sinceridade
 ---
 
 Quando eu cheguei a este mundo, não sabia ao certo o que estava fazendo aqui,

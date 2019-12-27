@@ -6,6 +6,9 @@ topics:
 - vinganca
 - justica
 - jesus
+- coragem
+- justica
+- humildade
 ---
 
 "Se alguém vos bater na face direita, apresentai-lhe também a outra.”–Jesus.

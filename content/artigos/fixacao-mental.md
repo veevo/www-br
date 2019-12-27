@@ -7,6 +7,10 @@ topics:
 - vinganca
 - jesus
 - reforma-intima
+- esforco
+- paciencia
+- perseveranca
+- vigilancia
 ---
 
 

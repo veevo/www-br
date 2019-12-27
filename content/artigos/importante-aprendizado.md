@@ -4,6 +4,8 @@ date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
 - simplicidade
+- aprendiz
+- solidariedade
 --- 
 
 A Terra é um imenso planeta, lar de bilhões de seres que aqui têm a

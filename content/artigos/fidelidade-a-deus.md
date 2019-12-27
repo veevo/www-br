@@ -7,6 +7,13 @@ topics:
 - ganancia
 - avareza
 - deus
+- compaixao
+- dignidade
+- justica
+- fielidade
+- amor
+- lealdade
+- pureza
 ---
 
 

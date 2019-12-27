@@ -9,6 +9,14 @@ topics:
 - amor
 - saude
 - raiva
+- compaixao
+- compreensao
+- esforco
+- perdao
+- gratidao
+- felicidade
+- amor
+- tranquilidade
 ---
  
 

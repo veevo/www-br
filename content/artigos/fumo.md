@@ -7,6 +7,7 @@ topics:
 - drogas
 - cigarro
 - suicidio
+- tolerancia
 ---
 
 As pesquisas vêm alertando, de algum tempo, acerca do número crescente de

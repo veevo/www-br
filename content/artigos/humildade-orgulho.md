@@ -6,6 +6,7 @@ topics:
 - orgulho
 - vaidade
 - humildade
+- sabedoria
 ---
  
 

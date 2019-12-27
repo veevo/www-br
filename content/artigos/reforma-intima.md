@@ -8,6 +8,8 @@ topics:
 - ciume
 - egoismo
 - reforma-intima
+- esforco
+- respeito
 ---
  
 

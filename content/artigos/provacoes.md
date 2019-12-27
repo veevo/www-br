@@ -8,6 +8,13 @@ topics:
 - difamacao
 - injuria
 - resignacao
+- coragem
+- esforco
+- justica
+- felicidade
+- amor
+- resignacao
+- sensibilidade
 ---
  
 

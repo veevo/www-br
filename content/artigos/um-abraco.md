@@ -7,6 +7,8 @@ topics:
 - humildade
 - paz
 - amor
+- perdao
+- amor
 ---
 
 O que você faz quando está com dor de cabeça, ou quando está chateado?

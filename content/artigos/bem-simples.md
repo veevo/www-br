@@ -9,6 +9,12 @@ topics:
 - intimidade
 - trabalho
 - rebeldia
+- caridade
+- compreensao
+- confianca
+- esforco
+- bondade
+- amor
 ---
 
 Você já sorriu hoje?

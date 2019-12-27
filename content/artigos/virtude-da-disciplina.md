@@ -8,6 +8,9 @@ topics:
 - preguica
 - sensualismo
 - vicios
+- aprendiz
+- dignidade
+- esforco
 ---
  
 

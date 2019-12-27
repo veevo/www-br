@@ -6,6 +6,9 @@ topics:
 - ociosidade
 - leis-divinas
 - universo
+- aprendiz
+- amor
+- sabedoria
 ---
 
 Nada fica onde está para sempre. Tudo se renova. Tudo se modifica, mudam suas

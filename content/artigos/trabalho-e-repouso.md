@@ -7,6 +7,10 @@ topics:
 - spiritism
 - divine-laws
 - moral-laws
+- aprendiz
+- disciplina
+- etica
+- sabedoria
 ---
 
 

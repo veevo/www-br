@@ -7,6 +7,10 @@ topics:
 - humildade
 - deus
 - cancer
+- caridade
+- coragem
+- esforco
+- amor
 ---
 
 De um modo geral, a expressão servo de Deus nos remete a religiosos, encerrados

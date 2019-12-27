@@ -5,6 +5,11 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - impaciencia
 - paciencia
+- aprendiz
+- calma
+- compreensao
+- humildade
+- sensibilidade
 ---
 
 

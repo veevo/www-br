@@ -6,6 +6,9 @@ topics:
 - orgulho
 - humildade
 - evangelho
+- caridade
+- felicidade
+- respeito
 ---
 
 Conta-se que Frei Bartolomeu dos Mártires viveu para servir. Era português, da

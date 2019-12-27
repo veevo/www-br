@@ -7,6 +7,11 @@ topics:
 - humildade
 - ignorancia
 - estupidez
+- caridade
+- perdao
+- felicidade
+- amor
+- solidariedade
 ---
  
 

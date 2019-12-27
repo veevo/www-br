@@ -10,6 +10,12 @@ topics:
 - violencia
 - criancas
 - adolescentes
+- etica
+- fielidade
+- amor
+- respeito
+- responsabilidade
+- seriedade
 ---
 
 Qual sua opinião sobre os programas da nossa televisão? A pergunta dirigida a

@@ -9,6 +9,10 @@ topics:
 - lucas
 - mateus
 - violencia
+- caridade
+- justica
+- amor
+- respeito
 ---
 
 A lei de gravitação universal é uma das leis que regem o mundo físico. Isso

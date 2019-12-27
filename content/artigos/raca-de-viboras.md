@@ -5,6 +5,9 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - sensualismo
 - sexo
+- coragem
+- dignidade
+- responsabilidade
 ---
 
 Existem pessoas que se confundem ao meio em que vivem a tal ponto que perdem a

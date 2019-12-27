@@ -8,6 +8,10 @@ topics:
 - respeito
 - liberdade
 - perdao
+- companheirismo
+- perdao
+- amor
+- respeito
 ---
 
 O Terceiro Milênio, que nos chegou com tantas cores de alegria, avança. Os

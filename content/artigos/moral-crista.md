@@ -6,6 +6,12 @@ topics:
 - avareza
 - moral
 - vicios
+- esforco
+- justica
+- felicidade
+- pureza
+- responsabilidade
+- sabedoria
 ---
 
 Quando se fala em moral cristã, é possível que alguém alegue ser ela tão velha

@@ -6,6 +6,10 @@ topics:
 - vinganca
 - jesus
 - trabalho
+- compreensao
+- esforco
+- pureza
+- renuncia
 ---
 
 Em suas pregações, Jesus utilizou largamente o recurso das parábolas.

@@ -7,6 +7,11 @@ topics:
 - desconfianca
 - inseguranca
 - infelicidade
+- confianca
+- desinteresse
+- felicidade
+- amor
+- respeito
 ---
 
 A vida de Ana se tornara muito ruim, desde o momento em que começara a

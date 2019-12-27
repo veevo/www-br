@@ -5,6 +5,9 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - internet
 - depressao
+- esforco
+- amor
+- paciencia
 ---
 
 Por vezes você não entende como as pessoas ainda conseguem sorrir num mundo

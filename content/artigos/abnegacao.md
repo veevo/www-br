@@ -10,6 +10,13 @@ topics:
 - bondade
 - razao
 - responsabilidade
+- determinacao
+- disciplina
+- desinteresse
+- esforco
+- bondade
+- responsabilidade
+- sensibilidade
 ---
 
 

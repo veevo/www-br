@@ -8,6 +8,7 @@ topics:
 - evangelho
 - jesus
 - mateus
+- esforco
 ---
 
 O Apóstolo Mateus, no capítulo vinte e dois de seu Evangelho, relata o momento

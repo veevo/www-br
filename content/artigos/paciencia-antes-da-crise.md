@@ -6,6 +6,12 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - paciencia
 - insultos
+- calma
+- justica
+- perdao
+- amor
+- serenidade
+- respeito
 ---
 
 Paciência antes da crise

@@ -7,6 +7,9 @@ topics:
 - paciencia
 - gritos
 - brigas
+- caridade
+- amor
+- respeito
 ---
 
 Conta-se que nas Ilhas Salomão, no Pacífico Sul, os nativos descobriram um

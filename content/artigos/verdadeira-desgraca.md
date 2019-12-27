@@ -9,6 +9,10 @@ topics:
 - infelicidade
 - crianca
 - desgraca
+- coragem
+- dignidade
+- disciplina
+- felicidade
 ---
 
 Toda gente fala da desgraça, toda gente já a sentiu e julga

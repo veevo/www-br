@@ -7,6 +7,10 @@ topics:
 - paciencia
 - dor
 - benfeitor
+- aprendiz
+- felicidade
+- amor
+- perseveranca
 ---
 
 

@@ -5,6 +5,10 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - orgulho
 - humildade
+- confianca
+- coragem
+- etica
+- sabedoria
 ---
  
 

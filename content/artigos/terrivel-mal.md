@@ -12,6 +12,8 @@ topics:
 - saude
 - familia
 - adolescentes
+- coragem
+- respeito
 ---
  
 Desde que a bebida alcoólica foi descoberta, o beber passou a ser um ato

@@ -3,6 +3,10 @@ title: Estatura Espiritual
 date: 2019-05-14T14:46:10+06:00
 description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 image: "images/masonary-post/post-2.jpg"
+- esforco
+- justica
+- felicidade
+- respeito
 ---
 
 Quando alguém nos pergunta sobre a nossa estatura, logo informamos quanto temos

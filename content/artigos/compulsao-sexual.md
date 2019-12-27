@@ -8,6 +8,8 @@ topics:
 - sensualism
 - sex
 - vices
+- companheirismo
+- responsabilidade
 ---
 
 Certamente, na quase totalidade dos distúrbios na área da sexualidade, a

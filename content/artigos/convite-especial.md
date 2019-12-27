@@ -7,6 +7,11 @@ topics:
 - sexo
 - pornografia
 - trabalho
+- discernimento
+- amor
+- renuncia
+- respeito
+- responsabilidade
 ---
 
 Em famosa passagem do Evangelho, Jesus fez um convite muito especial.

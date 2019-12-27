@@ -8,6 +8,7 @@ topics:
 - cigarro
 - familia
 - adolescentes
+- vigilancia
 ---
 
 Ainda ontem aquela mãe brincava com as duas filhas. Mas isso foi ontem.

@@ -7,6 +7,12 @@ topics:
 - pureza
 - bondade
 - rebeldia
+- disciplina
+- esforco
+- bondade
+- paciencia
+- pureza
+- sensibilidade
 ---
 
 A humanidade é essencialmente díspar em suas características.

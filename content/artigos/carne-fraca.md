@@ -9,6 +9,9 @@ topics:
 - corrupcao
 - sensualidade
 - raiva
+- esforco
+- responsabilidade
+- sensibilidade
 ---
 
 

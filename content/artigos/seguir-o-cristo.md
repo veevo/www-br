@@ -8,6 +8,9 @@ topics:
 - preguica
 - paulo-de-tarso
 - jesus
+- esforco
+- amor
+- responsabilidade
 ---
 
 Em todos os recantos onde Jesus deixou o sinal de sua passagem, houve sempre

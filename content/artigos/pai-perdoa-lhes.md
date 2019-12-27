@@ -8,6 +8,9 @@ topics:
 - jesus
 - perdao
 - amor
+- confianca
+- perdao
+- amor
 ---
 
 Quando ouvimos falar das derradeiras palavras proferidas por Jesus, no topo da

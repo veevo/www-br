@@ -11,6 +11,10 @@ topics:
 - doenca
 - desanimo
 - paz
+- compreensao
+- indulgencia
+- respeito
+- sabedoria
 ---
 
 Talvez hoje... tenhamos despertado pela manhã com o coração oprimido, com uma

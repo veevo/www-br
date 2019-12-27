@@ -8,6 +8,7 @@ topics:
 - responsabilidade
 - desanimo
 - violencia
+- responsabilidade
 ---
 
 Embora o desânimo que toma conta de alguns corações, sempre haverá razão para

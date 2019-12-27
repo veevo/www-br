@@ -7,6 +7,8 @@ topics:
 - sexo
 - pornografia
 - trabalho
+- aprendiz
+- dignidade
 ---
  
 

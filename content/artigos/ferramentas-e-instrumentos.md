@@ -6,6 +6,10 @@ topics:
 - internet
 - intolerancia
 - tolerancia
+- companheirismo
+- esforco
+- amor
+- tolerancia
 ---
 
 Desde eras primitivas, os seres humanos aprendemos a desenvolver ferramentas e

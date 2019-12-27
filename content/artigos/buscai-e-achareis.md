@@ -5,6 +5,10 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - preguica
 - comodismo
+- dignidade
+- esforco
+- respeito
+- responsabilidade
 ---
 
 Há uma passagem no Evangelho na qual Jesus afirma: Buscai e achareis.

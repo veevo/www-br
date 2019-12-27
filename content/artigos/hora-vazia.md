@@ -6,6 +6,9 @@ topics:
 - ociosidade
 - vaidade
 - humildade
+- disciplina
+- esforco
+- felicidade
 ---
 
 Sob pretexto algum se permita a “hora vazia”.

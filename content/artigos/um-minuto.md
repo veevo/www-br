@@ -6,6 +6,10 @@ topics:
 - violencia
 - impaciencia
 - paciencia
+- caridade
+- perdao
+- felicidade
+- amor
 ---
 
 Por um minuto, feche os olhos e pense no que lhe aprouver...

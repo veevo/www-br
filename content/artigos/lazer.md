@@ -5,6 +5,11 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - ociosidade
 - lazer
+- calma
+- dignidade
+- disciplina
+- responsabilidade
+- tranquilidade
 ---
 
 Comenta-se, excessivamente, quanto à necessidade do lazer, como medida de

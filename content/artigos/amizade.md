@@ -5,6 +5,10 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - negligencia
 - amizade
+- afabilidade
+- caridade
+- companheirismo
+- pureza
 ---
 
 

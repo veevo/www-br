@@ -8,6 +8,10 @@ topics:
 - tolerancia
 - poder
 - afeto
+- aprendiz
+- confianca
+- tolerancia
+- sabedoria
 --- 
 
 A falta de tato para resolver conflitos e tratar de assuntos com pessoas que

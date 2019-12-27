@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - internet
 - criancas
+- respeito
 ---
 
 Na atualidade, vivemos um tanto distantes uns dos outros. Pode soar paradoxal,

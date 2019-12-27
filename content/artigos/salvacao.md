@@ -8,6 +8,12 @@ topics:
 - maledicencia
 - pornografia
 - desonestidade
+- compaixao
+- disciplina
+- esforco
+- amor
+- lealdade
+- responsabilidade
 ---
 
 

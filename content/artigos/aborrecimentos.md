@@ -6,6 +6,8 @@ topics:
 - impaciencia
 - paciencia
 - rebeldia
+- aprendiz
+- esforco
 ---
 
 Nada mais comum, nas atividades terrenas, do que o hábito enraizado das

@@ -6,6 +6,11 @@ topics:
 - orgulho
 - humildade
 - jesus
+- calma
+- bondade
+- amor
+- solidariedade
+- sabedoria
 ---
 
 Tiago, um dos Apóstolos de Jesus, era bastante fiel às tradições da época, ao

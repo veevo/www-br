@@ -7,6 +7,11 @@ topics:
 - tolerancia
 - leis-divinas
 - cooperacao
+- companheirismo
+- esforco
+- pureza
+- tolerancia
+- sabedoria
 ---
 
 

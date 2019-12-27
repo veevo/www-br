@@ -6,6 +6,15 @@ topics:
 - intolerancia
 - tolerancia
 - raiva
+- aprendiz
+- compaixao
+- compreensao
+- esforco
+- perdao
+- felicidade
+- amor
+- respeito
+- tolerancia
 ---
 
 

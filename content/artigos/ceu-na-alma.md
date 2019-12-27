@@ -7,6 +7,13 @@ topics:
 - gula
 - preguica
 - sensualidade
+- compaixao
+- dignidade
+- esforco
+- auxilio
+- amor
+- solidariedade
+- sabedoria
 ---
 
 A crença mais difundida entre os homens identifica o céu como um local

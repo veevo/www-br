@@ -6,6 +6,14 @@ topics:
 - calunia
 - difamacao
 - perdao
+- aprendiz
+- calma
+- compreensao
+- perdao
+- felicidade
+- amor
+- respeito
+- solidariedade
 ---
 
 O que faríamos se, de repente, por uma circunstância qualquer, tivéssemos nas

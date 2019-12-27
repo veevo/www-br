@@ -8,6 +8,13 @@ topics:
 - violencia
 - paciencia
 - humildade
+- calma
+- compreensao
+- esforco
+- serenidade
+- sensibilidade
+- temperanca
+- tranquilidade
 ---
 
 

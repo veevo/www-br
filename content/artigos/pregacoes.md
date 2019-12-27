@@ -5,6 +5,8 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - internet
 - jesus
+- amor
+- respeito
 ---
 
 A modernidade é rica de meios para que as pessoas externem seus pensamentos.

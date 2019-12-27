@@ -12,6 +12,7 @@ topics:
 - abandono
 - liberdade
 - paulo-de-tarso
+- responsabilidade
 ---
 
 Nos dias atuais, a ciência progride vertiginosamente no planeta.

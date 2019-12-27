@@ -11,6 +11,10 @@ topics:
 - doencas
 - familia
 - raiva
+- gratidao
+- felicidade
+- amor
+- respeito
 ---
  
 Quando o assunto é doença, todos temos uma história para relatar. Não existe

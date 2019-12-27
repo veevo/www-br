@@ -8,6 +8,8 @@ topics:
 - simplicidade
 - desprezo
 - indiferenca
+- etica
+- felicidade
 ---
 
 Certa vez um pai, muito sensível, percebeu que uma de suas filhas estava

@@ -7,6 +7,7 @@ topics:
 - riqueza
 - brandura
 - humildade
+- respeito
 ---
 
 É comum ouvirmos histórias envolvendo pessoas ilustres da nossa atualidade.

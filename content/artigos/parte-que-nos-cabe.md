@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - ociosidade
 - jesus
+- respeito
 ---
 
 Quando Jesus nos orientou sobre a ideia de que nossa mão direita não deve saber

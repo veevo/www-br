@@ -5,6 +5,8 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - orgulho
 - humildade
+- caridade
+- respeito
 ---
 
 Os benfeitores espirituais nos ensinam que o egoísmo é a chaga que deve

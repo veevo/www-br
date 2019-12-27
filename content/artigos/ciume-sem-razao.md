@@ -6,6 +6,10 @@ topics:
 - ciume
 - calunia
 - difamacao
+- confianca
+- esforco
+- felicidade
+- integridade
 ---
 
 Ao deixar a roupa suja no lugar apropriado, tropecei no diário da minha irmã

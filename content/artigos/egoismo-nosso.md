@@ -6,6 +6,11 @@ topics:
 - egoismo
 - rebeldia
 - violencia
+- altruismo
+- gratidao
+- paciencia
+- respeito
+- tolerancia
 ---
  
 

@@ -5,6 +5,13 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - ociosidade
 - preguica
+- dignidade
+- disciplina
+- perdao
+- bondade
+- humildade
+- amor
+- paciencia
 ---
 
 Os dias de hoje têm muitas facilidades.

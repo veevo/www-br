@@ -5,6 +5,12 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - negligencia
 - jesus
+- companheirismo
+- compreensao
+- disciplina
+- felicidade
+- amor
+- respeito
 ---
 
 afarnaum era uma cidadezinha que se situava no lado setentrional do lago de

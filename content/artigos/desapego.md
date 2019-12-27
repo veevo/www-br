@@ -10,6 +10,7 @@ topics:
 - consumismo
 - materialismo
 - humildade
+- felicidade
 ---
 
 Vivemos uma época de celebridades, apelos fáceis à riqueza, ao consumismo, às

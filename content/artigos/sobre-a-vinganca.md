@@ -6,6 +6,9 @@ topics:
 - vinganca
 - perdao
 - odio
+- justica
+- perdao
+- responsabilidade
 ---
 
 A vingança é uma espécie de justiça bárbara, de tal maneira que quanto mais a

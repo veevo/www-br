@@ -6,6 +6,8 @@ topics:
 - orgulho
 - humildade
 - deus
+- respeito
+- sabedoria
 ---
 
 O jovem acreditava ser uma mente brilhante. Elaborava ideias, imergia o

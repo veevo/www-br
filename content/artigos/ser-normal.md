@@ -6,6 +6,9 @@ topics:
 - sensualismo
 - sexo
 - pornografia
+- coragem
+- esforco
+- pureza
 ---
 
 O homem é gregário por natureza.

@@ -10,6 +10,10 @@ topics:
 - vinganca
 - jesus
 - amor
+- compreensao
+- perdao
+- amor
+- paciencia
 ---
 
 Dois grandes vultos da música brasileira, certa vez, compuseram os seguintes

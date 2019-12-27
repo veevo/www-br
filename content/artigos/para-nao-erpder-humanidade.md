@@ -6,6 +6,10 @@ topics:
 - violencia
 - redes-sociais
 - tecnologia
+- empatia
+- respeito
+- sensibilidade
+- solidariedade
 ---
 
 Diariamente, nos deparamos com as mais diversas notícias do que ocorre no

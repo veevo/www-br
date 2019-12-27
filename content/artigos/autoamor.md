@@ -9,6 +9,9 @@ topics:
 - autoamor
 - meditacao
 - auto-conhecimento
+- perdao
+- bondade
+- amor
 ---
 
 Muito se tem falado, nestes tempos, sobre o autoamor.

@@ -7,6 +7,9 @@ topics:
 - tecnologia
 - agressividade
 - raiva
+- amor
+- respeito
+- tolerancia
 ---
 
 Expressar nossos pensamentos e sentimentos é um direito. No entanto, se ao

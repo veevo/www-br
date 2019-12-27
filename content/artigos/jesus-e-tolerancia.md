@@ -6,6 +6,9 @@ topics:
 - vinganca
 - tolerancia
 - jesus
+- compaixao
+- responsabilidade
+- tolerancia
 ---
 
 Em termos de psicologia profunda, a questão do julgamento das faltas alheias

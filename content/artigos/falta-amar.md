@@ -7,6 +7,8 @@ topics:
 - amor
 - adolescentes
 - familia
+- gratidao
+- amor
 ---
 
 Um vídeo circulou pelas redes sociais. Mostrava algo bastante singelo e

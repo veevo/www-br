@@ -9,6 +9,12 @@ topics:
 - pobreza
 - deus
 - jesus
+- esforco
+- justica
+- bondade
+- felicidade
+- amor
+- serenidade
 ---
  
 

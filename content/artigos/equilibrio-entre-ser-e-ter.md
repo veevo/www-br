@@ -7,6 +7,9 @@ topics:
 - consumismo
 - avareza
 - inveja
+- dignidade
+- felicidade
+- amor
 --- 
 
 Vivemos em um mundo que valoriza extremamente os bens materiais. Em sua

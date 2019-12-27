@@ -5,6 +5,12 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - intolerancia
 - tolerancia
+- dignidade
+- bondade
+- mansidao
+- pureza
+- respeito
+- tolerancia
 ---
 
 

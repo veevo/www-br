@@ -11,6 +11,10 @@ topics:
 - indiferenca
 - egoismo
 - rebeldia
+- esforco
+- amor
+- respeito
+- responsabilidade
 ---
 
 

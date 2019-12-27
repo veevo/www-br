@@ -9,6 +9,11 @@ topics:
 - raiva
 - disciplina
 - jesus
+- confianca
+- coragem
+- dignidade
+- disciplina
+- resignacao
 ---
 
 Você saberia definir, com exatidão, o que é coragem?

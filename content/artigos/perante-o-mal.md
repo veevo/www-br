@@ -8,6 +8,14 @@ topics:
 - jesus
 - amor
 - mal
+- compreensao
+- esforco
+- justica
+- perdao
+- generosidade
+- amor
+- paciencia
+- serenidade
 ---
 
 A Lei de Talião representou um progresso nos costumes da Humanidade.

@@ -7,6 +7,10 @@ topics:
 - tolerancia
 - religiao
 - liberdade
+- bondade
+- amor
+- respeito
+- tolerancia
 ---
 
 A liberdade de expressão é conquista recente na história da Humanidade.

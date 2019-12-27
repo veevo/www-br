@@ -7,6 +7,10 @@ topics:
 - vinganca
 - pena-de-morte
 - violencia
+- justica
+- perdao
+- amor
+- respeito
 ---
 
 A pena de morte, a princípio, pode ter como finalidade punir juridicamente um

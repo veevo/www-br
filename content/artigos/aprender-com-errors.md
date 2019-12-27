@@ -6,6 +6,12 @@ topics:
 - orgulho
 - vaidade
 - humildade
+- aprendiz
+- disciplina
+- esforco
+- amor
+- responsabilidade
+- sabedoria
 ---
 
 A perfeição ainda é um estado muito distante da Humanidade.

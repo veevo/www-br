@@ -5,6 +5,13 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - redes-sociais
 - tecnologia
+- dignidade
+- empatia
+- perdao
+- gratidao
+- felicidade
+- humildade
+- amor
 ---
 
 Residente em Aracaju, no Estado do Sergipe, Reinaldo é vendedor de coco há

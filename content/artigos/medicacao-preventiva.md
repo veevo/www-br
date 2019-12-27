@@ -10,6 +10,10 @@ topics:
 - renuncia
 - paciencia
 - sensibilidade
+- compreensao
+- perdao
+- sensibilidade
+- tolerancia
 ---
 
 

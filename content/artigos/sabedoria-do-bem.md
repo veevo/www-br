@@ -6,6 +6,10 @@ topics:
 - vinganca
 - amor
 - violencia
+- compaixao
+- felicidade
+- amor
+- sabedoria
 ---
 
 Quando, na Antiguidade, alguém queria matar um urso, pendurava uma pesada tora

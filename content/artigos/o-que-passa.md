@@ -5,6 +5,10 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - impaciencia
 - paciencia
+- compreensao
+- felicidade
+- amor
+- solidariedade
 ---
 
 Há poucos dias eu me mudara para minha nova casa.

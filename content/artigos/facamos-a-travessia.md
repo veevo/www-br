@@ -10,6 +10,12 @@ topics:
 - avareza
 - vaidade
 - arrogancia
+- caridade
+- compreensao
+- coragem
+- esforco
+- perdao
+- amor
 ---
 
 O cárcere fora construído em pedra nua, nos arredores de Jerusalém. Nele, os

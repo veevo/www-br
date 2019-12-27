@@ -8,6 +8,8 @@ topics:
 - india
 - krishna
 - buda
+- etica
+- pureza
 ---
 
 Você já notou que, nos dias de hoje, os apelos são imensos para nos

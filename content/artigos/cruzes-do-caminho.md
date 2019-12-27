@@ -6,6 +6,11 @@ topics:
 - vaidade
 - humildade
 - lucas
+- caridade
+- justica
+- felicidade
+- amor
+- respeito
 ---
 
 Você já deve ter reparado, no curso das rodovias federais e estaduais, um sem

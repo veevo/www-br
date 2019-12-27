@@ -5,6 +5,10 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - preguica
 - ociosidade
+- companheirismo
+- amor
+- respeito
+- sabedoria
 ---
 
 

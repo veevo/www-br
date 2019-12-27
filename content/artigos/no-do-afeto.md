@@ -6,6 +6,7 @@ topics:
 - ciume
 - afeto
 - familia
+- amor
 ---
 
 Em uma reunião de pais, numa escola da periferia, a diretora incentivava o

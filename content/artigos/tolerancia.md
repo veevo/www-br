@@ -5,6 +5,10 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - intolerancia
 - tolerancia
+- caridade
+- amor
+- paciencia
+- tolerancia
 ---
 
 Muitas vezes, no nosso dia-a-dia, costumamos reclamar de algumas pessoas que

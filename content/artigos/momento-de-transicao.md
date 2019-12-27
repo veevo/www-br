@@ -12,6 +12,9 @@ topics:
 - desonestidade
 - dignidade
 - livre-arbitrio
+- dignidade
+- lealdade
+- sensibilidade
 ---
 
 A Espiritualidade Superior noticia que a Terra se encontra em fase de

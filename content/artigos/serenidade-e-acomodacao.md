@@ -5,6 +5,9 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - preguica
 - serenidade
+- aprendiz
+- calma
+- serenidade
 ---
 
 Você já observou que um dos maiores inimigos do homem é a acomodação? Irmã da

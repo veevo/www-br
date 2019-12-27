@@ -9,6 +9,10 @@ topics:
 - intolerancia
 - mentira
 - indiferenca
+- serenidade
+- respeito
+- tolerancia
+- tranquilidade
 ---
 
 Um tema muito debatido nos dias atuais, é a violência.

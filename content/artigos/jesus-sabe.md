@@ -8,6 +8,13 @@ topics:
 - jesus
 - justica
 - trabalho
+- aprendiz
+- companheirismo
+- compaixao
+- confianca
+- justica
+- amor
+- renuncia
 ---
 
 Quantas lágrimas você já verteu a sós, sem ninguém para lhe estender um ombro

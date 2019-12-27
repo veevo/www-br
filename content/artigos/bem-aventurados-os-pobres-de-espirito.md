@@ -6,6 +6,13 @@ topics:
 - egoismo
 - jesus
 - evangelho
+- caridade
+- justica
+- felicidade
+- humildade
+- amor
+- modestia
+- respeito
 ---
 
 No Sermão da Montanha, o Mestre Jesus afirmou: Bem-aventurados os pobres de

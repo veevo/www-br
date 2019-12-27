@@ -6,6 +6,10 @@ topics:
 - perdao
 - incompreensao
 - agressividade
+- compreensao
+- confianca
+- humildade
+- amor
 ---
 
 Incompreensões

@@ -7,6 +7,11 @@ topics:
 - humildade
 - melindre
 - agressividade
+- afabilidade
+- caridade
+- companheirismo
+- esforco
+- respeito
 ---
 
 Melindre tem várias definições. Pode ser definido como amabilidade, delicadeza

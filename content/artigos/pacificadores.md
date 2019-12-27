@@ -8,6 +8,9 @@ topics:
 - agressividade
 - paz
 - serenidade
+- serenidade
+- respeito
+- tranquilidade
 ---
 
 Cada vez mais frequente se faz o número daqueles assustados pela violência

@@ -5,6 +5,9 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - orgulho
 - humildade
+- respeito
+- solidariedade
+- tolerancia
 ---
 
 Um homem pode ser humilde sem se tornar alvo de humilhações? A humildade deixa

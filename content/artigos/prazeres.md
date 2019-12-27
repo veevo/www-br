@@ -4,9 +4,16 @@ description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in 
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
+- abnegacao
 - spiritism
 - happiness
 - pleasure
+- compaixao
+- compreensao
+- discernimento
+- amor
+- pureza
+- sabedoria
 ---
 
 O homem naturalmente busca o prazer e o bem-estar.

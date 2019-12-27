@@ -6,6 +6,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - suicidio
 - rebeldia
+- dignidade
 ---
 
 Era manhã de sábado. Tocou o telefone e alguém atendeu.

@@ -6,6 +6,14 @@ topics:
 - impaciencia
 - paciencia
 - inimigo
+- benevolencia
+- compreensao
+- esforco
+- empatia
+- perdao
+- indulgencia
+- amor
+- tolerancia
 ---
 
 Você já percebeu que há pessoas que nos exigem um pouco mais de esforço para

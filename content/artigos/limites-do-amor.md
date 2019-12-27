@@ -8,6 +8,10 @@ topics:
 - traicao
 - abandono
 - familia
+- altruismo
+- generosidade
+- amor
+- sabedoria
 ---
 
 Até onde o amor pode chegar? A pergunta é feita toda vez que algumas tragédias

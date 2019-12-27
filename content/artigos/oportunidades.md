@@ -8,6 +8,7 @@ topics:
 - cigarro
 - alcoolismo
 - leis-divinas
+- confianca
 ---
 
 Você já pensou no que significam as oportunidades em sua vida?

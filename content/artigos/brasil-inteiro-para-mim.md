@@ -7,6 +7,10 @@ topics:
 - intolerancia
 - tolerancia
 - brasil
+- compreensao
+- justica
+- amor
+- tolerancia
 ---
 
 

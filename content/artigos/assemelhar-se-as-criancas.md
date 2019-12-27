@@ -11,6 +11,9 @@ topics:
 - criancas
 - evangelho
 - amor
+- felicidade
+- amor
+- pureza
 ---
 
 Apresentaram a Jesus então umas criancinhas, a fim de que ele as tocasse. E

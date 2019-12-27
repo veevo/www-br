@@ -9,6 +9,11 @@ topics:
 - egoismo
 - crueldade
 - desonestidade
+- dignidade
+- amor
+- perseveranca
+- pureza
+- temperanca
 ---
  
 

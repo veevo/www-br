@@ -6,6 +6,8 @@ topics:
 - violencia
 - agressividade
 - indiferenca
+- perdao
+- amor
 ---
 
 Falando de violências...

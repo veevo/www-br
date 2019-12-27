@@ -7,6 +7,7 @@ topics:
 - drogas
 - cigarro
 - adolescentes
+- amor
 ---
 
 “Jovem fumante tem cinco vezes mais risco de infarto, diz estudo.

@@ -6,6 +6,11 @@ topics:
 - avareza
 - orgulho
 - ciume
+- dignidade
+- esforco
+- justica
+- felicidade
+- amor
 ---
  
 

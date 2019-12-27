@@ -6,6 +6,11 @@ topics:
 - inveja
 - vaidade
 - humildade
+- caridade
+- companheirismo
+- felicidade
+- auxilio
+- respeito
 ---
 
 Os homens são Espíritos destinados à angelitude.

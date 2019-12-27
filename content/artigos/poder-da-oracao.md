@@ -6,6 +6,8 @@ topics:
 - oracao
 - tabaco
 - gula
+- auxilio
+- respeito
 ---
  
 

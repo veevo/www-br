@@ -8,6 +8,10 @@ topics:
 - odio
 - agressividade
 - raiva
+- calma
+- perdao
+- amor
+- respeito
 ---
 
 Debbie tinha apenas dezesseis anos quando seu professor de inglês a sequestrou

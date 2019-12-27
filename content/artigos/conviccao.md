@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - gandhi
 - conviccao
+- determinacao
 ---
 
 O homem se torna muitas vezes o que ele próprio acredita que é.

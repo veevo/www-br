@@ -5,6 +5,8 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - ociosidade
 - vinganca
+- amor
+- responsabilidade
 ---
 
 Um simples adesivo, fixado num vidro de carro, revela uma filosofia de vida

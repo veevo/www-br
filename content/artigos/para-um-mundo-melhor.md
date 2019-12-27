@@ -9,6 +9,11 @@ topics:
 - criancas
 - familia
 - violencia
+- caridade
+- confianca
+- esforco
+- amor
+- respeito
 ---
 
 Como aguardar a melhoria do mundo, se tão poucos cuidados existem para com o

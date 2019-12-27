@@ -5,6 +5,9 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - vaidade
 - humildade
+- etica
+- respeito
+- sabedoria
 ---
 
 Na antiga china os príncipes se casavam com meninas entre 12 e 13 anos. As

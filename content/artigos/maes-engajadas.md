@@ -6,6 +6,8 @@ topics:
 - familia
 - maes
 - adolescentes
+- companheirismo
+- amor
 ---
 
 As bandeiras que elas levantam são diferentes. As causas que abraçam são as

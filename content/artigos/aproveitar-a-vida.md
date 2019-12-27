@@ -6,6 +6,11 @@ topics:
 - drogas
 - cigarro
 - saude
+- aprendiz
+- esforco
+- serenidade
+- responsabilidade
+- seriedade
 ---
  
 

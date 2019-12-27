@@ -4,6 +4,16 @@ date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
 - vinganca
+- coragem
+- dignidade
+- justica
+- fielidade
+- perdao
+- gratidao
+- indulgencia
+- amor
+- serenidade
+- tolerancia
 ---
 
 Você considera a vingança como um ato de coragem ou de covardia?

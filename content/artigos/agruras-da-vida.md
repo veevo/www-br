@@ -5,6 +5,12 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - gula
 - programacao-espiritual
+- esforco
+- justica
+- auxilio
+- humildade
+- paciencia
+- tolerancia
 ---
 
 Segundo a Espiritualidade Superior, as agruras da vida terrena constituem

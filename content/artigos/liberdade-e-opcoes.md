@@ -6,6 +6,14 @@ topics:
 - luxuria
 - liberdade
 - paulo-de-tarso
+- compreensao
+- fielidade
+- felicidade
+- amor
+- pureza
+- renuncia
+- responsabilidade
+- sensibilidade
 ---
 
 

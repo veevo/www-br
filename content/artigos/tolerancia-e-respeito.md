@@ -7,6 +7,8 @@ topics:
 - tecnologia
 - agressividade
 - tolerancia
+- respeito
+- tolerancia
 ---
 
 A tecnologia vem permitindo que nos comuniquemos cada vez mais, com uma

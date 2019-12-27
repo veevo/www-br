@@ -8,6 +8,10 @@ topics:
 - discordia
 - bem
 - carinho
+- bondade
+- amor
+- respeito
+- tolerancia
 ---
 
 

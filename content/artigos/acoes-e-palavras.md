@@ -10,6 +10,9 @@ topics:
 - familia
 - filhos
 - sabedoria
+- justica
+- responsabilidade
+- sabedoria
 ---
 
 

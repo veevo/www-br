@@ -11,6 +11,11 @@ topics:
 - vinganca
 - agressividade
 - ciume
+- compaixao
+- compreensao
+- perdao
+- felicidade
+- pureza
 ---
 
 Ofensa e perdão

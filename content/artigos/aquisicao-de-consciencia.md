@@ -6,6 +6,9 @@ topics:
 - alcoolismo
 - tabagismo
 - drogas
+- confianca
+- esforco
+- responsabilidade
 ---
 
 

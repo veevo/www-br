@@ -6,6 +6,10 @@ topics:
 - vinganca
 - perdao
 - liberdade
+- esforco
+- justica
+- perdao
+- sabedoria
 ---
 
 Se alguém lhe atirasse uma pedra, o que você faria com ela?

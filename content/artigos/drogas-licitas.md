@@ -7,6 +7,8 @@ topics:
 - drogas
 - cigarro
 - leis-divinas
+- esforco
+- sinceridade
 ---
 
 São alarmantes as notícias que chegam, diariamente, sobre os altos índices de

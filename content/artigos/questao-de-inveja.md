@@ -6,6 +6,9 @@ topics:
 - inveja
 - maledicencia
 - raiva
+- esforco
+- felicidade
+- amor
 ---
 
 Conta-se que um vaga-lume estava no afã de acender seu facho e apagá-lo.

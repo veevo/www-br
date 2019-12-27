@@ -12,6 +12,9 @@ topics:
 - oracao
 - provas
 - libertacao
+- compreensao
+- justica
+- amor
 ---
 
 Quando você nasceu na Terra, parecia um pássaro semimorto que a tempestade

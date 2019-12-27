@@ -6,6 +6,9 @@ topics:
 - simplicidade
 - consumismo
 - materialismo
+- felicidade
+- amor
+- serenidade
 ---
 
 Muitas pessoas reclamam da correria de suas vidas.

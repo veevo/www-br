@@ -6,6 +6,10 @@ topics:
 - impaciencia
 - paciencia
 - irritacao
+- calma
+- felicidade
+- humildade
+- amor
 ---
 
 Pedro, Elizabeth e José estavam reunidos a tarde toda, envolvidos no trabalho
