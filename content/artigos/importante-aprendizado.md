@@ -6,6 +6,8 @@ topics:
 - simplicidade
 - aprendiz
 - solidariedade
+- oracao
+- familia
 --- 
 
 A Terra é um imenso planeta, lar de bilhões de seres que aqui têm a

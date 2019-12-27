@@ -13,6 +13,8 @@ topics:
 - paciencia
 - serenidade
 - tolerancia
+- oracao
+- familia
 ---
 
 

@@ -8,6 +8,8 @@ topics:
 - raiva
 - renuncia
 - vigilancia
+- oracao
+- crianca
 ---
 
 Drogas são substâncias entorpecentes, excitantes, alucinógenas utilizadas com a

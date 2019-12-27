@@ -10,6 +10,7 @@ topics:
 - companheirismo
 - gratidao
 - respeito
+- oracao
 ---
 
 O dia apenas amanhecera e Jorge já se achava a meio caminho da empresa em que

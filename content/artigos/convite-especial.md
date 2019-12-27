@@ -12,6 +12,7 @@ topics:
 - renuncia
 - respeito
 - responsabilidade
+- oracao
 ---
 
 Em famosa passagem do Evangelho, Jesus fez um convite muito especial.

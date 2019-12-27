@@ -16,6 +16,7 @@ topics:
 - indulgencia
 - amor
 - respeito
+- crianca
 ---
 
 Conta-se que quando Inácio de Antioquia foi preso, foi levado a Roma e colocado

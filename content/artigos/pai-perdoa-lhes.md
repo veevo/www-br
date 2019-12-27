@@ -3,7 +3,10 @@ title: Pai, perdoa-lhes
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
+- drogas
 - violencia
+- sexo
+- sensualismo
 - vicios
 - jesus
 - perdao
@@ -11,6 +14,8 @@ topics:
 - confianca
 - perdao
 - amor
+- oracao
+- crianca
 ---
 
 Quando ouvimos falar das derradeiras palavras proferidas por Jesus, no topo da

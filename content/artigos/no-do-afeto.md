@@ -7,6 +7,10 @@ topics:
 - afeto
 - familia
 - amor
+- oracao
+- crianca
+- familia
+- mae
 ---
 
 Em uma reunião de pais, numa escola da periferia, a diretora incentivava o

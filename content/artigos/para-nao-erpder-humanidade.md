@@ -10,6 +10,7 @@ topics:
 - respeito
 - sensibilidade
 - solidariedade
+- gentileza
 ---
 
 Diariamente, nos deparamos com as mais diversas notícias do que ocorre no

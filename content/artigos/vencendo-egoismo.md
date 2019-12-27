@@ -7,6 +7,8 @@ topics:
 - humildade
 - caridade
 - respeito
+- crianca
+- mae
 ---
 
 Os benfeitores espirituais nos ensinam que o egoísmo é a chaga que deve

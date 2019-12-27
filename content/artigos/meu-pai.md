@@ -1,111 +1,88 @@
 ---
-title: Meu pai, meu herói
+title: Meu pai
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
-- vinganca
-- violencia
+- generosidade
+- oracao
+- crianca
 - familia
-- amor
-- aprendiz
-- companheirismo
-- coragem
-- fielidade
-- perdao
-- felicidade
-- amor
-- resignacao
-- respeito
-- responsabilidade
-- sinceridade
 ---
 
-Quando eu cheguei a este mundo, não sabia ao certo o que estava fazendo aqui,
-até que percebi que havia alguém para me orientar na jornada.
+Todos os que fomos acalentados pelo amor paterno, com certeza, recordamos nosso
+velho com saudade. Particularmente, quando nós mesmos nos tornamos pais, as
+lembranças acodem aos atropelos.
 
-Um dia, quando você me ergueu nos braços, elevando-me acima da sua cabeça,
-descobri que você queria que eu percebesse o mundo de um ponto de vista muito
-abrangente.
+Na acústica da alma, ainda ouvimos os passos firmes nas noites de trovoadas, a
+conferir em sua ronda, janelas, trancas, cortinas, o sono da criançada.
 
-Quando comecei a ensaiar meus primeiros passos, com a musculatura das pernas
-ainda frágil, você me sustentou segurando-me a mão, e entendi que você não
-desejava me carregar no colo para sempre: queria que eu andasse com as próprias
-pernas.
+Se fechamos os olhos, podemos sentir o deslizar da sua mão levemente pelo nosso
+rosto e o puxar cuidadoso do cobertor.
 
-Quando entrei em casa pela primeira vez, ofegante, me queixando dos amigos,
-você disse para eu me acertar com eles, e compreendi que deveria assumir a
-responsabilidade pelos meus próprios atos.
+Vemos sua silhueta se perdendo na penumbra e ouvimos o último abrir e fechar da
+geladeira.
 
-Quando trouxe para casa minha primeira lição e você se sentou ao meu lado,
-orientando-me, mas não fez a lição para mim, entendi que você desejava que o
-aprendizado fosse uma conquista minha.
+Recordamos da criança que fomos e que ficava à espera da sua volta do trabalho.
+Aqueles que tivemos pais cujo trabalho exigia muitos dias fora do lar, podemos
+sentir outra vez o coração aos atropelos, lembrando o som do carro dele,
+chegando, na madrugada.
 
-No dia em que alguns objetos alheios foram parar em minha mochila escolar,
-você, sem me ofender, me pediu para devolver ao legítimo dono, e compreendi que
-você queria fazer de mim uma pessoa honesta.
+Será que lembrou de trazer um presente? Será que a sua barba está por fazer e
+vai espetar o nosso rosto?
 
-Quando, um dia, meus amigos saíram da sala e tracei alguns comentários maldosos
-sobre eles, e você me disse que não devemos falar mal das pessoas ausentes,
-aprendi as lições da sinceridade e do respeito.
+Recordamos o passeio dos fins de semana, do presente de aniversário, da ceia de
+Natal. Até das broncas após as nossas malandragens.
 
-Nos momentos difíceis, você estava sempre ao meu lado para me apoiar, e nas
-horas alegres não me faltou o seu abraço para compartilhar.
+Igualmente lembramos dos carinhos à chegada de nosso boletim, a alegria após
+passar de ano. A comemoração em família pelas nossas vitórias: Fundamental,
+Ensino Médio, Vestibular, Faculdade.
 
-Quando fraquejei diante do primeiro embate da vida, você me falou de coragem...
+E quando chegamos à adolescência? Quantos cuidados! Quem são os seus
+companheiros? Com quem você vai sair? Aonde vai?
 
-Quando chorei as lágrimas provocadas pelo primeiro sofrimento, você me falou de
-resignação...
+Não fume. Não beba. Não exceda a velocidade. Respeite os sinais de trânsito.
 
-Quando desejei fugir dos compromissos que se apresentavam, você me falou de
-responsabilidade...
+É hora de chegar? Não falei para chegar antes da meia-noite?
 
-Quando pensei em mentir para um amigo, você me falou de fidelidade...
+Filho, respeite os mais velhos. Faça um carinho nos seus avós. Quando, afinal,
+vai se decidir a trabalhar?
 
-Quando senti em minha alma os açoites dos primeiros vendavais, você me falou de
-flexibilidade, e aprendi a me dobrar para não quebrar, como o pequeno ramo
-verde faz diante dos golpes do vento.
+Garoto, vou lhe cortar a mesada.
 
-Quando você pressentiu em meu olhar a insinuação da vingança, me falou do
-perdão...
+Olhando as rugas estampadas no rosto de nosso pai, somos tomados de carinho e
+nos curvamos diante dele. Quantos anos vividos no calor do lar paterno. Quantas
+lições!
 
-Quando desejei salvar o mundo, nos ardentes dias da juventude, você me ensinou
-a moderação e o bom senso.
+Lições que hoje repassamos para os nossos próprios filhos e, sem nos darmos
+conta, vamos repetindo os mesmos gestos dele. Daquele que há sessenta, setenta
+anos renasceu e um dia se tornou nosso pai.
 
-Quando quis me submeter aos modismos do grupo, você me falou de liberdade.
+Olhamos nossos filhos e lembrando de como a generosidade de nosso pai, os seus
+cuidados nos fizeram bem ao caráter, nos esmeramos no atendimento aos nossos
+próprios rebentos.
 
-Quando me iludi, pensando que o mundo era meu, você me falou do Criador do
-Universo...
+Por tudo isso, outra vez, é que a nossa gratidão cresce no peito e explode em
+uma grande manifestação de afeto. E, como se nosso pai fosse uma criança
+pequena, abraçamos o velho e o embalamos em nossos braços, com a mesma canção
+de ninar que um dia ele embalou a nossa infância.
 
-Assim, meu pai, desejo dizer que você sempre foi meu herói, meu amigo, meu
-grande mestre, meu companheiro de caminhada...
+                                   *   *   *
 
-Você foi firme, quando era de firmeza que eu precisava...
+As mensagens repassadas às crianças calam profundamente em suas almas. Embora o
+tempo, a distância, as circunstâncias mais adversas, tudo o que as aninhou e
+animou nos anos infantis repercute pela vida afora.
 
-Você foi terno, quando era de ternura que eu necessitava... Você foi lúcido,
-quando era de lucidez que eu precisava...
+Eis porque a infância tem um caráter de primordial importância ao ser humano. É
+nesse período de repouso para o Espírito, que se prepara para as lutas do
+mundo, que o ser se abastece de energias, vigor, valores reais que são, em
+verdade, as únicas heranças autênticas que os pais legam aos filhos.
 
-Quando eu cheguei a este mundo, não sabia ao certo o que estava fazendo aqui,
-até que percebi que havia alguém para me orientar na jornada...
-
-Hoje, bem, hoje eu sei claramente o que estou fazendo aqui, porque você, meu
-pai, fez mais que apenas me orientar, você caminhou ao meu lado muitas vezes,
-me seguiu de perto outras tantas, e andou à minha frente muitas outras,
-deixando rastros de luz, como diretrizes seguras que eu pudesse seguir.
-
-Hoje eu sei muito bem o papel que me cabe na construção de um mundo melhor,
-porque isso eu aprendi com você, meu grande e admirado amigo...
-
-E quando eu vejo tantos jovens perdidos, sem rumo e sem esperança, vagando
-entre a violência e a morte, eu peço a Deus por eles, porque é bem possível que
-não tenham tido a felicidade de ter um pai como você...
-
-E peço a Deus por você, papai, meu grande amigo.
-
+ 
 ## Source
-Redação do Momento Espírita.
-Disponível no CD Momento Espírita, Coletânea v. 8 e 9
-e livro Momento Espírita, v. 4,  ed. FEP.
-Em 20.11.2013.
+Redação do Momento Espírita, a partir do texto Pai,
+que circula pela Internet, sem menção a autor.
+Disponível no CD Momento Espírita, v.19, ed. FEP.
 
+Em 10.8.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=773)
+[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5817)

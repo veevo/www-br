@@ -7,6 +7,7 @@ topics:
 - humildade
 - esperanca
 - tranquilidade
+- oracao
 ---
 
 Há dias que temos a impressão de que chegamos no fim do caminho. Olhamos para

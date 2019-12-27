@@ -6,6 +6,8 @@ topics:
 - ociosidade
 - jesus
 - respeito
+- crianca
+- familia
 ---
 
 Quando Jesus nos orientou sobre a ideia de que nossa mão direita não deve saber

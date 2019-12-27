@@ -8,6 +8,7 @@ topics:
 - esforco
 - amor
 - paciencia
+- crianca
 ---
 
 Por vezes você não entende como as pessoas ainda conseguem sorrir num mundo

@@ -16,6 +16,7 @@ topics:
 - perdao
 - felicidade
 - pureza
+- oracao
 ---
 
 Ofensa e perdão

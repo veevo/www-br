@@ -12,6 +12,7 @@ topics:
 - pureza
 - tolerancia
 - sabedoria
+- oracao
 ---
 
 

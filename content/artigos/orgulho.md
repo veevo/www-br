@@ -14,6 +14,7 @@ topics:
 - felicidade
 - amor
 - tolerancia
+- oracao
 ---
 
 Uma das maiores dificuldades com que se debate a Humanidade é o orgulho.

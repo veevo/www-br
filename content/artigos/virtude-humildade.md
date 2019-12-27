@@ -8,6 +8,7 @@ topics:
 - respeito
 - solidariedade
 - tolerancia
+- oracao
 ---
 
 Um homem pode ser humilde sem se tornar alvo de humilhações? A humildade deixa

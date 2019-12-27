@@ -11,6 +11,7 @@ topics:
 - serenidade
 - respeito
 - tranquilidade
+- gentileza
 ---
 
 Cada vez mais frequente se faz o número daqueles assustados pela violência

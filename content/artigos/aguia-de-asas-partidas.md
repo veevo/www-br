@@ -1,4 +1,4 @@
----
+--
 title: A Águia de asas partidas
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
@@ -14,6 +14,8 @@ topics:
 - felicidade
 - amor
 - sabedoria
+- familia
+- mae
 ---
 
 Ele possuía muitas riquezas. Tinha as arcas abarrotadas de ouro e gemas

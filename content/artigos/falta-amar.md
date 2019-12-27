@@ -3,12 +3,15 @@ title: Falta amar
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
+- casamento
 - redes-sociais
 - amor
 - adolescentes
 - familia
 - gratidao
 - amor
+- familia
+- mae
 ---
 
 Um vídeo circulou pelas redes sociais. Mostrava algo bastante singelo e

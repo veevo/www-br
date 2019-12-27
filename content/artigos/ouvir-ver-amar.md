@@ -12,6 +12,7 @@ topics:
 - felicidade
 - humildade
 - amor
+- familia
 ---
 
 Residente em Aracaju, no Estado do Sergipe, Reinaldo é vendedor de coco há

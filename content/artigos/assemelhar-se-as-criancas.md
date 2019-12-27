@@ -14,6 +14,8 @@ topics:
 - felicidade
 - amor
 - pureza
+- oracao
+- crianca
 ---
 
 Apresentaram a Jesus então umas criancinhas, a fim de que ele as tocasse. E

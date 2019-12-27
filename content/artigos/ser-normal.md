@@ -9,6 +9,7 @@ topics:
 - coragem
 - esforco
 - pureza
+- oracao
 ---
 
 O homem é gregário por natureza.

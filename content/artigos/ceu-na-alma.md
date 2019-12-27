@@ -14,6 +14,7 @@ topics:
 - amor
 - solidariedade
 - sabedoria
+- oracao
 ---
 
 A crença mais difundida entre os homens identifica o céu como um local

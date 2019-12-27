@@ -9,6 +9,7 @@ topics:
 - disciplina
 - esforco
 - felicidade
+- oracao
 ---
 
 Sob pretexto algum se permita a “hora vazia”.

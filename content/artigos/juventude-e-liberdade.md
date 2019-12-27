@@ -7,9 +7,11 @@ topics:
 - transito
 - liberdade
 - juventude
+- vicios
 - drogas
 - amor
 - responsabilidade
+- mae
 --- 
 
 Cresce o número de adolescentes grávidas...

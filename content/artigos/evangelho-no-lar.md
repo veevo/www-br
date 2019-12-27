@@ -9,6 +9,8 @@ topics:
 - amor
 - paciencia
 - tolerancia
+- oracao
+- familia
 ---
 
 Em torno de cada um de nós existe uma psicosfera, formada por fluidos

@@ -6,6 +6,7 @@ topics:
 - redes-sociais
 - felicidade
 - respeito
+- oracao
 ---
 
 Como anda você? Está sempre on-line, conectado às redes sociais, sabendo de

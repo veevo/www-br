@@ -15,6 +15,8 @@ topics:
 - esforco
 - bondade
 - amor
+- gentileza
+- oracao
 ---
 
 Você já sorriu hoje?

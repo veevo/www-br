@@ -8,6 +8,9 @@ topics:
 - justica
 - respeito
 - sinceridade
+- oracao
+- crianca
+- mae
 ---
 
 Talvez você já tenha dito ou ouvido a infeliz afirmativa: Se eu uso drogas, o

@@ -7,6 +7,7 @@ topics:
 - ociosidade
 - trabalho
 - sinceridade
+- oracao
 ---
 
 

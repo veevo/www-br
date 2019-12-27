@@ -6,6 +6,8 @@ topics:
 - internet
 - criancas
 - respeito
+- crianca
+- mae
 ---
 
 Na atualidade, vivemos um tanto distantes uns dos outros. Pode soar paradoxal,

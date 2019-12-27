@@ -11,6 +11,8 @@ topics:
 - confianca
 - coragem
 - resignacao
+- oracao
+- familia
 ---
 
 > "A fé é um remédio poderoso."

@@ -9,6 +9,7 @@ topics:
 - justica
 - paciencia
 - sabedoria
+- oracao
 ---
 
 

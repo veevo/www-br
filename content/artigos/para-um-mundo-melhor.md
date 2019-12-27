@@ -14,6 +14,8 @@ topics:
 - esforco
 - amor
 - respeito
+- oracao
+- crianca
 ---
 
 Como aguardar a melhoria do mundo, se tão poucos cuidados existem para com o

@@ -14,6 +14,7 @@ topics:
 - paciencia
 - tolerancia
 - tranquilidade
+- oracao
 ---
 
 O desânimo lhe pesava aos ombros, como nunca antes.

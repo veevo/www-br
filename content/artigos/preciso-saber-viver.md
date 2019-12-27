@@ -14,6 +14,7 @@ topics:
 - perdao
 - amor
 - paciencia
+- gentileza
 ---
 
 Dois grandes vultos da música brasileira, certa vez, compuseram os seguintes

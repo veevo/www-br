@@ -10,6 +10,8 @@ topics:
 - caridade
 - amor
 - respeito
+- gentileza
+- crianca
 ---
 
 Conta-se que nas Ilhas Salomão, no Pacífico Sul, os nativos descobriram um

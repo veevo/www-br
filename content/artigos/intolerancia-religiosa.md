@@ -11,6 +11,7 @@ topics:
 - amor
 - respeito
 - tolerancia
+- oracao
 ---
 
 A liberdade de expressão é conquista recente na história da Humanidade.

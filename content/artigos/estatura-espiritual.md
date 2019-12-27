@@ -7,6 +7,7 @@ image: "images/masonary-post/post-2.jpg"
 - justica
 - felicidade
 - respeito
+- oracao
 ---
 
 Quando alguém nos pergunta sobre a nossa estatura, logo informamos quanto temos

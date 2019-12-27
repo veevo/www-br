@@ -15,6 +15,8 @@ topics:
 - compaixao
 - felicidade
 - amor
+- oracao
+- familia
 ---
  
 Jesus havia proferido o maravilhoso Sermão da Montanha há apenas um dia. As

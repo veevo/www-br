@@ -9,6 +9,7 @@ topics:
 - leis-divinas
 - esforco
 - sinceridade
+- crianca
 ---
 
 São alarmantes as notícias que chegam, diariamente, sobre os altos índices de

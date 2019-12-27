@@ -9,6 +9,8 @@ topics:
 - desanimo
 - violencia
 - responsabilidade
+- crianca
+- mae
 ---
 
 Embora o desânimo que toma conta de alguns corações, sempre haverá razão para

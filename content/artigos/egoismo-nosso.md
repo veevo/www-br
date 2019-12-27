@@ -11,6 +11,8 @@ topics:
 - paciencia
 - respeito
 - tolerancia
+- crianca
+- mae
 ---
  
 

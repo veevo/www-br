@@ -11,6 +11,7 @@ topics:
 - deus
 - dinheiro
 - sexo
+- sensualismo
 - aprendiz
 - compaixao
 - esforco

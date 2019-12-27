@@ -10,6 +10,7 @@ topics:
 - etica
 - felicidade
 - amor
+- oracao
 ---
 
 A Humanidade terrena passa por momentos difíceis, complicados, jamais imaginados pelas gerações presentes.

@@ -12,6 +12,8 @@ topics:
 - amor
 - tolerancia
 - sabedoria
+- oracao
+- crianca
 ---
 
 

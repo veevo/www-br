@@ -10,6 +10,9 @@ topics:
 - perdao
 - felicidade
 - amor
+- gentileza
+- oracao
+- familia
 ---
 
 Por um minuto, feche os olhos e pense no que lhe aprouver...

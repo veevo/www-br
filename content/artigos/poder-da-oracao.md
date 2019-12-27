@@ -8,6 +8,8 @@ topics:
 - gula
 - auxilio
 - respeito
+- oracao
+- mae
 ---
  
 

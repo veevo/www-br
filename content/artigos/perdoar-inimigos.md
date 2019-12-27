@@ -13,6 +13,8 @@ topics:
 - felicidade
 - amor
 - respeito
+- oracao
+- mae
 ---
 
 Nada consolava aquele coração materno. Quem a visitava podia lhe descobrir, de

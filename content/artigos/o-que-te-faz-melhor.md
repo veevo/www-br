@@ -12,6 +12,8 @@ topics:
 - esforco
 - amor
 - tolerancia
+- oracao
+- crianca
 ---
 
 

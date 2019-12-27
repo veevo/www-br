@@ -8,6 +8,7 @@ topics:
 - indiferenca
 - perdao
 - amor
+- oracao
 ---
 
 Falando de violências...

@@ -11,6 +11,7 @@ topics:
 - paciencia
 - perseveranca
 - vigilancia
+- oracao
 ---
 
 

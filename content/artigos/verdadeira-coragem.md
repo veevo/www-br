@@ -14,6 +14,7 @@ topics:
 - dignidade
 - disciplina
 - resignacao
+- familia
 ---
 
 Você saberia definir, com exatidão, o que é coragem?

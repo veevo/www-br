@@ -12,6 +12,7 @@ topics:
 - pureza
 - responsabilidade
 - sabedoria
+- oracao
 ---
 
 Quando se fala em moral cristã, é possível que alguém alegue ser ela tão velha

@@ -15,6 +15,7 @@ topics:
 - justica
 - amor
 - renuncia
+- oracao
 ---
 
 Quantas lágrimas você já verteu a sós, sem ninguém para lhe estender um ombro

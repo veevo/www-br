@@ -8,6 +8,8 @@ topics:
 - adolescentes
 - companheirismo
 - amor
+- crianca
+- mae
 ---
 
 As bandeiras que elas levantam são diferentes. As causas que abraçam são as

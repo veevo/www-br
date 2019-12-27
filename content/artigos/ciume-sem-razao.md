@@ -10,6 +10,8 @@ topics:
 - esforco
 - felicidade
 - integridade
+- oracao
+- crianca
 ---
 
 Ao deixar a roupa suja no lugar apropriado, tropecei no diário da minha irmã

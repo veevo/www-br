@@ -13,6 +13,7 @@ topics:
 - amor
 - respeito
 - tolerancia
+- oracao
 ---
 
 Na agitação dos dias atuais, as criaturas se assoberbam e angustiam,

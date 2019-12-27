@@ -6,6 +6,8 @@ topics:
 - natal
 - amor
 - respeito
+- oracao
+- mae
 ---
 
 O Natal, que comemoramos a cada ano, apresenta alguns aspectos pouco

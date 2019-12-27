@@ -10,6 +10,8 @@ topics:
 - buda
 - etica
 - pureza
+- oracao
+- crianca
 ---
 
 Você já notou que, nos dias de hoje, os apelos são imensos para nos

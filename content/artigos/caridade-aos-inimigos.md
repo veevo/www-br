@@ -12,6 +12,7 @@ topics:
 - perdao
 - felicidade
 - amor
+- oracao
 ---
 
 Por que caridade para com alguém que agiu tão mal? Que despedaçou vidas, que

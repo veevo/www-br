@@ -14,6 +14,8 @@ topics:
 - calma
 - dignidade
 - amor
+- oracao
+- familia
 ---
 
 Todos os seres vivos nascemos, vivemos um determinado tempo. E morremos um dia.

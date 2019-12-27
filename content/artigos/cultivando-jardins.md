@@ -12,6 +12,8 @@ topics:
 - gratidao
 - amor
 - responsabilidade
+- gentileza
+- crianca
 ---
 
 Todos os dias, antes das seis da manhã, Francisco Toda se encontra na lida

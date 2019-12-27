@@ -8,6 +8,7 @@ topics:
 - brandura
 - humildade
 - respeito
+- oracao
 ---
 
 É comum ouvirmos histórias envolvendo pessoas ilustres da nossa atualidade.

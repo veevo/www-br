@@ -13,6 +13,8 @@ topics:
 - paciencia
 - solidariedade
 - tolerancia
+- oracao
+- familia
 ---
 
 Morrer. Desse destino, nenhum ser humano escapará. E, no entanto, como tememos

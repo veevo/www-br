@@ -10,6 +10,8 @@ topics:
 - amor
 - serenidade
 - sabedoria
+- oracao
+- familia
 ---
 
 Inimigo. A palavra traz uma carga negativa impressionante! O inimigo é

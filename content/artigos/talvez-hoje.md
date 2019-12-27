@@ -15,6 +15,7 @@ topics:
 - indulgencia
 - respeito
 - sabedoria
+- oracao
 ---
 
 Talvez hoje... tenhamos despertado pela manhã com o coração oprimido, com uma

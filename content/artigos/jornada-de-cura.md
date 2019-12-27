@@ -12,6 +12,8 @@ topics:
 - perdao
 - amor
 - respeito
+- oracao
+- mae
 ---
 
 Debbie tinha apenas dezesseis anos quando seu professor de inglês a sequestrou

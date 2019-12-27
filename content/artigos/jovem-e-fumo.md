@@ -8,6 +8,7 @@ topics:
 - cigarro
 - adolescentes
 - amor
+- oracao
 ---
 
 “Jovem fumante tem cinco vezes mais risco de infarto, diz estudo.

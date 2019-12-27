@@ -10,6 +10,7 @@ topics:
 - felicidade
 - auxilio
 - respeito
+- oracao
 ---
 
 Ninguém avança pela estrada do progresso espiritual sem o auxílio de Deus.

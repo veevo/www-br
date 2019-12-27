@@ -16,6 +16,8 @@ topics:
 - respeito
 - tolerancia
 - tranquilidade
+- crianca
+- familia
 ---
 
 Como anda nossa tolerância?

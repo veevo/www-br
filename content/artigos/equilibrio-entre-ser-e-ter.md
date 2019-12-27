@@ -10,6 +10,8 @@ topics:
 - dignidade
 - felicidade
 - amor
+- crianca
+- familia
 --- 
 
 Vivemos em um mundo que valoriza extremamente os bens materiais. Em sua

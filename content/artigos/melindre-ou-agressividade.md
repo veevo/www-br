@@ -12,6 +12,8 @@ topics:
 - companheirismo
 - esforco
 - respeito
+- gentileza
+- familia
 ---
 
 Melindre tem várias definições. Pode ser definido como amabilidade, delicadeza

@@ -15,6 +15,7 @@ topics:
 - compreensao
 - justica
 - amor
+- oracao
 ---
 
 Quando você nasceu na Terra, parecia um pássaro semimorto que a tempestade

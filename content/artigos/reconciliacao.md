@@ -16,6 +16,7 @@ topics:
 - justica
 - felicidade
 - respeito
+- oracao
 ---
 
 Há uma interessante passagem evangélica na qual Jesus recomenda que o homem se

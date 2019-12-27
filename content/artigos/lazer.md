@@ -10,6 +10,7 @@ topics:
 - disciplina
 - responsabilidade
 - tranquilidade
+- familia
 ---
 
 Comenta-se, excessivamente, quanto à necessidade do lazer, como medida de

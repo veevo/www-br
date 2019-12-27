@@ -11,6 +11,7 @@ topics:
 - familia
 - adolescentes
 - carnaval
+- crianca
 ---
 
 Os preparativos para a grande festa estão sendo providenciados há meses.

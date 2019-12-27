@@ -8,6 +8,9 @@ topics:
 - rebeldia
 - renuncia
 - sabedoria
+- oracao
+- familia
+- mae
 ---
 
 Raul era oftalmologista. Seus anos de clínica e cirurgia lhe haviam granjeado

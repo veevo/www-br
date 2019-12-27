@@ -9,6 +9,8 @@ topics:
 - cigarro
 - adolescentes
 - coragem
+- oracao
+- familia
 ---
  
 Quando a conheci eu tinha apenas 16 anos. Ela, eu não sei. Fomos apresentados

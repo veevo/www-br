@@ -10,6 +10,8 @@ topics:
 - esforco
 - pureza
 - renuncia
+- crianca
+- familia
 ---
 
 Em suas pregações, Jesus utilizou largamente o recurso das parábolas.

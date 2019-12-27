@@ -13,6 +13,8 @@ topics:
 - esforco
 - felicidade
 - respeito
+- oracao
+- familia
 ---
 
 Ele era um jovem rapaz. Sua casa era luxuosa e seus pertences valiosos.

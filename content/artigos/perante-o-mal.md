@@ -16,6 +16,7 @@ topics:
 - amor
 - paciencia
 - serenidade
+- familia
 ---
 
 A Lei de Talião representou um progresso nos costumes da Humanidade.

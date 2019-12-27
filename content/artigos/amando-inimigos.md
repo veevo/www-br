@@ -14,6 +14,7 @@ topics:
 - indulgencia
 - amor
 - tolerancia
+- oracao
 ---
 
 Você já percebeu que há pessoas que nos exigem um pouco mais de esforço para

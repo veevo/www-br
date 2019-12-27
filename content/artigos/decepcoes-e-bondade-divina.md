@@ -12,6 +12,7 @@ topics:
 - bondade
 - felicidade
 - amor
+- oracao
 ---
 
 A felicidade não é deste mundo constitui uma citação bastante conhecida.

@@ -10,6 +10,7 @@ topics:
 - justica
 - perdao
 - sabedoria
+- oracao
 ---
 
 Se alguém lhe atirasse uma pedra, o que você faria com ela?

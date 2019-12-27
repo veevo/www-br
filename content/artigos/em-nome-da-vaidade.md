@@ -8,6 +8,7 @@ topics:
 - etica
 - respeito
 - sabedoria
+- crianca
 ---
 
 Na antiga china os príncipes se casavam com meninas entre 12 e 13 anos. As

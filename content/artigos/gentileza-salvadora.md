@@ -15,6 +15,8 @@ topics:
 - auxilio
 - amor
 - sinceridade
+- oracao
+- crianca
 ---
 
 

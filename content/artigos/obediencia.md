@@ -16,6 +16,7 @@ topics:
 - amor
 - pureza
 - respeito
+- oracao
 ---
 
 Em sua Carta aos Hebreus, o Apóstolo Paulo de Tarso escreveu sobre a obediência

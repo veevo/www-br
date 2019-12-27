@@ -8,6 +8,9 @@ topics:
 - raiva
 - esforco
 - amor
+- oracao
+- familia
+- mae
 ---
 
 Os afazeres nas manhãs de sábado, naquela família, eram rotineiros, quase

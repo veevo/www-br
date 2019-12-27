@@ -11,6 +11,7 @@ topics:
 - coragem
 - esforco
 - amor
+- oracao
 ---
 
 De um modo geral, a expressão servo de Deus nos remete a religiosos, encerrados

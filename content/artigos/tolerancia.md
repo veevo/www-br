@@ -9,6 +9,8 @@ topics:
 - amor
 - paciencia
 - tolerancia
+- gentileza
+- familia
 ---
 
 Muitas vezes, no nosso dia-a-dia, costumamos reclamar de algumas pessoas que

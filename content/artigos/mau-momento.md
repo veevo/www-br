@@ -10,6 +10,7 @@ topics:
 - compreensao
 - humildade
 - sensibilidade
+- oracao
 ---
 
 

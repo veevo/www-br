@@ -13,6 +13,8 @@ topics:
 - dignidade
 - disciplina
 - felicidade
+- oracao
+- crianca
 ---
 
 Toda gente fala da desgraça, toda gente já a sentiu e julga

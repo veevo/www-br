@@ -3,6 +3,8 @@ title: O tempo do Cristo
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
+- vicios
+- drogas
 - tempo
 - jesus
 - alcoolismo
@@ -10,6 +12,7 @@ topics:
 - felicidade
 - amor
 - respeito
+- mae
 ---
 
 O tempo do Cristo

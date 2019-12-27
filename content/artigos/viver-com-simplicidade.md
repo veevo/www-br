@@ -9,6 +9,7 @@ topics:
 - competitividade
 - serenidade
 - tranquilidade
+- familia
 ---
 
 Uma vida simples, com prazeres singelos. Parece atraente? Para alguns, a poesia

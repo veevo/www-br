@@ -16,6 +16,9 @@ topics:
 - esforco
 - perdao
 - amor
+- gentileza
+- oracao
+- mae
 ---
 
 O cárcere fora construído em pedra nua, nos arredores de Jerusalém. Nele, os

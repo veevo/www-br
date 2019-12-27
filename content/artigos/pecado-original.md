@@ -13,6 +13,7 @@ topics:
 - paciencia
 - pureza
 - sensibilidade
+- crianca
 ---
 
 A humanidade é essencialmente díspar em suas características.

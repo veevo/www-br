@@ -16,6 +16,7 @@ topics:
 - amor
 - mansidao
 - paciencia
+- oracao
 ---
 
 Pai nosso, que estás no céu, na terra, no fogo, na água e no ar. Pai nosso,

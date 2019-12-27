@@ -9,6 +9,7 @@ topics:
 - justica
 - perdao
 - responsabilidade
+- familia
 ---
 
 A vingança é uma espécie de justiça bárbara, de tal maneira que quanto mais a

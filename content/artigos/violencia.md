@@ -13,6 +13,7 @@ topics:
 - respeito
 - tolerancia
 - tranquilidade
+- oracao
 ---
 
 Um tema muito debatido nos dias atuais, é a violência.

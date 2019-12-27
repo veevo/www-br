@@ -7,6 +7,7 @@ topics:
 - vinganca
 - amor
 - responsabilidade
+- familia
 ---
 
 Um simples adesivo, fixado num vidro de carro, revela uma filosofia de vida

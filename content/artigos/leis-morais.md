@@ -13,6 +13,7 @@ topics:
 - justica
 - amor
 - respeito
+- oracao
 ---
 
 A lei de gravitação universal é uma das leis que regem o mundo físico. Isso

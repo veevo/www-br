@@ -11,6 +11,7 @@ topics:
 - justica
 - felicidade
 - sabedoria
+- oracao
 ---
 
 O ser humano nunca sentiu tanta necessidade de encontrar paz íntima, como nos

@@ -15,6 +15,7 @@ topics:
 - felicidade
 - amor
 - respeito
+- crianca
 ---
  
 Quando o assunto é doença, todos temos uma história para relatar. Não existe

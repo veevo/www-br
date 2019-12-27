@@ -9,6 +9,8 @@ topics:
 - trabalho
 - aprendiz
 - dignidade
+- oracao
+- familia
 ---
  
 

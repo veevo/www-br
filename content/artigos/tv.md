@@ -16,6 +16,9 @@ topics:
 - respeito
 - responsabilidade
 - seriedade
+- oracao
+- crianca
+- familia
 ---
 
 Qual sua opinião sobre os programas da nossa televisão? A pergunta dirigida a

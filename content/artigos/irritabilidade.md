@@ -10,6 +10,7 @@ topics:
 - felicidade
 - humildade
 - amor
+- oracao
 ---
 
 Pedro, Elizabeth e José estavam reunidos a tarde toda, envolvidos no trabalho
