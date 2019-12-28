@@ -11,8 +11,6 @@ topics:
 ---
 
 
-Jejum e oração
-
 Jesus havia descido do Monte onde há pouco, Pedro, Thiago e João haviam
 presenciado o fenômeno da transfiguração.
 
@@ -93,5 +91,6 @@ Perante qualquer dificuldade que venhamos a enfrentar, lembremos da lição do
 jejum e da oração. Lembremos deste medicamento poderoso de que todos nós
 dispomos.
 
-                                                   Redação do Momento Espírita.
-                                                                 Em 26.03.2009.
+## Source
+Redação do Momento Espírita.  
+Em 26.03.2009.

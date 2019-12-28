@@ -121,5 +121,4 @@ Espírita, v. 5, ed. Fep.
 
 Em 25.06.2012.
 
-
 [Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=992)

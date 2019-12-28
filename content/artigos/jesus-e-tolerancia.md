@@ -80,5 +80,4 @@ Equipe de Redação do Momento Espírita, adaptação do cap.
 Jesus e tolerância do livro Jesus e atualidade, de Divaldo Franco, 
 Ed. Pensamento.
 
-
 [Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1167)
