@@ -1,24 +1,27 @@
 ---
-title: Aniceto
+title: Afro Stefanini II
 date: 2019-02-01 19:00:00
 topics: 
-- spiritism
-- psicography
-- chico-xavier
-- nosso-lar
-- andre-luis
+- espiritismo
+- psicografia
+- espiritizar
+- alirio-cerqueira
+- divaldo-franco
+- honorio
+- joanna-de-angelis
 ---
 
 
-todo: Book - Os Mensageiros (Andre Luis)
+todo
 
 ## Bibliografias Relacionadas
 [Espírito Andre Luis](../andre-luis)   
-[[Espírito Emmanuel](../emmanuel)  
+[Espírito Emmanuel](../emmanuel)  
 [Chico Xavier](../chico-xavier)  
 
 ## Veja Também
 [Espiritismo](/espiritismo)  
+[Projeto Espiritizar](/sobre/espiritizar)  
 
 ## Fonte
 todo
