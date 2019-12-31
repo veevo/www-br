@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - vaidade
 - apego
+- julgamento
 - desapego
 - riqueza
 - consumismo
