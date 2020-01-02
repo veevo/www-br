@@ -18,6 +18,7 @@ topics:
 - tranquilidade
 - crianca
 - familia
+- misericordia
 ---
 
 Como anda nossa tolerância?

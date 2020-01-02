@@ -10,6 +10,7 @@ topics:
 - leis-divinas
 - confianca
 - crianca
+- misericordia
 ---
 
 Você já pensou no que significam as oportunidades em sua vida?

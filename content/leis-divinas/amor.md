@@ -1,15 +1,59 @@
 ---
-title: Love
+title: Lei do Amor
 description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 date: 2019-01-11 13:00:00
-tags: 
-- divine-law
+topics: 
+- leis-divinas
+- amor
+- justica
+- caridade
+- deus
 ---
 
-Love is the basis of all of God’s laws and gifts God has given us. It is the driving force for all progress and the constant state of being for all superior spirits. It is the antitheses for the materialist, instinct driven view of the universe man, in his ignorance, lives by. Unselfish love was the message Jesus brought to humanity and died on the cross to make sure the lesson was never forgotten. 
+O amor é a base de todas as leis e dons de Deus que Deus nos deu. É o força
+motriz para todo o progresso e o estado constante de ser para todos os
+superiores Espíritos. 
 
-## See Also
-TODO
+São as antíteses para a visão materialista e instintiva do homem universo, em
+sua ignorância, vive por. O amor altruísta era a mensagem de Jesus trouxe para a
+humanidade e morreu na cruz para se certificar de que a lição nunca foi
+Esquecido. 
 
+
+## Amor ao próximo
+é o fundamento maior para a elevação espiritual. Amar a quem nos ama é muito
+fácil... Agora, "amar ao próximo como a si mesmo", quando se trate de um
+inimigo, é preciso, de fato, muita grandeza de alma. Mas, lembre-se: "o
+adversário que você julga perverso talvez seja apenas um necessitado de
+compreensão" (andré luiz, através de chico xavier, sinal verde)
+
+## Amar ao próximo como princípio de superioridade
+todos achamos os animais abaixo da nossa condição, mas quantos de nós, em muitos
+instantes, não agem animalescamente? não são a força, as armas, o dinheiro, a
+posição, nem mesmo a cultura ou o cabedal intelectual que fazem o homem superior
+perante deus; é pela mente perseverando no bem, que o ser humano cresce. Amar ao
+próximo como a si mesmo não é covardia nem fraqueza; estas vêm do orgulho,
+apenas. Quando vencemos o orgulho, o egoísmo e o preconceito, chegamos à lei do
+amor.
+
+
+## Leis Relacionadas
+[Lei Natural](../natural)  
+[Lei de Amor](../amor)  
+[Lei de Justiça](../justica)  
+[Lei de Sociedade](../sociedade)  
+
+## Expressões Relacionadas
+[Livre Arbítrio](/sobre/livre-arbitrio)  
+[Deus](/sobre/deus)
+
+## Bibliografia Recomendada
+O livro dos espíritos, Allan Kardec  
+
+## Veja Também
+[Espiritismo](/espiritismo)
+
+## Fonte
+[CE Ismael | Lei de Caridade](https://www.ceismael.com.br/download/apostila/apost1.htm)
 
 

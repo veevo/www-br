@@ -12,6 +12,7 @@ topics:
 - felicidade
 - sabedoria
 - oracao
+- misericordia
 ---
 
 O ser humano nunca sentiu tanta necessidade de encontrar paz íntima, como nos

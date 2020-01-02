@@ -2,8 +2,8 @@
 title: Evolution
 description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 date: 2019-01-11 13:00:00
-tags: 
-- divine-law
+topics: 
+- leis-divinas
 ---
 
 Lei a qual todos os espíritos estão subordinados. Todos os espíritos progridem. Jesus, o espírito mais iluminado que já encarnou na terra, já foi um antropófago, um selvagem.Assim como um assassino chegará, mais tempo menos tempo, de acordo com o seu progresso ,a ser um regente espiritual de um planeta , um anjo, um arcanjo e assim por diante.
@@ -26,5 +26,22 @@ O que é o espiritismo, Allan Kardec
 
 TODO
 
+
+## Leis Relacionadas
+[Lei da Causa e Efeito](../cause-effect)  
+[Lei do Mérito](../merito)  
+
+## Expressões Relacionadas
+[Casualidade](/sobre/casualidade)  
+[Carma](/sobre/carma)
+
+## Bibliografia Recomendada
+O livro dos espíritos, Allan Kardec  
+Ação e reação, André Luiz  
+O céu e o inferno, Allan Kardec  
+
+## Fontes
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)  
+[O Consolador | O Espiritismo responde](http://www.oconsolador.com.br/ano8/371/oespiritismoresponde.html)
 
 

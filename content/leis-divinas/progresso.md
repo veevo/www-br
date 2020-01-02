@@ -1,24 +1,59 @@
 ---
-title: Preservation
+title: Lei do Progresso
 description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 date: 2019-01-11 13:00:00
-tags: 
-- divine-law
+topics: 
+- leis-divinas
+- progresso
+- destruicao
+- reproducao
 ---
 
-Human Beings are given the free will to act, but they must answer for the consequences of their actions.
+Sendo o estado natural o retorno ao primitivismo, de logo se vê que o homem não
+pode retroagir em sua evolução e, como ensinam os espíritos, o estado natural é
+transitório e o homem o deixa pelo progresso e pela civilização; pois, como lei
+natural rege toda condição humana, o homem progride na medida em que melhor
+compreende e melhor pratica essa lei. 
 
-Progress is vital to the evolution of a society. Which means that the scientific discoveries that change our society daily, are actually a vital part of God’s plan for all of us. Of course the ethical evolution of a society is also a critical part of this progress. So when scientific discoveries are applied in a society void of solid ethical principles, these tools become instruments of harm instead of the instruments of learning they were intended to be used for.
+"O homem se desenvolve por si mesmo, naturalmente, mas nem todos progridem ao
+mesmo tempo e de igual maneira; é então que os mais adiantados ajudam os outros
+a progredir, pelo contato social".
 
-As for the individual the Law of Progress means that a person is always learning and evolving. A person can get caught up in obsessions and destructive behavior but they can never forget those lessons that have truly been learned or loose the evolution gained from such learning. 
+## Progresso moral e progresso intelectual
+embora o progresso intelectual possa auxiliar o progresso moral, os dois não
+caminham paralelamente. Pelo intelecto, o homem, mais facilmente, distingue o
+bem do mal, o certo do errado. Assim, pelo desenvolvimento da inteligência,
+tendo o homem o livre-arbítrio concedido por deus, passa a ter maiores
+responsabilidades. 
 
-The progress of humanity, which is constant and never reverses, follows a master plan, whereby humans and societies must evolve, both intellectually and morally.  It is a living force; human actions and laws may block it temporarily, but will always be eventually overthrown.  As humanity evolves, human law will also evolve to become more equitable and aligned with natural laws.  When a people fails to progress at a reasonable pace, a major shock, either physical or ethical, may befall them as a way of speeding their transformation, in accordance with the design of Providence.  Intellectual progress helps lead to ethical progress by making people more discerning and better at making choices.  The two great obstacles to ethical progress are pride and selfishness¹. 
+Quando se encontram indivíduos ou povos mais esclarecidos intelectualmente e,
+entretanto, mais pervertidos, é porque o progresso completo requer tempo, é
+feito passo a passo. Mas, mesmo assim, ninguém pode deter a marcha do progresso,
+"porque é uma condição da natureza humana".
 
-¹ See "The Spirits' Book" for for sub-items: Nations in Decline, Civilization, Progress of Human Law, The Contribution of the Spiritist Doctrine)
+## Povos degenerados, legislação humana e influência do espiritismo no progresso
+Os povos degenerados progredirão pela dor, pelo sofrimento e chegarão à
+perfeição, porque deus não desampara ninguém. A legislação humana progredirá com
+a elevação moral do homem. O Espiritismo, fazendo o homem conhecer-se a si
+mesmo, pela reencarnação, mostra-lhe o caminho do progresso. 
 
 
-## See Also
-TODO
 
+## Leis Relacionadas
+[Lei Natural](../natural)
+[Lei da Conservação](../conservacao)  
+[Lei da Destruição](../conservacao)  
+[Lei de Sociedade](../sociedade)  
 
+## Expressões Relacionadas
+[Livre Arbítrio](/sobre/livre-arbitrio)  
+[Deus](/sobre/deus)
 
+## Bibliografia Recomendada
+O livro dos espíritos, Allan Kardec  
+
+## Veja Também
+[Espiritismo](/espiritismo)
+
+## Fonte
+[CE Ismael | Lei do Progresso](https://www.ceismael.com.br/download/apostila/apost1.htm)

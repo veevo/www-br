@@ -7,6 +7,7 @@ topics:
 - justica
 - deus
 - mae
+- misericordia
 ---
 
  Eles eram jovens, amáveis e simpáticos. Seus semblantes irradiavam alegria.

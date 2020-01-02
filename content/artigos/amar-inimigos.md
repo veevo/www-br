@@ -13,6 +13,7 @@ topics:
 - justica
 - felicidade
 - amor
+- misericordia
 ---
 
 Será possível estender o amor até mesmo aos inimigos? Este sentimento sublime,

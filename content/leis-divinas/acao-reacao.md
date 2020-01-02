@@ -4,15 +4,16 @@ description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in 
 date: 2019-01-11 13:00:00
 image: "images/contact.jpg"
 topics: 
+- leis-divinas
 - acao-reacao
 - causa-efeito
 - karma
 ---
 
 A Lei de Ação e Reação é uma importante lei que nos ensina que tudo de bom ou
-ruim que hoje você fizer hoje, irá lhe beneficiar ou prejudicar amanhã. Ou, como
-nos ensinou [Jesus](/sobre/jesus), "a cada um será dado de acordo com suas
-obras". 
+ruim que fizermos, irá nos beneficiar ou prejudicar amanhã.
+[Jesus](/sobre/jesus) já nos ensinou sobre isso quando disse "a cada um será
+dado de acordo com suas obras". 
 
 Por exemplo, uma pessoa que hoje mata alguém, poderá ser assassinado (nesta ou
 em outra vida). Tudo o que a pessoa faz fica registrado. Assim, tudo o que

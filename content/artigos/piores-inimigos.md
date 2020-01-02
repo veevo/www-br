@@ -17,6 +17,7 @@ topics:
 - amor
 - oracao
 - familia
+- misericordia
 ---
  
 Jesus havia proferido o maravilhoso Sermão da Montanha há apenas um dia. As

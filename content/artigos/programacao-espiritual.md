@@ -6,6 +6,7 @@ topics:
 - discernimento
 - reencarnacao
 - crianca
+- misericordia
 ---
 
 Antes de renascer na carne, cada Espírito elabora uma programação a cumprir.

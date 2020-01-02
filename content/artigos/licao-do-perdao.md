@@ -15,6 +15,7 @@ topics:
 - respeito
 - solidariedade
 - familia
+- misericordia
 ---
 
 O que faríamos se, de repente, por uma circunstância qualquer, tivéssemos nas

@@ -12,6 +12,7 @@ topics:
 - esforco
 - amor
 - oracao
+- misericordia
 ---
 
 De um modo geral, a expressão servo de Deus nos remete a religiosos, encerrados

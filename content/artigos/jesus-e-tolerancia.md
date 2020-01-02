@@ -11,6 +11,7 @@ topics:
 - compaixao
 - responsabilidade
 - tolerancia
+- misericordia
 ---
 
 Em termos de psicologia profunda, a questão do julgamento das faltas alheias

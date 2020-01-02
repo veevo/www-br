@@ -11,6 +11,7 @@ topics:
 - companheirismo
 - responsabilidade
 - mae
+- misericordia
 ---
 
 Certamente, na quase totalidade dos distúrbios na área da sexualidade, a

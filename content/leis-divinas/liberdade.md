@@ -1,19 +1,92 @@
 ---
-title: Love
+title: Lei de Liberdade
 description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 date: 2019-01-11 13:00:00
-tags: 
-- divine-law
+topics: 
+- leis-divinas
+- liberdade
+- fatalidade
+- acaso
 ---
 
-Personal freedom is a natural right, but absolute freedom in our actions can not exist for we all need each other and two or more people together always have reciprocal rights and duties to respect. The absolute subjection of one human being to another (slavery in whatever form) is contrary to natural law and will disappear with progress.  Also, the more developed one's reason, the more responsible one is for such treatment of another.  Abuse of position, skills, power, etc. by individuals, groups, and nations is never justified before God's law.  It is only in thought that we can enjoy absolute liberty, which may be temporarily hindered but never annihilated.  Even so, we area always responsible to God for our thoughts, which carry their natural consequences. Freedom of conscience, a characteristic of true civilization and progress, arises naturally from freedom of thought, and only God has the right to intervene in matters of conscience. To offend others whose beliefs are different shows a lack of compassion and is an infringement on others' freedom of thought.  Gentleness and compassion, never force, should be used to convince.
+## Liberdade
+senso comum — faculdade de cada um agir ou decidir segundo a sua própria
+determinação, sem submeter-se à vontade alheia.
 
-Freedom of action, or free will, develops with our freedom of thought and conscience.  It can be exercised according to our spiritual evolution and present physical stage as humans. In humans, it also suffers the influence of matter, including the particular conditions of a given body, as well as some limits created by social status.  We are, however held responsible for exhibiting the efforts to overcome such influences. Voluntary deprivation of reason, i.e. drunkenness and other self-induced conditions, are contrary to natural law.
+## Liberdade, pensamento e ação
+Entre a vontade e o pensamento deve-se colocar a liberdade de pensar, e entre o
+pensamento e a ação, coloca-se a liberdade de agir.
 
-There is no real "fate", as the term is commonly understood, with the exception of the time of birth, death, and specific life events, including trials, both physical and ethical.  These events may be chosen by a spirit, before a given incarnation, or they may be chosen for him if his developmental states so requires.  In ethical trials, a spirit always preserves its freedom to chose between good and bad. At times, if it is compatible with our life path, we can, through the strong merit of our will and actions, prevent certain foreordained events from happening.  Most often, the future is hidden from our knowledge in order to allow for our freedom and ability to act in the present with initiative, and to make our own choices.  Rarely, however, it may be revealed in order to expedite a particular end by influencing someone to act differently.
+## Liberdade na lei dos homens
+A lei maior (constituição de um país) garante a liberdade de associação,
+comércio, pensamento, reunião, industrial, política, profissional, locomoção
+(ir, vir ou ficar) etc.
 
-## See Also
-TODO
+## Liberdade sem limites
+Não há limitações à liberdade de pensamento, enquanto não exteriorizado. Todo
+indivíduo é livre para pensar o que quiser, pois goza da liberdade sem limites,
+nesse campo. Só responde perante deus.
+
+## Liberdade natural
+como emanação da vontade de deus, o homem goza de liberdade natural, mas não de
+liberdade absoluta, isso porque necessita do semelhante. 
+
+Dizem os espíritos: "desde que haja dois homens juntos, há direitos a respeitar
+e não terão eles, portanto, liberdade absoluta. (q. 826). Quando alguém se diz
+"liberal", com ares de bondade, mas age despoticamente, na família ou nas
+ocupações da vida, é que o egoísmo e o orgulho ainda lhe são companheiros
+inseparáveis.
+
+## Liberdade e escravidão
+Sendo a escravidão um mal, pois se trata de um abuso da força, que contraria a
+lei de deus (lei natural de liberdade), desaparecerá com o progresso moral do
+homem. Mesmo quando, pela desigualdade das aptidões, uns se colocam na
+dependência de outros, isso deverá servir para elevação, para aprendizado, para
+que o que sabe mais auxilie o que sabe menos. Assim, não sendo o homem tratado
+como coisa, como mercadoria, como máquina, mas como ser dotado de espírito.
+todos progridem, e não haverá degradação moral ou física.
+
+## Liberdade de consciência
+De acordo com o livro dos espíritos (q. 835), "a consciência é um pensamento
+íntimo, que pertence ao homem como todos os pensamentos". Assim, os homens (e os
+estados) não têm o direito de se oporem à liberdade de consciência ou de lhe
+imporem diretrizes, pois só a deus compete julgar a consciência dos homens.
+esclarecem os espíritos (q. 837): "a liberdade de consciência é uma das
+características da verdadeira civilização e do progresso".
+
+## Livre-arbítrio
+É o mesmo que liberdade de pensar e liberdade de agir. Sem o livre-arbítrio o
+homem seria um robô, simples máquina, guiado à distância. Tenho o meu
+livre-arbítrio, concedido por deus, e que me permite, interiormente, escolher a
+forma dos meus pensamentos, das minhas palavras e dos meus atos. 
+
+Pelo livre-arbítrio, sou fiscal de mim mesmo, policio as minhas ações, tendo
+como barreiras apenas os freios morais, que, se bem regulados por mim, me
+permitem o chamado auto-controle, mesmo quando tentado a fazer algo que não
+devo. Pelo livre-arbítrio, o homem é senhor de sua vontade, respondendo pelos
+seus atos, nesta e noutras vidas, pelo princípio da ação e reação, de causa e
+efeito, decorrente de leis da natureza (de deus).
+
+## Livre-arbítrio, fatalidade e ações humanas
+Fatalidade não existe; é o espírito, ao encarnar-se, que escolhe sua provação. O
+futuro não é dado a conhecer ao homem, para que não negligencie o presente. Os
+atos que pratica, bons ou maus, são reflexos de sua evolução moral e espiritual.
+tudo está nele.
 
 
+## Leis Relacionadas
+[Lei Natural](../natural)
+[Lei de Sociedade](../sociedade)  
 
+## Expressões Relacionadas
+[Livre Arbítrio](/sobre/livre-arbitrio)  
+[Deus](/sobre/deus)
+
+## Bibliografia Recomendada
+O livro dos espíritos, Allan Kardec  
+
+## Veja Também
+[Espiritismo](/espiritismo)
+
+## Fonte
+[CE Ismael | Lei de Liberdade](https://www.ceismael.com.br/download/apostila/apost1.htm)

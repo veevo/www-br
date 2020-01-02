@@ -5,6 +5,7 @@ image: "images/masonary-post/post-2.jpg"
 topics: 
 - discricao
 - jesus
+- misericordia
 ---
 
 Narra o Evangelho de Mateus que, quando os inimigos de Jesus O tentaram

@@ -7,6 +7,7 @@ topics:
 - oracao
 - humildade
 - oracao
+- misericordia
 ---
 
 A humildade é uma das mais difíceis virtudes a ser conquistada.

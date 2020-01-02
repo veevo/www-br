@@ -1,22 +1,50 @@
 ---
-title: Destruction
+title: Lei da Destruição
 description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 date: 2019-01-11 13:00:00
-tags: 
-- divine-law
+topics: 
+- leis-divinas
+- destruicao
+- homicidio
+- suicidio
+- deus
 ---
 
-All things in the material world, everything from a human body to the worlds in our solar system will eventually end. The elements within them of course will simply change from one form to another. This change is a necessity because from it comes renewal. On a smaller scale on earth there is constant birth, death and rebirth, materially speaking. Fire and natural calamities bring much destruction but eventually it brings about renewal. For intelligent beings like us, destruction is just another tool for learning. As our bodies decay we endure and learn from these changes. For human societies, destruction and rebuilding means grouth and new opportunities for the society to take more positive paths to meet its goals.
+## Destruição necessária e abusiva
+O que chamamos de destruição é apenas transformação, com o objetivo de renovação
+e melhoramento dos seres. Não se deve destruir o ser antes do tempo. "O homem
+deve procurar prolongar sua vida para cumprir sua tarefa". (L. E., Q. 730). Os
+agentes destruidores naturais servem como elementos de equilíbrio da Natureza.
+Quando o homem destrói além das necessidades de alimentação e segurança, supera
+o animal e armazena débitos morais e, assim, estaciona a sua evolução
+espiritual. Pela imprecaução e vaidade.
 
-Now the forms of destruction caused by war and murder are not seen as part of the law of destruction. Life is sacred, and the intentional taking of a life is always a violation of divine law. And as such has clear and rational consequences in order for those involved to learn from such errors in judgment.
+## Flagelhos e guerras
+Os flagelos (fome, peste, intempéries, inundações fatais) são acertos da
+Natureza e servem como avisos aos homens (previdência e aperfeiçoamento). As
+guerras, por ambição ou por falta de compreensão da Lei de Deus, destinam-se ao
+progresso do homem atrasado moralmente (pela dor); os culpados pelas guerras
+necessitarão de várias encarnações para expiarem suas faltas.
 
-Destruction, functioning  with instinctual preservation, is a natural part of life.  Designed to establish balance and maintain an equilibrium in nature (and ranging from nature's food chain to natural calamities), it allows for renewal and transformation on Earth.  The need for destruction on each planet exists in proportion to the planet's material level.  All forms of destruction beyond the limits of necessity violate God's laws and indicate the predominance of humanity's physical nature over its spiritual one¹.
+## Assassínio, crueldade, duelo e pena de morte
+Matar alguém é atentar contra a Lei Natural; praticar a crueldade é próprio dos
+Espíritos atrasados; o duelo é homicídio ou suicídio: fere a Lei de Deus; a pena
+da morte representa a involução da sociedade-Estado, é a volta ao "dente por
+dente - olho por olho".
 
-¹ See "The Spirits' Book" for sub-items Natural Calamities, Wars, Murder, Cruelty, Duels, & Capital Punishment.
+## Leis Relacionadas
+[Lei da Conservação](../conservacao)
+[Lei Natural](../natural)  
 
+## Expressões Relacionadas
+[Livre Arbítrio](/sobre/livre-arbitrio)  
+[Deus](/sobre/deus)
 
-## See Also
-TODO
+## Bibliografia Recomendada
+O livro dos espíritos, Allan Kardec  
 
+## Veja Também
+[Espiritismo](/espiritismo)
 
-
+## Fonte
+[CE Ismael | Lei da Conservação](https://www.ceismael.com.br/download/apostila/apost1.htm#LEI%20DE%20CONSERVA%C3%87%C3%83O%20E%20LEI%20DE%20DESTRUI%C3%87%C3%83O)

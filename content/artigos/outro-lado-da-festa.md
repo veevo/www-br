@@ -12,6 +12,8 @@ topics:
 - adolescentes
 - carnaval
 - crianca
+- afinidade
+- obsessao
 ---
 
 Os preparativos para a grande festa estão sendo providenciados há meses.

@@ -16,6 +16,7 @@ topics:
 - respeito
 - vigilancia
 - sabedoria
+- misericordia
 ---
 
 Algumas pessoas têm estranhos conceitos a respeito dos Espíritos.

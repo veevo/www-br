@@ -7,6 +7,7 @@ topics:
 - humildade
 - amor
 - familia
+- misericordia
 ---
 
 O trigal maduro parecia um mar imenso a ondular ao sabor do vento que brincava

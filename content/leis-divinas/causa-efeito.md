@@ -1,15 +1,27 @@
 ---
-title: Cause and effect
+title: Lei de Causa e Efeito
 description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 date: 2019-01-11 13:00:00
-tags: 
-- divine-law
+topics: 
+- leis-divinas
+- acao-reacao
+- causa-efeito
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+A Lei da Causa e Efeito também é conhecida como lei de Ação e Reação.
 
-## See Also
-[Casuality](/about/casuality)
-
+Para saber mais sobre a Lei de Ação e Reação, [clique aqui](../acao-reacao).
 
 
+## Leis Relacionadas
+[Lei da Causa e Efeito](../cause-effect)  
+[Lei do Mérito](../merito)  
+
+## Expressões Relacionadas
+[Casualidade](/sobre/casualidade)  
+[Carma](/sobre/carma)
+
+## Bibliografia Recomendada
+O livro dos espíritos, Allan Kardec  
+Ação e reação, André Luiz  
+O céu e o inferno, Allan Kardec  
