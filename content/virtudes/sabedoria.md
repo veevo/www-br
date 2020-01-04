@@ -1,19 +1,18 @@
 ---
-layout: default-md
-section: Virtues
-title: Wisdom
-subtitle: TODO
+title: Sabedoria
+description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtue
+topics: 
+- virtudes
+- sabedoria
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+A qualidade de ter experiência, conhecimento e bom senso; a qualidade de ser sábio.
+	- "Ele também é um compositor realizado e bem usado para dispensar palavras de sabedoria."
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
+## Sinônimos
+	- conhecimento, aprendizagem, erudição, sofisticação, bolsa de estudos, filosofia, sabedoria
+	- sagacidade, inteligência, senso, bom senso, astúcia, astúcia, criteriosidade
+	- prudência, circunspecção, lógica, lógica, racionalidade, solidez, conveniência
+	- franqueza, solidez
 
-## See Also
-TODO
-
-
-<a href="./" class="button special">All Virtues</a>

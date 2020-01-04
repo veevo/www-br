@@ -1,19 +1,19 @@
 ---
-layout: default-md
-section: Virtues
-title: Generosity
-subtitle: TODO
+title: Generosidade
+description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtue
+topics: 
+- virtudes
+- generosidade
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+A qualidade de ser gentil e generoso.
+	"Ficamos verdadeiramente surpresos com sua generosidade esmagadora."
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
+## Sinônimos
+	- liberalidade, prodigalidade, magnanimidade, munificência, abertura, desmão livre, 
+	- altruísmo, bondade, benevolência
+	- caridade, grande coração, bondade
+	- abundância, abundante, copiosidade, prodigalidade, grandeza
+	- generosidade
 
-## See Also
-TODO
-
-
-<a href="./" class="button special">All Virtues</a>

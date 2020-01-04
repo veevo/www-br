@@ -2,14 +2,28 @@
 title: Disciplina
 description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtues
+topics: 
+- virtudes
+- disciplina
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+A prática de treinar as pessoas a obedecer às regras ou a um código de comportamento, usando punição para corrigir a desobediência.
+	- "Eles sabem que as formas de disciplina que recompensam o bom comportamento, em vez de punir o mau, são mais eficazes, mais seguras e promovem melhores relacionamentos em casa."
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
+Treinar (alguém) para obedecer a regras ou um código de comportamento, usando punição para corrigir a desobediência.
+	- "O menino de olhos inclinados levou um pouco mais de tempo, mas mostrou o mesmo comportamento obstinado eo xerife teve que discipliná-lo em conformidade."
 
-## See Also
-TODO
+## Sinônimos
+Substantivo:  
+	- campo (de estudo), ramo do conhecimento, assunto, área, especialidade
+	- bom comportamento, ordem, controle, obediência, autocontrole, autodisciplina, autogoverno, auto-comando, auto-contenção
+	- controle, treinamento, ensino, instrução, regulação, direção, ordem, autoridade, regra, rigor, mão firme, rotina, regime, perfuração, perfuração
+	- correção
+	- campo, assunto, área de assunto, estudo, bailiwick, campo de estudo
+
+Verbo:  
+	- controle, conter, regular, governar, verificar, meio-fio, controlar, freio, manso, trazer em linha
+	- trem, broca, ensino, escola, ônibus, regimento
+	- verificar, condição, trem
+	- resolver, correto
 

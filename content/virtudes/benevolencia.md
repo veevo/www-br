@@ -1,18 +1,19 @@
 ---
-layout: default-md
-title: Benevolence
-section: Virtues
-subtitle: TODO
+title: Benevolência
+description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtue
+topics: 
+- virtudes
+- benevolencia
+- indulgencia
+- caridade
 ---
 
-Benevolência [do latim benevolentia]. Qualidade do que é benevolente. Boa vontade para com alguém; estima e afeto.
+Uma inclinação para realizar atos gentis e caridosos.
 
+Um ato gentil.
 
-## See Also
-TODO
-
-
-<a href="./" class="button special">All Virtues</a>
+## Sinônimos
+	- bondade, bondade, grande coração, bondade, boa vontade, caridade, altruísmo, humanitarismo, compaixão, 
+	- generosidade, magnanimidade, munificência, altruísmo, abertura, beneficência, recompensa, piedade
+	- benefação

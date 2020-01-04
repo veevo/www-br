@@ -1,15 +1,19 @@
 ---
-title: Perseveranca
+title: Perseverança
 description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtues
+topics: 
+- virtudes
+- perseveranca
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+Firmeza em fazer algo, apesar da dificuldade ou atraso na obtenção de sucesso.
+	"No entanto, aqueles que planejam corretamente, estabelecem metas realistas e exercem paciência e perseverança podem encontrar sucesso."
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
-
-## See Also
-TODO
+## Sinônimos
+	- persistência, tenacidade, determinação, poder de permanência, infatigabilidade
+	- firmeza, propositalidade, paciência, resistência, aplicação, diligência
+	- dedicação, compromisso, obstinação, assiduidade, incansabilidade
+	- perseveração, persistência
+	- tenacidade, persistência, persistência, tenacidade, pertinacidade
 

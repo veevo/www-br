@@ -1,15 +1,19 @@
 ---
-title: Esforco Continuado
+title: Esforço
 description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtues
+topics: 
+- virtudes
+- esforco
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+Uma tentativa vigorosa ou determinada.
+	"Um exame post-mortem estava sendo realizado ontem em um esforço para determinar a causa exata da morte."
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
-
-## See Also
-TODO
+## Sinônimos
+	- esforço, energia, trabalho, esforço, aplicação, trabalho, poder, músculo, suor
+	- tentativa, tentativa, esforço, rachadura, tiro, facada, ensaio
+	- realização, realização, realização, resultado, feat, empresa, empresa, trabalho, triunfo, sucesso, golpe
+	- tentativa, esforço, tentar
+	- campanha, causa, cruzada, unidade, movimento
 

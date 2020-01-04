@@ -1,19 +1,28 @@
 ---
-layout: default-md
-section: Virtues
-title: Justice
-subtitle: TODO
+title: Justiça
+description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtue
+topics: 
+- virtudes
+- justica
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+Apenas comportamento ou tratamento.
+	- "Qualquer reunião nesta escala pedindo paz e justiça social teria sido emocionante."
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
+Um juiz ou magistrado, em particular um juiz da Suprema Corte de um país ou estado.
+	- "Ninguém deve negar o direito do chefe de justiça em qualquer circunstância para garantir a independência do judiciário."
 
-## See Also
-TODO
+A qualidade ou caráter de ser justo, em qualquer sentido dessa palavra.
 
+O estado de ser justo, ou manchas de forma livre ou manchas, a partir da pele; honestidade, a partir de lidar; franqueza, a partir de uma discussão, etc.
 
-<a href="./" class="button special">All Virtues</a>
+A propriedade de ser justo.
+
+## Sinônimos
+	- equidade
+	- beleza, beleza, virecidade
+	- imparcialidade, objetividade, neutralidade, desinteresse
+	- honestidade, justiça, moral, moralidade
+	- retribuição, compensação
+

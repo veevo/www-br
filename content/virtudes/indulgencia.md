@@ -1,19 +1,27 @@
 ---
-layout: default-md
-section: Virtues
-title: Indulgence
-subtitle: TODO
+title: Indulgência
+description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtue
+topics: 
+- virtudes
+- indulgencia
+- indulgence
+- charity
 ---
 
-Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum massa. Morbi eu faucibus massa. Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
+A ação ou fato de ceder.
+	- "Eu aposto que a maioria de vocês lendo isso pode se relacionar com a luta e para trás: indulgência vs virtude, comida de conforto vs combustível de fitness."
 
-Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis. Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est placerat tristique. Sed id sem et massa ornare pellentesque. Maecenas pharetra porta accumsan.
+Na Igreja Católica Romana, uma concessão do papa de remissão da punição temporal no purgatório ainda devido aos pecados após a absolvição. A venda irrestrita de indulgências por perdoadores foi um abuso generalizado durante o final da Idade Média.
+	- "A prática de conceder indulgências - remissão de punição para os pecados através da intercessão da Igreja - já tinha uma longa história."
 
-## See Also
-TODO
+Uma prorrogação do tempo em que uma conta ou dívida tem de ser paga.
+	- "É apenas concebido como uma indulgência oferecida pelo credor para o mutuário."
 
+## Sinônimos
+	- satisfação, gratificação, realização, saciation, apaziguamento, acomodação
+	- tolerância, tolerância, tolerância, compreensão, bondade, compaixão
+	- simpatia, perdão, clemência, misericórdia, clemência
+	- clemência, clemência
+	- auto-indulgência
 
-<a href="./" class="button special">All Virtues</a>

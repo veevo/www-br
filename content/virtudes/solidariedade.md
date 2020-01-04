@@ -1,17 +1,19 @@
 ---
-layout: default-md
-section: Virtues
 title: Solidariedade
-subtitle: TODO
+description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtue
+topics: 
+- virtudes
+- solidariedade
 ---
 
-Solidariedade - [de solidário]. Qualidade de solidário. caráter do que, de fato ou de direito, é solidário. Responsabilidade recíproca. 
+Unidade ou acordo de sentimento ou ação, especialmente entre indivíduos com um interesse comum; apoio mútuo dentro de um grupo.
+	- "Tal solidariedade agora se voltou para o apoio à ação mundial para erradicar o terror."
 
-## See Also
-TODO
+Um movimento sindical independente na Polônia que se desenvolveu em uma campanha de massa para a mudança política e inspirou a oposição popular aos regimes comunistas em toda a Europa Oriental durante a década de 1980.
 
+## Sinônimos
+	- unanimidade, unidade
+	- harmonia, consenso, concordência, cooperação, coesão
+	- fraternidade, apoio mútuo, concórdia
 
-<a href="./" class="button special">All Virtues</a>

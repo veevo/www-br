@@ -1,18 +1,23 @@
 ---
-layout: default-md
-section: Virtues
 title: Ética
-subtitle: TODO
+description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
-tags: 
-- virtue
+topics: 
+- virtudes
+- etica
 ---
 
-Ética [do grego ethos= costumes] - 1. Filos. Parte da Filosofia que estuda os valores morais e os princípios que devem nortear o comportamento humano; ciência dos princípios da moral; a moral.  2.  Estudo dos juízos referentes à conduta humana, suscetíveis de qualificação do ponto de vista do bem e do mal, abrangendo determinada sociedade ou com abrangência geral e absoluta.
+Princípios morais que governam o comportamento de uma pessoa ou grupo.
+	" É aqui que a moral e a ética podem e muitas vezes saem pela porta."
 
+Um conjunto de princípios morais, especialmente os relativos ou afirmar um grupo especificado, campo ou forma de conduta.
+	- "Seus escritos e endereços cada vez mais lidavam com a ética e a moralidade do fim da vida."
 
-## See Also
-TODO
+## Sinônimos
+	- código moral, moral, moralidade, valores, direitos e erros, princípios, ideais
+	- padrões (de comportamento), sistema de valores, virtudes, ditames de consciência
+	- filosofia moral
+	- moral, moralidade
+	- código ético
+	- princípio moral
 
-
-<a href="./" class="button special">All Virtues</a>
