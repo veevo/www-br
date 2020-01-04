@@ -95,8 +95,8 @@ Pela Prece, através dos bons Espíritos, somos atendidos por Deus. A prece com 
 [Deus](/sobre/deus)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
-O Espírito e o Tempo, Prof. Herculano Pires
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+O Espírito e o Tempo, Herculano Pires
 
 ## Veja Também
 [Espiritismo](/espiritismo)

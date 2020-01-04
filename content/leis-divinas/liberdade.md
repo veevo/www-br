@@ -83,7 +83,7 @@ tudo está nele.
 [Deus](/sobre/deus)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 
 ## Veja Também
 [Espiritismo](/espiritismo)

@@ -97,7 +97,7 @@ jornada no corpo físico.
 [Carma](/sobre/carma)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 
 ## Fontes
 [Momento Espírita | Herança](http://www.momento.com.br/pt/ler_texto.php?id=1380)  

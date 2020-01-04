@@ -91,8 +91,8 @@ Natural, porque ao homem é dado controlar-se: ele tem o livre-arbítrio.
 [Livre Arbítrio](/sobre/livre-arbitrio)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
-O Espírito e o Tempo, Prof. Herculano Pires
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+O Espírito e o Tempo, Herculano Pires
 
 ## Veja Também
 [Espiritismo](/espiritismo)

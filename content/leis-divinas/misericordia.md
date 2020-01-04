@@ -100,7 +100,7 @@ os infortúnios alheios.
 [Lei do Perdão](../perdao)  
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 O Evangelho segundo o Espiritismo, Allan Kardec  
 
 ## Fontes

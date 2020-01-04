@@ -11,10 +11,10 @@ Lei a qual todos os espíritos estão subordinados. Todos os espíritos progride
 É a lei que mais deixa clara a tão falada justiça divina, que muitas religiões apregoam mas se contradizem em seus ensinamentos, e só a doutrina espírita sob a luz dos ensinamentos reencarnatórios explica com clareza. Não há espíritos criados á parte como ensinam outras religiões.Todos são criados da mesma chama divina e todos espíritos são parte desse todo cósmico.Tomando em consideração isso, é lícito dizer que todos nós chegaremos um dia a sermos cristos.Assim como já fomos aborígenes, antropófagos e mais para o passado, animais, vegetais,minerais...
 
 De acordo com a lei da evolução que proporciona á todos os espíritos chances iguais de progresso.E todos eles irão irão invariávelmente progredir.
-(Leitura básica: "O livro dos espíritos" de Allan Kardec, "A gênese" de Allan Kardec , "Evolução em dois mundos" ditado pelo espírito André Luiz e psicografado pelos médiuns Francisco Cândido Xavier e Waldo Vieira e "O que é o espiritismo"de Allan Kardec) 
+(Leitura básica: "[O Livro dos Espíritos](/livros/livro-dos-espiritos)" de Allan Kardec, "A gênese" de Allan Kardec , "Evolução em dois mundos" ditado pelo espírito André Luiz e psicografado pelos médiuns Francisco Cândido Xavier e Waldo Vieira e "O que é o espiritismo"de Allan Kardec) 
 
 ## Recommended Bibliography
-O livro dos espíritos, Allan Kardec    
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec    
 A gênese, Allan Kardec  
 Evolução em dois mundos, André Luiz  
 O que é o espiritismo, Allan Kardec  
@@ -36,7 +36,7 @@ TODO
 [Carma](/sobre/carma)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 Ação e reação, André Luiz  
 O céu e o inferno, Allan Kardec  
 

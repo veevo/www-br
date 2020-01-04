@@ -68,8 +68,8 @@ coração e as da inteligência.
 [Prece](/sobre/prece)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
-O Espírito e o Tempo, Prof. Herculano Pires
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+O Espírito e o Tempo, Herculano Pires
 
 ## Fonte
 [CE Ismael | Lei do Trabalho](https://www.ceismael.com.br/download/apostila/apost1.htm#LEI%20DO%20TRABALHO)

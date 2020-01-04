@@ -689,7 +689,7 @@ reflexão mental”.
 [Carma](/sobre/carma)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 Ação e reação, André Luiz  
 O céu e o inferno, Allan Kardec  
 

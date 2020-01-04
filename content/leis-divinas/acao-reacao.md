@@ -11,8 +11,8 @@ topics:
 ---
 
 A Lei de Ação e Reação é uma importante lei que nos ensina que tudo de bom ou
-ruim que fizermos, irá nos beneficiar ou prejudicar amanhã.
-[Jesus](/sobre/jesus) já nos ensinou sobre isso quando disse "a cada um será
+ruim que fizermos, irá nos beneficiar ou nos prejudicar amanhã.
+[Jesus](/sobre/jesus) nos ensinou sobre esta lei quando disse "a cada um será
 dado de acordo com suas obras". 
 
 Por exemplo, uma pessoa que hoje mata alguém, poderá ser assassinado (nesta ou
@@ -88,7 +88,7 @@ Universo.” (Emmanuel, em Na Era do Espírito, cap. 12.)
 [Carma](/sobre/carma)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 Ação e reação, André Luiz  
 O céu e o inferno, Allan Kardec  
 

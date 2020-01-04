@@ -72,7 +72,7 @@ o vosso espírito limitado ainda não pode abranger o conjunto”. (33)
 [Carma](/sobre/carma)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 
 ## Fonte
 Livro dos Espíritos, Q 540, Q 8  

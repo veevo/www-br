@@ -61,7 +61,7 @@ O importante é viver bem o presente.
 [A bênção do esquecimento](/artigos/bencao-do-esquecimento)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 
 ## Fonte
 

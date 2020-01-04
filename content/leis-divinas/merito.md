@@ -109,7 +109,7 @@ Toda glória tem preço.
 [Esforço que compensa](../artigos/esforco-que-compensa)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 
 ## Fonte
 Emmanuel, Justiça Divina - Lei do Mérito

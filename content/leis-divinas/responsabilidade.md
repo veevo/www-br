@@ -83,7 +83,7 @@ na área de seus interesses.
 [Lei da Caridade](../caridade) 
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec   
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec   
 Encontro Marcado, Emmanuel   
 Entre Irmãos de Outras Terras, Chico Xavier  
 

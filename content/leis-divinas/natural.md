@@ -61,8 +61,8 @@ Está no livro da consciência.
 [Prece](/sobre/prece)
 
 ## Bibliografia Recomendada
-O livro dos espíritos, Allan Kardec  
-O Espírito e o Tempo, Prof. Herculano Pires
+[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+O Espírito e o Tempo, Herculano Pires
 
 ## Fonte
 [CE Ismael | Lei de Adoração](https://www.ceismael.com.br/download/apostila/apost1.htm#LEI%20DE%20ADORA%C3%87%C3%83O)
