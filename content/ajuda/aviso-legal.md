@@ -6,7 +6,7 @@ date: 2019-02-13 14:00:00
 
 ## Conteúdo
 Acreditamos fielmente no poder da [Educação](/pilares/educação). Por isto, somos
-rigorosos quanto aos autores que publicamos. Dada a complexidade do tema só
+rigorosos quanto ao conteúdo que publicamos. Dada a complexidade do tema que expomos, só
 publicamos conteúdo de uma pequena lista de autores reconhecidamente idôneos. O único
 conteúdo que escrevemos são páginas como esta, descrições ou introduções. 
 
@@ -26,24 +26,12 @@ erros podem ocorrer - seja na revisão, seja na tradução - pois ainda
 não temos tradutores nativos em todas as línguas que operamos.
 
 Mas tenha certeza que, como afirma nosso pilar
-[Abertura](/ajuda/pilares/#openness), nos manteremos sempre um canal aberto para
+[Abertura](../pilares/#openness), nos manteremos sempre um canal aberto para
 que nossos leitores possam reportar e/ou corrigir erros quando aplicável.
 
 ## Privacidade
-Somos uma organização independente, extremamente zeloza pela sua privacidade,
-desenvolvendo este trabalho independente apenas com voluntários. Não
-hospedamos anúncios, não armazenamos cookies nem recebemos nenhum benefício
-financeiro vindo deste site. Nós acreditamos que por sermos uma [organização sem fins
-lucrativos](/pilares/sem-fins-lucrativos) fornece uma base sólida para que
-alcancemos nossos objetivos respeitando a sua privacidade.
-
-Por favor, observe também que, devido à sua simplicidade, nosso site restringe
-ao máximo, as dependências a fornecedores de software. Além disso, nossa base
-de código aberta, garante que o que aqui afirmamos seja auditado sempre
-que necessário.
-
-Também não armazenamos nenhuma informação sua em bancos de dados. Toda a
-interação neste site é privada, anônima e não é armazenada.
+Para mais informações sobre nossa política de privacidade, por favor [visite
+esta página](../privacidade).
 
 ## Fornecedores
 A fim de minimizar nossos custos, contamos com generosos serviços de
@@ -58,8 +46,8 @@ preferência.
 Nós nos esforçamos para linkar e disponibilizar para download apenas material
 livremente distribuível. Como a maior parte do conteúdo disponível neste site
 foi lançada há muito tempo, foi ditada por [Espíritos
-Superiores](/sobre/espíritos superiores) ou [psicografada] (/sobre/psichografia)
-por [Médiuns](/sobre/médio) que não impõem direitos autorais rígidos sobre as
+Superiores](/sobre/espirito-superior) ou [psicografada](/sobre/psicografia)
+por [Médiuns](/sobre/medium) que não impõem direitos autorais rígidos sobre as
 obras dos Espíritos, e pelo fato de não nos beneficiarmos financeiramente desse
 trabalho, nós publicamos gratuitamente parte deste conteúdo. 
 
@@ -76,12 +64,14 @@ diretamente com o proprietário do canal. Caso ainda persistam dúvidas,
 Todo conteúdo publicado neste site é de autoria de autores e editoras confiáveis.
 Embora revisemos e validemos todos os conteúdos publicados neste site
 segundo os princípios da [Doutrina Espírita](/espiritismo), às vezes cometemos erros.
-As possíveis razões são: 
-* erro na fonte - como os dados foram importados, 
-* tradução - como foram traduzidos ou mesmo publicação de suma ou informações incorretas. Se você detectar um erro, sinta-se livre
-* revisão - 
 
-Caso encontre algum erro, por favor, [relate-o para nós](/ajuda/reportar-erro).
+Dentre as possíveis razões encontramos:
+* erro na digitalização - é possível que o material digitalizado que utilizamos contivesse errors;
+* erro na importação - nosso sistema ao importar o conteúdo, pode ter alterado a essência do texto original;
+* tradução - nossos voluntários traduzem obras em diversas línguas e mesmo após revisão, podem haver erros;
+* revisão - após a importação ou tradução, o erro não foi percebido por nossos voluntários.
+
+Caso encontre algum erro, por favor, reporte-o para nós clicando aqui.
 
 ## Remoção de conteúdo
 Caso qualquer conteúdo aqui publicado viole direitos autorais, sinta-se livre
@@ -93,10 +83,10 @@ responder a perguntas o mais rápido possível. Enquanto fazemos nossos melhores
 esforços para responder o mais rapidamente possível, por favor note que somos uma
 organização completamente gerida por voluntários e atrasos podem ocorrer. 
 
-Sinta-se livre para [entrar em contato](/help/contact-us) conosco e ficaremos
+Sinta-se livre para [entrar em contato](../contact-us) conosco e ficaremos
 felizes em retornar para você.
 
 ## Tópicos relacionados
-[Ajuda - Pilares](/ajuda/pilares)  
-[Ajuda - Contato](/help/contact-us) 
+[Ajuda - Pilares](../pilares)  
+[Ajuda - Contato](../contact-us) 
 [Ajuda - Contribuir](/contribuir)  

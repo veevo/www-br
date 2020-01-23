@@ -1,5 +1,3 @@
-
-
 ---
 title: Sobre Nós
 descrição: Saiba mais sobre Veevo.org, nossa missão, nossos pilares e o que esperamos realizar.
@@ -7,7 +5,7 @@ date: 2019-02-13 14:00:00
 image: "images/contact.jpg"
 ---
 
-## Sobre o Portal Veevo
+## Sobre o grupo Veevo
 [Veevo.org] (//veevo.org) é um site totalmente independente que respeita sua
 privacidade completamente desenvolvido, mantido e administrado por uma
 comunidade de voluntários não-remunerados. 
@@ -67,18 +65,17 @@ e o [auto-conhecimento](/sobre/auto-conhecimento). Para isto, é importante que
 sejamos rigorosos quanto à qualidade do material que disponibilizamos para que
 não divulguemos conteúdo que não adira aos preceitos do
 [Espiritismo](/espiritismo).
-
 Por isso, só publicamos conteúdo de autores e de fontes confiáveis que respeitem e
 honrem fielmente a Doutrina Espírita e o Evangelho de Jesus. Essa rigidez é
 importante porque pequenas distorções podem causar grandes mal-entendidos.
 
 ## Traduções
 A grande maioria do material disponibilizado neste site foi originalmente
-publicado na Língua Portuguesa. Entretanto, eventualmente, também traduzimos
-conteúdo de outras línguas após revisão criteriosa de nossos voluntários, o que
-não significa que não haverão erros. 
+publicado na Língua Portuguesa e encontra-se disponível exatamente como
+originalmente digitalizado. Entretanto, também traduzimos conteúdo de outras
+línguas e os publicamos após revisão criteriosa de nossos voluntários. 
 
-Caso você perceba algum erro, por favor [entre em contato conosco](/contato).
+Caso você encontre algum erro, por favor reporte clicando aqui.
 
 ## Busca
 Não encontrou o que está procurando? Nosso site fornece uma [ferramenta de
@@ -121,7 +118,12 @@ que atrasos podem ocorrer.
 
 Visite a página [contato](/contato) para entrar em contato conosco.
 
-## Como começar?
+## Privacidade
+Para mais informações sobre nossa política de privacidade, por favor [visite
+esta página](../privacidade).
+
+
+# Como começar?
 Não sabe por onde começar? Sugerimos a que comece pela página
 [Iniciando](/iniciando) onde preparamos um passo-a-passo para ajudá-lo a
 construir um plano de estudo personalizado para você.
