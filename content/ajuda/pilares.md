@@ -1,44 +1,94 @@
 ---
-title: Pillars
-subtitle: Learn about our pillars - Spiritism, Education, Openness, Community and Zero Profit
+title: Nossos Pilares
+description: Conheça nossos Pilares e entenda como eles contribuem para a nossa visão, como nos orientam e preparam-nos para o futuro.
 date: 2019-02-13 14:00:00
+image: "images/contact.jpg"
 ---
 
-Veevo.org is an independent, privacy-focused, completely volunteered developed and run organization. We don't host ads neither get any financial benefit from this site.
+Veevo.org é uma organização independente, sem fins lucrativos, focada na
+sua privacidade, completamente desenvolvida e gerida por uma equipe de
+dedicados voluntários não remunerados. Nós não hospedamos anúncios nem obtemos
+qualquer benefício financeiro deste site. 
 
-Reading about our pillars so you understand better how we think.
+Nesta página, você vai entender mais sobre os nossos pilares:  
+Espiritismo, Educação, Colaboração e Sem Fins Lucrativos.
 
-## Spiritism
-Our first, and most important pillar is [Spiritism](/spiritism): [Jesus](/about/jesus)'s legacy to the [regeneration](/spiritism/worlds/regeneration) of the humanity.
+## Espiritismo
+Nosso primeiro e essencial pilar é [Espiritismo](/espiritismo). É importante
+ressaltar que o [Espiritismo] (/espiritismo) não é obra de alguém. É a doutrina
+dos [Espíritos Superiores] (/sobre/superior-espíritos) prometida por
+[Jesus](/sobre/jesus) em [João 14:26] (/evanelho/jo/14/26): 
 
-Spiritism is not someone's work. It's the doctrine of the Spirits. It's [the Comforter promissed by Jesus](/messages/jesus/the-consoler) whose mission is to revive His Doctrine so much misinterpreted, distorted, misunderstood and ignored by the humanity for over 2000 years.
+> Mas aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse
+vos ensinará todas as coisas, e vos fará lembrar de tudo quanto vos tenho dito.
 
-Through Spiritism, tousands of books and uncountable reliable communications are happening every day talking humanity, science, philosophy, moral and religion.
+Através do Espiritismo, recebemos [milhares de livros](/livros) e um
+incontável número de [comunicações espirituais](/espiritismo/mediunidade/comunicacao) 
+todos os dias nos ensinando sobre auto-conhecimento, virtudes, ciência,
+filosofia, moral e religião.
 
-We also expect that all content in this site adheres to [Spiritim Teachings](/spiritism/teachings). If not, please [report an error](/report-error).
+Publicamos apenas conteúdo que seja fiel aos [ensinamentos
+Espíritas](/espiritismo/ensinamentos) e que seja de fonte confiável. Todo
+conteúdo antes de ser publicado é sempre revisado por um time de dedicados
+voluntários. 
 
-## Education
-Our second pillar is Education. We not only believe Education is a strong foundation to erradicate a lot of the [issues the world faces today](/issues) but is also a fundamentatal tool for self-awereness and moral development.
+Por favor, note que exigimos que todo o conteúdo exposto neste site respeite
+nossos termos legais. Para mais informação, leia nosso [aviso
+legal](../aviso-legal). Para reportar erros, por favor veja esta página.
 
-Education is also very important tool, as recommended by [The Spirit of Truth](/about/spirit-of-truth) on [Evangelho segundo Espiritismo, Capítulo VI - Item 5](/books/allan-kardec/gospel-according-spiritism/5-5):
-> Espíritas! amai-vos, este o primeiro ensinamento; instruí-vos, este o segundo. No Cristianismo encontram-se todas as verdades; são de origem humana os erros que nele se enraizaram. Eis que do além-túmulo, que julgáveis o nada, vozes vos clamam: “Irmãos! nada perece. Jesus Cristo é o vencedor do mal, sede os vencedores da impiedade.”
+## Educação
+Nosso segundo pilar é Educação. Acreditamos que apenas através da educação é 
+que podemos nos auto-conhecermos, desenvolver nossas virtudes e entender  
+[questões complexas que o mundo enfrenta hoje](/vícios).
 
-## Openness
-Everything that we do should be open to the public for inspection, adaptation and improvement. Nothing should be hidden. We [expose our code online](https://github.com/veevo), provide an open channel for [contribution](/contribute), [communication](/contact) and [error reporting](/report-error).
+Gostaríamos de ressaltar ainda que a educação também é citada pelo [Espírito da
+Verdade](/sobre/espírito-de-verdade) em [Evangelho de acordo com o Espiritismo,
+Cap VI - Item 5](/livros/gospel-according-spiritism/5-5) como um dos mais
+importantes ensinamentos que recebemos:
 
-We are also open to responding to [questions](/questions) and accepting requests of [articles](/articles). All for the benefit of the community.
+> Espíritas! amai-vos, este o primeiro ensinamento; instruí-vos, este o segundo. 
+No Cristianismo encontram-se todas as verdades; são de origem humana os erros que nele se enraizaram. 
+Eis que do além-túmulo, que julgáveis o nada, vozes vos clamam: “Irmãos! nada perece. 
+Jesus Cristo é o vencedor do mal, sede os vencedores da impiedade.”
 
-## Collaboration
-We believe that Collaboration is a strong tool to grow, share and learn. In fact, we follow the Spirits teachings who collaborated to build Spiritism and still collaborate today with us all the time. We also strongly believe that any person is allowed collaborate so everyone else benefits. Examples of how you could collaborate are: submitting translations, sharing, recommending articles, asking a question and event reporting and/or fixing errors.
+## Colaboração
+Acreditamos que todos se beneficiam de um ambiente colaborativo. Por isso,
+compartilhamos abertamente tudo o que fazemos com o público.
 
-## No Profit
-We don't host ads, we don't get any financial benefit from this site and we will never will. Veevo.org follows the [superior spirit's](/about/superior-spirits) teachings that no one should charge for this knowledge and that we should help each other without any secondary intention.
+Também acreditamos que a colaboração é uma ferramenta essencial para crescer, auxiliar
+e aprender. Seguimos os ensinamentos dos [Espíritos Superiores](/sobre/espíritos superiores)
+que colaboraram para nos transmitir o Espiritismo e ainda colaboram hoje connosco todo
+o tempo. Por isso, toda pessoa, desde que devidamente instruída será bem-vinda a
+participar de nossa comunidade.
 
-If ever, we kindly ask our readers to volunteer in [Spiritist Centers](/spiritism/centers), divulging Spiritism or working on a local charity. Check the [Charity - Virtue](/virtues/charity) page for more information on how we understand charity and how it is different from the materialist aspect of simply donating money.
+Caso queira saber mais sobre como colaborar, click aqui.
 
-# Related
-[Veevo.org - About Us](/about-us)  
-[Veevo.org - Disclaimer](/disclaimer)  
-[Veevo.org - Help](/help)  
+## Sem fins lucrativos
+Somos uma organização sem fins lucrativos. Na verdade, vamos além: optamos por
+operar com lucro zero. Não hospedamos anúncios, não pagamos funcionários e não
+exigimos doações.
 
-<a href="/get-started" class="button special">Get Started</a>
+Nossos custos operacionais são cobertos por doações generosas de colaboradores
+anônimos da comunidade Veevo. Para minimizar os custos, também executamos nossos
+serviços utilizando ferramentas de código livre/aberto e, quando possível,
+fazendo uso de plataformas abertas e gratuitas.
+
+O Espiritismo nos ensina que não devemos cobrar pelo que não nos pertence.
+Esperamos assim passar a mensagem de ajudar sem esperar nada em troca.
+Entretanto, gostaríamos de pedir gentilmente aos nossos leitores um favor: que
+dediquem parte de seu tempo em trabalhos voluntários sérios trabalhando em uma
+instituição de caridade local ajudando aos necessitados.
+
+E por falar em caridade, a única caridade que pedimos é que você ame a si mesmo,
+respeite o seu próximo e a Mãe Natureza. Visite nossa seção
+[Caridade](/virtudes/caridade) para compreender como nossa visão de
+caridade difere daquela que o mundo conhece.
+
+
+## Tópicos relacionados
+[Ajuda - Sobre nós](../sobre-nos)  
+[Ajuda - Entre em contato conosco](../contato)
+[Ajuda - Aviso](../aviso-legal)  
+[Ajuda - Contribuir](../contribuir)  
+[Ajuda - Política de Privacidade](.. /privacidade)
+

@@ -7,9 +7,8 @@ date: 2019-02-13 14:00:00
 ## Conteúdo
 Acreditamos fielmente no poder da [Educação](/pilares/educação). Por isto, somos
 rigorosos quanto aos autores que publicamos. Dada a complexidade do tema só
-publicamos conteúdo de uma pequena lista de autores selecionados. O único
-conteúdo que escrevemos nós mesmos são páginas como esta, descrições ou
-introduções. 
+publicamos conteúdo de uma pequena lista de autores reconhecidamente idôneos. O único
+conteúdo que escrevemos são páginas como esta, descrições ou introduções. 
 
 Quando o conteúdo não é de nossa autoria, nos esforçamos para fornecer a fonte
 original, autor nome, nome da publicação, data de acesso e informações
