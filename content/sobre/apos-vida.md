@@ -6,13 +6,12 @@ topics:
 ---
 
 ## Definição
+Após-vida é o termo dado ao período pós-desencarnação e entre encaranações.
 
-
-
-
+Ver: [Erraticidade](../erraticidade).
 
 ## Relacionado
-todo
+[Erraticidade](../erraticidade)
 
 ## Veja Também
 TODO

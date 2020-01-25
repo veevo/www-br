@@ -8,12 +8,12 @@ topics:
 ---
 
 ## Definição
+Bemfeitor é um dos nomes dado ao Espírito que nos acompanha durante a vida.
 
-
-
+Ver: [Anjo Guardião](../anjo-guardiao).
 
 ## Relacionado
-todo
+[Anjo Guardião](../anjo-guardiao)  
 
 ## Veja Também
 TODO
