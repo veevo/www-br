@@ -1,12 +1,19 @@
 ---
 title: Sonambulismo
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  TODO
 date: 2019-02-01 19:00:00
-tags:
-- about
+topics:
+- sonambulismo
 ---
 
-Sonambulismo [do latim somnus= sono e ambulare= marchar, passear] - Estado de emancipação da alma mais completo do que no sonho. O sonho é um sonambulismo imperfeito. No sonambulismo, a lucidez da alma, isto é, a faculdade de ver, que é um dos atributos de sua natureza, é mais desenvolvida. Ela vê as coisas com mais precisão e nitidez, o corpo pode agir sob o impulso da vontade da alma. O esquecimento absoluto no momento do despertar é um dos sinais característicos do verdadeiro sonambulismo, visto que a independência da alma e do corpo é mais completa do que no sonho.
+## Definição
+Sonambulismo [do latim somnus= sono e ambulare= marchar, passear] - Estado de
+emancipação da alma mais completo do que no sonho. O sonho é um sonambulismo
+imperfeito. No sonambulismo, a lucidez da alma, isto é, a faculdade de ver, que
+é um dos atributos de sua natureza, é mais desenvolvida. Ela vê as coisas com
+mais precisão e nitidez, o corpo pode agir sob o impulso da vontade da alma. O
+esquecimento absoluto no momento do despertar é um dos sinais característicos
+do verdadeiro sonambulismo, visto que a independência da alma e do corpo é mais
+completa do que no sonho.
 
 ## Sonambulismo artificial
 Sonambulismo provocado por emanação magnética ou passe.
@@ -24,4 +31,4 @@ Aquele que é espontâneo e se produz sem provocação e sem influência de nenh
 TODO
 
 # Source
-[O Consolador - Vocabulário (pt-BR)](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

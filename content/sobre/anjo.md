@@ -1,17 +1,31 @@
 ---
-title: Angels
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  TODO
+title: Anjo
 date: 2019-02-01 19:00:00
-tags:
-- about
+topics:
+- anjo
+- anjo-da-guarda
+- anjo-guardiao
+- mentor-espiritual
 ---
 
-Anjo [do latim: angelus; do grego: aggelos= mensageiro] - Segundo a Doutrina Espírita, os anjos não são seres aparte e de uma natureza especial. São os Espíritos da primeira ordem, isto é, os que chegaram ao estado de puros Espíritos depois de terem sofrido todas as provas.
+## Definição
+Anjo [do latim: angelus; do grego: aggelos= mensageiro] - Segundo a Doutrina
+Espírita, os anjos não são seres aparte e de uma natureza especial. São os
+Espíritos da primeira ordem, isto é, os que chegaram ao estado de puros
+Espíritos depois de terem sofrido todas as provas.
 
-Segundo a idéia vulgar, os anjos são seres intermediários entre o homem e a divindade, por sua natureza e poder, e que podem manifestar-se, quer por avisos ocultos, quer de um modo visível. Eles não foram criados perfeitos, pois a perfeição supõe a infalibilidade e alguns dentre eles se revoltaram contra Deus. Diz-se: os bons e maus anjos, o anjo das trevas. Entretanto a idéia mais geral, ligada a esta palavra, é o da bondade e da suprema virtude. 
+Segundo a idéia vulgar, os anjos são seres intermediários entre o homem e a
+divindade, por sua natureza e poder, e que podem manifestar-se, quer por avisos
+ocultos, quer de um modo visível. Eles não foram criados perfeitos, pois a
+perfeição supõe a infalibilidade e alguns dentre eles se revoltaram contra
+Deus. Diz-se: os bons e maus anjos, o anjo das trevas. Entretanto a idéia mais
+geral, ligada a esta palavra, é o da bondade e da suprema virtude. 
 
-## See Also
+## Relacionado
+todo
+
+## Veja Também
 TODO
 
-## Source
-[O Consolador - Vocabulário (pt-BR)](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+## Fonte
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

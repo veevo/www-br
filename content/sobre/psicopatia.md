@@ -1,15 +1,20 @@
 ---
 title: Psicopatia
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  TODO
 date: 2019-02-01 19:00:00
-tags:
-- about
+topics:
+- psicopatia
 ---
 
-Psicopatia [do grego psyké= borboleta, alma + pat- (pascho= que sofre) + -ia] - 1. Designação comum às doenças mentais. 2. Estado mental patológico caracterizado por desvios que acarretam comportamentos anti-sociais.
+## Definição
+Psicopatia [do grego psyké= borboleta, alma + pat- (pascho= que sofre) + -ia] -
+1. Designação comum às doenças mentais. 2. Estado mental patológico
+caracterizado por desvios que acarretam comportamentos anti-sociais.
 
-## See Also
+## Relacionado
+todo
+
+## Veja Também
 TODO
 
-## Source
-[O Consolador - Vocabulário (pt-BR)](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+## Fonte
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

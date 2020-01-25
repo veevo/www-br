@@ -1,17 +1,26 @@
 ---
 title: Filosofia
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  TODO
 date: 2019-02-01 19:00:00
-tags:
-- about
+topics:
+- filosofia
 ---
 
-Filosofia [do grego philosophia= amor à sabedoria] - 1. Estudo que, tomando o homem como o centro de suas cogitações, busca a compreensão da realidade, visando apreendê-la na sua totalidade, da essência e natureza das coisas, dos valores e princípios da existência à conduta e ao destino humano. 2. Estudo geral e racional sobre a natureza de todas as coisas interligadas entre si, e da inserção do homem no meio natural, tendo como objetivo encontrar os princípios básicos da existência e da conduta e destino do homem..
+## Definição
+Filosofia [do grego philosophia= amor à sabedoria] - 1. Estudo que, tomando o
+homem como o centro de suas cogitações, busca a compreensão da realidade,
+visando apreendê-la na sua totalidade, da essência e natureza das coisas, dos
+valores e princípios da existência à conduta e ao destino humano. 2. Estudo
+geral e racional sobre a natureza de todas as coisas interligadas entre si, e
+da inserção do homem no meio natural, tendo como objetivo encontrar os
+princípios básicos da existência e da conduta e destino do homem..
 
-## See Also
+## Relacionado
+todo
+
+## Veja Também
 TODO
 
-## Source
-[O Consolador - Vocabulário (pt-BR)](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+## Fonte
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
 

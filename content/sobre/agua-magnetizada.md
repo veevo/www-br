@@ -1,11 +1,16 @@
 ---
-title: Agua Magnetizada
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+title: Água Magnetizada
 date: 2019-01-11 13:00:00
+topics:
+- agua-magnetizada
 ---
 
-In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+## Definição
 
-## See Also
+
+## Relacionado
+todo
+
+## Veja Também
 TODO
 

@@ -1,14 +1,15 @@
 ---
 title: Projeto Espiritiza
-description: Saiba mais sobre o Projeto Espiritizar
 date: 2019-02-01 19:00:00
-tags:
+topics:
+- projeto-espiritizar
 - espiritismo
 - espiritizar
 - honorio
 - joanna-de-angelis
 ---
 
+## Definição
 O Projeto Espiritizar é um instrumento desenvolvido pela Feemt - Federação
 Espírita do Estado de Mato Grosso para o Movimento Espírita, cujo objetivo é
 estimular a sintonia com o Projeto Iluminativo de Jesus, por meio da Doutrina

@@ -1,15 +1,15 @@
 ---
 title: Método Reflexivo-consciencial
-description: Saiba mais sobre o Método Reflexivo-consciencial
 date: 2019-02-01 19:00:00
-tags:
+topics:
+- metodo-reflexivo-consciencial
 - espiritismo
 - espiritizar
 - honorio
 - joanna-de-angelis
 ---
 
-## Introdução
+## Definição
 No livro Momentos de Harmonia, mensagem Projetos Iluminativos, psicografia de
 Divaldo Pereira Franco, a Mentora Joanna de Ângelis faz uma proposta para que
 implementemos projetos iluminativos. Vejamos um pequeno trecho da mensagem:

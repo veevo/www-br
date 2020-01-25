@@ -3,14 +3,22 @@ title: Jesus
 date: 2019-02-01 19:00:00
 topics:
 - jesus
+- jesus
 - biblia
 - evangelho
 - espirito-puro
 ---
 
-Jesus – O ser mais perfeito que Deus ofereceu aos homens para lhes servir de modelo e guia.
+## Definição
+Jesus – O ser mais perfeito que Deus ofereceu aos homens para lhes servir de
+modelo e guia.
 
-O espírito de maior grau ou patente evolutiva já encarnado no planeta terra. Segundo a doutrina espírita, Jesus é o "administrador" espiritual do planeta e de todos os espíritos que nele se encontram, sejam encarnados ou não. Sob sua tutela estão todos os espíritos aqui existentes. Trata-se de uma entidade espiritual de altíssima evolução moral cujas faculdades morais e espirituais jamais poderiamos definir em nossa linguagem.
+O espírito de maior grau ou patente evolutiva já encarnado no planeta terra.
+Segundo a doutrina espírita, Jesus é o "administrador" espiritual do planeta e
+de todos os espíritos que nele se encontram, sejam encarnados ou não. Sob sua
+tutela estão todos os espíritos aqui existentes. Trata-se de uma entidade
+espiritual de altíssima evolução moral cujas faculdades morais e espirituais
+jamais poderiamos definir em nossa linguagem.
 
 
 ## Who is Jesus?
@@ -33,10 +41,13 @@ The Spirits' Book, Question 625
 "O Novo Testamento"  
 
 
-## See Also
+## Relacionado
+todo
+
+## Veja Também
 TODO
 
 
-## Source
-[O Consolador - Vocabulário (pt-BR)](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+## Fonte
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 

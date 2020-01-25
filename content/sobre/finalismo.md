@@ -1,17 +1,21 @@
 ---
 title: Finalismo
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  TODO
 date: 2019-02-01 19:00:00
-tags:
-- about
+topics:
+- finalismo
 ---
 
-Finalismo [do latim finale + -ismo] - Doutrina filosófica que sustenta que, na natureza, nada se faz em vão, que todo o ser tem um fim.
+## Definição
+Finalismo [do latim finale + -ismo] - Doutrina filosófica que sustenta que, na
+natureza, nada se faz em vão, que todo o ser tem um fim.
 
-## See Also
+## Relacionado
+todo
+
+## Veja Também
 TODO
 
-## Source
-[O Consolador - Vocabulário (pt-BR)](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+## Fonte
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
 

@@ -1,13 +1,11 @@
 ---
-title: God
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  TODO
+title: Deus
 date: 2019-02-01 19:00:00
-tags:
-- about
+topics:
+- deus
 ---
 
-## What is God?
-
+## Definição
 » God is the supreme intelligence and primary cause of all things [1].  
 » God is eternal, immutable, unique, omnipotent, supremely just and good.  
 » The universe is a creation of God. It encompasses all beings, whether they be rational or irrational, animate or inanimate, material or immaterial.  
@@ -25,5 +23,8 @@ Allan Kardec - [Posthumous Works](/books/allan-kardec/posthmous-works), “Profe
 [2] [The Spirits’ Book, Question #2](/books/allan-kardec/spirits-book/2)  
 
 
-## See Also
+## Relacionado
+todo
+
+## Veja Também
 TODO
