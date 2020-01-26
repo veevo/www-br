@@ -6,7 +6,11 @@ topics:
 ---
 
 ## Definição
-Quiromancia [do grego cheiromantéia] – Adivinhação pela inspeção das mãos.
+* Pretensa arte de adivinhar o futuro das pessoas pelo exame das linhas da mão; quiroscopia.
+* Adivinhação pela inspeção das mãos.
+
+## Origem
+Do grego cheiromantéia
 
 ## Relacionado
 todo

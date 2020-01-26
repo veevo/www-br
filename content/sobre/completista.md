@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Completista [do latim completu + -ista] - Designa aqueles que aproveitaram
-todas as oportunidades construtivas oferecidas pela reencarnação.
+Designa aqueles que aproveitaram todas as oportunidades construtivas oferecidas
+pela reencarnação.
+
+## Origem
+Do latim completu + -ista
 
 ## Relacionado
 todo

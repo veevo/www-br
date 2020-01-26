@@ -6,16 +6,18 @@ topics:
 ---
 
 ## Definição
-Comunicação Espírita - Manifestação inteligente dos Espíritos, tendo por objeto
-uma troca contínua de pensamento entre eles e os homens.
+Manifestação inteligente dos Espíritos, tendo por objeto uma troca contínua de
+pensamento entre eles e os homens.
 
-Distinguem-se em: a) frívolas - assuntos fúteis e sem importância; b)
-grosseiras - traduzidas por expressões que ofendem a decência; c) sérias -
-excluem a frivolidade, qualquer que seja o assunto tratado; d) instrutivas -
-objetivam o ensinamento dos Espíritos sobre as ciências, a moral, a filosofia,
-etc.. Quanto à modalidade, ver Sematologia, Tiptologia, Psicografia,
-Pneumatografia, Psicofonia, Pneumatofonia, Pictografia, Telepatia ou Telegrafia
-humana.
+Distinguem-se em: 
+* frívolas: assuntos fúteis e sem importância; 
+* grosseiras: traduzidas por expressões que ofendem a decência; 
+* sérias: excluem a frivolidade, qualquer que seja o assunto tratado; 
+* instrutivas: objetivam o ensinamento dos Espíritos sobre as ciências, a moral, a filosofia,
+etc.. 
+
+Quanto à modalidade, ver Sematologia, Tiptologia, Psicografia, Pneumatografia,
+Psicofonia, Pneumatofonia, Pictografia, Telepatia ou Telegrafia humana.
 
 ## Relacionado
 todo

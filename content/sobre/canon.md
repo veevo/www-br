@@ -5,12 +5,14 @@ topics:
 - canon
 ---
 
-## Definição
-Cânon [do grego kánon= regra, do latim canon] - 1. Regra geral de onde se
-infere regras especiais. 2. Relação, catálogo, tabela. 3. Padrão, modelo,
-norma. 4. Lista autêntica dos livros considerados como inspirados por
-israelitas, católicos e protestantes, sendo o oposto de apócrifo.
+## Definição 
+* Regra geral de onde se infere regras especiais. 
+* Relação, catálogo, tabela. 
+* Padrão, modelo, norma.  
+* Lista autêntica dos livros considerados como inspirados por israelitas, católicos e protestantes, sendo o oposto de apócrifo.
 
+## Origem
+Do grego kánon= regra, do latim canon
 
 ## Relacionado
 Cânone [do grego kánon= regra, do latim canon] - Variante de cânon.

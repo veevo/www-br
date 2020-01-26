@@ -3,11 +3,14 @@ title: Teísmo
 date: 2019-02-01 19:00:00
 topics:
 - teismo
+- deus
 ---
 
 ## Definição
-Teísmo [do grego teós + -ismo] - Doutrina que admite a existência de um deus,
-força causal do mundo.
+Doutrina que admite a existência de um deus, força causal do mundo.
+
+## Origem
+Do grego teós + -ismo
 
 ## Relacionado
 todo

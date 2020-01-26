@@ -3,11 +3,15 @@ title: Narcolepsia
 date: 2019-02-01 19:00:00
 topics:
 - narcolepsia
+- sono
 ---
 
 ## Definição
-Narcolepsia [do grego nárke= torpor + lepsis= acesso] – Desejo incontrolável de
-dormir ou acessos repentinos de sono que aparecem a intervalos.
+Desejo incontrolável de dormir ou acessos repentinos de sono que aparecem a
+intervalos.
+
+## Origem
+Do grego nárke= torpor + lepsis= acesso
 
 ## Relacionado
 todo

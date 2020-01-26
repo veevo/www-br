@@ -6,15 +6,17 @@ topics:
 ---
 
 ## Definição
-Agnosticismo [do grego: ágnostos= ignorado + -ismo] - 1. Designa toda a
-doutrina que rejeita a metafísica, quando ligada ao estudo de objetos
+* Designa toda a doutrina que rejeita a metafísica, quando ligada ao estudo de objetos
 radicalmente incognoscíveis. O positivismo e certas formas de evolucionismo são
-consideradas doutrinas agnósticas. 2. Teoria que ensina a impossibilidade
-radical de os nossos conceitos poderem exprimir positivamente algo sobre Deus.
-3. Doutrina que declara impossível, inacessível ao entendimento humano toda a
+consideradas doutrinas agnósticas. 
+* Teoria que ensina a impossibilidade radical de os nossos conceitos poderem 
+exprimir positivamente algo sobre Deus.
+* Doutrina que declara impossível, inacessível ao entendimento humano toda a
 noção de absoluto, reduzindo a ciência ao conhecimento do fenomenal e relativo.
 
-## Relacionado
+## Origem
+Do grego: ágnostos= ignorado + -ismo] - 
+
 todo
 
 ## Veja Também

@@ -6,10 +6,9 @@ topics:
 ---
 
 ## Definição
-Formas-pensamento – São as idéias projetadas pela mente humana e materializadas
-no mundo espiritual, construções substanciais na esfera da alma que se mantêm
-pela força de sustentação de nossos pensamentos. Ver: Ideoplastia e
-Imagens-molde.
+São as idéias projetadas pela mente humana e materializadas no mundo espiritual,
+construções substanciais na esfera da alma que se mantêm pela força de
+sustentação de nossos pensamentos. Ver: Ideoplastia e Imagens-molde.
 
 Considerando que toda e qualquer ação e todo e qualquer pensamento fica
 registrado na memória vital do espírito e no éter-cósmico, pode-se caracterizar

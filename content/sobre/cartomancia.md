@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Cartomancia [do grego chártes, do latim charta + mancia]- Adivinhação através
-de cartas de jogar.
+* Adivinhação através de cartas de jogar.
+
+## Origem
+Do grego chártes, do latim charta + mancia
 
 ## Relacionado
 todo

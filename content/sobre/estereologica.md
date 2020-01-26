@@ -6,10 +6,13 @@ topics:
 ---
 
 ## Definição
-Estereológica [do grego stéreos= sólido] – Aparição que adquire as propriedades
-da matéria resistente e tangível. Diz-se por oposição à aparição vaporosa ou
-etérea, que é impalpável. A aparição estereológica apresenta temporariamente à
-vista e ao toque as propriedades de um corpo vivo.
+Aparição que adquire as propriedades da matéria resistente e tangível. Diz-se
+por oposição à aparição vaporosa ou etérea, que é impalpável. A aparição
+estereológica apresenta temporariamente à vista e ao toque as propriedades de um
+corpo vivo.
+
+## Origem
+Do grego stéreos= sólido
 
 ## Relacionado
 todo

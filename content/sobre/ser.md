@@ -6,10 +6,15 @@ topics:
 ---
 
 ## Definição
-Ser - [do latim sedere]. Aquele ou aquilo que existe. O que é sensorialmente
-cognoscível e se opõe ao nada. inorgânicos, que carecem de vida. Sem
-organização capaz de nele viver alguma coisa. orgânicos, seres possuidores de
-mecanismos e corpo organizados capazes de neles existir a faculdade de viver. 
+* Aquele ou aquilo que existe. 
+* O que é sensorialmente cognoscível e se opõe ao nada. inorgânicos, que carecem
+  de vida. 
+* Sem organização capaz de nele viver alguma coisa. orgânicos, seres possuidores
+  de mecanismos e corpo organizados capazes de neles existir a faculdade de
+  viver. 
+
+## Origem
+do latim sedere
 
 ## Relacionado
 todo

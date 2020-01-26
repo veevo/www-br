@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-Axioma [do latim axioma]. Premissa evidente por si mesma, que não necessita de
-demonstração. 
+* Proposição imediatamente evidente, que prescinde de comprovação por ser admitida como portadora de verdade universal.
+* Princípio geralmente aceito em qualquer arte ou ciência; máxima, sentença.
+* Premissa evidente por si mesma, que não necessita de demonstração. 
+
+## Origem
+Do latim axioma
 
 ## Relacionado
 todo

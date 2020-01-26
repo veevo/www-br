@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Radiação [do latim radiatione] - 1. Ato ou efeito de radiar. 2. Qualquer dos
-processos físicos de emissão e propagação de energia. 
+* Ato ou efeito de radiar. 
+* Qualquer dos processos físicos de emissão e propagação de energia. 
+
+## Origem
+Do latim radiatione
 
 ## Relacionado
 todo

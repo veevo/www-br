@@ -6,7 +6,7 @@ topics:
 ---
 
 ## Definição
-Clariaudiência - Faculdade mediúnica de ouvir espíritos desencarnados. 
+Faculdade mediúnica de ouvir espíritos desencarnados. 
 
 ## Relacionado
 todo

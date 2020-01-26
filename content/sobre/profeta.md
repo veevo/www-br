@@ -6,9 +6,13 @@ topics:
 ---
 
 ## Definição
-Profeta - [do grego prophétes; latim propheta]. Aquele que prediz por
-inspiração divina; vidente; adivinho; título dado pelos Maometanos a Mafoma;
-aquele que faz conjecturas sobre o futuro. 
+* Aquele que prediz por inspiração divina; 
+* vidente; adivinho; 
+* título dado pelos Maometanos a Mafoma; 
+* aquele que faz conjecturas sobre o futuro. 
+
+## Origem
+do grego prophétes; latim propheta
 
 ## Relacionado
 todo

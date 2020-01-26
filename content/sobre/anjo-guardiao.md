@@ -3,15 +3,18 @@ title: Anjo guardião
 date: 2019-02-01 19:00:00
 topics:
 - anjo-guardiao
+- benfeitor
+- anjo-da-guarda
 ---
 
 ## Definição
-Anjo guardião - É o Espírito protetor de uma ordem elevada, encarregado de
-assistir e proteger indivíduos ou coletividades, sendo tudo relativo ao grau de
-adiantamento das massas como dos indivíduos. Ver: Protetor, Guia
+É o Espírito protetor de uma ordem elevada, encarregado de assistir e proteger
+indivíduos ou coletividades, sendo tudo relativo ao grau de adiantamento das
+massas como dos indivíduos. 
 
 ## Relacionado
-todo
+Benfeitor
+Anjo da Guarda
 
 ## Veja Também
 TODO

@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Eletromagnetismo [eletro + magnetismo] - Estudo da interação entre correntes
-elétricas e campos magnéticos.
+Estudo da interação entre correntes elétricas e campos magnéticos.
+
+## Origem
+Eletro + magnetismo
 
 ## Relacionado
 todo

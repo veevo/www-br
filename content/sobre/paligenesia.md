@@ -3,14 +3,17 @@ title: Palingenesia
 date: 2019-02-01 19:00:00
 topics:
 - paligenesia
+- reencarnacao
 ---
 
 ## Definição
-Palingenesia – [do grego palin= repetição, de novo + genes(e)= nascimento] –
-Renascimentos sucessivos dos mesmos indivíduos. Ver: Reencarnação.
+Renascimentos sucessivos dos mesmos indivíduos. 
+
+## Origem
+Do grego palin= repetição, de novo + genes(e)= nascimento
 
 ## Relacionado
-todo
+Reencarnação
 
 ## Veja Também
 TODO

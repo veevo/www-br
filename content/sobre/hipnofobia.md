@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Hipnofobia [do grego hýpnos= sono + -fob(o)= medo + -ia] – 1. Medo de dormir.
-2. Terror ou medo durante o sono.
+* Medo de dormir.
+* Terror ou medo durante o sono.
+
+## Origem
+Do grego hýpnos= sono + -fob(o)= medo + -ia
 
 ## Related
 Hipnófobo [do grego hýpnos + -fob(o)] – Aquele que sofre de Hipnofobia.

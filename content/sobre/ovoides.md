@@ -3,14 +3,22 @@ title: Ovóide
 date: 2019-02-01 19:00:00
 topics:
 - ovoides
+- obsessao
+- carma
+- espirito
+- obsessao
+- morte
 ---
 
 ## Definição
-Estágio de degradação a que chegam certos espíritos sofredores-obsessores. O
-espírito, ligado ao obsediado, de maneira intrínseca no seu afã de prejudicar,
-adquire uma forma ovóide, assemelhando-se á um ovo de consistência indefinida
-que se "cola" no corpo de seu alvo distorcendo-lhe pensamentos, opiniões e
-agindo incessantemente para lhe proporcionar toda sorte de infortúnios.
+* oval, de estrutura maciça cuja forma é semelhante à do ovo
+
+No contexto espiritual, atribui-se ao estágio de degradação a que chegam certos
+espíritos sofredores-obsessores quando o espírito, ligado ao obsediado, de maneira
+intrínseca no seu afã de prejudicar, adquire uma forma ovóide, assemelhando-se á
+um ovo de consistência indefinida que se "cola" no corpo de seu alvo
+distorcendo-lhe pensamentos, opiniões e agindo incessantemente para lhe
+proporcionar toda sorte de infortúnios.
 
 A ligação de um obsessor-obsediado no nível de ovóide, apesar de não muito
 freqüente, acontece mais do que se imagina. Ela ocorre quando há uma ligação
@@ -34,6 +42,7 @@ todo
 
 ## Veja Também
 Vampirismo
+Andre Luiz
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

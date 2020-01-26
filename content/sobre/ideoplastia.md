@@ -3,13 +3,16 @@ title: Ideoplastia
 date: 2019-02-01 19:00:00
 topics:
 - ideoplastia
+- materializacao
 ---
 
 ## Definição
-Ideoplastia [do grego idéa= idéia, aparência + plásso ou plátto= modelar + -ia]
-– 1. Modelagem da matéria pelo pensamento. 2. A materialização do pensamento,
-criando formas que às vezes se revestem de grande duração, conforme a
-persistência da onda em que se expressam.
+* Modelagem da matéria pelo pensamento. 
+* A materialização do pensamento, criando formas que às vezes se revestem de
+  grande duração, conforme a persistência da onda em que se expressam.
+
+## Origem
+Do grego idéa= idéia, aparência + plásso ou plátto= modelar + -ia
 
 ## Related
 Imagens-moldes – O mesmo que Formas-pensamento.

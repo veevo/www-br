@@ -8,7 +8,6 @@ topics:
 ## Definição
 Ver: [Fluido Vital](../fluido-vital)
 
-
 ## Relacionado
 todo
 

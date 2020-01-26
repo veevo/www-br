@@ -9,8 +9,13 @@ topics:
 ---
 
 ## Definição
-Obsidiar [do latim obsidiare] – Ato ou efeito de importunar, incomodar,
-perturbar, molestar. Sinônimo de Obsedar. Ver: Obsessão.
+Ato ou efeito de importunar, incomodar, perturbar, molestar. Sinônimo de
+Obsedar. 
+
+Ver: Obsessão.
+
+## Origem
+Do latim obsidiare
 
 ## Relacionado
 todo

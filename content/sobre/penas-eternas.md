@@ -6,10 +6,10 @@ topics:
 ---
 
 ## Definição
-Penas eternas – Os Espíritos superiores ensinam que só o bem é eterno, porque é
-a essência de Deus, e que o mal terá um fim. Por conseqüência deste princípio,
-combatem a doutrina da eternidade das penas como contrária à idéia que Deus nos
-dá de sua justiça e de sua bondade.
+Espíritos superiores ensinam que só o bem é eterno, porque é a essência de Deus,
+e que o mal terá um fim. Por conseqüência deste princípio, combatem a doutrina
+da eternidade das penas como contrária à idéia que Deus nos dá de sua justiça e
+de sua bondade.
 
 
 ## Relacionado

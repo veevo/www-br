@@ -6,9 +6,8 @@ topics:
 ---
 
 ## Definição
-A água fluidificada é a água normal, acrescida de fluidos curadores. Em termos
-de Espiritismo, entende-se por água fluidificada aquela em que fluidos
-medicamentosos são adicionados à água. É a água magnetizada por fluidos.
+* Água magnetizada por fluidos.
+* Segundo o Espiritismo, seria a água normal acrescida de fluidos curadores.
 
 ## Quem faz a fluidificação da água?
 Em geral, são os Espíritos desencarnados que, durante as sessões de

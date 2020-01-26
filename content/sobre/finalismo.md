@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Finalismo [do latim finale + -ismo] - Doutrina filosófica que sustenta que, na
-natureza, nada se faz em vão, que todo o ser tem um fim.
+Doutrina filosófica que sustenta que, na natureza, nada se faz em vão, que todo
+o ser tem um fim.
+
+## Origem
+Do latim finale + -ismo
 
 ## Relacionado
 todo

@@ -6,9 +6,11 @@ topics:
 ---
 
 ## Definição
-Determinismo [do latim determinare + -ismo] - Teoria que afirma correlações
-indispensáveis entre fenômenos, um sendo condicionado ao precedente e
-condicionando os que lhe sucedem.
+Teoria que afirma correlações indispensáveis entre fenômenos, um sendo
+condicionado ao precedente e condicionando os que lhe sucedem.
+
+## Origem
+Do latim determinare + -ismo
 
 ## Relacionado
 todo

@@ -3,14 +3,21 @@ title: Trindade universal
 date: 2019-02-01 19:00:00
 topics:
 - trindade-universal
+- deus
+- espirito
+- materia
+- universo
 ---
 
 ## Definição
-Trindade universal - Princípio de tudo o que existe, constituído por Deus,
-Espírito e Matéria. Nada para além disto existe no Universo. 
+Princípio de tudo o que existe, constituído por Deus, Espírito e Matéria. Nada
+além disto existe no Universo. 
 
 ## Relacionado
-todo
+Deus  
+Espirito
+Matéria
+Universo
 
 ## Veja Também
 TODO

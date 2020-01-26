@@ -3,17 +3,18 @@ title: Possesso
 date: 2019-02-01 19:00:00
 topics:
 - possesso
+- obsessao
+- espiritismo
 ---
 
 ## Definição
-Possesso [do latim possessu] – Segundo a idéia ligada a essa palavra, o
-possesso é aquele no qual um demônio veio alojar-se. Tomando o demônio não em
-sua acepção vulgar, mas no sentido de Espírito mau, Espírito impuro, Espírito
-malfazejo, Espírito imperfeito, tratar-se-ia de saber se um Espírito desta
-natureza ou outro qualquer pode eleger domicílio no corpo de um homem
-conjuntamente com o que nele está encarnado, ou a ele se substituindo.
-Poder-se-ia perguntar que destino toma, neste último caso, a alma assim
-expulsa.
+Segundo a idéia ligada a essa palavra, o possesso é aquele no qual um demônio
+veio alojar-se. Tomando o demônio não em sua acepção vulgar, mas no sentido de
+Espírito mau, Espírito impuro, Espírito malfazejo, Espírito imperfeito,
+tratar-se-ia de saber se um Espírito desta natureza ou outro qualquer pode
+eleger domicílio no corpo de um homem conjuntamente com o que nele está
+encarnado, ou a ele se substituindo.  Poder-se-ia perguntar que destino toma,
+neste último caso, a alma assim expulsa.
 
 A Doutrina Espírita diz que o Espírito unido ao corpo não pode dele ser
 separado definitivamente senão pela morte; que outro Espírito não pode
@@ -29,8 +30,11 @@ material, de fazê-lo largar a presa, o que sempre podemos fazer quando o
 desejamos seriamente; mas há pessoas que se comprazem numa dependência que lhes
 lisonjeia os gostos e os desejos.
 
+## Origem
+Do latim possessu
+
 ## Relacionado
-todo
+Possesao
 
 ## Veja Também
 TODO

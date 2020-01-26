@@ -3,14 +3,18 @@ title: Ubiqüidade
 date: 2019-02-01 19:00:00
 topics:
 - ubiquidade
+- bicorporeidade
 ---
 
 ## Definição
-Ubiqüidade [do latim ubique + -idade]- Faculdade que têm os Espíritos de se
-apresentarem em vários lugares ao mesmo tempo.
+Faculdade que têm os Espíritos de se apresentarem em vários lugares ao mesmo
+tempo.
+
+## Origem
+Do latim ubique + -idade
 
 ## Relacionado
-todo
+Bicorporeidade
 
 ## Veja Também
 TODO

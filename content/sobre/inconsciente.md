@@ -6,11 +6,15 @@ topics:
 ---
 
 ## Definição
-Inconsciente [do latim in + consciente] - Conjunto dos processos e fatos
-psíquicos que atuam sobre a conduta do indivíduo, mas que escapam ao âmbito da
-consciência, para a qual não podem ser trazidos por esforço da vontade ou da
-memória. Podem aflorar, porém, nos sonhos, nos atos falhos, nos estados
-neuróticos ou psicóticos, ou seja, quando a consciência não está vigilante.
+Conjunto dos processos e fatos psíquicos que atuam sobre a conduta do indivíduo,
+mas que escapam ao âmbito da consciência, para a qual não podem ser trazidos por
+esforço da vontade ou da memória. 
+
+Podem aflorar, nos sonhos, nos atos falhos, nos estados neuróticos ou
+psicóticos, ou seja, quando a consciência não está vigilante.
+
+## Origem
+Do latim in + consciente
 
 ## Relacionado
 todo

@@ -3,12 +3,14 @@ title: Psicose
 date: 2019-02-01 19:00:00
 topics:
 - psicose
+- psicopatia
 ---
 
 ## Definição
-Psicose [do grego psyché= alma + -ose] - Designação comum às doenças mentais;
-psicopatia.
+Designação comum às doenças mentais; psicopatia.
 
+## Origem
+Do grego psyché= alma + -ose
 
 ## Relacionado
 todo

@@ -3,12 +3,15 @@ title: Xenoglossia
 date: 2019-02-01 19:00:00
 topics:
 - xenoglossia
+- mediunidade
+- medium
 ---
 
 ## Definição
-Xenoglossia [do grego xénon= estranho, estrangeiro + glôssa= língua + -ia] -
-Faculdade de falar ou escrever línguas estranhas ao próprio médium. Muito rara. 
+Rara faculdade onde o médium consegue falar ou escrever línguas estranhas a si próprio.
 
+## Origem
+Do grego xénon= estranho, estrangeiro + glôssa= língua + -ia
 
 ## Relacionado
 todo

@@ -6,8 +6,13 @@ topics:
 ---
 
 ## Definição
-Superioridade - [de superior]. Qualidade do que é superior. Autoridade.
-Excelência. Ascendente, no sentido de predomínio, influência. 
+* Qualidade do que é superior. 
+* Autoridade.  
+* Excelência. 
+* Ascendente, no sentido de predomínio, influência. 
+
+## Origem
+De superior
 
 ## Relacionado
 todo

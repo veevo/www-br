@@ -6,10 +6,13 @@ topics:
 ---
 
 ## Definição
-Sensação - [do latim sensatione]. ação ou função sensorial. Tomada de
-consciência da alteração interna ou externa de um ou vários sentidos em
-simultâneo, conduzida pelos nervos ao cérebro. Sensibilidade. Comoção moral;
-emoção. 
+* Ação ou função sensorial. 
+* Tomada de consciência da alteração interna ou externa de um ou vários sentidos
+  em simultâneo, conduzida pelos nervos ao cérebro.  
+* Sensibilidade. Comoção moral; emoção. 
+
+## Origem
+Do latim sensatione
 
 ## Relacionado
 todo

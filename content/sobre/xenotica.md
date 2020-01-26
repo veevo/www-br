@@ -3,13 +3,16 @@ title: Xenótica
 date: 2019-02-01 19:00:00
 topics:
 - xenotica
+- mediunidade
+- medium
 ---
 
 ## Definição
-Xenótica [do grego xénon + optikós] - Neologismo criado por Hermínio Miranda
-para designar a faculdade de vidência de palavras ou textos em lingua
-desconhecida ao médium.
+Neologismo criado por Hermínio Miranda para designar a faculdade de vidência de
+palavras ou textos em lingua desconhecida ao médium.
 
+## Origem
+Do grego xénon + optikós
 
 ## Relacionado
 todo

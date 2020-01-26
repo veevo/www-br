@@ -3,14 +3,24 @@ title: Vidente
 date: 2019-02-01 19:00:00
 topics:
 - vidente
+- mediunidade
+- medium
+- espiritos
+- mundo-espiritual
 ---
 
 ## Definição
-Vidente - [do latim vidente].Pessoa dotada de mediunidade de vidência que, lhe
-permite ver os espíritos e o mundo espiritual. 
+Pessoa dotada de mediunidade de vidência que, lhe permite ver os espíritos e o
+mundo espiritual. 
+
+## Origem
+do latim vidente
 
 ## Relacionado
-todo
+Mediunidade
+Medium
+Espirito
+Mundo Espiritual
 
 ## Veja Também
 Vidência

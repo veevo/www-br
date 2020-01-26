@@ -6,12 +6,13 @@ topics:
 ---
 
 ## Definição
-Desdobramento [do latim des- + duplare > dobra + -mento] – 1. ato de desdobrar.
-2. Faculdade anímica que permite a pessoa, estando o corpo físico num
-determinado local, deslocar-se ou ser levada a outro local, espiritualmente
-podendo ser ou não vista pelos encarnados presentes nesse mesmo local. 3.
-Estado de emancipação da alma, quando a mesma se projeta ao Mundo Espiritual.
+* ato de desdobrar.
+* Faculdade anímica que permite a pessoa, estando o corpo físico num determinado local, deslocar-se ou ser levada a outro local, espiritualmente
+  podendo ser ou não vista pelos encarnados presentes nesse mesmo local.
+* Estado de emancipação da alma, quando a mesma se projeta ao Mundo Espiritual.
 
+## Origem
+Do latim des- + duplare > dobra + -mento
 
 ## Relacionado
 todo

@@ -6,10 +6,14 @@ topics:
 ---
 
 ## Definição
-Sabedoria -  [de saber]. Conhecimento extenso e profundo das coisas. Ciência.
-Qualidade de quem é sabedor, de quem tem muita instrução. Grande circunspeção e
-prudência; juízo; bom senso; razão; retidão. Teol. Conhecimento inspirado das
-coisas divinas.
+* Conhecimento extenso e profundo das coisas. 
+* Ciência.  
+* Qualidade de quem é sabedor, de quem tem muita instrução. Grande circunspeção
+  e prudência; juízo; bom senso; razão; retidão. Teol. Conhecimento inspirado
+  das coisas divinas.
+
+## Origem
+de saber
 
 ## Relacionado
 todo

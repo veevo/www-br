@@ -6,10 +6,12 @@ topics:
 ---
 
 ## Definição
-Exegese [do grego exégesis] - De forma genérica, constitui-se o esclarecimento
-ou a minuciosa interpretação de um texto ou de uma palavra. Aplica-se
-especialmente em relação à Bíblia e demais textos religiosos, à gramática, às
-leis.
+De forma genérica, constitui-se o esclarecimento ou a minuciosa interpretação de
+um texto ou de uma palavra. Aplica-se especialmente em relação à Bíblia e demais
+textos religiosos, à gramática, às leis.
+
+## Origem
+Do grego exégesis
 
 ## Relacionado
 todo

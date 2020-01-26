@@ -6,9 +6,11 @@ topics:
 ---
 
 ## Definição
-Doutrinação [do latim doctrina + actione] - Ato ou efeito de doutrinar,
-orientar e esclarecer Espíritos rebeldes, ignorantes, maus ou refratários
-àquilo que o doutrinador prega ou ensina.
+Ato ou efeito de doutrinar, orientar e esclarecer Espíritos rebeldes,
+ignorantes, maus ou refratários àquilo que o doutrinador prega ou ensina.
+
+## Origem
+Do latim doctrina + actione
 
 ## Relacionado
 todo

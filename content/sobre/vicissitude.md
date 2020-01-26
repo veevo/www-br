@@ -6,7 +6,13 @@ topics:
 ---
 
 ## Definição
-Vicissitude - [do latim vicissitudine]. Alteração; instabilidade das coisas. 
+* Alteração; instabilidade das coisas. 
+* Inconstância dos fatos; sucessão de mudanças ou de alternâncias.
+* Sequência de coisas que se sucedem.
+* Instabilidade dos acontecimentos que leva à imprevisibilidade; acaso, eventualidade.
+
+## Origem
+do latim vicissitudine
 
 ## Relacionado
 todo

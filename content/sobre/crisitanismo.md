@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Cristianismo: [do latim christianismu]. Corrente monoteísta que tem como
-princípio Cristo.
+Corrente monoteísta que tem como princípio Cristo.
+
+## Origem
+Do latim christianismu
 
 ## Relacionado
 todo

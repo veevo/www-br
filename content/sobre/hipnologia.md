@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Hipnologia [do grego hýpnos= sono + -logo(s)= ciência + -ia] – Tratado acerca
-do sono e seus efeitos.
+Tratado acerca do sono e seus efeitos.
+
+## Origem
+Do grego hýpnos= sono + -logo(s)= ciência + -ia
 
 ## Relacionado
 todo

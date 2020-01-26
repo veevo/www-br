@@ -6,15 +6,19 @@ topics:
 ---
 
 ## Definição
-Medianimidade [do latim mediu + anima + -idade]- Faculdade dos médiuns.
-Sinônimo de mediunidade. Essas duas palavras, amiúde, são empregadas
-indiferentemente. Querendo fazer uma distinção, poder-se-ia dizer que
-mediunidade tem um sentido mais geral; medianimidade, um sentido mais restrito.
-Ver: mediunidade.
+* Sinônimo de mediunidade. 
+* Faculdade dos médiuns.
 
+Essas duas palavras, amiúde, são empregadas indiferentemente. Querendo fazer uma
+distinção, poder-se-ia dizer que mediunidade tem um sentido mais geral;
+medianimidade, um sentido mais restrito.  
+
+## Origem
+Do latim mediu + anima + -idade
 
 ## Relacionado
-todo
+Médium
+Mediunidade
 
 ## Veja Também
 TODO

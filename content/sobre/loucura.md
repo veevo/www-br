@@ -6,6 +6,11 @@ topics:
 ---
 
 ## Definição
+* Doença mental caracterizada pela alienação total do indivíduo em relação aos
+  fatos que lhe são pertinentes
+* Ato, estado ou dito que revela falta de senso ou de juízo; maluquice, piração.
+
+## Visão Espírita
 O Espiritismo explica a loucura assim como todas as deformações psíquicas do
 caráter humano pela lei da ação e reação. Um espírito padecedor de loucura, em
 todas suas formas assim como desvios do caráter como esquizofrenias,
@@ -23,8 +28,8 @@ O carma de um indivíduo que comete atrocidades é muito negativo e não raro n�
 lhe basta uma encarnação expiatória para que o mesmo possa se redimir de seus
 erros. Para maiores informações favor checar a literatura recomendada.
 
-## Recommended Bibliography
-"A loucura sob novo prisma", Dr.Bezerra de Menezes
+## Leitura Recomendada
+"A loucura sob novo prisma", Dr. Bezerra de Menezes
 
 ## Relacionado
 todo

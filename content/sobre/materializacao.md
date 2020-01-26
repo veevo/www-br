@@ -3,13 +3,14 @@ title: Materialização
 date: 2019-02-01 19:00:00
 topics:
 - materializacao
+- perispirito
 ---
 
 ## Definição
-Materialização - Propriedade do perisipirito de se tornar visível e tangível. 
+Propriedade do perisipirito de se tornar visível e tangível. 
 
 ## Relacionado
-todo
+Perispirito
 
 ## Veja Também
 TODO

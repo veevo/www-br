@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-Presunção - [do latim praesumptione]. ato ou efeito de presumir. Suposição;
-suspeita; desconfiança. Vaidade; jactância. 
+* Ato ou efeito de presumir. 
+* Suposição; suspeita; desconfiança. 
+* Vaidade;
+
+## Origem
+do latim praesumptione
 
 ## Relacionado
 todo

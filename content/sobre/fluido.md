@@ -2,12 +2,16 @@
 title: Fluido
 date: 2019-02-01 19:00:00
 topics:
-- fluido
+- fluidos
 ---
 
 ## Definição
-Fluido [do latim fluidu] – 1. Fluídico. 2. Diz-se das substâncias líquidas ou
-gasosas. 3. Que corre ou se expande à maneira de um líquido ou gás.
+* Fluídico. 
+* Diz-se das substâncias líquidas ou gasosas. 
+* Que corre ou se expande à maneira de um líquido ou gás.
+
+## Origem
+Do latim fluidu
 
 ## Relacionado
 todo

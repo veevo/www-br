@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-Orgulho [do espanhol orgullo]- Conceito elevado ou exagerado de si próprio;
-amor-próprio demasiado; soberba. Presunção.
+* Conceito elevado ou exagerado de si próprio; amor-próprio demasiado; soberba.
+* Presunção.
+
+
+## Origem
+Do espanhol orgullo
 
 ## Relacionado
 todo

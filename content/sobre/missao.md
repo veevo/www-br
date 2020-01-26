@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-Missão - [do latim missione]. ação de mandar, de enviar. Incumbência.
-Compromisso; obrigação; encargo. 
+* Ação de mandar, de enviar. 
+* Incumbência.  
+* Compromisso; obrigação; encargo. 
+
+## Origem
+Do latim missione
 
 ## Relacionado
 todo

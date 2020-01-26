@@ -3,20 +3,20 @@ title: Psicografia
 date: 2019-02-01 19:00:00
 topics:
 - psicografia
-- chico-xavier
-- divaldo-franco
-- allan-kardec
+- medium
+- mediunidade
 ---
 
 ## Definição
-Psicografia [do grego psyké= borboleta, alma + graphó= escrevo + -ia] - Escrita
-dos Espíritos pela mão do médium.
+Escrita dos Espíritos pela mão do médium.
 
-## Psicografia Direta
-Escrita de um Espírito diretamente pela mão de um médium. 
+Tipos de psicografia:
+* Psicografia Direta: Escrita de um Espírito diretamente pela mão de um médium. 
+* Psicografia Indireta: onde um Espírito se comunica através de um utensílio ou ferramenta
+que não diretamente o médium.
 
-## Psicografia Indireta
-[do grego psykhé + graphé]. Escrita de um Espírito através de um utensílio ou ferramenta que não diretamente o médium.
+## Origem
+Do grego psyké= borboleta, alma + graphó= escrevo + -ia
 
 ## Relacionado
 todo

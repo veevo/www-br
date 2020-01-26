@@ -6,10 +6,12 @@ topics:
 ---
 
 ## Definição
-Licantropia [do grego lykanthropía] – 1. Doença mental em que o enfermo se
-julga transformado em lobo. 2. Metamorfose perispirítica, processada através de
-indução hipnótica, do desencarnado inferiorizado em suas culpas, que ganha a
-forma e passa a agir como um lobo.
+* Doença mental em que o enfermo se julga transformado em lobo. 
+* Metamorfose perispirítica, processada através de indução hipnótica, do desencarnado
+   inferiorizado em suas culpas, que ganha a forma e passa a agir como um lobo.
+
+## Origem
+Do grego lykanthropía
 
 ## Relacionado
 Licantropo [do grego lykaánthropos] – 1. Alienado que sofre de licantropia.. 2. Por extensão, Lobisomen.

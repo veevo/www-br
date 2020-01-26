@@ -6,12 +6,12 @@ topics:
 ---
 
 ## Definição
-Duplo Etéreo – Algumas regiões do Brasil preferem duplo etéreo a perispírito,
-embora mantendo-se o sentido deste. Há porém de se diferenciar o duplo etéreo -
-apontado pelos pesquisadores do magnetismo - , do perispírito propriamente
-dito. O primeiro refere-se ao conjunto de interações de natureza magnética que
-é inerente a vida e que somente com esta pode se manifestar, desfazendo-se com
-a morte do corpo físico.
+Utilizado como sinônimo de perispírito (embora sem o mesmo sentido).
+
+Há porém de se diferenciar o duplo etéreo - apontado pelos pesquisadores do magnetismo - , do perispírito propriamente dito.
+O primeiro refere-se ao conjunto de interações de natureza magnética que é
+inerente a vida e que somente com esta pode se manifestar, desfazendo-se com a
+morte do corpo físico.
 
 Já o perispírito não é da mesma natureza magnética, - embora parcialmente
 vinculado a ela pelo princípio vital, quando da encarnação -, e, por servir de

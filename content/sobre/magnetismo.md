@@ -6,11 +6,14 @@ topics:
 ---
 
 ## Definição
-Magnetismo [do francês magnétisme] – 1. É o processo pelo qual o homem,
-emitindo energia do seu perispírito, age sobre outro homem, bem como sobre
-todos os corpos animados ou inanimados. 2. O magnetismo, chamado também de
-magnetismo animal, pode ser assim definido: ação recíproca de dois seres vivos
-por intermédio de um agente especial chamado fluido magnético.
+* É o processo pelo qual o homem, emitindo energia do seu perispírito, age sobre
+  outro homem, bem como sobre todos os corpos animados ou inanimados.
+* O magnetismo, chamado também de magnetismo animal, pode ser assim definido:
+  ação recíproca de dois seres vivos por intermédio de um agente especial
+  chamado fluido magnético.
+
+## Origem
+Do francês magnétisme
 
 ## Relacionado
 todo

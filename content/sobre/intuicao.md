@@ -7,7 +7,6 @@ topics:
 ---
 
 ## Definição
-
 It is through the kind of exchanges previously mentioned that spirits are able
 to suggest ideas to us that we receive in the form of intuitions. Good and
 friendly spirits who wish to help us on our road of progress will suggest to us

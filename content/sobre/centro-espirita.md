@@ -6,9 +6,9 @@ topics:
 ---
 
 ## Definição
-Centro Espírita - 1. Casa ou sociedade espírita. 2. Local de reunião dos
-espíritas, para orar e praticar a Doutrina dos Espíritos. 3. Sociedade civil
-legalmente constituída, com a finalidade de praticar o Espiritismo.
+* Casa ou sociedade espírita. 
+* Local de reunião dos espíritas, para orar e praticar a Doutrina dos Espíritos. 
+* Sociedade civil legalmente constituída, com a finalidade de praticar o Espiritismo.
 
 Denominação dada às instituições que se prestam ao estudo e à prática do
 espiritismo em sua forma clássica, ou seja, a linha de estudo baseada nos

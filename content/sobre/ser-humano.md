@@ -1,11 +1,13 @@
 ---
-title: Human Beings
+title: Ser Humano
 date: 2019-02-01 19:00:00
 topics:
 - ser-humano
 ---
 
 ## Definição
+todo
+
 Human Being is a [Spirit](/about/spirits) [incarnated](/about/incarnation) in a
 [material body](/about/physical-body). The [perispirit](/about/perispirit) is
 the semi-material body that unites the Spirit to the [physical

@@ -10,10 +10,9 @@ topics:
 ---
 
 ## Definição
-O Projeto Espiritizar é um instrumento desenvolvido pela Feemt - Federação
-Espírita do Estado de Mato Grosso para o Movimento Espírita, cujo objetivo é
-estimular a sintonia com o Projeto Iluminativo de Jesus, por meio da Doutrina
-Espírita.
+Instrumento desenvolvido pela Federação Espírita do Estado de Mato Grosso cujo
+objetivo é estimular a sintonia com o Projeto Iluminativo de Jesus, por meio da
+Doutrina Espírita.
 
 Desenvolve em suas ações a tríade Qualificar, Humanizar e Espiritizar, proposta
 pela Mentora Joanna de Ângelis ao Movimento Espírita.

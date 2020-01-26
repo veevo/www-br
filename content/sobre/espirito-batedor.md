@@ -6,8 +6,8 @@ topics:
 ---
 
 ## Definição
-Batedor - Qualidade de certos Espíritos. Os Espíritos batedores são os que
-revelam sua presença por meio de pancadas e de ruídos de diversas naturezas. 
+Qualidade de certos Espíritos que revelam sua presença por meio de pancadas e de
+ruídos de diversas naturezas. 
 
 ## Relacionado
 todo

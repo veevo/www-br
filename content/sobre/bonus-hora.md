@@ -6,8 +6,8 @@ topics:
 ---
 
 ## Definição
-Bônus-hora - Remuneração espiritual relativa a cada hora de serviço prestado
-nas colônias espirituais.
+Remuneração espiritual relativa a cada hora de serviço prestado nas colônias
+espirituais.
 
 ## Relacionado
 todo

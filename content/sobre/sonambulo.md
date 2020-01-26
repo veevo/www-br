@@ -2,15 +2,18 @@
 title: Sonâmbulo
 date: 2019-02-01 19:00:00
 topics:
-- sonambulo
+- sonambulismo
 ---
 
 ## Definição
-Sonâmbulo [do francês somnambule] – Pessoa em estado de sonambulismo, podendo
-levantar-se, andar e falar durante o sono. Ver: noctâmbulo.
+Pessoa em estado de sonambulismo, podendo levantar-se, andar e falar durante o
+sono. 
+
+## Origem
+Do francês somnambule
 
 ## Relacionado
-todo
+Noctâmbulo.
 
 ## Veja Também
 TODO

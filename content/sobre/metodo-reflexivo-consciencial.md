@@ -156,7 +156,8 @@ pelo qual realizar essa transformação.
 
 
 ## Livros Relacionados
-Como Implementar Projetos Iluminativos – Reflexões sobre como colaborar com o Projeto Iluminativo de Jesus para o planeta Terra – Editora Espiritizar
+Como Implementar Projetos Iluminativos – Reflexões sobre como colaborar com o
+Projeto Iluminativo de Jesus para o planeta Terra – Editora Espiritizar
 
 ## Fonte
 [FEEMT | Conheça o Método Reflexivo-consciencial](https://espiritizar.feemt.org.br/noticias/conheca-o-metodo-reflexivo-consciencial/)

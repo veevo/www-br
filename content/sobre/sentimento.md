@@ -6,12 +6,17 @@ topics:
 ---
 
 ## Definição
-Sentimento - [de sentir]. ato ou efeito de sentir. Predisposição à comoção ou
-impressão. Conjunto de qualidades morais ou de caráter que formam a mentalidade
-do indivíduo e lhe norteiam a conduta; atitude moral; índole. 
+* Ato ou efeito de sentir. 
+* Predisposição à comoção ou impressão. 
+* Conjunto de qualidades morais ou de caráter que formam a mentalidade do
+  indivíduo e lhe norteiam a conduta; atitude moral; índole. 
 
-Sentimentos: Conjunto de qualidades morais ou de caráter que formam a
+## Sentimentos
+Conjunto de qualidades morais ou de caráter que formam a
 mentalidade do indivíduo e lhe norteiam a conduta; atitude moral; índole. 
+
+## Origem
+De sentir
 
 ## Relacionado
 todo

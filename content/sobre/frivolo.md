@@ -6,7 +6,10 @@ topics:
 ---
 
 ## Definição
-Frívolo - [do latim frivolu]. Sem importância, insignificante, fútil, leviano.
+Sem importância, insignificante, fútil, leviano.
+
+## Origem
+Do latim frivolu
 
 ## Relacionado
 todo

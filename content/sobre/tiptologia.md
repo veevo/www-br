@@ -6,12 +6,16 @@ topics:
 ---
 
 ## Definição
-Tiptologia [do grego tuptó + logos + -ia] - Linguagem por pancadas; modo de
-comunicação dos Espíritos. Tiptologia alfabética.  Nomenclatura muito utilizada
-para designar o estudo dos raps (plural da palavra inglesa rap - pancada).
+* Linguagem por pancadas; modo de comunicação dos Espíritos. 
+* Tiptologia alfabética
+* Nomenclatura muito utilizada para designar o estudo dos raps
+(plural da palavra inglesa rap - pancada).
+
+## Origem
+Do grego tuptó + logos + -ia
 
 ## Relacionado
-todo
+Tiptólogo
 
 ## Veja Também
 TODO

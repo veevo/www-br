@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Conflito [do latim conflictu] - 1. Embate dos que lutam. 2. Situação de
-competição, gerando uma sensação de desconforto.
+* Embate dos que lutam. 
+* Situação de competição, gerando uma sensação de desconforto.
+
+## Origem
+Do latim conflictu
 
 ## Relacionado
 todo

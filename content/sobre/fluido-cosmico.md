@@ -1,11 +1,15 @@
 ---
-title: The Cosmic Fluid
+title: Fluido Cósmico Universal
 date: 2019-02-01 19:00:00
 topics:
 - fluido-cosmico
+- fluidos
 ---
 
 ## Definição
+todo
+
+
 The universal cosmic fluid is, as has already been demonstrated, is the
 primitive material element, the modifications and transformations of which
 constitute the innumerable variety of the bodies of nature (Chapter X.)  As a

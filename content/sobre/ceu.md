@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Céu [do latim caelu] - Termo usado no meio espírita no sentido de morada dos
-bem-aventurados, acepção assemelhada à de paraíso
+Termo usado no meio espírita no sentido de morada dos bem-aventurados, acepção
+assemelhada à de paraíso.
+
+## Origem
+Do latim caelu
 
 ## Relacionado
 todo

@@ -6,10 +6,15 @@ topics:
 ---
 
 ## Definição
-Cepticismo [de céptico]. Doutrina que interdita (em grau diverso), a
-possibilidade de o homem atingir a certeza e preconiza a suspensão do juízo,
-afirmativo ou negativo, em todos ou em determinados domínios. Propensão à
-dúvida. Estado de quem duvida de tudo. Descrença. 
+* Que interdita (em grau diverso), a possibilidade de o homem atingir a certeza
+  e preconiza a suspensão do juízo, afirmativo ou negativo, em todos ou em
+  determinados domínios. 
+* Propensão à dúvida. 
+* Estado de quem duvida de tudo.
+* Descrença. 
+
+## Origem
+De céptico
 
 ## Relacionado
 todo

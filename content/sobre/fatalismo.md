@@ -6,13 +6,17 @@ topics:
 ---
 
 ## Definição
-Fatalismo [do latim fatale + -ismo] - Corrente filosófica segundo a qual as
-coisas estão predeterminadas e se produzirão, apesar do esforço contrário da
-inteligência e da vontade. Observação: o Espiritismo não se vincula a tal modo
-de ver e interpretar os fatos da vida. Ver: Livre-arbítrio.
+Corrente filosófica segundo a qual as coisas estão predeterminadas e se
+produzirão, apesar do esforço contrário da inteligência e da vontade.
+
+Observação: o Espiritismo não se vincula a tal modo de ver e interpretar os
+fatos da vida. 
+
+## Origem
+Do latim fatale + -ismo
 
 ## Relacionado
-todo
+Livre-arbítrio.
 
 ## Veja Também
 TODO

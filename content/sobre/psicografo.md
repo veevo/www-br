@@ -3,11 +3,15 @@ title: Psicógrafo
 date: 2019-02-01 19:00:00
 topics:
 - psicografo
+- mediunidade
+- medium
 ---
 
 ## Definição
-Psicógrafo [do grego psyké= borboleta, alma + graphó= escrevo] - O que usa a
-psicografia; médium escrevente.
+O que usa a psicografia; médium escrevente.
+
+## Origem
+Do grego psyké= borboleta, alma + graphó= escrevo
 
 ## Relacionado
 todo

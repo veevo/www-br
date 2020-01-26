@@ -6,11 +6,10 @@ topics:
 ---
 
 ## Definição
-Fluido Espiritual - Fluido Universal desenvolvido ou acumulado pelo Espírito
-sob a ação de seu pensamento. Já a denominação Fluido Expansível refere-se ao
-fluido espiritual emitido pela parte expansível do perispírito, isto é, aquela
-que sob seu domínio e pensamento pode se combinar com o fluido animalizado de
-um médium. 
+Fluido Universal desenvolvido ou acumulado pelo Espírito sob a ação de seu
+pensamento. Já a denominação Fluido Expansível refere-se ao fluido espiritual
+emitido pela parte expansível do perispírito, isto é, aquela que sob seu domínio
+e pensamento pode se combinar com o fluido animalizado de um médium. 
 
 ## Relacionado
 todo

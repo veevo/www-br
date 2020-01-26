@@ -6,9 +6,11 @@ topics:
 ---
 
 ## Definição
-Psicopatia [do grego psyké= borboleta, alma + pat- (pascho= que sofre) + -ia] -
-1. Designação comum às doenças mentais. 2. Estado mental patológico
-caracterizado por desvios que acarretam comportamentos anti-sociais.
+* Designação comum às doenças mentais. 
+* Estado mental patológico caracterizado por desvios que acarretam comportamentos anti-sociais.
+
+## Origem
+Do grego psyké= borboleta, alma + pat- (pascho= que sofre) + -ia
 
 ## Relacionado
 todo

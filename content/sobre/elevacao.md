@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-Elevação - [do latim elevatione]. ato ou efeito de elevar ou de levantar. ação
-de elevar-se ou erguer-se. Grandeza.
+* Ato ou efeito de elevar ou de levantar. 
+* Ação de elevar-se ou erguer-se. 
+* Grandeza.
+
+## Origem
+Do latim, elevatione
 
 ## Relacionado
 todo

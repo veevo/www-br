@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Levitação [do latim levitu] – Ato ou efeito de erguer objetos ou pessoas acima
-do solo, sem esforço corporal.
+Ato ou efeito de erguer objetos ou pessoas acima do solo, sem esforço corporal.
+
+## Origem
+Do latim levitu
 
 ## Relacionado
 todo

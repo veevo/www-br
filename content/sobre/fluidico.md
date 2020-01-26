@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Fluídico [do latim fluidu] - 1. Relativo ou semelhante a fluido. 2. Etérico ou
-imponderável.
+* Etérico ou imponderável.
+* Relativo ou semelhante a fluido. 
+
+## Origem
+Do latim fluidu
 
 ## Relacionado
 todo

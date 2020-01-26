@@ -6,10 +6,11 @@ topics:
 ---
 
 ## Definição
-Tangível - [do latim tangibile]. Que se pode tanger, tocar ou apalpar.
-Sensível; palpável. 
+* Que se pode tanger, tocar ou apalpar.
+* Sensível; palpável. 
 
-
+## Origem
+do latim tangibile
 
 ## Relacionado
 todo

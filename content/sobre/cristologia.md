@@ -3,12 +3,14 @@ title: Cristologia
 date: 2019-02-01 19:00:00
 topics:
 - cristologia
+- jesus
 ---
 
 ## Definição
-Cristologia [hierônimo => Cristo + -log(o) + -ia] - Tratado em torno da pessoa
-de Jesus Cristo e de sua doutrina.
+Tratado em torno da pessoa de Jesus Cristo e de sua doutrina.
 
+## Origem
+Hierônimo => Cristo + -log(o) + -ia
 
 ## Relacionado
 todo

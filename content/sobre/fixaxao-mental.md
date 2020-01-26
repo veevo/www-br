@@ -7,7 +7,7 @@ topics:
 ---
 
 ## Definição
-Fixação mental – Obsessão de si mesmo, auto-obsessão.
+Obsessão de si mesmo, auto-obsessão.
 
 ## Relacionado
 todo

@@ -6,12 +6,15 @@ topics:
 ---
 
 ## Definição
-Superstição - [do latim superstitione]. Sentimento religioso excessivo ou
-errôneo, que consiste em atribuir a certas práticas uma eficácia sem razão,
-arrastando as pessoas à prática de atos indevidos e absurdos. Falsa idéia a
-respeito do sobrenatural; crendice. Temor absurdo de coisas imaginárias;
-excessiva credulidade. 
+* Falsa idéia a respeito do sobrenatural; crendice. 
+* Temor absurdo de coisas imaginárias; excessiva credulidade. 
 
+Sentimento religioso excessivo ou errôneo, que consiste em atribuir a certas
+práticas uma eficácia sem razão, arrastando as pessoas à prática de atos
+indevidos e absurdos. 
+
+## Origem
+do latim superstitione
 
 ## Relacionado
 todo

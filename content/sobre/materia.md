@@ -6,8 +6,8 @@ topics:
 ---
 
 ## Definição
-Matéria - Laço que prende o Espírito. Agente, intermediário com o auxílio do
-qual e sobre o qual atua o Espírito.
+* Agente, intermediário com o auxílio do qual e sobre o qual atua o Espírito.
+* Laço que prende o Espírito
 
 ## Relacionado
 todo

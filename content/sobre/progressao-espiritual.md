@@ -1,16 +1,12 @@
 ---
-title: Spiritual Progression
+title: Progressão Espiritiual
 date: 2019-02-01 19:00:00
 topics:
 - progressao-espiritual
 ---
 
 ## Definição
-## Spiritual Progression
-TODO
-
-For a more profound discussion of this topic, please visit: [Categories of Spirits](/mediumship/spirit-categories)
-
+todo
 
 ## Fonte
 TODO

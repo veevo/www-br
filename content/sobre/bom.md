@@ -6,11 +6,15 @@ topics:
 ---
 
 ## Definição
-Bom [do latim: bonu] - 1. Que tem todas as qualidades adequadas à sua natureza
-ou função. 2. Benévolo, bondoso, benigno. 3. Misericordioso, caritativo. 4. Que
-alcançou proficiência, eficiente, competente, hábil; cumpridor de suas
-obrigações. 5. Agradável, aprazível. 6. de boa qualidade, bondoso, agradável,
-útil, sadio, nobre.
+* Que tem todas as qualidades adequadas à sua natureza ou função. 
+* Benévolo, bondoso, benigno. 
+* Misericordioso, caritativo. 
+* Que alcançou proficiência, eficiente, competente, hábil; cumpridor de suas obrigações.  
+* Agradável, aprazível. 
+* de boa qualidade, bondoso, agradável, útil, sadio, nobre.
+
+## Origem
+Do latim: bonu
 
 ## Relacionado
 todo

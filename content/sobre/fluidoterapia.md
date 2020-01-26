@@ -4,11 +4,16 @@ date: 2019-02-01 19:00:00
 topics:
 - fluidoterapia
 - fluido-vital
+- passe
+- irradiacao
+- agua-magnetizada
 ---
 
 ## Definição
-Fluidoterapia [do latim: fluidu + do grego: therapeía] – É o tratamento feito
-com fluidos: passes, irradiação, água magnetizada.
+É o tratamento feito com fluidos: passes, irradiação, água magnetizada.
+
+## Origem
+Do latim: fluidu + do grego: therapeía
 
 ## Relacionado
 todo

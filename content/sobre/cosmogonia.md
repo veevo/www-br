@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Cosmogonia [do grego kosmogonía] - Especulação religiosa, filosófica ou
-científica sobre a origem do universo.
+Especulação religiosa, filosófica ou científica sobre a origem do universo.
+
+## Origem
+Do grego kosmogonía
 
 ## Relacionado
 todo

@@ -6,7 +6,13 @@ topics:
 ---
 
 ## Definição
-Ostensivo - [do latim ostensivu]. Que se pode mostrar; evidente. 
+Que se pode mostrar; evidente. 
+
+No contexto espiritual, normalmente relacionado a médiuns que possuem grande
+facilidade de comunicação com o mundo espiritual.
+
+## Origem
+Do latim ostensivu
 
 ## Relacionado
 todo

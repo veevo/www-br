@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Conducéu [do latim conduc(ere) + caelu) - Espécie de veículo do plano
-espiritual.
+Espécie de veículo do plano espiritual.
+
+## Origem
+Do latim conduc(ere) + caelu)
 
 ## Relacionado
 todo

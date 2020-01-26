@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Rancor - [do latim rancore]. Ressentimento profundo decorrente de mágoa que se
-sofreu sem protesto. Ódio oculto, não manifestado. 
+* Ressentimento profundo decorrente de mágoa que se sofreu sem protesto. 
+* Ódio oculto, não manifestado. 
+
+## Origem
+Do latim rancore
 
 ## Relacionado
 todo

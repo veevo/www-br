@@ -6,12 +6,16 @@ topics:
 ---
 
 ## Definição
-Prosélito - [do grego prosélytos]. Aquele que abraça uma nova religião, seita,
-doutrina ou partido. Partidário, adepto. 
+Aquele que abraça uma nova religião, seita, doutrina ou partido. Partidário,
+adepto. 
 
+Ver: [Proselitismo](../proselitismo)
+
+## Origem
+do grego prosélytos
 
 ## Relacionado
-todo
+[Proselitismo](../proselitismo)
 
 ## Veja Também
 TODO

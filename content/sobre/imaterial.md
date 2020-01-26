@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-Imaterial - [do latim immateriale]. Que não é material; incorpóreo; impalpável;
-sobrenatural; espiritual. 
+* que não é material; 
+* incorpóreo; impalpável; espiritual
+* sobrenatural; 
+
+## Origem
+Do latim immateriale
 
 ## Relacionado
 todo

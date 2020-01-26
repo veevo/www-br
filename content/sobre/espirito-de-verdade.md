@@ -6,10 +6,9 @@ topics:
 ---
 
 ## Definição
+todo
 
-
-
-## Comunicações
+## Citações
 > "Espíritas, amai-vos, eis o primeiro ensinamento; instruí-vos, eis o segundo"
 
 ### Advento do Espírito de Verdade (II)

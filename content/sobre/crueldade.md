@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-Crueldade: [do latim crudelitate]. Qualidade do que é cruel. ato cruel.
-Barbaridade. Desumanidade. 
+* Qualidade do que é cruel
+* ato cruel
+* Barbaridade. Desumanidade. 
+
+## Origem
+Do latim crudelitate
 
 ## Relacionado
 todo

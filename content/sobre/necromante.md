@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Necromante [do grego nekrómantis] - Quem quer que faça profissão da
-Necromancia, isto é, aquele que diz o futuro.
+Quem quer que faça profissão da Necromancia, isto é, aquele que diz o futuro.
+
+## Origem
+Do grego nekrómantis
 
 ## Relacionado
 todo

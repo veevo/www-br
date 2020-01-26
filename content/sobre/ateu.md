@@ -6,9 +6,14 @@ topics:
 ---
 
 ## Definição
-Ateu [do grego: atheos, composto de a= privativo, e de theos= Deus: sem Deus,
-que não crê em Deus] - Aquele que pratica o ateísmo e não crê em Deus ou que
+Aquele que pratica o ateísmo e não crê em Deus ou que
 não segue religião alguma.
+
+Ateísta [do grego: atheos + -ista] - Aquele que não crê em Deus, o mesmo que Ateu.
+
+## Origem
+Do grego: atheos, composto de a= privativo, e de theos= Deus: sem Deus,
+que não crê em Deus
 
 ## Relacionado
 todo

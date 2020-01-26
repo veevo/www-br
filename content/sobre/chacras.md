@@ -6,9 +6,8 @@ topics:
 ---
 
 ## Definição
-Chacra(s) - Centros de força instalados no perispírito, regendo a atividade
-funcional dos órgãos relacionados pela fisiologia terrena. Ver: Centros Vitais
-e Centros de Força.
+Centros de força instalados no perispírito, regendo a atividade funcional dos
+órgãos relacionados pela fisiologia terrena. 
 
 Centros energéticos, também chamados de vórtices, do corpo humano. Localizados
 em pontos específicos do corpo, captam energias de todas espécies.Sua limpeza

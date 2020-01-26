@@ -3,13 +3,16 @@ title: Apóstolo
 date: 2019-02-01 19:00:00
 topics:
 - apostolo
+- jesus
+- evangelho
 ---
 
 ## Definição
-Apóstolo [do grego: apóstolos= enviado; do latim: apostolu ] - 1. Cada um dos
-doze discípulos de Jesus. 2. Aquele que evangeliza; propagador de qualquer
-idéia ou doutrina.
+* Cada um dos doze discípulos de Jesus. 
+* Aquele que evangeliza; propagador de qualquer idéia ou doutrina.
 
+## Origem
+Do grego: apóstolos= enviado; do latim: apostolu 
 
 ## Relacionado
 todo

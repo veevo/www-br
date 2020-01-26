@@ -5,10 +5,14 @@ topics:
 - bem
 ---
 
+
 ## Definição
-Bem [do latim bene]- 1. Qualidade atribuída a ações e obras humanas que lhes
-confere um caráter moral. 2. Tudo que beneficia e auxilia o progresso do homem
-do ponto de vista moral. 3. Favor, benefício.
+* Qualidade atribuída a ações e obras humanas que lhes confere um caráter moral. 
+* Tudo que beneficia e auxilia o progresso do homem do ponto de vista moral. 
+* Favor, benefício.
+
+## Origem
+Do latim bene
 
 ## Relacionado
 todo

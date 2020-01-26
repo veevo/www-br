@@ -6,9 +6,12 @@ topics:
 ---
 
 ## Definição
-Atavismo [do latim atavu= quarto avô + -ismo] - 1. Reaparecimento, em um
-descendente, de um caráter não existente em seus ascendentes imediatos, mas sim
-em remotos. 2. Hereditariedade.
+* Reaparecimento, em um descendente, de um caráter não existente em seus
+  ascendentes imediatos, mas sim em remotos. 
+* Hereditariedade.
+
+## Origem
+Do latim atavu= quarto avô + -ismo
 
 ## Relacionado
 todo

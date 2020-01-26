@@ -3,12 +3,13 @@ title: Positivismo
 date: 2019-02-01 19:00:00
 topics:
 - positivismo
+- augusto-comte
 ---
 
 ## Definição
-Positivismo - [de positivo]. Sistema criado por Augusto Comte, de caráter
-empirista e antimetafísico, que recusa qualquer juízo de valor não
-consubstanciado numa certeza científica e idêntica essência e fenômeno. 
+Sistema criado por Augusto Comte, de caráter empirista e antimetafísico, que
+recusa qualquer juízo de valor não consubstanciado numa certeza científica e
+idêntica essência e fenômeno. 
 
 ## Relacionado
 todo

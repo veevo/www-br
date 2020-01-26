@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Missionário - [do francês missionaire]. Propagandista de uma idéia. Aquele que
-missiona, que prega a fé, evangeliza. 
+Propagandista de uma idéia. Aquele que missiona, que prega a fé, evangeliza. 
+
+## Origem
+Do francês missionaire
 
 ## Relacionado
 todo

@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Hipnofone [do grego hýpnos= sono + -phoné= som] – Aquele que fala durante o
-sono.
+Aquele que fala durante o sono.
+
+## Origem
+Do grego hýpnos= sono + -phoné= som
 
 ## Relacionado
 todo

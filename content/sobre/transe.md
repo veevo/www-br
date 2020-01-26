@@ -3,12 +3,17 @@ title: Transe
 date: 2019-02-01 19:00:00
 topics:
 - transe
+- medium
+- mediunidade
 ---
 
 ## Definição
-Transe [do francês transe] - Estado de inconsciência ou semiconsciência em que
-se verificam diversos fenômenos psíquicos ou mediúnicos.
+Estado de inconsciência ou semiconsciência em que se verificam diversos
+fenômenos psíquicos ou mediúnicos.
  
+## Origem
+Do francês transe
+
 ## Relacionado
 todo
 

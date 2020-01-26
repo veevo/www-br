@@ -6,9 +6,9 @@ topics:
 ---
 
 ## Definição
-Cordão fluídico - Conduto energético que liga o perispírito ao corpo físico,
-quando dos desdobramentos; também denominado de cordão astral, cordão fluídico,
-cordão de luz, fio de prata, cordão perispirítico.
+Conduto energético que liga o perispírito ao corpo físico, quando dos
+desdobramentos; também denominado de cordão astral, cordão fluídico, cordão de
+luz, fio de prata, cordão perispirítico.
 
 Espécie de , como o nome diz, "cordão" que liga o perispírito e,
 conseqüentemente, o espírito ao corpo físico.É imprescindível à vida de
@@ -28,14 +28,6 @@ espontaneamente durante o fenômeno das projeções, como se algo no universo
 pudesse acontecer "espontaneamente" , isto é, sem o consentimento e
 conhecimento de Deus.Esse acontecimento é impossível de suceder, a não ser que
 seja a "hora" do indivíduo desencarnar.
-
-É preciso não ser infantil ao se discutir questões espíritas.O
-"cordão-de-prata" não é feito de material suscetível de atritos e à
-acontecimentos que possam vir á "rompê-lo".Isso contraria a lógica.Os ditos
-"espiritualistas" deveriam estudar Kardec e praticar a caridade antes de se
-aprofundar e perder tempo em discussões inócuas e de cunho
-pseudo-filosófico-espiritualista que somente os levam de lugar algum para
-nenhum lugar. 
 
 ## Relacionado
 todo

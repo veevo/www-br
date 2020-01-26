@@ -6,11 +6,13 @@ topics:
 ---
 
 ## Definição
-Monismo [do grego mónos + -ismo]- Doutrina filosófica segundo a qual o conjunto
-das coisas pode ser reduzido à unidade, quer do ponto de vista da sua
-substância, quer do ponto de vista das leis (lógicas ou físicas) pelas quais o
-universo se ordena.
+Doutrina filosófica segundo a qual o conjunto das coisas pode ser reduzido à
+unidade, quer do ponto de vista da sua substância, quer do ponto de vista das
+leis (lógicas ou físicas) pelas quais o universo se ordena.
 
+
+## Origem
+Do grego mónos + -ismo
 
 ## Relacionado
 todo

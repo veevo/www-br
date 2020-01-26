@@ -6,12 +6,17 @@ topics:
 ---
 
 ## Definição
-Necromancia [do grego nekros= morte + mantéia= adivinhação] – Arte de evocar as
-almas dos mortos para obter delas revelações. Por extensão, esta palavra foi
-aplicada a todos os meios de adivinhação. Ver: Quiromancia e Cartomancia.
+Arte de evocar as almas dos mortos para obter delas revelações. Por extensão,
+esta palavra foi aplicada a todos os meios de adivinhação. 
+
+Ver: Quiromancia e Cartomancia.
+
+## Origem
+Do grego nekros= morte + mantéia= adivinhação
 
 ## Relacionado
-todo
+Quiromancia
+Cartomancia
 
 ## Veja Também
 TODO

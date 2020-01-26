@@ -6,9 +6,11 @@ topics:
 ---
 
 ## Definição
-Magia - [do latim magia]. Ciência e arte que pretende atuar sobre a natureza,
-empregando conscientemente poderes invisíveis, para obter resultados visíveis,
-contrários às suas leis. 
+Ciência e arte que pretende atuar sobre a natureza, empregando conscientemente
+poderes invisíveis, para obter resultados visíveis, contrários às suas leis. 
+
+## Origem
+Do latim magia
 
 ## Relacionado
 todo

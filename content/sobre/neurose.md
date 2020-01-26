@@ -6,9 +6,11 @@ topics:
 ---
 
 ## Definição
-Neurose [do grego neûron + -ose] - Perturbação mental que não compromete as
-funções essenciais da personalidade e em que o indivíduo mantém penosa
-consciência de seu estado.
+Perturbação mental que não compromete as funções essenciais da personalidade e
+em que o indivíduo mantém penosa consciência de seu estado.
+
+## Origem
+Do grego neûron + -ose
 
 ## Relacionado
 todo

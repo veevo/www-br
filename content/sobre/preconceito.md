@@ -6,9 +6,13 @@ topics:
 ---
 
 ## Definição
-Preconceito - [do latim prae + conceptu]. Conceito formado antecipadamente e
-sem fundamento sério. Preocupação. Prejuízo. Crendice; superstição. 
+* Conceito formado antecipadamente e sem fundamento sério. 
+* Preocupação. Prejuízo. Crendice;
+* Superstição. 
 
+
+## Origem
+do latim prae + conceptu
 
 ## Relacionado
 todo

@@ -7,14 +7,14 @@ topics:
 
 ## Definição
 Espiritualmente, é a prece uma súplica, feita com fé e sinceridade, que leva o
-ser humano a aproximar-se de DEUS.
+ser humano a aproximar-se de Deus.
 
-Prece [do latim prece] – É uma invocação e, em certos casos, uma evocação, pela
-qual chamamos a nós tal ou tal Espírito. Quando é dirigida a Deus, Ele nos
-envia seus mensageiros, os Bom Espíritos. A prece não pode revogar os decretos
-da Providência; mas por ela os Bons Espíritos podem vir em nosso auxílio, quer
-para dar-nos a força moral que nos falta, quer para sugerir-nos os pensamentos
-necessários: daí vem o alívio que experimentamos quando oramos com fervor. 
+É uma invocação e, em certos casos, uma evocação, pela qual chamamos a nós tal
+ou tal Espírito. Quando é dirigida a Deus, Ele nos envia seus mensageiros, os
+Bom Espíritos. A prece não pode revogar os decretos da Providência; mas por ela
+os Bons Espíritos podem vir em nosso auxílio, quer para dar-nos a força moral
+que nos falta, quer para sugerir-nos os pensamentos necessários: daí vem o
+alívio que experimentamos quando oramos com fervor. 
 
 Daí vem também o alívio que experimentam os Espíritos sofredores quando oramos
 por eles; eles mesmo pedem essas preces sob a forma que lhes é familiar e que
@@ -73,6 +73,11 @@ nós, nem sempre capazes de captarmos a linguagem do pensamento).
 "A prece do coração é preferível à que podes ler, por mais bela que seja, se a
 leres mais com os lábios do que com o pensamento" (Liv. Esp., Q. 658).
 
+## Origem
+Do latim prece
+
+## Relacionado
+todo
 
 ## Veja Também
 TODO

@@ -3,12 +3,15 @@ title: Profilaxia
 date: 2019-02-01 19:00:00
 topics:
 - profilaxia
+- doenca
 ---
 
 ## Definição
-Profilaxia [do grego prophylaxis= precaução + -ia] – 1. Parte da medicina que
-tem por objeto as medidas preventivas contra as enfermidades. 2. Conjunto de
-medidas para evitar o aparecimento de doenças.
+* Parte da medicina que tem por objeto as medidas preventivas contra as enfermidades. 
+* Conjunto de medidas para evitar o aparecimento de doenças.
+
+## Origem
+Do grego prophylaxis= precaução + -ia
 
 ## Relacionado
 todo

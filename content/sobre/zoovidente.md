@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Zoovidente [do latim zoo + vidente] - Animal (principalmente cães e cavalos)
-que tem a faculdade anímica de vidência de Espíritos desencarnados.
+Animal (principalmente cães e cavalos) que tem a faculdade anímica de vidência
+de Espíritos desencarnados.
+
+## Origem
+Do latim zoo + vidente
 
 ## Relacionado
 todo

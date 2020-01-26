@@ -6,13 +6,14 @@ topics:
 ---
 
 ## Definição
-Diabo [do grego diabolos] - delator, acusador, maldizente, caluniador] –
-Conforme a Doutrina dos Espíritos, constitui-se a personificação do mal; é um
-ser alegórico, resumindo em si todas as paixões más dos Espíritos imperfeitos.
+Delator, acusador, maldizente, caluniador Conforme a Doutrina dos Espíritos,
+constitui-se a personificação do mal; é um ser alegórico, resumindo em si todas
+as paixões más dos Espíritos imperfeitos.  
+
 Espírito ou gênio do mal. demônio. Satanás.
 
-## Related
-Dialética [do grego dialektikós, pelo latim dialecticu] – 1. Argumentação dialogada, segundo a filosofia antiga. 2. Desenvolvimento de processos gerados por oposição que provisoriamente se resolvem em unidades (tese e antítese; numa categoria superior – a síntese)
+## Origem
+Do grego diabolos
 
 ## Relacionado
 todo

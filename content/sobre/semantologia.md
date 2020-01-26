@@ -6,9 +6,11 @@ topics:
 ---
 
 ## Definição
-Sematologia [do grego sema, semato= sinal + logos= discurso] – Transmissão do
-pensamento dos Espíritos por meio de sinais, tais como pancadas, batidas,
-movimentos de objetos, etc..
+Transmissão do pensamento dos Espíritos por meio de sinais, tais como pancadas,
+batidas, movimentos de objetos, etc..
+
+## Origem
+Do grego sema, semato= sinal + logos= discurso
 
 ## Relacionado
 todo

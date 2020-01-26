@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-Encarnado - [do latim encarnatu]. Que encarnou. Espírito mergulhado na carne.
-Espírito com corpo físico
+* Que encarnou. 
+* Espírito mergulhado na carne.  
+* Espírito com corpo físico
+
+## Origem
+Do latim encarnatu
 
 ## Relacionado
 todo

@@ -6,7 +6,11 @@ topics:
 ---
 
 ## Definição
-Prazer [do latim placere] - Gratificação dos sentidos.
+* Gratificação dos sentidos.
+* Estado de satisfação dos sentidos ou da mente; alegria, contentamento, júbilo;
+
+## Origem
+Do latim placere
 
 ## Relacionado
 todo

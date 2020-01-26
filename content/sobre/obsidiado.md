@@ -8,15 +8,16 @@ topics:
 ---
 
 ## Definição
-Obsidiado – Paciente da obsessão, aquele que sofre a influência perniciosa de
-um Espírito encarnado ou desencarnado. Sinônimo de Obsesso. Ver também:
-Obsessão.
+Paciente da obsessão, aquele que sofre a influência perniciosa de um Espírito
+encarnado ou desencarnado. 
+
+Sinônimo de Obsesso. 
 
 ## Relacionado
 todo
 
 ## Veja Também
-TODO
+Obsessão
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

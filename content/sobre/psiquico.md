@@ -3,12 +3,14 @@ title: Psíquico
 date: 2019-02-01 19:00:00
 topics:
 - psiquico
+- alma
 ---
 
 ## Definição
-Psíquico - [do grego psykhikós]. Relativo à alma, ou às faculdades intelectuais
-e morais de um indivíduo. 
+Relativo à alma, ou às faculdades intelectuais e morais de um indivíduo. 
 
+## Origem
+do grego psykhikós
 
 ## Relacionado
 todo

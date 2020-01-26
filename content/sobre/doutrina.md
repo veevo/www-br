@@ -6,9 +6,12 @@ topics:
 ---
 
 ## Definição
-Doutrina [do latim doctrina] – 1. Conjunto de princípios que serve de base a um
-sistema religioso, político, filosófico, científico, etc. . 2. Conjunto de
-juízos e das interpretações próprias de um filósofo ou de uma escola.
+* Conjunto de princípios que serve de base a um sistema religioso, político,
+  filosófico, científico, etc.
+* Conjunto de juízos e das interpretações próprias de um filósofo ou de uma escola.
+
+## Origem
+Do latim doctrina
 
 ## Relacionado
 todo

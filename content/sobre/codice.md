@@ -6,9 +6,12 @@ topics:
 ---
 
 ## Definição
-Códice [do latim codice] - 1. Forma característica do manuscrito em pergaminho,
-denominada por oposição à forma de rolo. 2. Registro ou compilação de
-manuscritos, documentos históricos ou leis.
+* forma característica do manuscrito em pergaminho, denominada por oposição à
+forma de rolo. 
+* Registro ou compilação de manuscritos, documentos históricos ou leis.
+
+## Origem
+Do latim codice
 
 ## Relacionado
 todo

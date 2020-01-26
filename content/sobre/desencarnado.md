@@ -6,11 +6,13 @@ topics:
 ---
 
 ## Definição
-Desencarnado - [de des + do latim incarnatu] Que desencarnou. Que deixou a
-carne. Espírito sem corpo físico. Morrer.
+Que desencarnou. Que deixou a carne. Espírito sem corpo físico. Morrer.
+
+## Origem
+Do latim: de des + incarnatu
 
 ## Relacionado
-todo
+Desencarnação
 
 ## Veja Também
 TODO

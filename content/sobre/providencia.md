@@ -3,11 +3,15 @@ title: Providência
 date: 2019-02-01 19:00:00
 topics:
 - providencia
+- deus
 ---
 
 ## Definição
-Providência - [do latim providentia]. Sabedoria suprema, com que Deus tudo
-dirige. O próprio Deus.
+* Sabedoria suprema, com que Deus tudo dirige. 
+* O próprio Deus.
+
+## Origem
+Do latim providentia
 
 ## Relacionado
 todo

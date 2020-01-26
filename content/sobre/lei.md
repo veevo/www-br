@@ -6,13 +6,18 @@ topics:
 ---
 
 ## Definição
-Lei [do latim lege]- 1. Norma, preceito, princípio, regra. 2. Obrigação imposta
-pela consciência e pela sociedade. 3. Fórmula geral que enuncia uma relação
-constante entre fenômenos de uma dada ordem; lei natural. 4. As leis morais,
-divinas ou naturais, conforme relacionadas pela Doutrina Espírita: lei de
-adoração, lei do trabalho, lei de reprodução, lei de conservação, lei de
-destruição, lei de sociedade, lei do progresso, lei de igualdade, lei de
-liberdade, lei de justiça, de amor e de caridade.
+* Norma, preceito, princípio, regra. 
+* Obrigação imposta pela consciência e pela sociedade. 
+* Fórmula geral que enuncia uma relação constante entre fenômenos de uma dada ordem; lei natural. 
+* As leis morais, divinas ou naturais, conforme relacionadas pela Doutrina
+  Espírita: lei de adoração, lei do trabalho, lei de reprodução, lei de
+  conservação, lei de destruição, lei de sociedade, lei do progresso, lei de
+  igualdade, lei de liberdade, lei de justiça, de amor e de caridade.
+
+Para saber mais sobre as Leis Divinas, [clique aqui](/leis-divinas).
+
+## Origem
+Do latim lege
 
 ## Relacionado
 todo

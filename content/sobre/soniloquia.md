@@ -2,12 +2,15 @@
 title: Soniloquia
 date: 2019-02-01 19:00:00
 topics:
-- soniloquia
+- sono
+- sonambulismo
 ---
 
 ## Definição
-Soniloquia [do latim somnus= sono + loqui= falar] – Estado de emancipação da
-alma intermediário ao sono e ao sonambulismo natural.
+Estado de emancipação da alma intermediário ao sono e ao sonambulismo natural.
+
+## Origem
+Do latim somnus= sono + loqui= falar
 
 ## Relacionado
 todo

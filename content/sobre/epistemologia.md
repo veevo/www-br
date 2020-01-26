@@ -6,8 +6,10 @@ topics:
 ---
 
 ## Definição
-Epistemologia [do grego epistéme + -o + -log(o) + -ia] - Estudo do conhecimento
-humano quanto ao seu alcance e condições.
+Estudo do conhecimento humano quanto ao seu alcance e condições.
+
+## Origem
+Do grego epistéme + -o + -log(o) + -ia
 
 ## Relacionado
 todo

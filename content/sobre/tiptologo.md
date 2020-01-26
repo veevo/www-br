@@ -3,14 +3,20 @@ title: Tiptólogo
 date: 2019-02-01 19:00:00
 topics:
 - tiptologo
+- medium
+- mediunidade
 ---
 
 ## Definição
-Tiptólogo [do grego tuptó= eu bato] - Variedade dos médiuns aptos à tiptologia.
-Médium tiptólogo.
- 
+Médium que exerce a tiptologia.
+
+Ver: [Tiptologia](../tiptologia)
+
+## Origem
+Do grego tuptó= eu bato
+
 ## Relacionado
-todo
+[Tiptologia](../tiptologia)
 
 ## Veja Também
 TODO

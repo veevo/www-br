@@ -6,9 +6,13 @@ topics:
 ---
 
 ## Definição
-Egoísmo [do latim ego + ismo] - 1. Amor próprio excessivo, desconsiderando o
-interesse alheio. 2. Doutrina que coloca o interesse individual como norteador
-da conduta humana e dos seus preceitos morais. 3. Exclusivismo, egocentrismo.
+* Amor próprio excessivo, desconsiderando o interesse alheio. 
+* Doutrina que coloca o interesse individual como norteador da conduta humana e dos seus
+  preceitos morais. 
+* Exclusivismo, egocentrismo.
+
+## Origem
+Do latim ego + ismo
 
 ## Relacionado
 todo

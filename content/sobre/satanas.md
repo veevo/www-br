@@ -6,15 +6,19 @@ topics:
 ---
 
 ## Definição
-Satanás [do hebreu chaitán= adversário, inimigo de Deus] – Forma derivada de
-Satã. Ver: Diabo, Demônio.
+Forma derivada de Satã. 
+
+## Origem
+Do hebreu chaitán= adversário, inimigo de Deus
 
 ## Relacionado
-todo
-
-## Veja Também
 Diabo  
 Demônio  
+Umbral
+Inferno
+
+## Veja Também
+todo
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

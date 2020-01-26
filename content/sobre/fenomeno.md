@@ -6,9 +6,12 @@ topics:
 ---
 
 ## Definição
-Fenômeno [do grego phainómenon, do latim phaenomenon] - 1. O que se manifesta
-aos sentidos ou à consciência 2. Fato de natureza moral ou social. 3. Aquilo
-que é raro e surpreendente.
+* Fato de natureza moral ou social. 
+* O que se manifesta aos sentidos ou à consciência 
+* Aquilo que é raro e surpreendente.
+
+## Origem
+Do grego phainómenon, do latim phaenomenon
 
 ## Relacionado
 todo

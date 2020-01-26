@@ -6,11 +6,13 @@ topics:
 ---
 
 ## Definição
-Deísmo [do latim deus,i > de(i)- + -ismo] - Sistema ou atitude dos que,
-rejeitando toda espécie de revelação divina, e portanto a autoridade de
-qualquer igreja, aceitam, todavia, a existência de um Deus, destituído de
-atributos morais e intelectuais, e que poderá ou não haver influído na criação
-do universo.
+Sistema ou atitude dos que, rejeitando toda espécie de revelação divina, e
+portanto a autoridade de qualquer igreja, aceitam, todavia, a existência de um
+Deus, destituído de atributos morais e intelectuais, e que poderá ou não haver
+influído na criação do universo.
+
+## Origem
+Do latim deus,i > de(i)- + -ismo
 
 ## Relacionado
 todo

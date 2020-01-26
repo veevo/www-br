@@ -3,10 +3,17 @@ title: Sensualidade
 date: 2019-02-01 19:00:00
 topics:
 - sensualidade
+- sensualismo
+- luxuria
+- volupia
 ---
 
 ## Definição
-Sensualidade - [do latim sensualitate]. Qualidade de sensual. Luxúria; volúpia. 
+* Qualidade de sensual. 
+* Luxúria; volúpia. 
+
+## Origem
+do latim sensualitate
 
 ## Relacionado
 todo

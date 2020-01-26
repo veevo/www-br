@@ -6,10 +6,11 @@ topics:
 ---
 
 ## Definição
-Virtude [do latim virtus= coragem, força de alma] - Qualidade do sentimento e
-do comportamento de acordo com uma moral. A virtude pratica-se mais do que se
-define.
+Qualidade do sentimento e do comportamento de acordo com uma moral. A virtude
+pratica-se mais do que se define.
 
+## Origem
+Do latim virtus= coragem, força de alma
 
 ## Relacionado
 todo

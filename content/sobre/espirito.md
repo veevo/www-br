@@ -6,11 +6,14 @@ topics:
 ---
 
 ## Definição
-Espírito [do latim spiritu] - No sentido especial da Doutrina Espírita, os
-Espíritos são os seres inteligentes da criação, que povoam o Universo, fora do
-mundo material, e constituem o mundo invisível. Não são seres oriundos de uma
-criação especial, porém, as almas dos que viveram na Terra, ou nas outras
-esferas, e que deixaram o invólucro corporal.
+todo
+
+
+No sentido especial da Doutrina Espírita, os Espíritos são os seres inteligentes
+da criação, que povoam o Universo, fora do mundo material, e constituem o mundo
+invisível. Não são seres oriundos de uma criação especial, porém, as almas dos
+que viveram na Terra, ou nas outras esferas, e que deixaram o invólucro
+corporal.
 
 Human Being is a Spirit incarnated in a material body. The perispirit is the
 semi-material body that unites the Spirit to the physical body.
@@ -46,6 +49,8 @@ Spirits belong to different orders according to the degree of perfection they ha
 ### Interaction with Humanity
 The Spirits’ relations with Human Beings are constant and have always existed. The Good Spirits attract us towards goodness, sustain us in life’s trials, and help us bear them with courage and resignation. The Imperfect Spirits induce us towards error. 
 
+## Origem
+Do latim spiritu
 
 ## Relacionado
 todo

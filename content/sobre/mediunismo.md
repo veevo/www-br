@@ -6,8 +6,8 @@ topics:
 ---
 
 ## Definição
-Mediunismo - [de médium]. Uso indevido da mediunidade, fora das regras de
-segurança aconselhadas pelo espiritismo. 
+Uso indevido da mediunidade, fora das regras de segurança aconselhadas pelo
+espiritismo. 
 
 ## Relacionado
 todo

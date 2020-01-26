@@ -6,7 +6,11 @@ topics:
 ---
 
 ## Definição
-Entidade [do latim entitatem] - Espírito desencarnado.
+* Expressão que denota Espírito desencarnado.
+* Pode ter boas ou más intenções.
+
+## Origem
+Do latim, entitatem
 
 ## Relacionado
 todo

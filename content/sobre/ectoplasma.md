@@ -6,15 +6,15 @@ topics:
 ---
 
 ## Definição
-Ectoplasma [do grego e do latim, respectivamente: ektós= fora, exterior +
-plasma= criatura]– 1. Biologia: parte periférica do citoplasma. 2.
-Parapsicologia: designa a substância visível que emana do corpo de certos
-médiuns. 3. Substância que se acredita seja a força nervosa e que tem
-propriedades químicas semelhantes às do corpo físico, donde provém.
-Apresenta-se viscosa, esbranquiçada, quase transparente, com reflexos leitosos,
-sendo evanescente sob a luz. É considerada a base dos efeitos mediúnicos
-chamados físicos (levitação, materialização, etc.), pois através dela os
-Espíritos podem atuar sobre a matéria.
+
+* Biologia: parte periférica do citoplasma. 
+* Parapsicologia: designa a substância visível que emana do corpo de certos médiuns.
+* Substância que se acredita seja a força nervosa e que tem propriedades
+  químicas semelhantes às do corpo físico, donde provém.  Apresenta-se viscosa,
+  esbranquiçada, quase transparente, com reflexos leitosos, sendo evanescente
+  sob a luz. É considerada a base dos efeitos mediúnicos chamados físicos
+  (levitação, materialização, etc.), pois através dela os Espíritos podem atuar
+  sobre a matéria.
 
 ## O que é o Ectoplasma?
 Substância em estado material até agora desconhecido pela ciência terrena, que
@@ -48,15 +48,17 @@ dos médiuns" de Allan Kardec e "Evolução em dois mundos" psicografado pelos
 médiuns Francisco Cândido Xavier e Waldo Vieira e ditado pelo espírito André
 Luiz)(ver Materializações) 
 
-
+## Citações
 > Spirits are capable of moving, transporting, dematerialising and rematerialising inanimate objects, with the help of mediums by using a substance called ectoplasm   
 > The Mediums Book, Allan Kardec
 
-
-## Suggested Reading
+## Leitura Recomendade
 [The Mediums Book](/books/allan-kardec/mediums-book)  
-[The Spirits Book](/books/allan-kardec/spirits-book)  
+The Spirits Book
 
+## Origem
+Do grego e do latim, respectivamente: ektós= fora, exterior +
+plasma= criatura
 
 ## Relacionado
 todo

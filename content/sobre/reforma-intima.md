@@ -6,10 +6,10 @@ topics:
 ---
 
 ## Definição
-Reforma íntima – É mudança comportamental, substituindo a indiferença, os maus
-hábitos e as atitudes negativas, pelas virtudes, conforme às leis morais
-cristãs; ou seja, o esforço permanente da pessoa para se renovar moralmente e
-dominar as más inclinações.
+É mudança comportamental, substituindo a indiferença, os maus hábitos e as
+atitudes negativas, pelas virtudes, conforme às leis morais cristãs; ou seja, o
+esforço permanente da pessoa para se renovar moralmente e dominar as más
+inclinações.
 
 ## Relacionado
 todo

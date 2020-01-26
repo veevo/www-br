@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Idiossincrasia [do grego idiosygkrasía] – Característica que individualiza o
-ser, a sua maneira peculiar de ver, de sentir e de reagir.
+Característica que individualiza o ser, a sua maneira peculiar de ver, de sentir
+e de reagir.
+
+## Origem
+Do grego idiosygkrasía
 
 ## Relacionado
 todo

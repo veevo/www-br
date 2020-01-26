@@ -3,12 +3,13 @@ title: Volitação
 date: 2019-02-01 19:00:00
 topics:
 - volitacao
+- mundo-espiritual
 ---
 
 ## Definição
-Volitação (ou volição) [do latim escolástico volitione] - 1. Literalmente:
-querer, desejar, ter a intenção. 2. Designa um impulso consciente que leva a
-personalidade a pensar e realizar uma ação, para obter determinado fim.
+1. Literalmente: querer, desejar, ter a intenção. 
+2. Designa um impulso consciente que leva a personalidade a pensar e realizar uma ação, para obter
+   determinado fim.
 
 Capacidade que um espírito tem de, sob certas condições e certo adiantamento
 moral, de poder transpor-se elevando-se do solo numa espécie de voô, daí o nome
@@ -20,13 +21,18 @@ a volitação causam-nos extremo interesse e excitamento por se tratar,
 obviamente, de uma especialidade do espírito bastante prazerosa e portanto
 ambicionada.
 
-Porém se faz mister lembrar que essa capacidade só se apresenta em espíritos
+Porém é importante lembrar que essa capacidade só se apresenta em espíritos
 desapegados da matéria, de um certo grau de adiantamento moral. Porquanto
 espíritos ainda subjugados à matéria relacionam-se no mundo espiritual da mesma
 forma quando encarnados, ou seja se desejarem se transpor de um lugar ao outro,
 terão que o fazer, pelos seus próprios meios, como se estivessem no mundo
 físico.
 
+Também conhecido como _volição_.
+
+
+## Origem
+Ou volição) [do latim escolástico volitione
 
 ## Relacionado
 todo

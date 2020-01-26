@@ -6,8 +6,13 @@ topics:
 ---
 
 ## Definição
-Princípio - [do latim principiu]. Momento em que uma coisa tem início, começo
-ou origem. Causa primária; base; razão. Regra; lei; preceito moral. Teoria. 
+* Momento em que uma coisa tem início, começo ou origem. 
+* Causa primária; base; razão. 
+* Regra; lei; preceito moral. 
+* Teoria. 
+
+## Origem
+do latim principiu
 
 ## Relacionado
 todo

@@ -6,12 +6,10 @@ topics:
 ---
 
 ## Definição
-Telegrafia - [do grego têle+graphé]. Sistema que transmite sinais gráficos à
-distância. 
+Sistema que transmite sinais gráficos à distância. 
 
 ## Telegrafia humana
 Comunicação a distância entre duas pessoas vivas, que se evocam reciprocamente.
-Ver: Telepatia.
 
 Esta evocação provoca a emancipação da alma, ou do Espírito encarnado, que vem
 se manifestar e pode comunicar seu pensamento pela escrita ou por outro qualquer
@@ -20,8 +18,11 @@ de comunicação, quando os homens forem mais moralizados, menos egoístas e men
 presos às coisas materiais. Até que esse estado seja alcançado, a telegrafia
 humana será um privilégio das almas de escol.
 
+## Origem
+do grego têle+graphé
+
 ## Relacionado
-todo
+Telepatia
 
 ## Veja Também
 TODO

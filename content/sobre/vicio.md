@@ -6,9 +6,17 @@ topics:
 ---
 
 ## Definição
-Vício [do latim vitium= ausência de perfeição, defeito de formação] - A cada
-virtude corresponde, segundo certos moralistas, um defeito, uma falta (ou um
-excesso) que se lhe opõe e cuja criação definiria um vício.
+* Defeito físico ou moral; imperfeição grave de uma pessoa ou coisa.
+* Disposição natural ou tendência para praticar o mal; qualquer ação ou comportamento nocivo motivado por essa tendência; depravação.
+* Qualquer costume condenável ou prejudicial.
+* Qualquer deformação física ou funcional.
+
+## Vícios e Virtudes
+A cada virtude corresponde, segundo certos moralistas, um defeito, uma falta (ou
+um excesso) que se lhe opõe e cuja criação definiria um vício.
+
+## Origem
+Do latim vitium= ausência de perfeição, defeito de formação
 
 ## Relacionado
 todo

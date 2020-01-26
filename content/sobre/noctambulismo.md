@@ -2,14 +2,16 @@
 title: Noctambulismo
 date: 2019-02-01 19:00:00
 topics:
-- noctambulismo
+- sonambulismo
 ---
 
 ## Definição
-Noctambulismo [do latim nox, noctis= a noite + ambulare= marchar, passear +
--ismo] – Ato de marchar ou passear durante a noite, dormindo; sinônimo de
-sonambulismo. Esta última palavra é preferível, visto que noctambulismo não
-implica, de modo algum, a idéia de sono.
+Ato de marchar ou passear durante a noite, dormindo; sinônimo de sonambulismo.
+Esta última palavra é preferível, visto que noctambulismo não implica, de modo
+algum, a idéia de sono.
+
+## Origem
+Do latim nox, noctis= a noite + ambulare= marchar, passear + -ismo
 
 ## Relacionado
 todo

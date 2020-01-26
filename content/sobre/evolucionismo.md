@@ -6,10 +6,12 @@ topics:
 ---
 
 ## Definição
-Evolucionismo [do francês évolutionisme] - Doutrina filosófica ou científica
-que se baseia na idéia da evolução, segundo a qual a transformação dos seres,
-isto é, da matéria, da vida, do espírito, das sociedades, é uma lei geral e
-inexorável.
+Doutrina filosófica ou científica que se baseia na idéia da evolução, segundo a
+qual a transformação dos seres, isto é, da matéria, da vida, do espírito, das
+sociedades, é uma lei geral e inexorável.
+
+## Origem
+Do francês évolutionisme
 
 ## Relacionado
 todo

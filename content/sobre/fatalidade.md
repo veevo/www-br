@@ -6,12 +6,15 @@ topics:
 ---
 
 ## Definição
-Fatalidade [do latim fatalitate] – 1. Que tem de ser, irrevogável, inevitável.
-2. Para o Espiritismo, a única fatalidade da vida material é a morte biológica,
-com a conseqüente desencarnação do Espírito. Ver: Livre-arbítrio.
+* Que tem de ser, irrevogável, inevitável.
+* Para o Espiritismo, a única fatalidade da vida material é a morte biológica,
+  com a conseqüente desencarnação do Espírito. 
+
+## Origem
+Do latim fatalitate
 
 ## Relacionado
-todo
+Livre-arbítrio
 
 ## Veja Também
 TODO

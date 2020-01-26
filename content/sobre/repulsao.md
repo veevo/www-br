@@ -6,8 +6,11 @@ topics:
 ---
 
 ## Definição
-Repulsão - [do latim repulsione] Força em virtude da qual alguns corpos se
-repelem mutuamente. ação ou efeito de repelir. 
+Força em virtude da qual alguns corpos se repelem mutuamente. Ação ou efeito de
+repelir. 
+
+## Origem
+Do latim repulsione
 
 ## Relacionado
 todo

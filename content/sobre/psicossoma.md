@@ -3,12 +3,14 @@ title: Psicossoma
 date: 2019-02-01 19:00:00
 topics:
 - psicossoma
+- perispirito
 ---
 
 ## Definição
-Psicossoma [do grego psyché= alma + sôma= corpo] – O mesmo que corpo espiritual
-ou perispírito.
+O mesmo que corpo espiritual ou perispírito.
 
+## Origem
+Do grego psyché= alma + sôma= corpo
 
 ## Relacionado
 todo

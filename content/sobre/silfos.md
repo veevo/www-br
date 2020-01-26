@@ -6,14 +6,17 @@ topics:
 ---
 
 ## Definição
-Silfos [do latim sylphu] – Segundo a mitologia céltica e germânica da Idade
-Média, os silfos eram os gênios do ar, como os gnomos eram os da terra e as
-ondinas os das águas. Eram representados sob forma humana, semi-vaporosa, com
-traços graciosos, asas transparentes. Atribuia-se-lhes o poder de se tornarem
-visíveis ou invisíveis à vontade.
+Segundo a mitologia céltica e germânica da Idade Média, os silfos eram os gênios
+do ar, como os gnomos eram os da terra e as ondinas os das águas. Eram
+representados sob forma humana, semi-vaporosa, com traços graciosos, asas
+transparentes. Atribuia-se-lhes o poder de se tornarem visíveis ou invisíveis à
+vontade.
 
-Also known as Sílfides [do francês sylphide] – Variante na mitologia céltica e
+Também conhecido como silfetos [da variante francesa de silfeto na mitologia celta e
 germânica da Idade Média para Silfos.
+
+## Origem
+Do latim sylphu
 
 ## Relacionado
 todo

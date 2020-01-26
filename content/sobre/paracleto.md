@@ -3,11 +3,17 @@ title: Paracleto
 date: 2019-02-01 19:00:00
 topics:
 - paracleto
+- benfeitor
+- anjo-da-guarda
 ---
 
 ## Definição
-Paracleto - [do latim Paracletu, grego parákletos]. Espírito Santo. Mentor,
-defensor, intercessor. Aquele que indica ou sugere a outrem o que deve fazer. 
+* Espírito Santo. 
+* Mentor, defensor, intercessor. 
+* Aquele que indica ou sugere a outrem o que deve fazer. 
+
+## Origem
+Do latim Paracletu, grego parákletos
 
 ## Relacionado
 todo

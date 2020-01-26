@@ -2,13 +2,16 @@
 title: Supremo
 date: 2019-02-01 19:00:00
 topics:
-- supremo
+- deus
 ---
 
 ## Definição
-Supremo - [do latim supremu]. Que está acima de tudo. O primeiro, o principal,
-o mais alto, ou o mais elevado. 
+* Que está acima de tudo.
+* O primeiro, o principal, o mais alto, ou o mais elevado. 
 
+
+## Origem
+do latim supremu
 
 ## Relacionado
 todo
