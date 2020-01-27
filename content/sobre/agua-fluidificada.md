@@ -71,11 +71,9 @@ de fato estiver necessitando dela. Tudo em excesso faz mal, não é mesmo.
 Mediunidade Sem Preconceito  
 Autor: Edvaldo Kulcheski
 
-## Relactionado
-[Água magnetizada](../agua-magnetizada)
-
 ## Relacionado
-todo
+[Água magnetizada](../agua-magnetizada)
+do
 
 ## Veja Também
 TODO

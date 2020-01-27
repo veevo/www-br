@@ -7,6 +7,8 @@ topics:
 ---
 
 ## Definição
+A alma é um Espírito encarnado, e o corpo apenas o seu invólucro.
+
 É o ser imaterial, distinto e individual, unido ao corpo que lhe serve de
 invólucro temporário isto é, o Espírito em estado de encarnação, e que somente
 pertence à espécie humana. Unido ao corpo material pela encarnação, o Espírito
@@ -24,12 +26,20 @@ corpo físico do Homem obedeça a padrões classificatórios que lhe chamariam d
 pertencente ao Reino Animal, do ponto de vista moral, o Homem é senhor de um
 próprio reino, o Hominal. (Bezerra de Menezes, "A Loucura sob Novo Prima").
 
-## Origem
-Do latim: anima, do grego: anemos= sopro, emanação, ar
+## Qualidades da Alma
+As qualidades da alma são as do Espírito encarnado. Assim, o homem de bem é a
+encarnação de um bom Espírito e o homem perverso a de um Espírito mau.
 
-### Properties of the Soul
-Immortal
+A alma tinha a sua individualidade antes da encarnação e a conserva após a
+separação do corpo. 
 
+## Ao deixar o corpo
+Deixando o corpo, a alma volta ao mundo dos Espíritos, de que havia saído para
+reiniciar uma nova existência material, após lapso de tempo mais ou menos longo
+durante o qual permanecera no estado de Espírito errante.
+
+## Fonte
+[CEIsmael | Resumo da Doutrina dos Espíritos](https://ceismael.com.br/tema/resumo-doutrina-dos-espiritos.htm)
 
 ## Relacionado
 todo

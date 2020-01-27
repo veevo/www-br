@@ -11,9 +11,6 @@ noz), que fica em redor do embrião e do endosperma de uma semente.
 
 Ver: [Perispírito](../perispirito).
 
-## Origem
-do grego perí + spérma
-
 ## Relacionado
 todo
 

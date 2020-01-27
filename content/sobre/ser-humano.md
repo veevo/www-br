@@ -3,24 +3,26 @@ title: Ser Humano
 date: 2019-02-01 19:00:00
 topics:
 - ser-humano
+- espirito
+- perispirito
+- encarnacao
+- corpo-fisico
+- livre-arbitrio
 ---
 
 ## Definição
-todo
+O Ser Humano é um [Espírito](/sobre/espíritos) [encarnado](/sobre/encarnacao) em um
+[corpo material](/sobre/corpo físico). O [perispírito](/sobre/perispírito) é
+o corpo semi-material que une o Espírito ao [corpo físico](/sobre/corpo-fisico).
 
-Human Being is a [Spirit](/about/spirits) [incarnated](/about/incarnation) in a
-[material body](/about/physical-body). The [perispirit](/about/perispirit) is
-the semi-material body that unites the Spirit to the [physical
-body](/about/physical-body).
+Além do [mundo material](/sobre/mundo-material) habitado por
+Espíritos encarnados, que são seres humanos, existe o mundo espiritual,
+habitado por espíritos desencarnados.
 
-In addition to the [material world](/about/material-world) inhabited by
-incarnate Spirits, which are Human Beings, there exists the spiritual world,
-inhabited by discarnate Spirits.
-
-Human Beings are given the [free will to act](/divine-laws/free-will), but they
-must answer for the consequences of their actions. Within the Universe there are
-other inhabited worlds, with beings at different degrees of evolution: some
-equal, others more or less evolved than Human Beings. 
+Os seres humanos recebem o [livre arbítrio para agir](/leis-divinas/livre-arbítrio), mas eles
+devem responder pelas consequências de suas ações. Dentro do universo existem
+outros mundos habitados, com seres em diferentes graus de evolução: alguns
+iguais, outros mais ou menos evoluídos que os seres humanos.
 
 ## Relacionado
 todo

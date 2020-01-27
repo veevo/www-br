@@ -2,16 +2,12 @@
 title: Obsidiado
 date: 2019-02-01 19:00:00
 topics:
-- obsidiado
 - obsessao
-- obsessor
 ---
 
 ## Definição
 Paciente da obsessão, aquele que sofre a influência perniciosa de um Espírito
 encarnado ou desencarnado. 
-
-Sinônimo de Obsesso. 
 
 ## Relacionado
 todo

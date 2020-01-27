@@ -6,7 +6,18 @@ topics:
 ---
 
 ## Definição
-todo
+O Espírito de Verdade é um espírito citado nas obras de Allan Kardec. A citação
+ocorre, primeiramente, em O Livro dos Espíritos, no último parágrafo dos
+prolegômenos, onde os participantes ativos da obra são apresentados.
+
+Muitos sustentam que o Espírito da Verdade seria de fato o Espírito guia
+(mentor espiritual) de uma falange de espíritos ou a própria falange de
+espíritos que firmaram os conceitos da codificação espírita; enquanto outros
+afirmam que ele seria o próprio Jesus Cristo. Este teria usado o pseudônimo “O
+Espírito da Verdade” para autografar as mensagens psicografadas nas obras
+básicas do Espiritismo. Para corroborar essa afirmação, dizem que O Espírito da
+Verdade teria se manifestado isoladamente em várias comunicações contidas no
+Evangelho Segundo o Espiritismo. 
 
 ## Citações
 > "Espíritas, amai-vos, eis o primeiro ensinamento; instruí-vos, eis o segundo"
@@ -38,9 +49,11 @@ imortalidade. - O Espírito de Verdade. (Paris, 1861.)
 
 > Fonte: O Evangelho segundo o Espiritismo, cap. VI, item 6.
 
+## Fonte
+[Wikipedia | O Espírito da Verdade](https://pt.wikipedia.org/wiki/O_Esp%C3%ADrito_da_Verdade_(espiritismo))
+
 ## Relacionado
 todo
 
 ## Veja Também
-
 TODO

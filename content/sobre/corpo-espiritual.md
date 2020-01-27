@@ -8,8 +8,9 @@ topics:
 ## Definição
 Ver: [Perispirito](../perispirito).
 
+
 ## Relacionado
-[Perispirito](../perispirito).
+[Perispirito](../perispirito)
 [Corpo Físico](../corpo-fisico)
 
 ## Veja Também

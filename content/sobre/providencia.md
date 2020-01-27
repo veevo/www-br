@@ -10,14 +10,12 @@ topics:
 * Sabedoria suprema, com que Deus tudo dirige. 
 * O próprio Deus.
 
-## Origem
-Do latim providentia
+## Fonte
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
 ## Relacionado
-todo
+Deus
+Providencia Divina
 
 ## Veja Também
 TODO
-
-## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
