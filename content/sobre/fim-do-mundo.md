@@ -140,7 +140,7 @@ Rio de Janeiro: FEB, 1975.
 * REVISTA PLANETA. Edição de julho de 2008.
 
 ## Fonte
-[CEIsmael | Jugo Leve](https://www.ceismael.com.br/artigo/jugo-leve.htm)
+[CEIsmael | Jugo Leve](http://www.sergiobiagigregorio.com.br/palestra/fim-do-mundo.htm)
 Autor: Sérgio Biagi Gregório 
 São Paulo, outubro de 2008
 

@@ -16,6 +16,10 @@ realizou na justiça e no amor. [1]
 ## Referências
 [1] POLIS - ENCICLOPÉDIA VERBO DA SOCIEDADE E DO ESTADO. São Paulo: Verbo, 1986.
 
+## Fonte
+[CEIsmael | Jugo Leve](https://www.ceismael.com.br/artigo/jugo-leve.htm)
+Autor: Sérgio Biagi Gregório 
+São Paulo, outubro de 2008
 
 ## Relacionado
 [Fim do Mundo](../fim-do-mundo)
