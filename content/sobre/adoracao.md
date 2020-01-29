@@ -13,9 +13,6 @@ topics:
 * É a elevação do pensamento a Deus, pois que, pela adoração, a alma se
 aproxima Dele.
 
-## Origem
-Do latim adoratione, adorare
-
 ## Relacionado
 todo
 
