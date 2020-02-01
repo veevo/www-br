@@ -85,6 +85,94 @@ constantes e sempre existiram. Os Bons Espíritos nos atraem para o bem, nos
 sustentam nas provações da vida e nos ajudam a suportá-los com coragem e
 resignação. Os Espíritos Imperfeitos nos induzem ao erro.
 
+
+
+## Perguntas Relacionadas
+
+### Qual o conceito de Espírito?
+Espírito – do lat. spiritus – significa "sopro", "respiro". Há
+muitos sentidos relacionados a esse termo: figurado, em que o espírito
+opõe-se à letra; impessoal, em que o espírito é a realidade pensante;
+particular, em que o espírito torna-se sinônimo de inteligência. No
+sentido especial da Doutrina Espírita, o Espírito é o princípio (o que
+é?) inteligente do Universo.
+
+### Há diferença entre espírito e Espíritos?
+Sim. O espírito é o princípio inteligente do Universo. Os Espíritos são
+os seres inteligentes da criação, que povoam o Universo, fora do mundo
+material, e constituem o mundo invisível. Allan Kardec deixa claro que
+está usando a palavra Espíritos para designar os seres extracorpóreos e
+não mais o elemento inteligente universal.
+
+### Qual a origem e natureza dos Espíritos?
+Não o sabemos. A informação que nos é dada pelos Espíritos superiores é
+que os Espíritos foram criados simples e ignorantes, com a incumbência
+de se tornarem perfeitos.
+
+### Espírito é sinônimo de alma?
+De acordo com a Doutrina dos Espíritos, a alma significa o Espírito
+encarnado.
+
+### É certo dizer que os Espíritos são imateriais?
+A sua essência difere de tudo o que conhecemos por matéria. Nesse
+sentido dizemos que são imateriais. Mas o termo ainda é incompleto.
+Allan Kardec na pergunta 82 de O Livro dos Espíritos explica o fato da
+seguinte maneira: "Imaterial não é o termo apropriado; incorpóreo, seria
+mais exato; pois deve ser alguma coisa. É uma matéria quintenssenciada,
+para a qual não dispondes de analogia, e tão eterizada, que não pode ser
+percebida pelos vossos sentidos... Um povo de cegos não teria palavras
+para exprimir a luz e os seus efeitos. O cego de nascença julga ter
+todas as percepções pelo ouvido, o olfato, o paladar e o tato; não
+compreende as idéias que lhe seriam dadas pelo sentido que lhe falta. Da
+mesma maneira, no tocante à essência dos seres super-humanos, somos como
+verdadeiros cegos. Não podemos defini-los, a não ser por meio de
+comparações sempre imperfeitas, ou por um esforço de imaginação". (1995,
+p. 80)
+
+### Os Espíritos têm forma?
+Para Espíritos encarnados, não; para os Espíritos desencarnados, sim.
+Pode-se imaginá-lo como um clarão, uma flama. Isso, quando se trata de
+falar do Espírito sem o perispírito. Quando falamos do Espírito com o
+perispírito, ele será visto com a sua forma perispiritual.
+
+### Os Espíritos são eternos?
+Não. Eterno significa que não tem começo nem fim. De acordo com as
+instruções dos Espíritos, deve-se preferir o termo imortal. O
+Espírito é imortal porque ele teve um começo, foi criado por Deus, mas
+não terá fim, não se desintegrará e manterá a sua individualidade.
+
+### Como os Espíritos atuam sobre a matéria?
+Os Espíritos agem sobre a matéria através do perispírito. O Espírito
+propriamente dito é uma abstração. Para se manifestar na matéria, ele
+precisa de um elemento semimaterial, denominado perispírito. O
+perispírito é o veiculo de ligação entre o Espírito e a matéria. Em O
+Livro dos Médiuns, Allan Kardec diz que "o conhecimento do perispírito
+é a chave de uma porção de problemas até agora inexplicáveis".
+
+### Como os Espíritos se manifestam?
+### por Efeitos Físicos (movimentos, ruídos, sons, transportes de
+objetos etc.);
+### por Efeitos Inteligentes (permuta de pensamentos, sinais ou
+palavras).
+### Exercício: há limite para o progresso dos Espíritos?
+
+
+
+
+
+
+## Bibliografia
+
+KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/espírito)  
+Autor: Sérgio Biagi Gregório
+
+
+
+
+
 ## Relacionado
 todo
 

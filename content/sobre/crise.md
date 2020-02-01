@@ -143,6 +143,59 @@ de Janeiro, Zahar, 1996.
 Autor: Sérgio Biagi Gregório 
 São Paulo, abril de 2015. 
 
+
+
+## Perguntas Relacionadas
+
+### Qual a etimologia de crise?
+Do grego krisis, do mesmo étimo do verbo krino, separar, depurar,
+como se faz com o ouro.
+
+### Qual o primeiro sentido da etimologia?
+Corresponde à fase decisiva de uma doença. Mais especificamente, um
+momento de desequilíbrio sensível.
+
+### Qual o consenso entre os pesquisadores?
+A crise leva à ruptura com o estado anterior. O novo rumo pode ser de
+melhora ou de piora.
+
+### Como se explica a crise na medicina e na área militar?
+Tanto na medicina como na ciência militar, crise exprime o momento de
+viragem, dificilmente situável, em que se tem lugar a decisão sobre a
+vida ou a morte, sobre a vitória ou sobre a derrota.
+
+### Que tipo de crise pode ocorrer na economia?
+Em economia, a crise está ligada aos ciclos econômicos, que se
+fundamentam na insuficiência de produção ou na superprodução, como a que
+ocorreu em 1929.
+
+### Qual a relação entre épocas orgânicas e épocas críticas?
+As épocas orgânicas repousam em crenças bem estabelecidas; as épocas
+críticas dão início à ruptura das crenças estabelecidas. Exemplo: a
+crise renascentista é a passagem da época medieval para a época moderna.
+
+### Como a época orgânica pode se transformar em utopia?
+Pressupõe-se que, como um passe de mágica, as incertezas, as tensões e
+as injustiças se dissiparão e se transformarão no mito da Idade de Ouro.
+
+### Como o Espírito Emmanuel interpreta a crise\?
+"Toda crise é fonte sublime de espírito renovador para os que sabem ter
+esperança".
+
+
+### Bibliografia
+LOGOS – ENCICLOPÉDIA LUSO-BRASILEIRA DE FILOSOFIA. Rio de Janeiro:
+Verbo, 1990.
+
+XAVIER, F. C. Vinha de Luz, pelo Espírito Emmanuel. Brasília: FEB,
+2012, capítulo 58 ("Crises").
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/crise)  
+Autor: Sérgio Biagi Gregório
+
+
+
 ## Relacionado
 todo
 

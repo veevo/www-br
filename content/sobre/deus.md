@@ -118,6 +118,96 @@ como pela evidência material dos fatos."
 ## Fonte
 [Introdução à Doutrina Espírita | Deus](https://introducaodoutrinaespirita.blogspot.com/2009/01/deus.html)
 
+
+
+## Perguntas Relacionadas
+
+### O que se entende por conceito?
+O conceito é uma ideia abstrata sobre algum objeto de estudo. Para os
+empiristas, são formados a partir da experiência; para os racionalistas,
+a razão o produz independentemente de qualquer ensino empírico.
+
+### Conceito e concepção podem ser considerados sinônimos?
+Sim. A concepção é uma operação mental em que o espírito constrói, sem a
+necessidade de dados experimentais, um conceito ou ideia geral.
+
+### Qual a etimologia de Deus?
+Deus vem do indo-europeu deiwos (resplandecente, luminoso), que
+designava originariamente os celestes (Sol, Lua, estrelas, etc.) por
+oposição aos humanos, terrestre por natureza.
+
+### Qual a origem da ideia de Deus?
+A origem da ideia de Deus está presa à revelação cristã e ao
+desenvolvimento puramente natural da evolução do ser humano.
+
+### A ideia de Deus depende da religião, da filosofia?
+A ideia de Deus, conforme nos esclarece Mircea Eliade, é anterior à
+revelação cristã ou muçulmana e mesmo às lucubrações filosóficas dos
+antigos. Allan Kardec explica-nos que a ideia de Deus não é efeito da
+educação ou produto de ideia adquirida, mas um sentimento natural do ser
+humano, pelo fato de se considerar filho de Deus.
+
+### Como problematizar o conceito de Deus?
+A problematização do conceito de Deus deve conter aspectos filosóficos e
+religiosos. Em linhas gerais, o conceito de Deus é visto de quatro
+modos: 1) Deus como causa do mundo; 2) Deus como ordem moral (Bem); 3)
+Deus como divindade; 4) Deus como revelação.
+
+### Como entender Deus como causa do mundo?
+Afirma-se que Deus é criador e ordenador do mundo. Ele não é só o
+demiurgo, mas uma causa necessitante, ou seja, é também o autor da
+estrutura substancial do próprio mundo. O mundo é continuidade,
+prolongamento da vida de Deus. Para o Espiritismo, Deus é a inteligência
+suprema, causa primária de todas as coisas.
+
+### Como entender Deus como ordem moral do mundo?
+De acordo com a maioria, Deus garante a ordem moral do mundo. Essa ordem
+apóia-se no conceito de providência, que os antigos entendiam como
+“destino”. Disto resulta que, ao criar a ordem, Deus ajuda a salvar a
+liberdade do homem. Para o Espiritismo, há as leis naturais (ou
+divinas), gravadas na consciência de cada um de nós.
+
+### Como entender Deus como divindade?
+Divindade significa a relação de Deus com ele mesmo. Para identificá-la
+ou distingui-la, valemo-nos dos conceitos de monoteísmo e
+politeísmo. No politeísmo há uma hierarquia de deuses, de modo que
+não há uma identidade entre Deus e Divindade. No monoteísmo, a
+divindade é possuída só por Deus. Nesse caso, Deus e divindade
+coincidem.
+
+### Como entender Deus como revelação?
+É a maneira como se dá o acesso do homem a Deus. Há dois modos
+clássicos: 1) os que atribuem à própria iniciativa o homem; 2) os que
+primam pela iniciativa do próprio Deus (revelação). Essa duas
+iniciativas podem ser combinadas, ou seja, reconhecer o esforço natural
+do homem de conhecer Deus. Essa terceira via fundamenta a própria
+revelação espírita, pois afirma que a revelação é de inspiração divina,
+mas também fruto do trabalho de pesquisa do ser humano.
+
+### Pergunta 10 de O Livro dos Espíritos: Pode o homem compreender a
+natureza íntima de Deus?
+Não, falta-lhe para tal um sentido. Mas quando o homem não estiver mais
+obscurecido pela matéria, e pela sua perfeição tiver se aproximado dela,
+então vera e compreenderá.
+
+### Em vista das dificuldades de conceituação, como compreender
+intimamente a existência de Deus?
+Temos que nos valer da fé. Nesse sentido, o homem encontra Deus na sua
+experiência mais íntima, na profundidade de sua existência, que percebe
+Deus muito maior do aquilo que pode imaginar. Em síntese, para o crente,
+Deus é o espaço aberto que possibilita a nossa liberdade.
+
+
+### Bibliografia
+Diversas Enciclopédias
+
+KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conceito-de-deus)  
+Autor: Sérgio Biagi Gregório
+
+
 ## Relacionado
 todo
 

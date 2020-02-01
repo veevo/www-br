@@ -73,8 +73,63 @@ nós, nem sempre capazes de captarmos a linguagem do pensamento).
 "A prece do coração é preferível à que podes ler, por mais bela que seja, se a
 leres mais com os lábios do que com o pensamento" (Liv. Esp., Q. 658).
 
-## Origem
-Do latim prece
+
+
+## Perguntas Relacionadas
+
+### O que é a prece?
+A prece é um ato de adoração ao Criador.
+
+### Como se deve orar?
+Não é preciso ficar de joelho, sentado ou de pé. A postura física é o
+que menos conta.
+
+### Por que devemos orar?
+Porque a prece é um lenitivo para as nossas preocupações.
+
+### Onde se deve orar?
+Em qualquer lugar. Observe que a citação bíblica que prescreve entrar no
+quarto, fechar a porta e perdoar os inimigos, pode ser entendida como
+entrar no quarto “íntimo”. E no quarto íntimo, podemos entrar estando em
+qualquer lugar: no ônibus, no metrô, na praia etc.
+
+### Quando devemos orar?
+Também não há prescrição, contudo O Evangelho Segundo o Espiritismo
+orienta-nos a orar pela manhã e à noite.
+
+### A crença em algo superior é apenas dos tempos presentes?
+Como a adoração é uma lei natural, essa crença sempre esteve presente em
+todos os tempos e lugares.
+
+### O se entende por ação?
+É a disposição para realizar algo. Está atrelada ao pensamento.
+
+### O que nos diz o Espírito André Luiz sobre o fluxo mental?
+Emitindo um pensamento, entramos em contato com todos os pensamentos que
+se lhes assemelham. Nesse caso, evitemos a queixa, as críticas e os
+julgamentos precipitados.
+
+### Qual a relação entre prece e lei de causa e efeito?
+A questão 663 de O Livro dos Espíritos nos oferece uma luz. As preces
+que fazemos por nós mesmos podem modificar a natureza das nossas provas
+e desviar-lhes o curso? Não. Mas Deus leva em conta a nossa resignação.
+A prece tem o condão de atrair os bons Espíritos, que poderão nos dar
+força para suportá-las com coragem.
+
+### Dê-nos um exemplo sobre a eficácia da prece.
+
+No capítulo XXVII de O Evangelho Segundo o Espiritismo, há alusão a um
+homem caído no deserto. Com muita sede, roga ao Alto. Um bom Espírito
+lhe sugere seguir uma determinada vereda. Chega a uma elevação e
+descobre um riacho. Se tem fé, agradecerá a inspiração dos bons
+Espíritos. Se não tem fé, dirá: "Que pensamento bom eu tive!".
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-eficácia-da-prece)  
+Autor: Sérgio Biagi Gregório
+
+
+
 
 ## Relacionado
 todo
@@ -83,5 +138,6 @@ todo
 TODO
 
 ## Fontes
-[CE Ismael | Prece](https://www.ceismael.com.br/download/apostila/apost1.htm#PRECE)  
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+[Artigo: CE Ismael | Prece](https://www.ceismael.com.br/download/apostila/apost1.htm#PRECE)  
+[Definição: O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+[Perguntas: Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-eficácia-da-prece)  

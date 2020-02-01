@@ -33,16 +33,61 @@ das inúmeras sessões a serem realizadas, mas há casos de fracasso ao término
 anos de sessões, o que mostra o nível de ligação entre perseguidor e
 perseguido.
 
+## Fonte
+[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
-## Bibliografia Recomendada
-Evolução em dois mundos, André Luiz
+## Perguntas Relacionadas
+
+### O que são ovoides?
+Ovoides são esferoides vivos, tristes mentes humanas sem os apetrechos
+de manifestação.
+
+### O que ocasiona o surgimento dos ovoides?
+É o monoideísmo auto-hipnotizante, provocado pelo pensamento
+fixo-depressivo, atrofiando as células que lhe tecem o corpo
+perispiritual.
+
+### O Espírito desencarnado pode perder a forma humana do seu
+perispírito?
+Sim. O perispírito pode ser entendido como um campo mental. O
+desequilíbrio dos pensamentos pode alterar a sua forma.
+
+### Como se explica os parasitas ovoides?
+Os Espíritos obstinados pela ideia de fazerem justiça pelas próprias
+mãos podem, fora do corpo físico, envolver sutilmente aqueles que lhes
+fazem objeto de atenção.
+
+### Os ovoides são um tipo de obsessor?
+Sim. Isto se deve à definição de formato de um ovo pelo Espírito André
+Luiz no livro "Evolução em Dois Mundos". “A forma ovoide guarda consigo
+todos os órgãos de exteriorização da alma, tanto nos planos espirituais
+quanto nos terrestres, tal qual o ovo ou a semente, que trazem em si a
+ave ou a árvore do futuro.”
+
+### Devemos aceitar passivamente a noção de ovoide?
+J. Herculano Pires, em seu livro “Vampirismo”, diz-nos que esta novidade
+- a ação vampiresca desses ovoides - não tem condições científicas nem
+respaldo metodológico para ser integrada na doutrina.
+
+### Bibliografia
+"Evolução em Dois Mundos", pelo Espírito André Luiz.
+
+Há um texto bastante elucidativo em:
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ovoides)  
+Autor: Sérgio Biagi Gregório
+
+
+
+
 
 ## Relacionado
 todo
 
+## Bibliografia Recomendada
+Evolução em dois mundos, André Luiz
+
 ## Veja Também
 Vampirismo
 Andre Luiz
-
-## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

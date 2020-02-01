@@ -83,6 +83,75 @@ p. 54 a 57)
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 [Sérgio Biagi Gregório | Perispírito](http://www.sergiobiagigregorio.com.br/palestra/perispirito.htm)
 
+
+## Perguntas Relacionadas
+
+### O que é o perispírito?
+Perispírito é o elo de ligação entre o Espírito e o corpo físico. Tal
+qual a semente possui o perisperma, o Espírito, por comparação, possui o
+perispírito.
+
+### Como se forma o perispírito?
+O perispírito se forma do fluido universal de cada globo. Conforme o
+teor evolutivo do Espírito, ele tomará, deste fluido, as partes mais
+condensadas ou mais rarefeitas. Por esta razão, cada Espírito terá o seu
+perispírito, com peso especifico próprio, diferente de todos os outros.
+
+### O perispírito tem forma?
+A forma do perispírito é a forma humana. Contudo, ela pode ser
+modificada conforme o arbítrio do Espírito.
+
+### Quando se vê um Espírito, vê-se o Espírito ou o perispírito?
+A vidência mostra a realidade do Espírito. É por ela que aprendemos que
+o Espírito é sempre um todo e não pode estar separado do corpo físico ou
+do corpo espiritual. Quando vemos um Espírito, vemo-lo com o seu
+perispírito, pois é este que dá forma ao Espírito propriamente dito.
+
+### Por que a solução de muitos problemas de nossa vida está no
+perispírito?
+O perispírito é o molde do corpo físico. Ele pode ser entendido como um
+campo mental do Espírito. Nesse campo mental estão registradas todas as
+nossas ações passadas, tanto as boas quanto as más. Nesse sentido, todos
+os excessos que cometermos nesta existência poderão danificar esse campo
+mental. Numa próxima encarnação poderemos vir com ele manchado, como
+doença, como uma prova a suportar etc.
+
+### Nos mundos mais evoluídos, o perispírito desaparece?
+Não. Por uma simples razão: o universo é composto de dois princípios,
+que são o Espírito e a matéria. Como o perispírito é matéria, por mais
+tênue que se torne, ainda será matéria e fará parte do Espírito. É
+possível que, por ser demasiado rarefeito, se pense que não exista mais
+matéria, que tenha se extinguido.
+
+### Quando passamos de um mundo para outro, levamos o perispírito?
+Allan Kardec diz-nos que ao deixarmos, por exemplo, o planeta Terra e
+reencarnarmos em Júpiter, deixamos o perispírito aqui e tomamos outro do
+planeta Júpiter. Como isso é possível?
+### A sede da memória está localizada no Espírito ou no perispírito?
+No Espírito. Suponha, por exemplo, a mudança de perispírito. Se
+deixarmos o nosso perispírito neste planeta e reencarnamos em outro,
+como manteríamos a memória?
+
+
+
+### Bibliografia
+KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o
+Espiritismo. 17. ed. Rio de Janeiro: FEB, 1975.
+
+KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
+
+KARDEC, A. O Livro dos Médiuns ou Guia dos Médiuns e dos
+Doutrinadores. São Paulo:Lake, \[s.d.p.\]
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/perispírito)  
+Autor: Sérgio Biagi Gregório
+
+
+
+
+
+
 ## Relacionado
 todo
 

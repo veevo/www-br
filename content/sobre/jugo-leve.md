@@ -171,6 +171,62 @@ KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE, 1984.
 Autor: Sérgio Biagi Gregório 
 São Paulo, abril de 2005
 
+
+
+## Perguntas Relacionadas
+
+### O que significa a palavra “jugo”?
+Etimologicamente, peça de madeira que serve para emparelhar dois animais
+para o mesmo trabalho.
+
+### Qual a sua simbologia?
+O jugo é símbolo de servidão, de opressão, de constrangimento. A
+passagem dos vencidos sob o jugo romano é suficientemente explícita.
+
+### Como está posto no Evangelho?
+"Vinde a mim, todos vós que sofreis e que estais sobrecarregados e eu
+vos aliviarei. Tomai meu jugo sobre vós e aprendei de mim que sou brando
+e humilde de coração, e encontrareis o repouso de vossas almas, porque
+meu jugo é suave e meu fardo é leve". (Mateus, XI, vv. 28 a 30)
+
+### Há diferença entre o jugo do Velho Testamento e do Novo Testamento?
+No Velho Testamento, a libertação do jugo – submissão forçada ou
+disciplina – é um elemento constante nas profecias de salvação. No Novo
+Testamento, o jugo de Jesus é leve, porque somente ele é capaz de
+oferecer o lenitivo para as nossas dores e sofrimentos.
+
+### Por que o jugo de Jesus é leve?
+Jesus, ao nos descortinar a vida futura, torna o nosso fardo leve, pois
+os nossos problemas, as nossas decepções ficam pequenas ante a imensidão
+do Universo.
+
+### Como aceitar o jugo estando envolto com decepções e penúrias?
+Não é uma grande felicidade saber que sofremos e por que sofremos.
+Imagina alguém que sofra e não tem perspectiva alguma com relação ao
+futuro.
+
+### Por que algumas pessoas aceitam com paciência os revezes da vida e
+outras não?
+A base está no conhecimento. O conhecimento da Lei Natural dá-nos
+sabedoria e resignação ante o sofrimento, seja de que espécie for.
+
+### Por que devemos sofrer de modo feliz?
+Na contabilidade divina, uma dívida de R$ 100,00 pode ser paga com
+apenas R$ 1,00. Esmeremos por fazer a nossa parte que o resto vem pela
+Providência Divina.
+
+Acesse a
+
+deste tema.
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/jugo-leve)  
+Autor: Sérgio Biagi Gregório
+
+
+
+
+
 ## Relacionado
 todo
 

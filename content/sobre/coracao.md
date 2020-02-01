@@ -165,6 +165,61 @@ São Paulo: Centauro, 2005.
 Autor: Sérgio Biagi Gregório 
 São Paulo, junho de 2012.
 
+
+## Perguntas Relacionadas
+
+### O que é o coração?
+Órgão muscular oco, situado no tórax, e que constitui o elemento motor
+central da circulação do sangue.
+
+### O coração é o órgão mais importante do corpo humano?
+O coração é um dos órgãos mais importante do corpo humano, pois bombeia
+sangue para todas as partes do organismo e, por isso, essencial à
+manutenção da vida. Lembremo-nos de que podemos ficar vários dias sem
+comer e beber, mas não sem respirar. Quantas não são as mortes causadas
+por asfixia?
+### Qual é valor simbólico do coração?
+Desde tempos remotos, o coração é apresentado como a sede da alma, do
+sentimento, da coragem, da consciência e da razão. Já no antigo mito
+mesopotâmico, “o medo da morte se aloja no coração”, e leva Gilgamesh a
+procurar pela erva da imortalidade. No embalsamento egípcio, todos os
+órgãos internos eram retirados, menos o coração, que permanecia em seu
+lugar.
+
+### O coração é símbolo do mental ou do emocional?
+Na antiguidade, o coração era o símbolo da vida mental, da vida afetiva,
+da vida interior e da personalidade integral do homem. A partir do
+século VI a.C., na Grécia, em que a filosofia deixou de ser mítica para
+se tornar racional, também começou a distinguir os campos de ação do
+intelecto e do sentimento. O coração vai condividir com o cérebro o
+privilégio de ser o centro principal do ser humano.
+
+### Como, na Idade Média, foi revalorizado o termo kardia?
+Na religião, principalmente no Novo Testamento, a palavra kardia é
+tomada no seu sentido metafórico geral e designa o interior do homem, o
+lugar onde nasce e desenvolve a vida espiritual.
+
+### Qual a relação entre coração e auto-hipnose?
+“Porque como imaginou em seu coração, e assim é” (Provérbios, 23,7).
+Esta frase, em linguagem moderna, seria: “Como o homem imaginou em seu
+subconsciente ou no íntimo de sua mente, ele assim é”.
+
+### Como situar o termo “coração” no âmbito do Espiritismo?
+“A paz legítima emerge do coração feliz e da mente que compreende, age e
+confia” (Joanna de Angelis). “Ampara os corações enfermiços e frágeis
+que te acompanham os passos. Se plantares o bem, o tempo se incumbirá da
+germinação, do desenvolvimento, da florescência e da frutificação, no
+instante oportuno” (Emmanuel). “Aqueles que amparamos constituem nosso
+sustentáculo. O coração que socorremos converter-se-á agora ou mais
+tarde em recurso a nosso favor. Ajudando seremos ajudados. Dando,
+receberemos: esta é a lei Divina” (do livro: Jesus no Lar).
+
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/coração)  
+Autor: Sérgio Biagi Gregório
+
+
 ## Relacionado
 todo
 

@@ -146,10 +146,79 @@ higiene, física e espiritual, respeitemos, também, a vida que está dentro del
 * LOGOS – ENCICLOPÉDIA LUSO-BRASILEIRA DE FILOSOFIA. Rio de Janeiro: Verbo, 1990.
 * POLIS - ENCICLOPÉDIA VERBO DA SOCIEDADE E DO ESTADO. São Paulo: Verbo, 1986.
 
+
+
+## Perguntas Relacionadas
+
+### O que se entende por aborto?
+Aquele que nasceu antes do tempo próprio. Parto prematuro ou expulsão do
+feto antes dos nove meses de gestação O aborto é usualmente definido
+como a interrupção da gravidez antes de o feto atingir a viabilidade, ou
+seja, antes de se tornar capaz de vida extra-uterina independente. O
+aborto distingue-se da morte fetal, do feticídio, do parto prematuro, do
+infanticídio e do caso dos natimortos.
+
+### Como podemos classificar os abortos?
+Natural ou artificial, espontâneo e involuntário (pode, mesmo assim,
+haver culpa) ou provocado voluntariamente. Há o aborto ilegal, que é
+considerado crime e, como tal, penalizado pela lei civil. Podemos falar,
+também, do aborto clandestino.
+
+### Como devemos analisar as estatísticas a respeito do aborto?
+Com relação aos abortos clandestinos, devemos falar de estimativas e
+não de estatísticas, pois a sua real quantificação é quase impossível.
+Em se tratando do aborto legal, que se aproxima mais da realidade,
+devemos também fazer algumas ressalvas, pois tanto as mulheres como as
+pessoas que prestam o serviço não querem evidenciá-los.
+
+### Quais são as causas do aborto?
+As causas são muitas e variadas, sendo difícil avaliar a importância de
+cada uma delas. Além daquelas referentes à própria mulher (medo à
+gravidez e ao parto e os poucos recursos financeiros para sustentar o
+novo rebento), há as de origem familiar (pressão dos familiares,
+principalmente do marido) e as de ordem social (campanhas contra a
+fecundidade e famílias numerosas).
+
+### No que se fundamenta a condenação do aborto?
+Numa apreciação moral, principalmente aquela trazida pela religião em
+que se acredita num Deus criador. Depreende-se que há um direito
+inalienável à vida. Nesse sentido, só Deus é senhor da vida. assim, o
+ser humano não tem o direito de tirar a vida do seu próximo.
+
+### O aborto provocado é um crime?
+Igreja, por exemplo, aceita a pena de morte e a guerra justa e condena o
+aborto. Quais são as suas razões? É que na guerra ou na pena de morte há
+um agressor; no caso do aborto, o novo ser não é um agressor e muito
+menos agressor injusto. Em realidade, é vítima inocente quando eliminado
+antes do tempo.
+
+Na pergunta 358 de O Livro dos Espíritos, os Espíritos respondem: “Há
+crime sempre que transgredis a lei de Deus. Uma mãe, ou quem quer que
+seja, cometerá crime sempre que tirar a vida a uma criança antes do seu
+nascimento, por isso que impede uma alma de passar pelas provas a que
+serviria de instrumento o corpo que se estava formando.”
+
+### Pergunta 359 de O Livro dos Espíritos: Se o nascimento da criança
+pusesse em perigo a vida da mãe dela, haverá crime em sacrificar-se a
+primeira para salvar a segunda?
+Resposta: “Preferível é se sacrifique o ser que ainda não existe a
+sacrificar-se o que já existe.”
+
+### Quais são as consequências espirituais do aborto?
+O aborto refere-se à paralisação da vida. No aborto, o feto não tem
+escolha: a vida lhe é tirada. Há uma infração à lei de Deus. Fala-se em
+crime. As conseqüências podem vir em futuras encarnações: quantos casais
+querem ter filhos e a mulher não consegue engravidar?
+
+
+
 ## Fonte
-[CEIsmael | Aborto](http://www.sergiobiagigregorio.com.br/palestra/aborto.htm)
+[Artigo - CEIsmael | Aborto](http://www.sergiobiagigregorio.com.br/palestra/aborto.htm)
 Autor: Sérgio Biagi Gregório 
 Junho de 2010. 
+
+[Perguntas e Respostas - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aborto-e-suas-consequências-o)  
+Autor: Sérgio Biagi Gregório
 
 ## Relacionado
 todo

@@ -153,6 +153,78 @@ Autor: Sérgio Biagi Gregório
 São Paulo, janeiro de 2016.
 
 
+
+
+## Perguntas Relacionadas
+
+### O que é a dúvida?
+É um estado de ânimo que caracteriza a indecisão, a indeterminação, a
+incerteza entre duas ou mais responsabilidades.
+
+### Qual a dificuldade em conceituar a dúvida?
+Esta palavra remete-nos a uma série de étimos, os quais podem
+significar: duplo, ambíguo, descrença, desconfiança, hesitação etc.
+Incluamos, também, o aspecto problemático, enigmático e misterioso da
+dúvida.
+
+### Qual a distinção entre a dúvida teórica e a duvida existencial?
+Diante de uma verdade especulativa, a dúvida se torna teórica. Diante
+da impossibilidade de nos ligarmos a alguém confiantemente, a dúvida se
+torna existencial. A dúvida teórica impede a certeza; a duvida
+existencial, a fé.
+
+### De que maneira a dúvida pode se apresentar?
+Podemos vê-la sob o aspecto positivo ou negativo. É negativa quando
+deixa a alma insegura e angustiosa. No sentido positivo, é o ponto de
+partida para as descobertas cientificas e filosóficas.
+
+### Como se especulava sobre a dúvida no pensamento antigo?
+No pensamento antigo, confiava-se mais nas evidências imediatas
+oferecidas pelos sentidos e pela razão. Os primeiros filósofos
+apregoavam a admiração e o espanto pela harmonia do cosmos.
+
+### Há exemplos de dúvida no Velho Testamento?
+Logo no começo, a Bíblia cita o pecado original, uma espécie de
+desconfiança do ser humano em relação a Deus. Adão e Eva tratam Deus
+como seu rival. Por isso, a tentação, a desobediência.
+
+### Os apóstolos duvidaram de Jesus?
+No início, a dúvida era positiva, pois assim se expressavam em relação a
+Jesus: "Que homem é este que opera tantos milagres?" Depois,
+principalmente na Paixão de Cristo, duvidam de seus ensinamentos. Pedro
+o nega por três vezes.
+
+### Desde quando a dúvida é o norte da ciência e da filosofia?
+Desde de Descartes (1596-1650), quando inaugurou a filosofia moderna:
+colocava entre parênteses todo o seu saber até encontrar bases sólidas
+sobre as quais assentá-lo.
+
+### Como a dúvida é posta por Marx, Nietzsche e Freud?
+Marx (1818–1883) colocou em dúvida as ideologias existentes e propôs a
+luta de classes.
+
+Nietzsche (1844-1900) suspeitava das "verdades morais": por detrás
+delas havia o medo da vida, a inveja pelos poderosos.
+
+Freud (1856-1939) analisa a dúvida através dos processos libidinosos
+do subconsciente: nossas ações refletem um disfarce dos recalques ali
+armazenados.
+
+### Presentemente, o meio dificulta a fé religiosa?
+Sim. O pragmatismo da vida moderna, a luta pela sobrevivência e anelo de
+posse afastam o ser humano da vivência plena do Evangelho de Jesus. Há,
+também, a influência dos maus exemplos dos cristãos mais velhos.
+
+Para reflexão: Como a incerteza religiosa coexiste com a certeza
+moral?
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dúvida)  
+Autor: Sérgio Biagi Gregório
+
+
+
+
 ## Relacionado
 todo
 

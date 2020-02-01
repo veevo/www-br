@@ -216,6 +216,124 @@ Getúlio Vargas, 1986.
 Autor: Sérgio Biagi Gregório 
 São Paulo, novembro de 2001 
 
+
+
+## Perguntas Relacionadas
+
+### O que é o suicídio?
+De um modo geral, define-se suicídio como a ação pela qual alguém põe
+intencionalmente termo à própria vida. É um ato exclusivamente humano e
+está presente em todas as culturas.
+
+### O suicídio é apenas dos nossos dias?
+Não. Há, na história da humanidade, diversos relatos de suicídio: as
+Escrituras Sagradas registram o suicídio de Abimileque, de Saúl, de
+Aquitofel e de Zambri; nos povos orientais, o suicídio é um fato vulgar
+e normal; no Egito, tornou-se célebre o suicídio de Cleópatra.
+
+### Quais são as causas do suicídio?
+As causas, numerosas e complexas, são analisadas sobre três aspectos: a)
+fatores biológicos, sugerindo que algumas pessoas nascem com certas
+desordens psiquiátricas; b) fatores psicológicos, consubstanciados em
+neuroses, depressões graves, melancolias, delírios etc.; c)fatores
+sociais, em que pessoas tiram sua vida para evitar conflitos e tensões
+inter-humanas, para eles insuportáveis.
+### Como estão distribuídas as taxas de suicídio?
+Na Ásia e Oriente a taxa de suicídio é maior do que a dos Estados
+Unidos, a dos Estados Unidos maior do que a da América do Sul.
+
+### Qual é a principal iniciativa do CVV?
+Sua principal iniciativa é o Programa de Apoio Emocional realizado pelo
+telefone, chat, e-mail, VoIP, correspondência ou pessoalmente nos postos
+do CVV em todo o país
+(
+Trata-se de um serviço gratuito, oferecido por voluntários que se
+colocam disponíveis à outra pessoa em uma conversa de ajuda e
+preocupados com os sentimentos dessa pessoa.
+
+### O que é o suicídio segundo o ponto de vista espírita?
+Do ponto de vista da Doutrina Espírita, o suicídio é considerado um
+crime, e pode ser entendido não somente no ato voluntário que produz a
+morte instantânea, mas em tudo quanto se faça conscientemente para
+apressar a extinção das forças vitais. Importa numa transgressão da Lei
+Divina. É sempre uma falta de resignação e de submissão à vontade do
+Criador. (Equipe da FEB, 1997)
+
+### Quais são os agravantes e os atenuantes do suicídio?
+Há que se considerar a influência que receberam dos outros, os seus
+estados mentais etc. Será que nós, com o nosso modo impensado de agir,
+não os induzimos involuntariamente? Será que a sociedade, pelo seu
+descaso, não deixou de auxiliá-los, quando podia fazê-lo?
+### Qual a grande surpresa dos que cometem o suicídio?
+Um dos grandes embaraços de quem comete o suicídio, pensando que teria
+dado cabo da vida, é a surpresa de que continua vivo.
+
+### Por que razão o Espírito André Luiz fora chamado de suicida?
+O Espírito André Luiz está enquadrado no suicídio inconsciente. Mesmo
+não tendo cometido voluntariamente o suicídio, dissipou desordenadamente
+as suas energias físicas e mentais. No campo mental, a cólera, a falta
+de autodomínio e inadvertência no trato com os semelhantes; no campo
+físico, o aparelho gástrico foi destruído à custa de excessos de
+alimentação e bebidas alcoólicas.
+
+### O que você tem a dizer sobre o livro Memórias de um Suicida?
+No livro Memórias de um Suicida, fala-se do vale dos suicidas, ou
+seja, o lugar para onde vão as almas daqueles que cometeram o suicídio.
+Por que vale? É um lugar que tem um desnível com relação ao plano? Dá-se
+a impressão que todos os que cometem o suicídio vão para esse lugar de
+sofrimento atroz, em que figuras dantescas aparecem a todo o momento, e
+o indivíduo que cometeu o suicídio fica sentindo os germes comerem o
+seus restos mortais.
+
+### Como Allan Kardec trata do problema do suicídio?
+Em O Livro dos Espíritos, nas perguntas 943 a 957, Allan Kardec
+discute o tema apontando as causas e as consequências deste ato
+sinistro. Diz-nos que o desgosto pela vida é efeito da ociosidade, da
+falta de fé e geralmente da saciedade.
+
+Mais questões para reflexão:
+
+Quem morre descansa?
+Por que um indivíduo apodera-se da direção de um avião e se transforma
+num homem-bomba?
+Tem o homem o direito de tirar a sua própria vida?
+
+Em forma de Palestra:
+
+
+
+
+### Bibliografia
+EQUIPE DA FEB. O Espiritismo de A a Z. Rio de Janeiro, FEB, 1995.
+
+KARDEC, A. O Céu e o Inferno ou A Justiça Divina Segundo o
+Espiritismo. 22 ed., Rio de Janeiro, FEB, 1975.
+
+KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed., São Paulo, IDE,
+1984.
+
+KARDEC, A. O Livro dos Espíritos. 8. ed., São Paulo, FEESP, 1995.
+
+XAVIER, F. C. Mecanismos da Mediunidade, pelo Espírito André Luiz. 8.
+ed., Rio de Janeiro, FEB, 1977.
+
+Grande Enciclopédia Portuguesa e Brasileira. Lisboa/Rio de Janeiro,
+Editorial Enciclopédia, s.d. p.
+
+Enciclopédia Encarta. http://encarta.msn.com
+
+Acesse a
+
+deste tema.
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/suicídio)  
+Autor: Sérgio Biagi Gregório
+
+
+
+
+
 ## Relacionado
 todo
 

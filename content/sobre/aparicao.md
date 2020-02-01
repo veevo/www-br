@@ -25,8 +25,66 @@ olhos dc. corpo; produz-se no próprio lugar em que nos encontramos; a visão te
 por objeto coisas ausentes ou distantes, percebidas pela alma em seu estado de
 emancipação, e quando as faculdades sensitivas estão mais ou menos suspensas.
 
-## Origem
-Do latim apparitione
+
+
+## Perguntas Relacionadas
+
+### O que são as aparições?
+“Aparição” (e seu sinônimo “fantasma”) refere-se à "aparência imaterial"
+de uma figura humana que, se identificável, é a de alguém falecido.
+
+### As aparições são vistas por todos?
+Não, geralmente ocorre quando a pessoa está só. A experiência com
+aparição é transitória.
+
+### As pessoas são céticas quanto às aparições?
+Sim. Como a ocorrência não é verificável com facilidade, a sua
+comunicação é posta sempre em dúvida.
+
+4. Qual o papel da aparição na religião?
+Na religião, a aparição desempenha papel relevante, embora surja com o
+nome de “visão”.
+
+5. Quando a aparição começou a ser testada empiricamente?
+Em fins do século XIX e início do XX. Devido a: 1) implantação do método
+teórico-experimental nas ciências; 2) descoberta da capacidade psi pela
+parapsicologia.
+
+### Que tipo de fenômeno se observa nas chamadas “casas assombradas”?
+Há quatro tipos de fenômenos: 1) fenômenos auditivos (gritos, gemidos,
+móveis se arrastando); 2) fenômenos visuais (luzes, objetos); 3)
+fenômenos sensoriais (odores); 4) fenômenos de materialização
+(fantasmas).
+
+### Quais são as explicações sobre esses fenômenos?
+Os fenômenos são explicados segundo várias teorias: 1) teoria das
+alucinações; 2) teoria da arquitetura da casa; 3) teoria da gente da
+casa que possua poderes paranormais; 4) teoria do eletromagnetismo; 5)
+teoria da sobrevivência dos espíritos num determinado local.
+
+### O que se pretende no estudo de fantasmas e aparições?
+Pretende-se distinguir os fantasmas que estão sendo "produzidos" por
+seres vivos a partir de materializações inconscientes ou conscientes de
+ectoplasma, daqueles que surgem espontaneamente em determinados locais.
+
+### Qual a origem do fenômeno denominado "poltergeist"?
+No poltergeist, o fenômeno se origina da atuação inconsciente do
+sujeito. Observe o fenômeno de Hydesville com as irmãs Fox.
+
+### Como o espírito pode se tornar visível?
+Pela combinação do fluidos, produz-se no perispírito uma disposição
+particular que o possibilita se torna perceptível.
+
+### Ao que é devida a faculdade de ver os Espíritos durante a vigília?
+Esta faculdade depende do organismo; ela tem relação mais ou menos
+grande com o fluido do vidente de se combinar com o do Espírito.
+
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aparições-fantasmas-e-assombrações)  
+Autor: Sérgio Biagi Gregório
+
+
 
 ## Relacionado
 todo

@@ -79,6 +79,99 @@ penalogia ante a Divina Justiça. Cada qual de nós traz em si e consigo os
 resultados das próprias ações. Ninguém foge às leis que asseguram a harmonia do
 Universo.” (Emmanuel, em Na Era do Espírito, cap. 12.)
 
+
+
+## Perguntas Relacionadas
+
+### O que se entende por ação?
+Ação é a manifestação de uma força, de uma energia, de um agente.
+Espiritualmente, está relacionada com as Leis Naturais.
+
+### O que se entende por reação?
+Reação é a resposta a uma ação qualquer. Espiritualmente, é a
+consequência que a ação humana acarreta ao ser defrontada com a Lei
+Natural.
+
+### Como colocar a questão da ação e reação?
+Deus estabeleceu a Lei Divina ou Natural. Esta é a diretriz, o modelo
+colocado por Deus em nossa consciência, para nortear os nossos atos. A
+reação nada mais é do que uma resposta da natureza às nossas ações.
+Reações estas baseadas na lei natural. A finalidade das várias ações e
+reações é a perfeição do Espírito.
+
+### O que é o princípio da ação?
+Fazer ou deixar de fazer alguma coisa assenta-se no princípio da ação.
+Exemplo: barbear-se é um princípio que o indivíduo forjou para si.
+Poderia não se barbear.
+
+Outro exemplo: Assistir a ou proferir uma palestra é uma ação. O
+princípio subjacente a este encontro está calcado na conduta do
+expositor e do ouvinte. O expositor tem o dever de preparar o assunto; O
+ouvinte tem o dever se preparar para ouvir.
+
+### Confundimos os meios e os fins de uma ação?
+Não raro o fazemos. Observe alguns líderes religiosos. Eles preferem que
+o adepto permaneça em sua religião, a deixá-lo se salvar em outra. Se o
+fim da religião é a salvação do indivíduo, por que o impedimos de se
+salvar em outra qualquer?
+### O que se poderia colocar sobre a autonomia de uma ação?
+Não é sempre que temos total liberdade pelos nossos atos. Muitas vezes,
+a nossa ignorânciaimpede-nos de escolher corretamente; outras vezes,
+somos premidos pela escassez dos recursos naturais, como é o caso dos
+terremotos, tempestades e acidentes vários.
+
+### Reação é sempre sofrimento?
+Não. Geralmente, a palavra reação vem impregnada de dor e sofrimento. É
+empregada como sinônimo de carma (sofrer e resgatar as dívidas do
+passado). Em realidade, a reação nada mais é do que uma resposta – boa
+ou má –, em razão de nossas ações. Pergunta: se estamos praticando boas
+ações, por que aguardar o sofrimento?
+### Qual é o móvel que determina uma reação?
+É a Lei de Deus. Se a prática de uma ação não for concernente com a Lei
+de Deus, teremos como consequência dor e sofrimento. Nesse caso,
+deveríamos interpretar a dor e o sofrimento como um ganho, um
+aprendizado das coisas úteis à vida.
+
+### A lei de Deus é inexorável?
+Sim. O acaso não existe. Quer dizer, tudo o que se nos acontece deveria
+nos acontecer. Deus faz simplesmente cumprir a sua Lei. Em se tratando
+do sofrimento, verifiquemos onde erramos. Lembremo-nos de que para nos
+redimirmos de uma ação má, deveríamos nos arrepender, sofrer e reparar o
+mal cometido.
+
+### Qual é a função da passagem do tempo entre a ação e a reação?
+A função da passagem do tempo é transformar um fato quantitativo em fato
+qualitativo. Como se explica? Observe a água: ela é formada da junção de
+2 elementos de hidrogênio com 1 de oxigênio. A água, embora contenha
+dois elementos de hidrogênio e um de oxigênio, é qualitativamente
+diferente do hidrogênio e do oxigênio.
+
+### Como entender moralmente?
+Suponha que em tempos passados houve um assassinato entre duas pessoas.
+Como consequência, criou-se um processo obsessivo entre os dois. O fato
+real é quantitativo: um assassinato, que produziu um agravo à Lei de
+Deus e que deverá ser reparado. O fato qualitativo: os dois se
+modificaram ao longo do tempo.
+
+### Dê-nos um exemplo.
+
+O Espírito Hilário Silva, no capítulo 20 do livro A Vida Escreve,
+psicografada por F. C. Xavier e Waldo Vieira, retrata a história de uma
+pessoa que deveria perder o braço, mas por causa de suas boas ações,
+perdeu apenas o dedo.
+
+### A prática da caridade tem valor científico?
+Sim. Praticar a caridade ajuda-nos a reparar os danos que causamos à Lei
+Divina. Assim, se soubermos viver sóbrios e sem muitos agravos à Lei,
+certamente faremos uma passagem tranquila ao outro plano de vida.
+
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  
+Autor: Sérgio Biagi Gregório
+
+
+
 ## Leis Relacionadas
 [Lei da Causa e Efeito](../cause-effect)  
 [Lei do Mérito](../merito)  
@@ -95,4 +188,4 @@ O céu e o inferno, Allan Kardec
 ## Fontes
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)  
 [O Consolador | O Espiritismo responde](http://www.oconsolador.com.br/ano8/371/oespiritismoresponde.html)
-
+[Q&A - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  

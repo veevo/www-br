@@ -162,6 +162,99 @@ Autor: Sérgio Biagi Gregório
 São Paulo, outubro de 2011
 
 
+## Perguntas Relacionadas
+
+### O que é o dever?
+Dever – Do latim devere. No sentido habitual do verbo, o que deve
+ser, ou ser feito. Significa a obrigação moral determinada, expressa
+numa regra de ação. É o princípio da ação e estriba-se na razão.
+
+### Há diferença entre dever e obrigação?
+Obrigação designa a necessidade moral que vincula o sujeito a proceder
+de determinado modo; dever significa esse procedimento a que ele está
+obrigado. Em outros termos: obrigação seria o aspecto formal e subjetivo
+e o dever o material e Objetivo da mesma realidade global. (1)
+
+### Na sua origem, como era o dever?
+Segundo os estóicos, o dever pertencia a uma ética fundada na norma do
+"viver segundo a natureza", isto é, conformar-se à ordem racional do
+todo. As pessoas não se preocupavam com a felicidade, o prazer ou as
+conquistas de virtudes; havendo uma lei natural, a conduta nela deveria
+ser alicerçada.
+
+### Como Sócrates, Platão e Aristóteles viam o dever?
+Sócrates, Platão e Aristóteles, embora aceitassem a tese estóica da
+conformação com a ordem racional do todo, procuraram relacioná-lo com a
+felicidade e a prática das virtudes.
+
+### Qual a concepção de dever na Idade Média?
+Para os religiosos da Idade Média, o dever tinha íntima relação com os
+mandamentos, não no sentido grego de entolé (ensino, instrução), mas
+no de ordenação, de obediência à autoridade dos padres, dos vigários e
+dos papas.
+
+### Qual a relação entre consciência moral, livre-arbítrio e dever? Onde
+começa e termina o dever?
+O Dever, que é o exercício do livre-arbítrio, começa no ponto em que
+ameaçamos a liberdade do próximo e termina no limite em que não
+gostaríamos de ver ultrapassado com relação a nós mesmos. O cumprimento
+do dever depende das circunstâncias, ou seja, implica contrariar e ser
+contrariado. Por isso, ao estarmos livres para escolher esta ou aquela
+ação, tornamo-nos responsáveis pelo que praticamos.
+
+### Como Fichte interpreta o dever?
+Fichte, em Doutrina Moral (1798), afirma o caráter originário da idéia
+do dever, da qual deriva o reconhecimento dos outros eus. A idéia do
+dever é a autodeterminação originaria do eu, mas ela não poderia ser
+realizada se não existissem outros eus, outros sujeitos em face dos
+quais, somente, a idéia do dever pode ter a sua determinação e,
+portanto, possibilidade de realização.
+
+### Como Kant analisa o dever?
+Kant distingue a ação empreendida conforme o dever da feita “por dever”.
+Na ação feita conforme o dever não há esforço da criatura; na feita “por
+dever”, sim, pois aqui ela luta contra as suas próprias inclinações.
+
+### Como o dever está posto em O Evangelho Segundo o Espiritismo?
+Nas Instruções dos Espíritos, o dever é posto como uma obrigação moral,
+diante de si mesmo primeiro, e dos outros em seguida. É a lei da vida
+que se encontra tanto nos pequenos como nos grandes atos. Lembram-nos de
+que na ordem dos sentimentos, o dever acha-se em antagonismo com os
+interesses do coração.
+
+### O dever deve aumentar ou diminuir?
+Em virtude da complexidade da cultura e da civilização, o dever deve
+sempre crescer. Significa que, conforme os anos passam, a criatura
+humana vai absorvendo novas formas de progresso moral e espiritual e,
+com isso, ampliando os seus deveres junto à sociedade.
+
+### Cite alguns pensamentos sobre o dever.
+
+H. F. Amiel diz: “O nosso dever consiste em sermos úteis, não como
+desejamos, mas como podemos”. Para André Maurois, “Infelizmente, nem
+sempre coincide o dever com o interesse”. Dante Veoleci alerta-nos: “De
+grande valor moral é quem, dispondo de poder ou de autoridade, só faz o
+que lhe ordena o dever e não o que lhe é mais fácil, vantajoso ou
+agradável”. J. W. Goethe consola-nos: “Quando um dever se nos afigura
+demasiadamente pesado, temos um meio para torná-lo mais leve. É
+cumpri-lo com maior escrúpulo”. Para C. Cantu, “O cumprimento do dever é
+superior ao heroísmo”.
+
+
+
+
+
+
+
+(1) POLIS - ENCICLOPÉDIA VERBO DA SOCIEDADE E DO ESTADO. São Paulo:
+Verbo, 1986.
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dever)  
+Autor: Sérgio Biagi Gregório
+
+
+
 ## Relacionado
 todo
 

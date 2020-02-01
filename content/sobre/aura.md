@@ -124,6 +124,72 @@ Janeiro: FEB, 1977.
 Autor: Sérgio Biagi Gregório 
 São Paulo, março de 2015.  
 
+
+
+## Perguntas Relacionadas
+
+### O que se entende por aura?
+Emanação, radiação ou halo invisível de luz ou faixas de luz coloridas
+em volta de uma planta, de um animal, de uma pessoa, que podem ser
+captadas por clarividentes e sensitivos.
+
+### Qual o significado das cores das faixas de luz?
+Em se tratando do ser humano, indicam o seu estado mental e espiritual.
+Um sistema de interpretação é: ouro, espiritualidade; azul claro e roxo,
+poder de cura; rosa, amor e afeto sinceros; vermelho, desejo e raiva;
+verde, intelecto; marrom e sombras escuras e turvas, doença.
+
+### A crença na existência da aura é recente?
+Não. A crença de que algumas pessoas irradiam luz é antiga. Na arte
+religiosa cristã, por exemplo, os santos são representados por um halo
+luminoso: nimbo, quando contorna apenas a cabeça; auréola, quando
+contorna o corpo todo.
+
+### Além dos sensitivos, como podemos detectar a aura de alguém?
+A radiestesia é uma possibilidade. A fotografia kirliana, um processo de
+fazer fotos dos padrões "bio-luminosos" das coisas vivas, foi a que teve
+maior repercussão mundial.
+
+### Qual a utilidade da fotografia kirliana?
+Diagnosticar doenças de pessoas, de animais e plantas pela aura, antes
+que surjam os sintomas físicos.
+
+### Como entender a aura com o auxílio da Doutrina Espírita?
+No livro A Gênese, Allan Kardec explica-nos que os fluidos espirituais
+constituem um dos estados do fluido cósmico universal. São a atmosfera
+dos seres espirituais; são o elemento onde eles colhem os materiais com
+que operam. São o veículo do pensamento, como o ar é o veículo do som.
+
+### Que ilações podemos tirar da fotografia do pensamento?
+Ao criarmos imagens fluídicas, o nosso pensamento se reflete em nosso
+envoltório perispirítico como num espelho. Isso toma um corpo, podendo
+ser fotografado, ou seja, captado pelo nosso interlocutor.
+
+### Como o Espírito André Luiz nos explica o campo da aura?
+No capítulo 10 "Fluxo Mental", de Mecanismos da Mediunidade, diz-nos
+que a alma encarnada ou desencarnada está envolvida por uma túnica de
+forças eletromagnéticas, em cuja tessitura circulam irradiações que lhe
+são peculiares.
+
+### Como interpretar a aura na espécie humana?
+A aura, na espécie humana, reflete os diversos estados de consciência
+que o ser pode apresentar, desde os graus instintivos mais primitivos
+até os voos mais mais expressivos do altruísmo.
+
+### Como ter uma aura saudável?
+Melhorando a nossa conduta e o fluxo dos nossos pensamentos,
+direcionando-o para a prática do bem.
+
+### Bibliografia
+CAVENDISH, Ricardo (org.). Enciclopédia do Sobrenatural. Tradução de
+Alda Porto e Marcos Santarrita. Porto Alegre: L&PM, 1993.
+
+## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aura)  
+Autor: Sérgio Biagi Gregório
+
+
+
 ## Relacionado
 todo
 
