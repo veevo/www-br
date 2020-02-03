@@ -2,41 +2,117 @@
 title: Eusapia Palladino
 date: 2019-02-01 19:00:00
 topics: 
-
+- italia
 ---
 
+Eusapia Palladino nasceu em Murga, Nápoles , em 31 de janeiro de 1854 . Sua mãe
+morreu alguns dias após seu nascimento, e seu pai camponês deu-lhe para ser
+criado por um par de amigos. Antes de ela ter um ano de idade, diz-se que ela
+caiu e machucou gravemente a cabeça dela. Dessa fratura no crânio, cientistas
+perplexos observado, anos depois, um leve frio deseis saídas, enquanto o médium
+estava em um transe. Desde a infância de Eusapia, um tufo branco de cabelo
+cresceu da cabeça Cicatriz.
 
-Eusapia Palladino was born in Murga, Naples , on 31 January 1854 . Her mother died a few days after her birth, and her peasant father gave her to be raised by a couple of friends. Before she was one year old it is said that she fell down and badly hurt her head. From that fracture on her skull, perplexed scientists observed, years later, a slight cold draught coming out while the medium was in a trance. Since Eusapia’s childhood, a white tuft of hair grew from the head scar.
+Seu pai foi assassinado quando ela tinha oito anos, e um amigo dele a levou para
+A casa da avó dela. Ela foi muito mal tratada por esta avó, e foi um dia
+encontrado abandonado na rua. Uma família de caridade a trouxe para casa, só
+para expulsá-la meses depois, por causa de seu caráter desajeitado e inútil.
+Outra família que tinha sido amiga de sua família a assumiu por alguns dias,
+enquanto os preparativos foram feitos para enviá-la para um convento.
 
-Her father was assassinated when she was eight, and a friend of his took her to her grandmother’s house. She was very badly treated by this grandmother, and was one day found abandoned in the street. A charitable family brought her home, only to expel her months later, because of her clumsy and unhelpful character. Another family who had been friends to her family took her on for a few days, while preparations were made to send her to a convent.
+Naquela época, os visitantes da família sugeriram que todos tentaram a
+experiência de mesa inclinando. Todos os adultos presentes sentaram-se em torno
+de uma mesa e esperou por isso para Mover. Depois de um quarto de hora, como
+nada tinha acontecido, eles decidiram convidar Eusapia para ajudar com a cadeia.
+Depois de alguns momentos, a mesa começou para levitar, as cortinas se moveram,
+as garrafas e copos começou a barulho e os sinos começaram a tocar. Depois que
+eles estabeleceram os fenômenos foram produzidos através da menina, a família
+decidiu mantê-la e não enviá-la para o convento mais. Esses fenômenos
+aconteceram ao longo de sua infância.
 
-At that time, visitors to the family suggested everybody tried the experiment of table tilting. All the adults present sat around a table and waited for it to move. After a quarter of an hour, as nothing had happened, they decided to invite Eusapia in to help with the chain. After a few moments, the table started to levitate, the curtains moved, the bottles and glasses started to clatter and the bells started to ring. After they established the phenomena were produced through the girl, the family decided to keep her on and not send her to the convent anymore. These phenomena happened throughout her childhood.
+De acordo com o meio, havia uma senhora inglesa que era casada com um Damiani,
+em Nápoles. Durante uma sessão espírita, esta senhora foi perguntada por um
+Espírito que se chamava John King, para ir a um certo endereço e procurar
+Eusapia, como ele queria usá-la como seu médium. Sra. Damiani fez isso,
+estabelecendo os primeiros contatos com Eusapia. As duas mulheres sentaram-se em
+uma sessão e John King manifestado através do meio. A partir desses eventos,
+Damiani e professor Ercole Chiaia ofereceu seu treinamento de mediunidade e como
+eles queriam tê-la disponível por suas experiências, eles se ofereceram para
+pagá-la, tornando-a independente. Ver uma oportunidade nisso, Eusapia concordou
+em cooperar e, com o tempo, a mediunidade tornou-se sua única ocupação.
 
-According to the medium herself, there was an English lady who was married to a Mr Damiani, in Naples . During a Spiritist séance, this lady was asked by a Spirit who called himself John King, to go to a certain address and look for Eusapia, as he wanted to use her as his medium. Mrs Damiani did so, establishing the first contacts with Eusapia. The two women sat at a séance and John King manifested through the medium. From these events, Damiani and Professor Ercole Chiaia offered her mediumship training and as they wanted to have her available for their experiments, they offered to pay her, making her independent. Seeing an opportunity in this, Eusapia agreed in cooperate and, with time, mediumship became her only occupation.
+De acordo com o professor Chiaia, Eusapia era uma mulher de social extremamente
+humilde em pé, robusto e analfabeto. Sua primeira introdução ao europeu mundo
+científico foi através de uma carta do Prof. Chiaia ao Dr. Cesare Lombroso,
+publicado em um jornal italiano de 1888, onde ele descreve seus experimentos e
+convida Lombroso para se juntar a ele nas investigações. Lombroso só aceitou o
+convite em 1891, e depois de vários experimentos, ele se convenceu de a
+autenticidade dos fenômenos e declarou: "Estou confuso e sinto pena de eu lutou
+contra a possibilidade dos chamados fatos espíritas tão persistentemente. Foi.
+graças à sua conversão que muitos outros cientistas europeus importantes
+decidiram para começar a investigar fenômenos psíquicos através da Eusapia.
 
-According to Professor Chiaia, Eusapia was a woman of extremely humble social standing, robust and illiterate. Her first introduction to the European scientific world was through a letter from Prof. Chiaia to Dr Cesare Lombroso, published in an Italian newspaper of 1888, where he describes his experiments and invites Lombroso to join him in the investigations. Lombroso only accepted the invitation in 1891, and after several experiments, he became convinced of the authenticity of the phenomena and declared: “I am confused and feel sorry I fought the possibility of the so-called Spiritist facts so persistently.” It was thanks to his conversion that many other important European scientists decided to start investigating psychic phenomena through Eusapia.
+Os fenômenos produzidos pela Eusapia foram listados e classificados várias
+vezes.  De acordo com Morselli, professor da Universidade de Gênova, em seu
+livro, Psicologia e Espiritismo (1907), a primeira classe de fenômenos foram
+chamados mecânico e ocorreu enquanto os objetos estavam em contato com o corpo
+do médium.  Eram oscilações e outros movimentos da mesa, com ou sem qualquer
+significado; raps e levitação. O mesmo aconteceria com as cortinas do armário e
+as roupas do médium.
 
-The phenomena produced by Eusapia were listed and classified a number of times. According to Morselli, a professor at the University of Genoa , in his book, Psychology and Spiritism (1907), the first class of phenomena were called mechanic and occurred while the objects were in contact with the medium’s body. They were oscillations and other movements of the table, with or without any meaning; raps and levitation. The same would happen with the curtains of the cabinet and the medium’s clothes.
+A segunda classe de fenômenos foram chamados telecinéticos, que descreveu
+movimentos sem contato direto entre o meio e os objetos. Objetos que estavam
+longe do meio foram trazidos para a mesa, as cadeiras onde os pesquisadores
+foram sentar se moveria, instrumentos musicais tocavam.
 
-The second class of phenomena were called telekinetic, which described movements without direct contact between the medium and the objects. Objects that were far from the medium were brought to the table, the chairs where the researchers were sitting would move, musical instruments would play.
+A terceira classe compreende as alterações na gravidade dos objetos: oscilações
+nos braços das escamas, mudanças no peso do meio, variando de 5 a 10 quilos,
+levitação do corpo do médium, produção de calafrios no início das manifestações,
+irradiações da cabeça de Eusapia e Corpo.
 
-The third class comprehend the alterations to the gravity of objects: oscillations in the arms of scales, changes in the medium’s weight, varying from 5 to 10 kilograms, levitation of the medium’s body, production of cold draughts at the beginning of the manifestations, irradiations from Eusapia’s head and body.
+Sons e sinais constituíram a quarta classe. Raps, batidas e outros ruídos
+ocorreu na mesa ou longe do meio, sons de instrumentos musicais, sons de mãos e
+pés, vozes. Sinais misteriosos também foram deixados no pulsos dos
+participantes, manchas na mesa e marcas de lápis nas paredes. Houve também a
+ocorrência de escrita direta, seja utilizando lápis ou canetas (mãos
+ectoplasmáticas) ou sem elas (pneumatografia). Também moldes deixados em
+substâncias como gesso-de-Paris seria produzido, como mãos, punhos, pés e até
+rostos no perfil.
 
-Sounds and signals constituted the fourth class. Raps, knocks and other noises occurred at the table or far from the medium, sounds of musical instruments, sounds of hands and feet, voices. Mysterious signs were also left on the attendees wrists, stains on the table, and pencil marks on the walls. There was also the occurrence of direct writing, either utilising pencils or pens (ectoplasmic hands) or without them (pneumatography). Also mouldings left in substances like plaster-of-Paris would be produced, such as hands, fists, feet and even faces in profile.
+Uma quinta classe de fenômenos foi a aparência inesperada de objetos trazidos de
+longe, seja na mesa ou na sala (introduzido na sala através de fechado portas),
+como flores, galhos, pregos, moedas e pedras.
 
-A fifth class of phenomena was the unexpected appearance of objects brought from afar, either on the table or in the room (introduced in the room through closed doors), like flowers, branches, nails, coins and stones.
+A sexta classe compreendeu materializações, definida por Morselli como o criação
+ex-novo de formas mais ou menos organizada, que tinha o físico propriedades da
+matéria, ou seja, de ser resistente ao toque (tangível). O fenômenos observados
+incluía toque, cutucando, beijo, mordida, apertar a mão (sentiria a pele, o
+calor da mão e o movimento dos dedos). Um subclasse poderia ser descrito como o
+fenômeno luminoso, pontos de luzes piscando, línguas de fogo e o aparecimento de
+nuvens luminosas. Houve também o aparecimento de "prolongamentos" escuros na
+forma de membros humanos que surgiram de várias partes do corpo de Eusapia e que
+receberam o nome de "pseudopods".
 
-The sixth class comprehended materializations, defined by Morselli as the creation ex-novo of shapes more or less organised, which had the physical properties of matter, i.e., of being resistant to touch (tangible). The phenomena observed included touching, prodding, kissing, biting, hand-shaking (one would feel the skin, the hand’s warmth and the movement of the fingers). A subclass could be described as the luminous phenomena, points of lights flashing, tongues of fire and the appearance of luminous clouds. There was also the appearance of dark “prolongations” in the form of human limbs that emerged from various parts of Eusapia’s body and which were given the name “pseudopods”.
+Professor Cesare Lombroso mais tarde adicionou outra classe ao sistema de
+Morselli, incluindo fenômenos isolados: 1) influência no filme fotográfico 2)
+leitura mental, visão na escuridão, à distância 3) compreensão de línguas
+estrangeiras desconhecidas o meio, como inglês e alemão 4) influência sobre
+eletroscópios, que foram descarregada à distância.
 
-Professor Cesare Lombroso later added another class to Morselli’s system, including isolated phenomena: 1) influence on photographic film 2) mind reading, vision in darkness, at distance 3) understanding of foreign languages unknown to the medium, like English and German 4) influence over electroscopes, which were discharged at distance.
-
-During her life, Eusapia submitted herself to 36 research commissions, from 1888 to 1909. According to Morselli, she manifested forty-four types of mediumistic gifts. She disincarnated in 1918, at 64, after almost half a century of continuous investigations, under the most rigorous conditions stipulated by the greatest scientists of the time.
+Durante sua vida, Eusapia submeteu-se a 36 comissões de pesquisa, de 1888 a
+1909. Segundo Morselli, ela manifestou 44 tipos de médium Presentes. Ela
+desencarnado em 1918, aos 64 anos, depois de quase meio século de investigações
+contínuas, as condições mais rigorosas estipuladas pelo maiores cientistas da
+época.
 
 ## Referências
 Sir William Crookes Spiritist Society, June 2002  
 Great Exponents of Spiritism  
 (From “Eusapia, The “Witch”, L Palhano Jr, 1995, Brazilian Edition)  
-TODO:: Add link to SGNY
+
+## Fonte
+[SGNY.org](//sgny.org)  
+Traduzido por Veevo.org
 
 
 

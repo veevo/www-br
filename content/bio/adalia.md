@@ -5,16 +5,16 @@ topics:
 - espiritismo
 - psicografia
 - espiritizar
-- alirio-cerqueira
-- divaldo-franco
 - honorio
-- joanna-de-angelis
 ---
-
 
 todo
 
-## Bibliografias Relacionadas
+
+## Fonte
+todo
+
+## Perfis Relacionados
 [Divaldo Franco](../divaldo-franco)  
 [Alírio de Cerqueira Filho](../alirio-de-cerqueira-filho)  
 [Espírito Honório](../honorio)  
@@ -23,6 +23,3 @@ todo
 ## Veja Também
 [Espiritismo](/espiritismo)  
 [Projeto Espiritizar](/sobre/espiritizar)  
-
-## Fonte
-todo

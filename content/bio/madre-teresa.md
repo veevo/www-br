@@ -14,17 +14,17 @@ Mas o amor autêntico a alguém requer o compromisso, fidelidade e doar-se. Madr
 Teresa não “sentia” o amor de Cristo e buscava a resposta de Deus o tempo todo,
 e poderia ter parado tudo por isso, mas levantava-se às 4:30 h. cada manhã por
 Jesus e era capaz de escrever-lhe: Tua felicidade é a única coisa que quero.
-Este é um poderoso exemplo, e vamos lembrar que ela pregava primeiro amor, não
-a religião.”
+Este é um poderoso exemplo, e vamos lembrar que ela pregava primeiro amor, não a
+religião.”
 
-Num Mundo onde impera o egoísmo temos a rica oportunidadede admirar o trabalho
-e saber um pouco de um ser que contagia com o seu imenso amor.
+Num Mundo onde impera o egoísmo temos a rica oportunidadede admirar o trabalho e
+saber um pouco de um ser que contagia com o seu imenso amor.
 
 O amor, verdadeiro amor que faz da humildade instrumento para ajudar aos menos
 favorecidos pela vida. Madre Tereza é nosso espelho podemos dizer nosso ídolo,
-temos profunda admiração por este ser abençoado por DEUS. Que se preocupou,
-mais que isso, se ocupou em fazer de sua caminhada a luz que ilumina e conforta
-os corações sofridos,com tamanha generosidade e amor doação.
+temos profunda admiração por este ser abençoado por DEUS. Que se preocupou, mais
+que isso, se ocupou em fazer de sua caminhada a luz que ilumina e conforta os
+corações sofridos,com tamanha generosidade e amor doação.
 
 Em 27 de agosto de 1910, um dia especial nasce Agnese Gonxha Bojaxhin nada mais
 nada menos que Madre Tereza de Calcutá, em Skopje, cidade albanesa do Kossovo
@@ -33,61 +33,57 @@ mundo numa família católica, feliz e abastada.
 
 Seu pai Nicola Bojaxhiu, um próspero comerciante formado em Farmácia sua mãe
 Drone, uma mulher jovem e bela. Tiveram 3 filhos, Lazar, Ágata e Agnese (Madre
-Teresa) que era chamada pela família "Gonxha" que em albanês significa "botão
-de Flor".
+Teresa) que era chamada pela família "Gonxha" que em albanês significa "botão de
+Flor".
 
-Agnese (MadreTeresa) seguiu a vida de religiosa influenciada por padres da
+Agnese (Madre Teresa) seguiu a vida de religiosa influenciada por padres da
 região.
 
-Ingressou aos 18 anos na Ordem Nossa Senhora de Loreto.Como freira adotou o
-nome de Madre Tereza de Calcutá.
+Ingressou aos 18 anos na Ordem Nossa Senhora de Loreto.Como freira adotou o nome
+de Madre Tereza de Calcutá.
 
 Foi para um Mosteiro em Dublin, na Irlanda de lá enviada para India, na cidade
-de Calcutá, onde vestiu o hábito, em 1928.
-Em 1931, passou a ensinar crianças bem-nascidas ministrando aulas
-de História e Geografia, seguindo o lema:
-" Educai a classe alta, que por sua vez ensinará a vida cristã aos pobres"
+de Calcutá, onde vestiu o hábito, em 1928.  Em 1931, passou a ensinar crianças
+bem-nascidas ministrando aulas de História e Geografia, seguindo o lema: "
+Educai a classe alta, que por sua vez ensinará a vida cristã aos pobres"
 
-Em 1934, faz votos perpétuos na Congregação e torna-se Diretora do setor
-bengali da Universidade.
+Em 1934, faz votos perpétuos na Congregação e torna-se Diretora do setor bengali
+da Universidade.
 
 Em outubro de 1946, ao presenciar, durante uma viagem de trem, a mistura de
-homens e amontoados, extremamente sujos e com odor desagradável, enquanto seguia a
-viagem Madre Teresa, tentava buscar uma resposta nos seus princípios religiosos
-uma explicação para tanta dor. Não ficava incomodada com a presença daqueles
-pobres miseráveis, embora estando acostumada a limpeza e higiene perfeita do
-Colégio de St. Mery's School, onde suas alunas estavam sempre bem vestidas e
-perfumadas.
+homens e amontoados, extremamente sujos e com odor desagradável, enquanto seguia
+a viagem Madre Teresa, tentava buscar uma resposta nos seus princípios
+religiosos uma explicação para tanta dor. Não ficava incomodada com a presença
+daqueles pobres miseráveis, embora estando acostumada a limpeza e higiene
+perfeita do Colégio de St. Mery's School, onde suas alunas estavam sempre bem
+vestidas e perfumadas.
 
 Após rigorosa reflexão, Madre Teresa que sempre foi muito disciplinada e
 prudente, não se deixava levar pelo entusiasmo. Mas sabia no fundo de sua alma
 que teria uma missão a cumprir. Que após aquela viagem sua vida mudaria
 radicalmente. Teria um longo e difícil caminho a seguir. Porém tinha a certeza
-que Deus lhe daria força e fé para levar avante a sua missão. Após cumprir
-todos os tramites legais e providências jurídicas obteve a permissão para viver
-fora do convento. E ao constatar que poderia cumprir a sua missão de uma forma
-mais objetiva decidiu largar às aulas para dedicar-se exclusivamente aos
-pobres, observando de perto os sofrimentos de irmãos
-menos abastados, os miseráveis.
-EM 16 de agosto de 1948, Madre Teresa deixa o hábito de freira e abandona o
+que Deus lhe daria força e fé para levar avante a sua missão. Após cumprir todos
+os tramites legais e providências jurídicas obteve a permissão para viver fora
+do convento. E ao constatar que poderia cumprir a sua missão de uma forma mais
+objetiva decidiu largar às aulas para dedicar-se exclusivamente aos pobres,
+observando de perto os sofrimentos de irmãos menos abastados, os miseráveis.  EM
+16 de agosto de 1948, Madre Teresa deixa o hábito de freira e abandona o
 Convento.
 
-Um dia Madre Tereza, encontrou um bebê semimorto no lixo.
-Aplicou-lhe respiração boca-a-boca. Disseram-lhe que a criança estava morta.
-Porém ela não desistiu e quando o bebê deu sinal de vida, ela o apertou
-contra o peito e gritou: "está vivo!" E o levou para casa.
+Um dia Madre Tereza, encontrou um bebê semimorto no lixo.  Aplicou-lhe
+respiração boca-a-boca. Disseram-lhe que a criança estava morta.  Porém ela não
+desistiu e quando o bebê deu sinal de vida, ela o apertou contra o peito e
+gritou: "está vivo!" E o levou para casa.
 
-Contagiou a muitos com o seu imenso amor...
-Um casal a procurou e lhe entregou uma grande quantia em dinheiro.
-Disseram-lhe que haviam se casado há dois dias. Resolveram não usar trajes de
-núpcias nem celebração e lhe trouxeram o dinheiro que seria gasto com o
-casamento. Nós a amamos muito e pensamos que seria lindo compartilhar o nosso
-amor com os pobres que a senhora serve.
-Houve um período em Calcutá que havia escasses de açucar, espalhou-se pela
-cidade que a Madre teresa não tinha açucar para seus orfãos. Certa noite chegou
-um casal com o seu filho de seis anos ele trazia nas mãos um vidrinho. Por uma
-semana havia se recusado a comer açucar para poder dá-lo aos menos afortunados
-que êle.
+Contagiou a muitos com o seu imenso amor...  Um casal a procurou e lhe entregou
+uma grande quantia em dinheiro.  Disseram-lhe que haviam se casado há dois dias.
+Resolveram não usar trajes de núpcias nem celebração e lhe trouxeram o dinheiro
+que seria gasto com o casamento. Nós a amamos muito e pensamos que seria lindo
+compartilhar o nosso amor com os pobres que a senhora serve.  Houve um período
+em Calcutá que havia escasses de açucar, espalhou-se pela cidade que a Madre
+teresa não tinha açucar para seus orfãos. Certa noite chegou um casal com o seu
+filho de seis anos ele trazia nas mãos um vidrinho. Por uma semana havia se
+recusado a comer açucar para poder dá-lo aos menos afortunados que êle.
 
 Um senhor chegou com seu filho pequeno. Disse-lhe que o menino gostava tanto
 dela que resolveu guardar a mesada para dar de presente aos pobres. Ele ficara
@@ -97,8 +93,8 @@ um mês a economia se destinou a ela.
 Alguns budistas japoneses souberam que a congregação de Madre Tereza jejuava
 toda primeira sexta feira do mês, para destinar aquela economia aos pobres.
 Imitaram o seu gesto tiveram a atitude de enviar a ela o resultado da sua
-arrecadação. Com esta importância em dinheiro foi construído o primeiro andar da casa que
-tinha por objetivo abrigar meninas e mulheres libertas do cárcere.
+arrecadação. Com esta importância em dinheiro foi construído o primeiro andar da
+casa que tinha por objetivo abrigar meninas e mulheres libertas do cárcere.
 
 Madre Tereza sempre enfatizou o valor e o poder da prece, dizia: Se orarmos
 seremos capazes de amar, e se amarmos seremos capazes de servir. Reze tal qual
@@ -107,22 +103,22 @@ dificuldade de expressar o que pensa em palavras simples, que dizem muito. Se
 uma criança ainda não foi desvirtuada e ainda não aprendeu a mentir, ela dirá
 tudo. É necessário apenas, aquela pequena elevação de mente a Deus
 
-“Eu te amo, Deus eu confio em ti, eu preciso de ti agora”
-Disse também : “Que todos deveríamos ajudar a um hindu, tornar-se um hindu
-melhor. Um muçulmano, a tornar-se um mulçumano melhor. Um católico a ser um
-católico melhor assim por diante com outras religiões.”
+“Eu te amo, Deus eu confio em ti, eu preciso de ti agora” Disse também : “Que
+todos deveríamos ajudar a um hindu, tornar-se um hindu melhor. Um muçulmano, a
+tornar-se um mulçumano melhor. Um católico a ser um católico melhor assim por
+diante com outras religiões.”
 
-O que ela quer nos dizer é que transformássemos a teoria em prática
-colocássemos o amor acima de tudo, porque somente o amor transforma.
-Tudo o que fizermos com amor renderá bons frutos.
+O que ela quer nos dizer é que transformássemos a teoria em prática colocássemos
+o amor acima de tudo, porque somente o amor transforma.  Tudo o que fizermos com
+amor renderá bons frutos.
 
 Quando viu fecharem-se as portas do conventos às suas costas experimentou um
 profundo sentimento de desorientação, viu-se sozinha nas ruas de Calcutá, foi
 tomada pela angústia, sozinha sem casa , dinheiro, trabalho sem saber onde
 dormir. Tinha apenas a permissão do Papa para viver temporariamente fora do
 convento, para fundar uma nova Congregação religiosa. Transferiu-se para Patna
-para fazer um curso de enfermagem, frequentou o curso durante quatro meses,
-onde aprendeu o que em geral se ensinam em um ano.
+para fazer um curso de enfermagem, frequentou o curso durante quatro meses, onde
+aprendeu o que em geral se ensinam em um ano.
 
 25 de dezembro de 1948, Madre Teresa começa oficialmente a sua nova missão a
 serviço dos mais pobres dentre os pobres, data que ela escolhera por ser
@@ -132,28 +128,27 @@ Chegando a Calcutá foi visitar uma favela que conhecia, Motijhil, para
 confraternizar-se no dia de Natal com as mulheres e crianças. Procurou um lugar
 para morar. Uma mulher alugou-lhe uma cabana muito pobre por cinco rupias por
 mês. Aquela foi a sua primeira casa. Na manhã seguinte já se ouvia a voz de
-Madre Teresa ensinando a cinco crianças as primeiras letras do alfabeto
-bengali. No quarto não havia móveis nem quadro negro. Com uma varinha a Madre
-escrevia as letras no chão de terra.
+Madre Teresa ensinando a cinco crianças as primeiras letras do alfabeto bengali.
+No quarto não havia móveis nem quadro negro. Com uma varinha a Madre escrevia as
+letras no chão de terra.
 
 Até poucos meses antes Madre Teresa era a diretora da célebre High School ao
 lado da favela onde ela se encontrava agora.
 
-E assim tudo começou. Com a ajuda de ex-alunas de famílias abastadas.
-Desde então passou a recolher mendigos, doentes, crianças abandonadas,
-drogados, alcoólatras velhinhos, aideticos e recuperar ex-presidiários. Ganhou
-notoriedade mundial por seu trabalho, que começou sem apoio financeiro, mas com
-ajuda de moças indianas. Elas assumiram quatro votos: pobreza, caridade,
-obediência e o principal deles, compaixão. Vestindo apenas saris indianos e
-sandálias.
-Em l950 foi fundada a Ordem das Missionárias da Caridade.
-Em 1952 Madre Teresa funda a sua primeira grande obra social em Nirmal
+E assim tudo começou. Com a ajuda de ex-alunas de famílias abastadas.  Desde
+então passou a recolher mendigos, doentes, crianças abandonadas, drogados,
+alcoólatras velhinhos, aideticos e recuperar ex-presidiários. Ganhou notoriedade
+mundial por seu trabalho, que começou sem apoio financeiro, mas com ajuda de
+moças indianas. Elas assumiram quatro votos: pobreza, caridade, obediência e o
+principal deles, compaixão. Vestindo apenas saris indianos e sandálias.  Em l950
+foi fundada a Ordem das Missionárias da Caridade.  Em 1952 Madre Teresa funda a
+sua primeira grande obra social em Nirmal
 
 "Casa dos Moribundos" Apesar de difícil o caminho que escolheu, lutou com as
 armados amor e com muita determinação acabou por vencer. Houve momentos que ela
-pensou em desistir devido às perseguições, Pois muitos não entendem a nobreza
-de espírito de quem se dedica de corpo e alma à humanidade.
-Certa feita em uma de suas meditações escreveu:
+pensou em desistir devido às perseguições, Pois muitos não entendem a nobreza de
+espírito de quem se dedica de corpo e alma à humanidade.  Certa feita em uma de
+suas meditações escreveu:
 
 > "Meu Deus, por livre escolha e por Teu amor, desejo permanecer aqui e fazer o
 que a Tua vontade exige de mim. Não! Não voltarei atrás. . A minha comunidade

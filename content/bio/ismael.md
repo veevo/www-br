@@ -13,25 +13,26 @@ topics:
 - espirito-superior
 ---
 
-O livro Brasil Coração do Mundo, Pátria do Evangelho, de Humberto de Campos, 
-através da psicografia de Francisco Cândido Xavier, traz em belo texto, 
-a história espiritual do Brasil.
+O livro Brasil Coração do Mundo, Pátria do Evangelho, de Humberto de Campos,
+através da psicografia de Francisco Cândido Xavier, traz em belo texto, a
+história espiritual do Brasil.
 
-Ismael, o mesmo filho de Abraão com a escrava Agar, é considerado o Anjo do Brasil,
-Benfeitor Espiritual, trabalhador das hostes de Jesus, que a pedido do próprio Cristo, 
-encampou a tarefa da transferência da Árvore do Evangelho, da Palestina, para o Brasil.
+Ismael, o mesmo filho de Abraão com a escrava Agar, é considerado o Anjo do
+Brasil, Benfeitor Espiritual, trabalhador das hostes de Jesus, que a pedido do
+próprio Cristo, encampou a tarefa da transferência da Árvore do Evangelho, da
+Palestina, para o Brasil.
 
 De acordo com Carlos Campetti [1], a primeira referência sobre Ismael consta no
 livro Gêneses, da Bíblia, em seu capítulo 16, que conta a história de Saraí,
 esposa de Abraão, que por conta da idade, seria estéril. Saraí pediu então que
-sua escrava Hagar concebesse um filho para o marido e nasceu Ismael. Muitos
-anos mais tarde, Saraí inesperadamente também concebe um filho, Isaac, o que
-deixa a relação entre as duas mulheres conturbada. Saraí pediu que Abraão
-dispensasse Hagar e Ismael de seu convívio, porém o homem se compadece, afinal,
-era seu filho. Por isso, Abraão vai conversar com Deus, que o tranquiliza,
-afirmando que Ismael seria o líder de uma grande nação e que ele poderia
-mandá-lo para fora junto com sua mãe sem se afligir. Ismael, mais tarde é
-referenciado como a origem dos povos árabes.
+sua escrava Hagar concebesse um filho para o marido e nasceu Ismael. Muitos anos
+mais tarde, Saraí inesperadamente também concebe um filho, Isaac, o que deixa a
+relação entre as duas mulheres conturbada. Saraí pediu que Abraão dispensasse
+Hagar e Ismael de seu convívio, porém o homem se compadece, afinal, era seu
+filho. Por isso, Abraão vai conversar com Deus, que o tranquiliza, afirmando que
+Ismael seria o líder de uma grande nação e que ele poderia mandá-lo para fora
+junto com sua mãe sem se afligir. Ismael, mais tarde é referenciado como a
+origem dos povos árabes.
 
 O Ismael bíblico é considerado por estudiosos espíritas no assunto como o mesmo
 descrito pelo Espírito Humberto de Campos no livro “Brasil, Coração do Mundo,
@@ -43,11 +44,10 @@ trabalhadores do Cristo, mais consciente do seu papel, que na verdade se
 iniciara desde sua última encarnação no plano terrestre.
 
 Em Coração do Mundo, Pátria do Evangelho [2], é relatado que Ismael recebe do
-próprio Jesus a incubência, juntamente com uma plêiade de Espíritos de escol,
-de implantar a Terra nova, estabelecer o Bem em nosso planeta, guiar a
-sociedade na senda do progresso moral, através do estabelecimento em definitivo
-do Evangelho, tendo o Brasil como ponto central de difusão da mensagem do
-Cristo.
+próprio Jesus a incubência, juntamente com uma plêiade de Espíritos de escol, de
+implantar a Terra nova, estabelecer o Bem em nosso planeta, guiar a sociedade na
+senda do progresso moral, através do estabelecimento em definitivo do Evangelho,
+tendo o Brasil como ponto central de difusão da mensagem do Cristo.
 
 Na obra, Humberto de Campos registra que a missão específica de Ismael para com
 o Brasil, assinalada por Jesus, seria implantar em nosso país o seu Evangelho e
@@ -56,8 +56,8 @@ nossa nação desde o descobrimento, zelando pelo povo brasileiro em todos os
 acontecimentos, mesmo os mais conturbados (afinal, ainda estamos num mundo de
 provas e expiações).
 
-A própria formação do nosso povo, inicialmente pelos indígenas (que eram os
-mais simples de coração) e depois com os africanos (aqueles sedentos da justiça
+A própria formação do nosso povo, inicialmente pelos indígenas (que eram os mais
+simples de coração) e depois com os africanos (aqueles sedentos da justiça
 divina, a expressão dos humildes e dos aflitos) e europeus (que trouxeram os
 avanços do campo da ciência e outros conhecimentos), ainda que por caminhos
 tortuosos, seria um passo importante para formação da alma coletiva do nosso
@@ -94,7 +94,6 @@ construção da pátria do meu ensinamento.
 Book: Brasil, Coração do Mundo, Pátria do Evangelho.
 
 ## Referências
-
 [1] Biografia - Espírito Ismael - Entrevista com Carlos Campetti na FEBTv.
 Disponível em: <https://www.youtube.com/watch?v=gdXnSLIrrLs>.
 
@@ -106,9 +105,9 @@ lançada em 1938. Editora FEB.
 Disponível em: <https://vinhas-de-luz.blogspot.com.br/2017/02/
 anjo-ismael-o-guia-espiritual-do-brasil.html>
 
+## Fonte
+[Casa do Caminho - Perfil: Quem é Ismael?](https://casadocaminho-pae.org.br/temas-doutrinarios/perfil-quem-e-ismael)
+
 ## Literatura Recomendada
 [Brasil, Coração do Mundo, Pátria do Evangelho - pelo Espírito Humberto Campos,
 psicografia de Chico Xavier](/books/brasil-coracao-mundo)
-
-## Fonte
-[Casa do Caminho - Perfil: Quem é Ismael?](https://casadocaminho-pae.org.br/temas-doutrinarios/perfil-quem-e-ismael)

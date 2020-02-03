@@ -10,7 +10,8 @@ topics:
 ---
 
 Consta do Evangelho de João, capítulo 16, versículos 12 e 13, a seguinte
-promessa de Jesus: Ainda tenho muito que vos dizer, mas vós não podeis suportar
+promessa de Jesus:  
+> Ainda tenho muito que vos dizer, mas vós não podeis suportar
 agora. Mas, quando vier aquele Espírito de Verdade, ele vos guiará em toda a
 verdade, porque não falará de si mesmo, mas dirá tudo o que tiver ouvido e vos
 anunciará o que há de vir.
@@ -21,8 +22,8 @@ alegorias e ensinou através das parábolas, mas, na Santa Ceia, no trecho citad
 do Evangelho de João, afirmou que viria o Espírito de Verdade para nos guiar
 através da verdade.
 
-Encontramos na Codificação Espírita diversas mensagens atribuídas ao Espírito
-de Verdade, e sabemos que Ele é o responsável pela vinda da veneranda Doutrina
+Encontramos na Codificação Espírita diversas mensagens atribuídas ao Espírito de
+Verdade, e sabemos que Ele é o responsável pela vinda da veneranda Doutrina
 Espírita e atuou diretamente no período da Codificação, inspirando Allan Kardec
 e dirigindo espiritualmente sua tarefa.
 
@@ -31,14 +32,14 @@ Espírito de Verdade: 1. seria o próprio Cristo; 2. seria João Batista; 3. ser
 um grupo de Espíritos elevados atuando sob a direção do Cristo.
 
 Na Revista Espírita, de março e junho de 1862, há a evocação de dois membros da
-Sociedade Parisiense de Estudos Espíritas que regressaram à Espiritualidade:
-Sr. Jobard e Sr. Sanson.
+Sociedade Parisiense de Estudos Espíritas que regressaram à Espiritualidade: Sr.
+Jobard e Sr. Sanson.
 
 O Sr. Jobard, ao ser questionado por Allan Kardec sobre os Espíritos que estava
 vendo, diz: Vejo, principalmente, Lázaro e Erasto; depois, mais afastado, o
-Espírito de Verdade, planando no espaço; depois uma multidão de Espíritos
-amigos que vos cercam, agradecidos e benevolentes. Sede felizes, amigos, porque
-boas influências vos disputam às calamidades do erro (março de 1862).
+Espírito de Verdade, planando no espaço; depois uma multidão de Espíritos amigos
+que vos cercam, agradecidos e benevolentes. Sede felizes, amigos, porque boas
+influências vos disputam às calamidades do erro (março de 1862).
 
 O Sr. Sanson, por sua vez, diz que estava vendo o Espírito de Verdade, Santo
 Agostinho, Lamennais, Sonnet, São Paulo, Luís e outros amigos, conforme consta
@@ -73,12 +74,12 @@ O conteúdo da mensagem realmente é elevado e também se percebe pelas palavras
 utilizadas, como, por exemplo. .. e disse: “Vinde a mim, todos vós que sofreis!
 ”  que somente poderia ter sido ditada pelo Espírito que a assina.
 
-Dada a seriedade do assunto ora tratado, buscamos outras mensagens de autoria
-do Espírito de Verdade, com o escopo de analisarmos o conteúdo e as palavras
+Dada a seriedade do assunto ora tratado, buscamos outras mensagens de autoria do
+Espírito de Verdade, com o escopo de analisarmos o conteúdo e as palavras
 usadas, a fim de esclarecermos Sua identidade.
 
 Na Revista Espírita, de dezembro de 1864, há uma mensagem do Espírito de
-Verdade, onde Ele faz referências à obra O Evangelho segundo o Espiritismo, 
+Verdade, onde Ele faz referências à obra O Evangelho segundo o Espiritismo,
 lançado naquele ano:
 
 Um novo livro acaba de aparecer; é uma luz mais brilhante que vem clarear a
@@ -98,14 +99,10 @@ todos vós que sofreis e que estais sobrecarregados, e sereis aliviados e
 consolados.
 
 Dessa forma, perguntamos:
-
-Quem é o grande médico das almas?
-
-Quem trouxe a palavra de Deus aos homens de vontade?
-
-Quem disse: Há muitas moradas na Casa do Pai?
-
-Quem afirmou: Vinde a mim, todos vós que sofreis…?
+* Quem é o grande médico das almas?
+* Quem trouxe a palavra de Deus aos homens de vontade?
+* Quem disse: Há muitas moradas na Casa do Pai?
+* Quem afirmou: Vinde a mim, todos vós que sofreis…?
 
 Não há dúvidas.
 

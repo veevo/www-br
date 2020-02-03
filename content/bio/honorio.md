@@ -1,23 +1,22 @@
 ---
-title: Aniceto
+title: Espírito Honório
 date: 2019-02-01 19:00:00
 topics: 
-- spiritism
+- espiritismo
 - psicography
 - espiritizar
 - joanna-de-angelis
-
-- divaldo-franco
+- divaldo-franco 
 ---
 
 Em 20 de outubro 2006, tivemos a primeira comunicação ostensiva do Espírito
-Honório, com o qual, com o passar dos anos, percebemos o compromisso de
-inspirar as atividades desenvolvidas pela Federação Espírita do Estado de Mato
-Grosso (Feemt) e coordenar o Projeto Espiritizar, junto de uma equipe de outros
+Honório, com o qual, com o passar dos anos, percebemos o compromisso de inspirar
+as atividades desenvolvidas pela Federação Espírita do Estado de Mato Grosso
+(Feemt) e coordenar o Projeto Espiritizar, junto de uma equipe de outros
 Espíritos superiores, cujo objetivo é o de desenvolver, em sintonia com a
-proposta da Mentora Joanna de Ângelis, reflexões por meio de cursos,
-seminários, palestras e livros, visando à promoção do Espírito imortal
-reencarnado para se transformar moralmente.
+proposta da Mentora Joanna de Ângelis, reflexões por meio de cursos, seminários,
+palestras e livros, visando à promoção do Espírito imortal reencarnado para se
+transformar moralmente.
 
 É o Espírito Honório que orienta o grupo de catalisadores encarnados do Projeto
 Espiritizar. Seu objetivo é desenvolver a consciência espírita nas ações
@@ -41,37 +40,31 @@ do caos no qual se atirou, intensificam o saudável intercâmbio para a sua
 transformação moral para melhor.
 
 O autor destas páginas (Vozes-alerta), nosso caro irmão e amigo Honório, vem de
-uma larga trajetória evangélica, fiel ao pensamento de Jesus e seguidor
-abnegado das Suas incomparáveis lições, havendo-se oferecido para trabalhar
-arduamente em favor dos companheiros da argamassa celular, conforme o vem
-fazendo, desde há muito…
+uma larga trajetória evangélica, fiel ao pensamento de Jesus e seguidor abnegado
+das Suas incomparáveis lições, havendo-se oferecido para trabalhar arduamente em
+favor dos companheiros da argamassa celular, conforme o vem fazendo, desde há
+muito…
 
 Recentemente, quando estávamos preparando o primeiro Encontro dos Amigos do
 Projeto Espiritizar, ocorrido em novembro de 2014 em comemoração aos 10 anos do
 Projeto, o Espírito Honório ofereceu-nos uma mensagem sobre o Propósito do
 Projeto Espiritizar. Clique aqui para conhecê-la.
 
-O pensamento do benfeitor pode ser melhor compreendido pelo estudo das obras
-por ele ditadas, pela psicografia de Afro Stefanini II, e publicadas pela
-Editora Espiritizar:
+O pensamento do benfeitor pode ser melhor compreendido pelo estudo das obras por
+ele ditadas, pela psicografia de Afro Stefanini II, e publicadas pela Editora
+Espiritizar:
 
 – Vozes-Alerta (mensagens diversas)
-
 – Dias Felizes (mensagens diversas)
-
 – Eu, Espírito Imortal (dissertação sobre a jornada do ser humano na descoberta
 de sua imortalidade)
 
 Bem como pelo estudo de suas contribuições em outras obras:
 
 – Prefácio da obra O Cântico das Virtudes
-
 – Contribuições na obra Sexualidade e Saúde Espiritual
-
 – Mensagens na obra O Centro Espírita e a Promoção do Espírito Imortal
-
 – Mensagens na obra Consciência Espírita
-
 – Mensagens na obra Reflexões Mediúnicas
 
 ## Bibliografias Relacionadas
@@ -84,4 +77,4 @@ Bem como pelo estudo de suas contribuições em outras obras:
 [Spiritism](/spiritism)  
 
 ## Fonte
-[Espiritizar | ](https://espiritizar.feemt.org.br/noticias/conheca-o-espirito-honorio/)
+[Projeto Espiritizar](https://espiritizar.feemt.org.br/noticias/conheca-o-espirito-honorio/)

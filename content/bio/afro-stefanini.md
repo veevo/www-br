@@ -5,23 +5,20 @@ topics:
 - espiritismo
 - psicografia
 - espiritizar
-- alirio-cerqueira
-- divaldo-franco
-- honorio
-- joanna-de-angelis
 ---
-
 
 todo
 
-## Bibliografias Relacionadas
-[Espírito Andre Luis](../andre-luis)   
-[Espírito Emmanuel](../emmanuel)  
-[Chico Xavier](../chico-xavier)  
+
+## Fonte
+todo
+
+## Perfis Relacionados
+[Divaldo Franco](../divaldo-franco)  
+[Afro Stefanini II](../afro-stefanini) 
+[Espírito Honório](../honorio)  
+[Espírito Joanna de Angelis](../joanna-de-angelis)  
 
 ## Veja Também
 [Espiritismo](/espiritismo)  
 [Projeto Espiritizar](/sobre/espiritizar)  
-
-## Fonte
-todo

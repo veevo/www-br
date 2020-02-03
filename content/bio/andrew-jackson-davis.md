@@ -2,49 +2,137 @@
 title: Andrew Jackson Davis
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritualismo
 ---
 
+Andrew Jackson Davis é frequentemente referido como o John, batista do moderno
+Espiritualismo; pois foi ele que firmemente definido no lugar e definitivamente
+proclamado a próxima revelação da comunhão spirit.
 
-Andrew Jackson Davis is often referred to as the John the Baptist of Modern Spiritualism; for it was he who firmly set into place and definitively proclaimed the coming revelation of Spirit communion.
+Andrew Jackson Davis cresceu na pobreza. Ele nasceu em Blooming Grove, um pequeno
+hamlet ao longo do rio Hudson, no estado de Nova York . Sua mãe era simples,
+mulher sem educação, e seu pai, entre farras de embriaguez, ganhou uma escassa
+Vivendo como tecelão e sapateiro. Jovem Davis mostrou sinais de clarividência e
+ouviu vozes muito cedo na vida e, sobre o conselho dado de Spirit, ele
+convenceu seu pai a se mudar para Poughkeepsie em 1838. Em 1843, Dr. J. S. Grimes
+visitou a cidade e deu uma série de palestras sobre mesmerismo (hipnose). Com
+A curiosidade de Davis levando a melhor sobre ele, ele participou de uma das palestras
+e foi testado como sujeito, sem resultados. Mais tarde, um alfaiate local chamado
+William Levingston ajudou a induzir Davis um estado de transe mesmérico e encontrou
+que neste estado alterado de consciência, ele (Davis) poderia precisamente
+diagnosticar distúrbios médicos. Nesta condição, Davis descreveu como o humano
+corpo tornou-se transparente para seus olhos espirituais; isso parecia vir do centro
+da testa. Cada órgão se destacou claramente com uma luminosidade especial de sua
+própria que diminuiu muito em casos de doença.
 
-Andrew Jackson Davis grew up in poverty. He was born at Blooming Grove, a small hamlet along the Hudson River , in New York State . His mother was a simple, uneducated woman, and his father, between binges of drunkenness, earned a scanty living as a weaver and a shoemaker.Young Davis showed signs of clairvoyance and heard voices very early in life and, on the advice given from Spirit, he convinced his father to move to Poughkeepsie in 1838. In 1843, Dr. J. S. Grimes visited the city and gave a series of lectures on mesmerism (hypnosis). With Davis ‘s curiosity getting the better of him, he attended one of the lectures and was tested as a subject, with no results. Later, a local tailor named William Levingston helped induce upon Davis a state of mesmeric trance and found that in this altered state of consciousness, he (Davis) could accurately diagnose medical disorders. In this condition, Davis described how the human body became transparent to his spirit eyes; this seemed to come from the center of the forehead. Each organ stood out clearly with a special luminosity of its own which greatly diminished in cases of disease.
+Em 1844, Andrew Jackson Davis teve uma experiência que era mudar o curso
+de sua vida. Na noite de 6 de março, Davis foi subitamente superado por alguns
+poder que levou-o a "voar" de Poughkeepsie , onde ele viveu, e se apressar
+em um estado semi-transe, em uma rápida jornada. Ao ganhar consciência plena
+na manhã seguinte, ele se viu em meio às Montanhas Catskill , cerca de 40 milhas
+longe. Aqui, ele afirma ter conhecido dois homens muito distintos, que ele mais tarde
+identificado como o filósofo Galen e o marinheiro sueco Emanuel Suéciaborg,
+Ambos estavam, é claro, mortos. Ele também alegou ter experimentado um grande
+iluminação mental e revelação. Agora, é muito difícil de verificar
+exatamente o que aconteceu com Davis durante esta noite: foi a experiência uma visão;
+foi uma levitação real e/ou transporte para as Montanhas Catskill; Ou
+Ele realmente andou 40 milhas na condição de transe? Independentemente do que realmente
+aconteceu, o efeito sobre Davis foi tremendo.
 
-In 1844, Andrew Jackson Davis had an experience which was to change the course of his life. On the evening of March 6th, Davis was suddenly overcome by some power which led him to “fly” from Poughkeepsie , where he lived, and hurry off in a semi-trance state, upon a rapid journey. Upon gaining full consciousness the next morning, he found himself amidst the Catskill Mountains , some 40 miles away. Here, he claims to have met two very distinguished men, whom he later identified as the philosopher Galen and the Swedish seer Emanuel Swedenborg, both of whom were, of course, dead. He also claimed to have experienced a great mental illumination and revelation. Now, it is very difficult to ascertain exactly what happened to Davis during this evening: was the experience a vision; was it an actual levitation and/or transportation to the Catskill Mountains ; or did he really walk 40 miles in the trance condition? Regardless of what actually happened, the effect upon Davis was tremendous.
+A partir desse momento, ele viajou extensivamente, dando palestras públicas e
+Ensinamentos. Durante uma excursão de ensino, Davis conheceu o Dr. Lyons e o Reverendo.
+O Fishbough. Dr. Lyons era um mesmerista qualificado e muitas vezes induziu o transe
+estado sobre Davis . Durante esses episódios, uma riqueza de material veio através, todos
+do qual foi transcrito pelo Reverendo Fishbough. Em novembro de 1845, Davis começou
+ditando seu grande trabalho, Os Princípios da Natureza: Suas Revelações Divinas e A
+Voz para a humanidade. O ditado durou 15 meses, com muitos entusiasmados
+pessoas testemunhando essas declarações de transe.
 
-From that time onward, he traveled extensively, giving public lectures and teachings. In the course of a teaching tour, Davis met Dr. Lyons and Rev. Fishbough. Dr. Lyons was a qualified mesmerist and often induced the trance state upon Davis . During these episodes, a wealth of material came through, all of which was transcribed by Rev. Fishbough. In November, 1845, Davis began dictating his great work, The Principles of Nature: Her Divine Revelations and A Voice To Mankind. The dictation lasted for 15 months, with many enthusiastic people bearing witness to these trance utterances.
+Nandor Fodor, em sua Enciclopédia de Ciência Psíquica, escreve sobre um desses
+testemunhas: "Dr. George Bush, professor de hebraico na Universidade de Nova York,
+declarou que ouviu Davis citar corretamente hebraico. A boa fé do vier foi
+também estabelecido por suas respostas para perguntas improvisadas colocar a ele como testes, enquanto
+ele estava no estado clarividente. Professor Bush resumiu sua opinião assim:
+"Tomado como um todo o trabalho é uma discussão profunda e elaborada do
+filosofia do universo, e para a grandeza da concepção, solidez de
+princípio, clareza de ilustração, ordem de arranjo e enciclopédico
+gama de assuntos, eu não sei nenhum trabalho de qualquer mente única que vai suportar longe dele
+a palma. Foi em parte devido ao entusiasmo de Bush que o livro, publicado em
+1847, encontrou-se com interesse ansioso. Dentro de algumas semanas de sua aparência, no entanto,
+Professor Bush publicou um pequeno panfleto, revelações de Davis revelou, em
+que ele solenemente alertou o público contra ser enganado pelos inúmeros erros,
+absurdos e falsidades contidas nesse trabalho. Estava claro para ele, ele disse:
+que Davis , embora ele mesmo aparentemente um jovem honesto e de coração único,
+tinha sido feito o porta-voz de espíritos ininstruidos e enganadores ..... O livro
+alcançou 34 edições em menos de 30 anos que por si só comprovou o apelo do
+estilo e as qualidades deste trabalho estupendo.
 
-Nandor Fodor, in his Encyclopedia of Psychic Science, writes of one of these witnesses:
-“Dr. George Bush, Professor of Hebrew at the University of New York , declared that he heard Davis correctly quote Hebrew. The seer’s good faith was also established by his answers to impromptu questions put to him as tests while he was in the clairvoyant state. Professor Bush summed up his opinion thus: ‘Taken as a whole the work is a profound and elaborate discussion of the philosophy of the universe, and for grandeur of conception, soundness of principle, clearness of illustration, order of arrangement and encyclopedic range of subjects, I know no work of any single mind that will bear away from it the palm.’ It was partly due to Bush’s enthusiasm that the book, published in 1847, met with eager interest. Within a few weeks of its appearance, however, Professor Bush published a small pamphlet, Davis’s Revelations Revealed, in which he solemnly warned the public against being misled by the numerous errors, absurdities and falsities contained in that work. It was clear to him, he said, that Davis , although himself apparently an honest and single-hearted young man, had been made the mouthpiece of uninstructed and deceiving spirits ….. The book attained 34 editions in less than 30 years which alone proved the appeal of the style and the qualities of this stupendous work.”
+O livro abre com o seguinte: "No início a Univercoelumm foi um
+ilimitado, indefinível, e oceano inimaginável de Fogo Líquido . O mais
+imaginação vigorosa e ambiciosa não é capaz de formar um adequado
+concepção da altura e profundidade e comprimento e amplitude dele. Havia um
+vasta extensão de substância líquida. Foi sem limites – inconcebível – e
+com qualidades e essências incompreensíveis. Esta era a condição original de
+Importa. Foi sem formas, pois era apenas uma forma. Não tinha movimentos, mas
+foi uma eternidade de Movimento. Foi sem partes, pois era um Todo. Partículas
+não existia, mas o Todo era como uma partícula. Não havia sóis, mas
+era um Sol eterno. Não tinha começo e estava sem fim. Não tinha
+comprimento, pois era um Vórtice de uma eternidade. Não tinha círculos, pois era um
+círculo infinito. Ele não tinha desconectado poder, mas era a própria essência de
+todo o Poder. Sua magnitude inconcebível e constituição foram como não
+desenvolver forças, mas Poder Onipotente.
 
-The book opens with the following:
-“In the beginning the Univercoelumm was one boundless, indefinable, and unimaginable ocean of Liquid Fire . The most vigorous and ambitious imagination is not capable of forming an adequate conception of the height and depth and length and breadth thereof. There was one vast expanse of liquid substance. It was without bounds – inconceivable – and with qualities and essences incomprehensible. This was the original condition of Matter. It was without forms, for it was but one Form. It had no motions, but it was an eternity of Motion. It was without parts, for it was a Whole. Particles did not exist, but the Whole was as one Particle. There were not suns, but it was one eternal Sun. It had no beginning and it was without end. It had not length, for it was a Vortex of one Eternity. It had not circles, for it was one infinite Circle. It had not disconnected power, but it was the very essence of all Power. Its inconceivable magnitude and constitution were such as not to develop forces, but Omnipotent Power.
+"Matéria e Poder existiam como um Todo, inseparável. A matéria contida
+a substância para produzir todos os sóis, todos os mundos, e sistemas de mundos, em todo
+a imensidez do Espaço. Continha as qualidades para produzir todas as coisas que
+estão existindo em cada um desses mundos. O Poder continha sabedoria, e
+Bondade, Justiça, Misericórdia e Verdade. Continha o original e essencial
+Princípio que é exibido ao longo da imensicidade do Espaço, controlando mundos
+e sistemas de mundos, e produzindo Movimento, Vida, Sensação e Inteligência,
+para ser imparcialmente disseminado em suas superfícies como definitivos.
 
-“Matter and Power were existing as a Whole, inseparable. The Matter contained the substance to produce all suns, all worlds, and systems of worlds, throughout the immensity of Space. It contained the qualities to produce all things that are existing upon each of those worlds. The Power contained Wisdom, and Goodness, Justice, Mercy and Truth. It contained the original and essential Principle that is displayed throughout immensity of Space, controlling worlds and systems of worlds, and producing Motion, Life, Sensation and Intelligence, to be impartially disseminated upon their surfaces as ultimates.”
+Pode-se ver claramente a partir desta passagem que grande parte do ensino que foi dado
+através de Andrew Jackson Davis é semelhante em estilo e conteúdo com o de Emanuel
+Suéciaborg; ainda Davis não era em tudo uma pessoa educada durante sua anterior
+Anos. É este fato, sentimos, o que faz as revelações de Davis tão
+Interessante. Aqui temos dois viers, Emanuel Swedenborg e Andrew Jackson
+Davis. Cada um veio de uma social, econômica e educacional totalmente diferente
+fundos, mas ambos foram canais para alguns dos mais profundos e esotéricos
+filosofias e ensinamentos para sair do décimo oitavo e décimo xixi
+Séculos.
 
-One can see clearly from this passage that much of the teaching that was given through Andrew Jackson Davis is similar in style and content to that of Emanuel Swedenborg; yet Davis was not at all an educated person during his earlier years. It is this fact, we feel, which makes the revelations of Davis so very interesting. Here we have two seers, Emanuel Swedenborg and Andrew Jackson Davis. Each came from totally different social, economic and educational backgrounds, yet both were channels for some of the most profound and esoteric philosophies and teachings to come out of the eighteenth and nineteenth centuries.
+Previsão de Davis do movimento do Espiritualismo Moderno foi dada em sua
+Princípios da Natureza, publicado pela primeira vez em 1847. Nele, ele escreveu: "É uma verdade
+que espíritos comungar uns com os outros enquanto um está no corpo e o outro em
+as esferas mais altas – e isso, também, quando a pessoa no corpo está inconsciente
+do fluxo, e, portanto, não pode ser convencido do fato; e essa verdade vai
+ere longa apresentação-se na forma de uma demonstração viva. E o mundo
+vai granizo com prazer a inauguração de que era quando os interiores dos homens
+será aberta, e a comunhão espiritual será estabelecida. Finalmente, em
+31 de março de 1848 , em seu diário, Andrew Jackson Davis gravou o seguinte:
+"Sobre a luz do dia esta manhã uma respiração quente passou sobre o meu rosto e eu ouvi um
+voz, terno e forte, dizendo: 'Irmão, o bom trabalho começou – eis que, um
+demonstração viva nasce. Fiquei imaginando o que poderia ser feito por tal
+uma mensagem.
 
-Davis ‘s prediction of the movement of Modern Spiritualism was given in his Principles of Nature, first published in 1847. In it he wrote:
-“It is a truth that spirits commune with one another while one is in the body and the other in the higher spheres – and this, too, when the person in the body is unconscious of the influx, and hence cannot be convinced of the fact; and this truth will ere long present itself in the form of a living demonstration. And the world will hail with delight the ushering in of that era when the interiors of men will be opened, and the spiritual communion will be established.”
-Finally, on March 31, 1848 , in his diary, Andrew Jackson Davis recorded the following:
-“About daylight this morning a warm breathing passed over my face and I heard a voice, tender and strong, saying, ‘Brother, the good work has begun – behold, a living demonstration is born.’ I was left wondering what could be meant by such a message.”
+Naquele exato momento, não muito longe, em Hydesville , Nova York, os eventos
+que literalmente sacudiu o mundo em olhar para a possibilidade muito real de
+comunicar-se com aqueles em Espírito estava mandamento. Na verdade, o bom trabalho tinha
+Começou.
 
-At that very moment, not too far away, in Hydesville , New York , the events which literally shook the world into looking at the very real possibility of communicating with those in Spirit were taking place. Indeed, the good work had begun.
+As contribuições feitas por Andrew Jackson Davis para a causa do espiritismo
+simplesmente não pode ser enumerado. Este homem simples e sem educação, através de quem tanto
+muito foi dado, deve ser notado como o precursor principal do espiritualismo moderno.
+De 1845 a 1885, ele escreveu mais de 30 livros tratando de assuntos do cosmológico
+filosofia e dissertação, para a saúde, para uma análise descritiva do
+Pós-vida.
 
-The contributions made by Andrew Jackson Davis to the cause of Spiritualism simply cannot be enumerated. This simple, uneducated man, through whom so very much was given, should be noted as the prime forerunner to Modern Spiritualism. From 1845 to 1885, he wrote over 30 books dealing on subjects from cosmological philosophy and dissertation, to health, to a descriptive analysis of the afterlife.
+Nos últimos anos de sua vida, tendo finalmente adquirido um diploma de medicina, Andrew
+Jackson Davis se aposentou em Boston, onde abriu uma pequena livraria. Lá, ele
+vendeu livros e prescreveu remédios à base de ervas para seus pacientes.
 
-n the latter years of his life, having finally acquired a medical degree, Andrew Jackson Davis retired to Boston , where he opened a small book shop. There he sold books and prescribed herbal remedies to his patients.
-
-
-
-## Referências
-SGNY
-First Spiritual Temple The Ayer Institute 16 Monmouth Street, Brookline, MA, 02446 -5605 USA  
-Forerunners to Modern Spiritualism  
-Andrew Jackson Davis (1826-1910)  
-By Rev. Simeon  
-
-
-
+## Fonte
+[SGNY](//sgny.org)
+Traduzido por Veevo.org
 
 

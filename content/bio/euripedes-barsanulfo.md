@@ -4,10 +4,10 @@ date: 2019-02-01 19:00:00
 topics: 
 - espiritismo
 - espirito-superior
+- minas-gerais
 - bezerra-de-menezes
 - mediunidade
 ---
-
 
 Nascido em 1° de maio de 1880, na pequena cidade de Sacramento, Estado de Minas
 Gerais, e desencarnado na mesma cidade, aos 38 anos de idade, em 1° de novembro
@@ -140,9 +140,8 @@ terrena. Esgotado pelo esforço despendido, desencarnou no dia 1° de novembro d
 Sacramento em peso, em verdadeira romaria, acompanhou-lhe o corpo até a
 sepultura, sentindo que ele ressurgia para uma vida mais elevada e mais sublime
 
-## Referências
-[O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/euripedesbarsanulfo.html)
-
+## Fonte
+[O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/euripedesbarsanulfo.html)
 
 
 ## Perguntas Relacionadas

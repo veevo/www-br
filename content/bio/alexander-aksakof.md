@@ -4,28 +4,90 @@ date: 2019-02-01 19:00:00
 topics:
 - russia
 - swedenborg
-- spiritualism
+- espiritualismo
 ---
 
-Imperial Councilor to the Czar, the pioneer spiritualist of Russia, a Swedenborg enthusiast whose introduction to modern spiritualism was effected by Andrew Jackson Davis’s “Nature’s Divine Revelations” in 1855. In order to form a correct judgment of both physiological and psychological phenomena he studied medicine at the University of Moscow for two years. He translated Swedenborg’s “Heaven and Hell”, Count Szapary’s “Magnetic Healing” and the principal works of Prof. Hare, Crookes, Edmonds, Owen and the “Report of the Dialectical Society”. As, however, works on spiritualism in
-Russian were suppressed by the censor but German publications were tolerated, his literary activity, of a necessity, centred in Germany. He founded the Psychische Studien which, under the changed title Zeitschrift far Parapsychologie, is still running, and was instrumental in provoking the first strictly scientific Russian investigation of spiritualism.
+Conselheiro Imperial do Czar, o pioneiro espírita da Rússia, um Swedenborg
+entusiasta cuja introdução ao espiritualismo moderno foi realizada por Andrew As
+"Revelações Divinas da Natureza", de Jackson Davis, em 1855. Para formar um
+julgamento correto dos fenômenos fisiológicos e psicológicos que ele estudou
+medicina na Universidade de Moscou por dois anos. Ele traduziu o Swedenborg
+"Heaven and Hell", "Magnetic Healing" do Conde Szapary e as principais obras de
+Hare, Crookes, Edmonds, Owen e o "Relatório da Sociedade Dialética".  Como, no
+entanto, os trabalhos sobre espiritualismo em russo foram suprimidos pelo
+censor, mas As publicações alemãs eram toleradas, sua atividade literária, de
+uma necessidade, centrado na Alemanha. Ele fundou o Psychische Studien que, sob
+a mudança Zeitschrift distante Parapsychologie, ainda está em execução e foi
+fundamental para provocando a primeira investigação russa estritamente
+científica do espiritualismo.
 
-D. D. Home visited Russia for the first time in 1861. He became connected, through marriage, with Aksakof’s family and was in 1871 introduced by him to Prof. Boutlerof, and to other professors of the University of St. Petersburg. However, the body of savants was left unconvinced. In 1874 the French medium, Camille Bredif paid a visit. Professor Wagner attended a seance and was deeply impressed. His article in the “Revue de l’Europe” aroused such a storm that the University felt impelled to delegate an investigating committee and asked Aksakof to make the necessary arrangements for
-them. Aksakof went to England in 1875 and engaged, after a previous failure with the Petty Brothers of Newcastle, a non-professional medium, using the name of Mrs. Clayer, to whom he was introduced by Crookes, for presentation to the committee. The lady, who is mentioned in Crookes’ “Researches” on pages 38-39, produced strong physical phenomena in light. The committee, however, refused to be impressed and Prof. Mendeleyeff, its principal member, in his report “Materials by Which to Judge Spiritualism”, declared that the medium had an instrument under her skirts and produced
-table movements and raps by this agency. To this report Aksakof returned, under the title “A Monument of Scientific Prejudice, a caustic reply”. In 1876 he asked permission to publish in St. Petersburg a monthly, “Review of Mediumship”. It was refused.
+D. D. Home visitou a Rússia pela primeira vez em 1861. Ele se conectou, através
+do casamento, com a família de Aksakof e foi introduzido em 1871 por ele para
+Boutlerof e a outros professores da Universidade de São Petersburgo.  No
+entanto, o corpo de sábios não foi convencido. Em 1874, o meio francês, Camille
+Bredif fez uma visita. O professor Wagner assistiu a uma sessão e ficou
+profundamente impressionado. Seu artigo na "Revue de l'Europe" provocou uma
+tempestade que o Universidade sentiu-se impelido a delegar um comitê de
+investigação e pediu Aksakof para tomar as providências necessárias para eles.
+Aksakof foi para a Inglaterra em 1875 e noivos, após um fracasso anterior com os
+Irmãos Petty de Newcastle, médium não profissional, usando o nome de Mrs.
+Clayer, a quem ele era apresentado por Crookes, para apresentação ao comitê. A
+senhora que é mencionado em "Pesquisas" de Crookes nas páginas 38-39, produziu
+forte físico fenômenos na luz. O comitê, no entanto, recusou-se a ficar
+impressionado e o Prof.  Mendeleyeff, seu membro principal, em seu relatório
+“Materiais pelos quais Julgar Espiritualismo ”, declarou que a médium tinha um
+instrumento sob suas saias e produziu movimentos de mesa e rap por esta agência.
+Para este relatório Aksakof retornou, sob o título “Um monumento ao preconceito
+científico, uma resposta cáustica”.
 
-Thereupon, in 1881, an organ with an unmeaning title, “Rebus”, was founded and largely subsidised, after funds went low, by Aksakof to popularise the teachings of Spiritualism.
+Em 1876, ele pediu permissão para publicar em São Petersburgo uma revista mensal
+Mediunidade ”. Foi recusado.
 
-He experimented with Slade and Williams when they visited St. Petersburg and he madearrangements for Mrs. Kate Fox-Jencken when the Czar desired to consult her for thesafe conduct of the coronation ceremonies. Eglinton, Mme. d’Esperance and Eusapia Paladino were the next mediums who engaged his attention. His wife herself was mediumistic and became thereby a help in his work. In a “Case of Partial Dematerialisation” (1896) he recorded testimonies of an astounding occurrence with Mme. d’Esperance. His most important book, “Animismus und Spiritismus”, Leipzig, 1890 was published in answer to Dr. Edward von Hartmann’s “Spiritualism”. Myers, in his review in Proceedings, Vol. VI. p.665, states: “I may say at once that on the data as
-assumed I think that Mr. Aksakof has the better of his opponent.” In the book Aksakof says that for the comprehension of mediumistic phenomena we have not one hypothesis only, but three hypotheses: 1. Personism (or change of personality) may stand for those unconscious psychical phenomena which are produced within the limits of the medium’s own body, those intra-inediumistic phenomena whose distinguishing characteristic is the
-assumption of a personality changing to that of the medium. 2. Under the name animism we include unconscious psychical phenomena which show themselves outside the limits of the medium’s body. Extra-mediumistic operation of objects without contact and finally materialisation. We have here the highest manifestation of the psychic duplication; the elements of personality overstep the limits of the body . . . up to the point of complete
-externalisation and objectification. 3. Under the name spiritism we include phenomena resembling both personalisation and animism but which we much ascribe to some extra-mediumistic and extra-terrene cause. They differ from the phenomena of personalisation and animism in their intellectual content which affords evidence of an independent personality.
-“Spiritualism and Science” was another of Aksakof’s important works. His literary output was considerable. One of his last translations was Col. Rochas’ “Exteriorisation of Motricity”. Under dreadful physical handicaps he kept on working to the last. His right hand became useless, his eye almost sightless. A final attack of influenza on January 17th, 1903, carried him away.
+Então, em 1881, um órgão com um título sem significado, "Rebus", foi fundado e
+amplamente subsidiado, depois que os fundos ficaram baixos, por Aksakof para
+popularizar os ensinamentos do espiritismo.
 
+Ele experimentou Slade e Williams quando eles visitaram São Petersburgo e ele
+arranjos de arranjos para a Sra. Kate Fox-Jencken quando o czar quis consultá-la
+pela condução segura das cerimônias de coroação. Eglinton, senhora. dEsperança e
+Eusapia Paladino foram os próximos médiuns que chamaram sua atenção. A esposa
+dele ela era mediúnica e tornou-se assim uma ajuda em seu trabalho. Em um “caso
+de Desmaterialização Parcial ”(1896), ele registrou testemunhos de uma espantosa
+ocorrência com Mme. dperiência. Seu livro mais importante, “Animismus und
+Espiritismo ”, Leipzig, 1890 foi publicado em resposta ao Dr. Edward von
+Hartmann "Espiritualismo". Myers, em sua revisão em Proceedings, vol. VI p.665,
+afirma: “I pode-se dizer de imediato que, nos dados que supomos, acho que o Sr.
+Aksakof tem o melhor do seu oponente. ”No livro, Aksakof diz que, para a
+compreensão de fenômenos mediúnicos, não temos apenas uma hipótese, mas três
+hipóteses listadas abaixo.
 
-## Referências
-http://www.survivalafterdeath.org/scientists/1.htm
+## Personismo
+O personismo (ou mudança de personalidade) pode representar aqueles inconscientes
+fenômenos produzidos dentro dos limites do próprio corpo do médium, aqueles
+fenômenos intraediumistas cuja característica distintiva é a
+suposição de uma personalidade mudando para a do médium. 
 
+## Animiso
+Sob o nome
+animismo, incluímos fenômenos psíquicos inconscientes que se mostram fora
+os limites do corpo do médium. Operação extra-mediúnica de objetos sem
+contato e finalmente materialização. Temos aqui a mais alta manifestação de
+a duplicação psíquica; os elementos da personalidade ultrapassam os limites da
+corpo até o ponto de completa externalização e objetivação. 
 
+## Espiritismo
+Sob o nome espiritismo, incluímos fenômenos semelhantes à personalização e
+animismo, mas que atribuímos muito a alguns extra-mediúnicos e causa
+extra-terrene. Eles diferem dos fenômenos de personalização e animismo em seu
+conteúdo intelectual, que fornece evidências de um personalidade. "Espiritismo e
+ciência" foi outro dos aspectos importantes de Aksakof trabalho. Sua produção
+literária foi considerável. Uma de suas últimas traduções foi "Exteriorização da
+motricidade" do coronel Rochas. Sob terríveis desvantagens físicas ele continuou
+trabalhando até o fim. Sua mão direita se tornou inútil, seu olho quase cego. 
 
+Um ataque final da gripe em 17 de janeiro de 1903 o levou embora.
+
+## Fonte
+[Survival After Death | Scientists](http://www.survivalafterdeath.org/scientists/1.htm)  
+Traduzido por Veevo.org
 

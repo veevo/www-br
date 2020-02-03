@@ -2,48 +2,198 @@
 title: León Denis
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- franca
+- allan-kardec
 ---
 
-Leon Denis was born in a village called Foug, located in the surroundings of Tours , in France , on January 1st, 1846 , of a humble family. Very early in life out of necessity, he did manual works and had to carry the heavy responsibilities of his family. From his first steps into this world, he sensed that invisible friends assisted him. Instead of participating in plays relating to his youth, he tried to instruct himself as intensely as possible. He read serious works, thus striving through his own efforts, to develop his intelligence, and became a serious and competent self-didactic.
+Léon Denis nasceu numa aldeia chamada Foug, situada nos arredores de Tours, na
+França, em 1º de janeiro de 1846, numa família humilde. Cedo conheceu, por
+necessidade, os trabalhos manuais e os pesados encargos da família. Desde os
+seus primeiros passos neste mundo, sentiu que os amigos invisíveis o auxiliavam.
+No lugar de participar em brincadeiras próprias da juventude, procurava
+instruir-se o mais possível. Lia obras sérias, conseguindo assim, com esforço
+próprio, desenvolver sua inteligência. Tornou-se um autodidata sério e
+competente.
 
-At the age of 18, he commenced to work as a sales representative, and because of this he had take frequent trips. This situation continued up to the time of his reformation and beyond. He adored music, and whenever he had a chance, he would attend operas or concerts. He played well-known arias at the piano and also some accords from his own inspiration. He did not smoke, and was almost exclusively a vegetarian, nor did he indulge in fermented drinks. He found water to be his ideal drink.
+Aos 18 anos, tornou-se representante comercial da empresa onde trabalhava, fato
+que o obrigava a viagens constantes, situação que se manteve até à sua reforma e
+manteve ainda depois por mais algum tempo. Adorava a música e sempre que podia
+assistia a uma ópera ou concerto. Gostava de dedilhar, ao piano, árias
+conhecidas e de tirar acordes para seu próprio devaneio. Não fumava, era quase
+exclusivamente vegetariano e não fazia uso de bebidas fermentadas. Encontrava na
+água a sua bebida ideal.
 
-It was his habit to review books with interest, of those displayed in the bookstores, at the age of 18, by “chance” his eyes glanced at a work with an unusual title: [The Spirits’ Book](/books/allan-kardec/spirits-book) by [Allan Kardec](/profiles/allan-kardec). Having in his possession the amount needed to purchase the book, he bought it and rushed to his home immediately surrendering eagerly to the reading. His comments after reading it were:
->“I found in this book the clear solution, complete and logical, to a universal problem. My conviction became strong and sound. The Spiritist Theory dissipated my indifference and my doubts.”
+Era seu hábito olhar, com interesse, para os livros expostos nas livrarias. Um
+dia, ainda com 18 anos, o chamado acaso fez com que a sua atenção fosse
+despertada para uma obra de título inusitado. Esse livro era O Livro dos
+Espíritos, de Allan Kardec. Dispondo do dinheiro necessário, comprou-o e,
+recolhendo-se imediatamente ao lar, entregou-se com avidez à leitura. O próprio
+Denis disse: "Nele encontrei a solução clara, completa e lógica, acerca do
+problema universal. A minha convicção tornou-se firme. A teoria espírita
+dissipou a minha indiferença e as minhas dúvidas."
 
-The year of 1882 marked, in reality, the beginning of an apostolate, during which he had to face successive obstacles, such as: the materialism and the positivism that viewed Spiritism ironically and with amusement, and also, the believers of other faiths who did not hesitate to align themselves with the atheists in order to ridicule and weaken Leon Denis. Denis, however as a heroic paragon, had no fear of facing the storm. The good spirits were placed at his side to encourage and to exhort him in the battle. “Courage, friend,” the spirit of Jeanne told him, “we will always be with you to sustain and inspire you. You will never be alone. In time, the means will be provided to you, so that you can fulfill your task.” On November 2nd, 1882, on the day of the commemoration of the dead, an event of capital importance occurred in Denis’s life: for the first time, the spirit who would be his guide, his best friend, his spiritual father, Jeronimo of Prague, manifested himself saying: “Go, my son, follow the open road before your eyes. I will walk behind you to sustain you.”By 1910, Leon Denis’ vision was weakening day by day. The surgery to which he had submitted two years prior had not resulted in any improvement, but he calmly and with resignation withstood the implacable march of that illness that had persecuted him since his youth. He accepted everything stoically and with resignation. He was never heard complaining. Though, one can well imagine how immense his suffering must have been. In spite of this, he kept up with a voluminous amount of correspondence. He was never upset, loved his youth and possessed a happy soul. He was an enemy of sadness. Physical illness represented a smaller interference to him than the anguish he felt for the fact that he no longer would he be capable of writing. Various secretaries substituted him in at this work; however, the greater difficulty for Denis consisted in reviewing and correcting the new edition of his books and of his writings. Thanks, however, to his incomparable memory and orderly spirit, he overcame all those setbacks, without the need to call on his friends for assistance.
+O ano de 1882 marca, em realidade, o início do seu apostolado, durante o qual
+teve de enfrentar sucessivos obstáculos: o materialismo e o positivismo que
+olham para o Espiritismo com ironia e risadas e os crentes das demais correntes
+religiosas, que não hesitam em aliar-se aos ateus, para o ridicularizar e
+enfraquecer. Léon Denis, porém, como bom paladino, enfrenta a tempestade. Os
+companheiros invisíveis colocam-se ao seu lado para o encorajar e exortá-lo à
+luta. Coragem, amigo − diz-lhe o Espírito de Jeanne − estaremos sempre contigo
+para te sustentar e inspirar. Jamais estarás só. Meios ser-te-ão dados, em
+tempo, para bem cumprires a tua obra.
 
-After World War I, he studied and learned Braille, which allowed him to put on the paper the elements of chapters and articles that came into his mind, because at this time in life, he was practically blind.
+A 2 de novembro, de 1882, dia de Finados, um evento de capital importância
+produziu-se na sua vida: a manifestação, pela primeira vez, daquele Espírito
+que, durante meio século, havia de ser o seu guia, o seu melhor amigo, o seu pai
+espiritual − Jerônimo de Praga −, que lhe disse: Vai, meu filho, pela estrada
+aberta diante de ti. Caminharei atrás de ti para te sustentar.
 
-It was a Tuesday, in March of 1927, at about 1:00 o’clock in the afternoon, that Denis breathed with great difficulty. Pneumonia had attacked him once again. Life seemed to abandon him, but his state of lucidity was perfect. His last words, pronounced with extraordinary calm, in spite of the great difficulty, were spoken to his maid, Georgette: “It is necessary to finish, to summarize and to conclude.” He was referring to the foreword of the new biographical edition of Kardec. At this exact moment, he completely lacked the energy to articulate another word. At 9:00 o’clock his spirit flew away. His countenance seemed as if he was still in a state of ecstasy.
+A partir de 1910, a visão de Léon Denis foi, dia após dia, enfraquecendo. A
+operação a que se submetera, dois anos antes, não lhe proporcionara nenhuma
+melhora, mas suportava, com calma e resignação, a marcha implacável desse mal
+que o castigava desde a juventude. Aceitava tudo com estoicismo e resignação.
+Jamais o viram queixar-se. Todavia, é possível supor quão grande devia ser o seu
+sofrimento. Apesar disso, mantinha volumosa correspondência. Jamais se
+aborrecia; amava a juventude e possuía a alegria da alma. Era inimigo da
+tristeza. O mal físico, para ele, devia ser bem menor do que a angústia que
+experimentava pelo fato de não mais poder manejar a pena. Secretárias ocasionais
+substituíam-no nesse ofício. No entanto, a grande dificuldade para Denis,
+consistia em rever e corrigir as novas edições dos seus livros e dos seus
+escritos. Graças, porém, ao seu espírito de ordem e à sua incomparável memória,
+superava todos esses contratempos, sem molestar ou importunar os amigos.
 
-The funeral services took place on April 16th, 1927 . At his request, the funeral was very simple and without the participation or pronouncement of any confessional Church. He was buried in La Salle ’s cemetery, in the French city of Tours .
+Após a I Grande Guerra, aprendeu braille, o que lhe permitiu fixar no papel os
+elementos de capítulos ou artigos que lhe vinham ao Espírito, pois, nesta época
+da sua vida, estava, por assim dizer, quase cego.
 
-Among the great apostles of Spiritism, the extraordinary powerful presence of Leon Denis deserves a very distinctive place, particularly, in view of having been the logical follower of Allan Kardec’s work. We can be sure that it constituted an extremely difficult task to write about Denis’ life, given the magnitude of his mission on earth. It is difficult to determine what to point out first, whether it be his incredible personality, the good sense of reasoning with which he was endowed, his commitment to work, his dedication to his fellow beings or the fervent love he consecrated to the ideals that he embraced.
+Em março de 1927, com 81 anos de idade, terminara o manuscrito que intitulou de
+O Gênio Céltico e o Mundo Invisível. Neste mesmo mês, a Revue Spirite publicava
+o seu derradeiro artigo.
 
-Leon Denis was the consolidator of Spiritism. He was not just the substitute and continuator of Allan Kardec, as is generally supposed. Denis had a mission practically as significant as the one of the Codifier. To him, was assigned the development of the doctrinaire studies, to proceed with the mediumistic research, to propel the Spiritist Movement in France and all over the world, to deepen the moral aspect of the Doctrine and above all, to consolidate it in the first decades of the Century. In that new Bible, (Spiritism) the role of Kardec is that of the wise person and the role of Denis is that of the philosopher. Leon Denis was nominated the Apostle of Spiritism, due to his magnificent work, and the words written and spoken in behalf of the new Doctrine. He can also be denominated its consolidator, the Philosopher of Spiritism. Possessing accentuated moral qualities, he dedicated his entire existence to the defense of the postulates that Kardec had transmitted in the books of the spiritist Pentateuch. The moral aspect (religious) of the Doctrine, the superior principles of life, the instruction, and the family, deserved his extreme cares, and, for that reason, his life of probation, work example, perseverance and faith, is a journey of light to every spiritist; we will declare further more: for all the individuals of goodwill of all eras. With these words of confidence and faith, Denis himself, summarized the mission that he had come to accomplish in favor of a noble cause: “I have consecrated this existence to the service of a Great cause, Spiritism or Modern Spiritualism that will certainly be the universal faith, and the religion of the future.”
+Terça-feira, 12 de março, de 1927, pelas 13 horas, respirava Denis com grande
+dificuldade. A pneumonia atacava-o novamente. A vida parecia abandoná-lo, mas o
+seu estado de lucidez era perfeito. As suas últimas palavras, pronunciadas com
+extraordinária calma, apesar da muita dificuldade, foram dirigidas à sua
+empregada Georgette: É preciso terminar, resumir e... concluir. Fazia alusão ao
+prefácio da nova edição biográfica de Kardec. Neste preciso momento,
+faltaram-lhe completamente as forças, para que pudesse articular outras
+palavras. Às 21h o seu Espírito alou-se. O seu semblante parecia ainda em
+êxtase.
 
-His bibliography is quite extensive and composed of monumental works that enrich the spiritualist libraries. It is due to him that the spiritists have been blessed with the unique opportunity to see the enlarged new angles of the Spiritist Doctrine’s philosophical aspect, because, his works generally focused on the numerous problems that occur to men, and also to the perpetually disturbing subject of the survival of the human soul in its laborious evolutionary process. Léon Denis was immortalized in the gigantic task of dissecting problems related to the afflictions that attack the incarnate beings, supplying valuable information which in essence throws new light on the problem of the terrestrial tribulations. He left behind the concepts that until then had prevailed, to present it engulfed in the light of highly comforting teachings, which resulted from the inexhaustible sources of the Doctrine of the Spirits.
+As cerimônias fúnebres realizaram-se a 16 de abril. A seu pedido, o enterro foi
+modesto e sem o ofício de qualquer Igreja confessional. Está sepultado no
+cemitério de La Salle, em Tours.
 
-Being devoted to the profound study of Spiritism, in its triple aspect, incorporating science, philosophy and religion, he took a long time with greater persistence in its philosophical aspect. Together with his serious studies in that field, he also made a valuable contribution, in dealing and studying historical subjects, supplying important subsidies clarifying the Celtic origins of France and concerning the dramatic episode of the martyrdom of Joan of Arc, the great French medium. His studies didn’t stop there. He worried excessively about the origins of Christianity and its evolutionary process through the times.
+Dentre os grandes apóstolos do Espiritismo, a figura exponencial de Léon Denis
+merece referência toda especial, principalmente em vista de ter sido o
+continuador lógico da obra de Allan Kardec. É possível afiançar mesmo que
+constitui tarefa sumamente difícil tentar biografar essa grande vida, dada a
+magnitude de sua missão terrena, na qual muito há para salientar: a sua
+personalidade contagiante, o bom senso de que era dotado, a operosidade no
+trabalho, a dedicação ímpar aos seus semelhantes e o depurado amor que devotava
+aos ideais que esposava.
 
-Among his multiple occupations, he was honorary president of the Spiritist French Union, honorary member of the International Spiritist Federation, president of the International Spiritist Congress, reached in Paris , in the year of 1925. He also had the opportunity of directing for many years, an experimental group on Spiritism, in the French city of Tours .
+Léon Denis foi o consolidador do Espiritismo. Não foi apenas o substituto e
+continuador de Allan Kardec, como geralmente se pensa. Denis tinha uma missão
+quase tão grandiosa quanto à do Codificador. Cabia-lhe desenvolver os estudos
+doutrinários, dar continuidade às pesquisas mediúnicas, impulsionar o movimento
+espírita na França e no Mundo, aprofundar o aspecto moral da Doutrina e,
+sobretudo, consolidá-la nas primeiras décadas do século. Nessa nova Bíblia (o
+Espiritismo), o papel de Kardec é o de sábio e o papel de Denis é o de filósofo.
+Léon Denis foi cognominado o Apóstolo do Espiritismo pela magnífica atuação
+desenvolvida, pela palavra escrita e falada, em favor da nova Doutrina.
 
-His performance in the heart of Spiritism was more diverse than those developed by Allan Kardec. While the Codifier exercised his noble activities in the French capital, Léon Denis carried out his dignifying task in the country side of France . His unusual intellectual capacity and his clarity in transcendental matters, led the Spiritist Movement in France , and in the rest of the world, to gravitate toward the city of Tours . After Allan Kardec’s disincarnation, that city became the point of convergence of all who wanted to make contact with Spiritism, and receive illumination, because, undeniably, the Pleiades of Spirits that had as task, the success of the process of revelation of Spiritism, gave to the great apostle all the necessary support so that the new doctrine could be rooted firmly in a wide and unrestricted way.
+Ainda, foi o seu consolidador e, por isso, conhecido como o filósofo do
+Espiritismo. De acentuadas qualidades morais, dedicou toda uma longa vida à
+defesa dos postulados que Kardec transmitira nos livros do pentateuco espírita.
 
-While Kardec stood out as a personality of universal proportion, who made his name in the Academic World, before he became devoted to the spiritist research and to codify Spiritism, Léon Denis was an autodidactic who received his schooling in obscurity and in material poverty, to appear suddenly in the intellectual scene and to impose himself as a lecturer and a famous writer, becoming an exponential representative in the field of the doctrinaire dissemination of Spiritism. Denis possessed a robust intelligence; he was a great speaker and writer, enjoying an appreciable degree of intuition. Referring to him, one of his contemporaries Gabriel Gobron, wrote: “He met true victories and those who had the rare happiness of hearing him speak in a group attendance of two or three thousand people, know perfectly well, how charming and convincing his speeches were.”
+O aspecto moral (religioso) da Doutrina, os princípios superiores da Vida, a
+instrução, a família mereceram dele cuidados extremos e, por isso mesmo, sua
+vida de provações. Seu exemplo de trabalho, perseverança e fé é um roteiro de
+luz para os espíritas, e mais, para os homens de bem de todos os tempos. Em
+palavras de confiança e fé, ele mesmo resumiu assim a missão que viera
+desempenhar em favor de uma nobre causa: Consagrei esta existência ao serviço de
+uma grande causa, o Espiritismo ou Espiritualismo moderno, que será certamente a
+crença universal, a religião do futuro.
 
-Denis never studied in an accredited academy; however, he developed in the practical school of life. He experienced his own pain and that of others. He was not well paid, having to undergo heroic deprivations, which taught him wisdom. For this reason, he used to say: “The ones that have not experienced those lessons usually ignore one of the most moving sides of life “. With the resources of his uncommon intelligence he could have been spared from poverty, but he preferred to live within it, as in his opinion it was difficult to accumulate selfishly for himself, that which he had received to be distributed among his fellow beings.
+A sua bibliografia é bastante vasta e composta de obras monumentais que
+enriquecem as bibliotecas espíritas. Deve-se a ele a oportunidade ímpar que os
+espíritas tiveram de ver ampliados novos ângulos do aspecto filosófico da
+Doutrina Espírita, pois as suas obras de um modo geral focalizam numerosos
+problemas que assolam os homens e também a sempre momentosa questão da
+sobrevivência da alma humana em seu laborioso processo evolutivo. Léon Denis
+imortalizou-se na gigantesca tarefa de dissecar problemas atinentes às aflições
+que acometem os seres encarnados, fornecendo valiosos subsídios no sentido de
+lançar novas luzes sobre a problemática das tribulações terrenas, deixou de lado
+os conceitos até então prevalecentes para apresentá-la aureolada de ensinamentos
+altamente consoladores, hauridos nas fontes inesgotáveis da Doutrina dos
+Espíritos.
 
-In a well advanced age, blind, and with a relatively weak constitution, he still lived full of tribulations. Nothing, however, changed his way of proceeding. In spite of all those adverse conditions, he received everyone with deference. From the first hours of the morning he dictated himself to his secretary, in answering voluminous correspondence, replying to the pleading of countless societies that he had founded or of which he had been named honorary president. Whenever he attended there, he was always designated a place of greatest prominence, a mark achieved at the price of deep dedication, perseverance and indefatigable labor in goodness.
+Dedicando-se ao estudo aprofundado do Espiritismo, em seu tríplice aspecto de
+ciência, filosofia e religião, demorou-se com maior persistência na abordagem do
+seu aspecto filosófico. Concomitantemente com os seus profundos estudos nesse
+campo, também deu a sua contribuição valiosa na abordagem e no estudo de
+assuntos históricos, fornecendo importantes subsídios no sentido de esclarecer
+as origens celtas da França e no tocante ao dramático episódio do martírio de
+Joana D'Arc, a grande médium francesa. Seus estudos não pararam aí; ele
+preocupou-se sobremaneira com as origens do Cristianismo e o seu processo
+evolutivo através dos tempos.
+
+Dentre as suas múltiplas ocupações, foi presidente de honra da União Espírita
+Francesa, membro honorário da Federação Espírita Internacional, presidente do
+Congresso Espírita Internacional, realizado em Paris, no ano de 1925. Teve
+também a oportunidade de dirigir, durante longos anos, um grupo experimental de
+Espiritismo, na cidade francesa de Tours.
+
+A sua atuação no seio do Espiritismo foi bastante diversa daquela desenvolvida
+por Allan Kardec. Enquanto o Codificador exerceu suas nobilitantes atividades na
+própria capital francesa, Léon Denis desempenhou a sua dignificante tarefa na
+província. A sua inusitada capacidade intelectual e o descortino que tinha das
+coisas transcendentais, fizeram com que o movimento espírita francês, e mesmo
+mundial, gravitasse em torno da cidade de Tours. Após a desencarnação de Allan
+Kardec, essa cidade tornou-se o ponto de convergência de todos os que desejavam
+tomar contato com o Espiritismo, recebendo as luzes do conhecimento, pois,
+inegavelmente, a plêiade de Espíritos que tinha por incumbência o êxito de
+processo de revelação do Espiritismo, levou ao grande apóstolo toda a
+sustentação necessária a fim de que a nova doutrina se firmasse de forma ampla e
+irrestrita.
+
+Enquanto Kardec se destacou como uma personalidade de formação universitária,
+que firmou seu nome nas letras e nas ciências, antes de se dedicar às pesquisas
+espíritas e codificar o Espiritismo, Léon Denis foi um autodidata que se
+preparou em silêncio, na obscuridade e na pobreza material, para surgir
+subitamente no cenário intelectual e impor-se como conferencista e escritor de
+renome, tornando-se figura exponencial no campo da divulgação doutrinária do
+Espiritismo. Denis possuía uma inteligência robusta, era um Espírito ilustre,
+grande orador e escritor, desfrutando de apreciável grau de intuição.
+
+Referindo-se a ele, escreveu o seu contemporâneo Gabriel Gobron: Ele conheceu
+verdadeiros triunfos e aqueles que tiveram a rara felicidade de ouvi-lo falar a
+uma assistência de duas ou três mil pessoas, sabem perfeitamente quão
+encantadora e convincente era a sua oratória.
+
+Denis jamais cursou uma academia oficial, entretanto, formou-se na escola
+prática da vida, na qual a dor própria e alheia, o trabalho mal retribuído, as
+privações heroicas ensinam a verdadeira sabedoria, por isso dizia sempre: Os que
+não conhecem dessas lições, ignoram sempre um dos mais comovedores lados da
+vida. Com o concurso de sua inteligência invulgar furtar-se-ia à pobreza, mas
+ele preferiu viver nela, pois em sua opinião era difícil acumular egoisticamente
+para si, aquilo que ele recebia para repartir com os seus semelhantes.
+
+Com idade bastante avançada, cego e com uma constituição física relativamente
+fraca, vivia ainda cheio de tribulações. Nada disso, entretanto, mudava o seu
+modo de proceder. Apesar de todas essas condições adversas, todos, ele recebia
+obsequiosamente. Desde as primeiras horas da manhã ditava volumosa
+correspondência, respondendo aos apelos das inúmeras sociedades que fundara ou
+de que era presidente honorário. Onde quer que comparecesse, ali davam-lhe
+sempre o lugar de maior destaque, lugar conquistado a preço de profunda
+dedicação, perseverança e incansável operosidade no bem.
+
 
 ## Referências
-SGNY - Great Exponents of Spiritism (Aug 2002)  
-(Excerpted From the website of The Spiritist Federation of Paraná)  
-TODO:: Add link to SGNY
 
-## Bibliografia
+## Bibliografia do Autor
 Christianity and Spiritism  
 Here and Hereafter  
 Spirits and Mediums  

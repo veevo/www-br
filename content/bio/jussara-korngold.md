@@ -2,20 +2,28 @@
 title: Jussara Korngold
 date: 2019-02-01 19:00:00
 topics: 
-
+- espiritismo
+- estados-unidos
 ---
 
-Jussara Korngold, BS, MBA, was born in the city of São Paulo, Brazil and she is the founder and president of the Spiritist Alliance for Books (SAB), a non-profit organization, whose sole aim is to promote and disseminate the Spiritist philosophy in English as codified by Allan Kardec.
+Jussara Korngold, BS, MBA, nasceu na cidade de São Paulo, Brasil e é
+o fundador e presidente da Aliança Espírita para Livros (SAB), um
+organização sem fins lucrativos, cujo único objetivo é promover e disseminar o
+Filosofia espírita em inglês como codificada por Allan Kardec.
 
-Mrs. Korngold is fluent in four languages (Portuguese, English, French and Spanish) and she is also one of the founders and directors of the Spiritist Group of New York, located in New York City. She is a third-generation spiritist from Brazil and she has been translating and writing spiritist materials and books since 1993. Jussara Korngold has been working as a volunteer executive in the offices of Brazil Child Health ("Associação Saúde Criança) in New York since its opening in 2000.
+Mrs. Korngold é fluente em quatro línguas (português, inglês, francês e
+Espanhol) e ela também é uma das fundadoras e diretoras do Espírita
+Grupo de Nova York, localizado em Nova York. Ela é espírita da terceira geração.
+do Brasil e ela vem traduzindo e escrevendo materiais espíritas e
+livros desde 1993. Jussara Korngold tem trabalhado como executiva voluntária em
+os escritórios da Brasil Saúde Da Criança em Nova York desde
+sua abertura em 2000.
 
+## Fonte
+[SGNY.org](//sgny.org)
 
-## Books
-TODO
-
-
-## Related
-[Interview with Mrs. Korngold](https://www.sgny.org/about-sgny/)
+## Links Relacionados
+[Entrevista com Jussara Korngold (inglês)](https://www.sgny.org/about-sgny/)
 
 
 

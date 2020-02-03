@@ -247,13 +247,6 @@ suplantas humanas vibrações dos que ali residem e colaboram.
 ## Fonte
 [O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/joanna.html)  
 
-Written by [Hermínio C. Miranda](/profiles/herminio-miranda), to the book,
-["After The Storm"](/books/joanna-de-angelis/after-the-storm) by Joanna De
-Ângelis  Published originally by Livraria Espírita Alvorada Editora in Bahia,
-Brazil.  The translation (from which this extract was taken) was published by
-this publisher in conjunction with the Christian Spirit Center - Elon College,
-North Carolina.
-
 ## Bibliografias Relacionadas
 [Espírito Andre Luis](../andre-luis)   
 [Espírito Emmanuel](../emmanuel)  

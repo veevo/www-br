@@ -5,29 +5,82 @@ topics:
 
 ---
 
+Nascido no Brasil, em 1913, Hernani Guimarães Andrade se formou em engenharia
+civil pela Universidade de São Paulo em 1941, gastando o resto de sua vida
+profissional com diversas empresas públicas e privadas, incluindo o Brasil
+Companhia Siderúrgica Nacional e o Departamento de Água e Eletricidade do estado
+de São Paulo, onde se tornou diretor técnico de sua eletricidade e telefone
+Divisão. Após sua aposentadoria, mudou-se para Bauru, no interior do mesmo
+estado, onde ele morreu em abril de 2003, algumas semanas antes de seu
+aniversário de noventa anos um comentário casual em uma reunião social em 1930
+colocá-lo em sua carreira paralela como pioneira da parapsicologia científica no
+Brasil. Pediu suas opiniões sobre o questão da vida após a morte, ele respondeu
+que ele considerava a vida como uma essência independente do corpo físico, e que
+após a morte corporal esta essência foi longe para reaparecer em outro ser vivo.
+Ouvindo isso, um amigo da família empurrou um cópia de Allan Kardec, O que é
+espiritismo, em sua mão e disse-lhe para ler ele, o que ele prontamente fez,
+encontrando que, como ele mais tarde me disse: "Eu tinha sido um Espírita o
+tempo todo sem saber.
 
-Born in Brasil, 1913, **Hernani Guimarães Andrade** graduated in civil engineering from the University of Sao Paulo in 1941, spending the
-rest of his working life with various public and private companies, including Brazil’s National Steel Company and the Water and Electricity Department of the state of Sao Paulo, where he became technical director of its electricity and telephone division. After his retirement he moved to Bauru, in the interior of the same state, where he died in April 2003, a few weeks short of his ninetieth birthday a chance remark at a social gathering in 1930 set him on his parallel career as the pioneer of scientific parapsychology in Brazil. Asked for his views on the question of life after death, he replied that he regarded life as an essence independent of the physical body, and that after bodily death this essence went away to reappear in another living being. Hearing this, a family friend thrust a copy of Allan Kardec’s, What is Spiritism, into his hand and told him to read it, which he promptly did, finding that, as he later told me, “I had been a Spiritist all along without knowing it.”
+Ele era cauteloso, no entanto. Em uma das primeiras sessões que ele participou,
+ele descobriu como todos os vários fenômenos demonstrados poderiam ter sido
+produzidos por meios normais, repetindo o desempenho do suposto médium em cada
+detalhe.
 
-He was a cautious one, however. At one of the first séances he attended, he worked out how all the various phenomena
-demonstrated could have been produced by normal means, repeating the supposed medium’s performance in every detail. Even
-so, he decided that the phenomena associated with Spiritism were worth serious study, and in 1961 he and a group of like-minded friends founded the Brazilian Institute for Psychobiophysical Research (IBPP) with the objective: “The study of paranormal facts and systematic research into the laws, properties and potential of the spirit by scientific methods”. In his first book, A Teoria Corpuscular do Espirito (The Corpuscular Theory of the Spirit, 1958), he upset some of his fellow Kardecists by telling them that “The ridiculous strategy of the ostrich is to be avoided at all costs.
+Mesmo assim, ele decidiu que os fenômenos associados ao espiritismo
+valiam estudo sério, e em 1961 ele e um grupo de amigos de mente semelhante
+fundou o Instituto Brasileiro de Pesquisa Psicobiofísica (IBPP) com o objetivo:
+"O estudo de fatos paranormais e pesquisas sistemáticas sobre as leis,
+propriedades e potencial do espírito por métodos científicos". Em seu primeiro
+livro, A Teoria Corpuscular do Espírito Espirito (A Teoria Corpuscular do
+Espírito, 1958), ele chateado alguns de seus colegas espiritistas, dizendo-lhes
+que "A estratégia ridícula de o avestruz deve ser evitado a todo custo.
 
-There should be no hiding the head under the sand of blind mysticism and senseless dogmatism.” He also reminded them that
-Kardec had insisted that Spiritism had to be scientific as well as philosophical and religious if it was to survive.
-Although the IBPP was always a small group, Hernani and his colleagues amassed a remarkable amount of first-hand evidence for a wide variety of psi phenomena, notably his two special interests, poltergeists (32 cases) and reincarnation (75 cases). Field work always came first. At the age of eighty Hernani drove several hundred miles to investigate an unusually persuasive case of claimed reincarnation on which he published a full-length book, Renasceu Por Amor (Reborn to Love, 1994). He also found time to write fifteen other books, the last of which was published a few months before his death. These include the first Brazilian parapsychology textbook, Parapsicologia Experimental (1967), several original case histories, and a number of theoretical works in which he put forward his detailed theory of the ‘biological organizing model’ behind all forms of life, and the connections between matter and spirit by means of an organizing psi field and what Kardec called the ‘perispirit’ body.
+Não deve haver esconder a cabeça a areia do misticismo cego e Dogmatismo sem
+sentido. Ele também lembrou-lhes que Kardec tinha insistido que Espiritismo
+tinha que ser científico, bem como filosófico e religioso se fosse para
+sobreviver.
 
-More detailed accounts of Hernani’s research and writings can be found in my books, The Flying Cow (1975) and The Indefinite
-Boundary (1976), and in three IBPP monographs that were translated into English: The Ruytemberg Rocha Case (1973), a
-detailed verification of an unusually convincing drop-in case; Psi Matter (1976), a summary of the theoretical work mentioned above, and A Case Suggestive of Reincarnation: Jacira & Ronaldo (1980), one of the best cases of its kind in the IBPP files, all of which were meticulously compiled by IBPP archivist (and active field researcher) Suzuko Hashizume.
-Hernani was a man of infinite kindness: but for his encouragement and infectious enthusiasm I might never have become involved in psi research at all. The time I spent with him and his colleagues from 1973 to 1975 amounted to a prolonged private tutorial with an incomparable teacher and friend. This continued through correspondence until shortly before his death.
+Embora o IBPP sempre foi um pequeno grupo, Hernani e sua colegas
+acumulou uma quantidade notável de evidência em primeira mão para uma grande
+variedade de fenômenos psi, notadamente seus dois interesses especiais,
+poltergeists (32 casos) e reencarnação (75 casos). O trabalho de campo sempre
+veio em primeiro lugar. Aos 80 anos Hernani dirigiu várias centenas de
+quilômetros para investigar um caso extraordinariamente persuasivo de
+reencarnação reivindicada em que ele publicou um livro completo, Renasceu Por
+Amor (Renascido ao Amor, 1994). Ele também encontrou tempo para escrever quinze
+outros livros, o último dos quais foi publicado alguns meses antes de sua morte.
+Estes incluem o primeiro livro didático brasileiro de parapsicologia,
+Parapsicologia Experimental (1967), várias histórias originais do caso, e uma
+série de trabalhos teóricos em que ele apresentou sua teoria detalhada do
+"modelo de organização biológica" por trás de todos formas de vida, e as
+conexões entre matéria e espírito por meio de um organizando o campo psi e o que
+Kardec chamou de corpo "perispirit".
+
+Relatos mais detalhados da pesquisa e escritos de Hernani podem ser encontrados
+na minha livros, A Vaca Voadora (1975) e The Indefinite Boundary (1976), e em
+três Monografias do IBPP que foram traduzidas para o inglês: O Caso Ruytemberg
+Rocha (1973), uma verificação detalhada de um caso de drop-in
+extraordinariamente convincente; Psi Matéria (1976), um resumo do trabalho
+teórico mencionado acima, e Um Caso Sugestivo de Reencarnação: Jacira & Ronaldo
+(1980), um dos melhores casos de Reencarnação: Jacira & Ronaldo (1980), um dos
+melhores casos de seu tipo nos arquivos IBPP, todos os quais foram
+meticulosamente compilados pelo IBPP arquivista (e pesquisador de campo ativo)
+Suzuko Hashizume.
+
+Hernani era um homem de bondade infinita, mas por seu encorajamento e entusiasmo
+infeccioso eu poderia nunca se envolveram em pesquisa psi em tudo. O tempo que
+passei com ele e seus colegas de 1973 a 1975 equivalia a um tutorial privado
+prolongado com um professor e amigo incomparáveis. Isso continuou através de
+correspondência até pouco antes de sua morte.
 
 ## Referências
-Guy Lyon Playfair, Journal of the Society for Psychical  
-Research, October 2003, Vol. 67.4, No. 873. Published on this website with the author’s and Editor’s permission.  
-http://www.survivalafterdeath.org/researchers/andrade.htm  
-TODO:: Add link to SGNY
+Guy Lyon Playfair, Journal of the Society for Psychica.
+Research, October 2003, Vol. 67.4, No. 873. Published on this website with the author’s and Editor’s permission.
+http://www.survivalafterdeath.org/researchers/andrade.ht.
 
-
+## Source
+[SGNY.org](//sgny.org)
+Traduzido por Veevo.org
 
 

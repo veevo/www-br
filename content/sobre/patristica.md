@@ -20,3 +20,5 @@ romanas e pelo povo em geral.
 ## Fonte
 [Centro Espirita Ismael: Santo Agostinho e o Espiritismo](https://ceismael.com.br/filosofia/santo-agostinho-e-espiritismo.htm)
 
+## Biografias Relacionadas
+[Santo Agostinho](../bio/santo-agostinho)

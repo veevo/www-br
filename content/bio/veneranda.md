@@ -2,23 +2,23 @@
 title: Veneranda
 date: 2019-02-01 19:00:00
 topics: 
-- spiritism
+- espiritismo
 - psicography
 - chico-xavier
 - nosso-lar
 - andre-luis
 ---
 
-todo: Book - Os Nosso Lar (Andre Luis)
+todo
 
-## Related Biographies
-[Andre Luis](../andre-luis)   
-[Emmanuel](../emmanuel)  
-[Aniceto](../aniceto)  
+## Fonte
+todo
+
+## Biografias Relacionadas
+[Espírito Andre Luis](../andre-luis)   
+[Espírito Emmanuel](../emmanuel)  
+[Espírito Aniceto](../aniceto)  
 [Chico Xavier](../chico-xavier)  
 
-## See Also
-[Spiritism](/spiritism)  
-
-## Source
-todo
+## Veja Também
+[Espiritismo](/espiritismo)  
