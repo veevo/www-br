@@ -1,12 +1,16 @@
 ---
-title: 
+title: Budismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- budismo
 ---
 
 ## Definição
-
+Sistema filosófico e religioso fundado por Siddharta Gautama, o Buda (563-483
+a.C.), que ensina que o homem deve renunciar ao apego à vida, aos interesses de
+sua individualidade, para alcançar um estado de bem-aventurança plena, o
+nirvana, no qual se extinguem as paixões e a busca de permanência em um mundo no
+qual tudo é transitório.
 
 ## Perguntas Relacionadas
 

@@ -7,7 +7,9 @@ topics:
 ---
 
 ## Definição
-
+Conhecimento sistematizado como campo de estudo. Observação e classificação dos
+fatos inerentes a um determinado grupo de fenômenos e formulação das leis gerais
+que o regem.
 
 ## Perguntas Relacionadas
 

@@ -6,13 +6,10 @@ topics:
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é apometria?
 Apometria - do grego apo, "além de", e metron, "medida",
 significa um conjunto de práticas visando tratamento a distância.
+
+## Perguntas Relacionadas
 
 ### No que consiste?
 É uma técnica de desdobramento dos corpos sensoriais, que utiliza a

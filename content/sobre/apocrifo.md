@@ -8,7 +8,6 @@ topics:
 ---
 
 ## Definição
-- dsfjsfdoj 
 * Diz-se de obra ou fato sem autenticidade, ou cuja autenticidade não se provou. 
 * Diz-se, entre os católicos, dos escritos de assunto sagrado não incluídos pela Igreja entre as
 escrituras autênticas e divinamente inspiradas.

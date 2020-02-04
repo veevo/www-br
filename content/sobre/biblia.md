@@ -8,7 +8,9 @@ topics:
 ---
 
 ## Definição
-
+Conjunto dos livros sagrados do Antigo e Novo Testamentos, aceitos pelas igrejas
+cristãs (parcialmente, pelos judeus) como revelação da palavra de Deus;
+Escritura, Escrituras, Sagrada Escritura.
 
 ## Perguntas Relacionadas
 

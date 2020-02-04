@@ -8,7 +8,10 @@ topics:
 ---
 
 ## Definição
-
+A Apologia de Sócrates é a obra escrita por Platão depois da morte de
+seu mestre (399 a.C.). Platão imagina Sócrates defendendo-se diante dos
+juízes que o condenaram à morte por corromper a juventude e introduzir
+divindades estrangeiras.
 
 ## Perguntas Relacionadas
 
@@ -17,10 +20,6 @@ Apologia é um discurso ou escrito laudatório que tem por fim justificar
 ou defender alguém ou alguma coisa.
 
 ### O que é a Apologia de Sócrates?
-A Apologia de Sócrates é a obra escrita por Platão depois da morte de
-seu mestre (399 a.C.). Platão imagina Sócrates defendendo-se diante dos
-juízes que o condenaram à morte por corromper a juventude e introduzir
-divindades estrangeiras.
 
 ### Como Platão estrutura a defesa de Sócrates?
 Platão estrutura a defesa de Sócrates em quatro partes: 1.ª o acusado

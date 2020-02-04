@@ -6,7 +6,7 @@ topics:
 ---
 
 ## Definição
-
+Ver: [Céu](../ceu) e [inferno](../inferno).
 
 ## Perguntas Relacionadas
 

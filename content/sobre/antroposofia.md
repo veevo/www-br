@@ -6,14 +6,11 @@ topics:
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é antroposofia?
 De antropo (homem) e sofia (ciência). Estudo do homem sob o ponto de
 vista moral. Corpo da doutrina espiritualista estabelecido pelo
 austríaco Rudolfo Steiner.
+
+## Perguntas Relacionadas
 
 ### A antroposofia é ciência?
 Sim. Segundo Rudolf Lanz, em Noções Básicas de Antroposofia, é uma

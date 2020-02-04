@@ -9,8 +9,8 @@ topics:
 ---
 
 ## Definição
-* Ser puramente espiritual que, segundo o cristianismo, o judaísmo e o
-  islamismo, serve de mensageiro entre Deus e os homens.
+Ser puramente espiritual que, segundo o cristianismo, o judaísmo e o islamismo,
+serve de mensageiro entre Deus e os homens.
 
 Segundo a Doutrina Espírita, os anjos não são seres aparte e de uma natureza
 especial. São os Espíritos da primeira ordem, isto é, os que chegaram ao estado

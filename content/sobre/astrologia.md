@@ -6,7 +6,8 @@ topics:
 ---
 
 ## Definição
-todo
+Estudo e prática de prever e revelar a influência dos astros no destino dos
+homens, nos acontecimentos terrestres e nos fenômenos atmosféricos; uranoscopia.
 
 
 ## Perguntas Relacionadas

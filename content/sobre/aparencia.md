@@ -6,8 +6,12 @@ topics:
 ---
 
 ## Definição
-todo
-
+* specto exterior (de algo ou alguém); aquilo que se mostra imediatamente; exterioridade, aspecto, vulto.
+* ext Bom aspecto; porte, vista.
+* Realidade enganosa, ficção, falso indício.
+* Característica do que é provável; hipótese, probabilidade.
+* Aquilo que percebemos como o aspecto exterior, superficial e ilusório da realidade, por oposição à percepção plena da realidade em si, que escapa à condição humana.
+* Tudo aquilo que, segundo os filósofos empiristas, em primeira instância, se manifesta por meio de sensações para os sentidos, constituindo-se em ponto de partida essencial e conteúdo fundamental para a construção posterior do conhecimento intelectual.
 
 ## Perguntas Relacionadas
 

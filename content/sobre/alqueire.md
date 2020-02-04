@@ -2,11 +2,15 @@
 title: Candeia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- evangelho
+- jesus
 ---
 
 ## Definição
-
+Alqueire – do ár. al-kail –, antiga medida de capacidade para
+secos e líquidos, variável de terra para terra. Na Europa, correspondia
+pouco mais ou menos a 13 litros; na China, entre 10 e 31 litros. No
+Brasil, medida agrária que varia de acordo com a região: 48.400m
 
 ## Perguntas Relacionadas
 
@@ -16,17 +20,11 @@ eles. Tomemos a citação de Mateus: “Não se acende uma candeia para
 colocá-la sob o alqueire; mas se a coloca sobre um candeeiro, a fim de
 que ela clareie todos aqueles que estão na casa”.
 
-### Qual o significado de candeia? E de alqueire?
+### Qual o significado de candeia?
 Candeia. Pequeno aparelho de iluminação, que se suspende por um
 prego, com recipiente de folha-de-flandres, barro ou outro material,
 abastecido com óleo, no qual se embebe uma torcida, e de emprego em
 casas pobres.
-
-Alqueire – do ár. al-kail –, antiga medida de capacidade para
-secos e líquidos, variável de terra para terra. Na Europa, correspondia
-pouco mais ou menos a 13 litros; na China, entre 10 e 31 litros. No
-Brasil, medida agrária que varia de acordo com a região:
-48.400m
 
 ### Como sintetizar a ideia de conhecimento?
 Conhecer é reproduzir em nosso pensamento a realidade. Damos o nome de

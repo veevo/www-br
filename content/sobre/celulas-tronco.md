@@ -6,7 +6,7 @@ topics:
 ---
 
 ## Definição
-
+Célula indiferenciada capaz de dar origem a outros tecidos. 
 
 ## Perguntas Relacionadas
 

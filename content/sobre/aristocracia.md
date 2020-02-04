@@ -1,5 +1,5 @@
 ---
-title: Argueiro
+title: Aristocacia
 date: 2019-01-11 13:00:00
 topics: 
 - biblia
@@ -7,7 +7,9 @@ topics:
 ---
 
 ## Definição
-
+* Sociedade politicamente organizada em que o controle estatal é privativo de uma camada social privilegiada, composta de nobres cujo monopólio do poder pode ser eletivo, quando a escolha de seus membros se faz no interior dessa mesma classe, ou hereditário, quando a sucessão política exclui todos os que dela não descendem, ficando, neste último caso, concentrado nas mãos de uma ou de várias famílias.
+* Classe social privilegiada que, por concessão ou herança de uma longa linhagem de ancestrais igualmente privilegiados, detém grande parte do prestígio e da influência política e cultural que lhe conferem seus títulos nobiliárquicos; classe nobre; nobreza.
+* Estado cujo governo é exercido por indivíduos pertencentes a essa classe social.
 
 ## Perguntas Relacionadas
 

@@ -6,13 +6,10 @@ topics:
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por boa nova?
 Boa Nova vem do grego Euangelion, em que eu = boa e angelion =
 notícia. Significa boa notícia.
+
+## Perguntas Relacionadas
 
 ### Como este termo era usado na Antiguidade?
 Para os gregos mais antigos, a boa nova indicava a "gorjeta" que era

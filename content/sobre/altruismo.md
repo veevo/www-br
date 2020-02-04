@@ -13,11 +13,6 @@ topics:
 * É a atitude moral que consiste em sacrificar o seu interesse em favor do outro
   e em especial à comunidade.
 
-## Origem
-Do francês altruisme
-
-todo
-
 ## Veja Também
 TODO
 

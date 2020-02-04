@@ -8,17 +8,14 @@ topics:
 ---
 
 ## Definição
-todo
-
-
-## Perguntas Relacionadas
-
-### O que significa Bem-Aventurança?
 Bem-Aventurança – Grande felicidade, suprema ventura, especialmente
 a que se goza no céu. Para a teologia, são as oito bênçãos
 (beatitudes) com cuja exposição deu Cristo princípio ao Sermão da
 Montanha.
 
+## Perguntas Relacionadas
+
+### O que significa Bem-Aventurança?
 A Bem-Aventurança é uma declaração de bênção com base em uma virtude ou
 na boa sorte. A fórmula se inicia com "bem-aventurado aquele..." Com
 Jesus toma a forma de um paradoxo: a bem-aventurança não é proclamada em

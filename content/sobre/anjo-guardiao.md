@@ -12,7 +12,6 @@ topics:
 indivíduos ou coletividades, sendo tudo relativo ao grau de adiantamento das
 massas como dos indivíduos. 
 
-
 ## Perguntas Relacionadas
 
 ### O que significa a palavra anjo?

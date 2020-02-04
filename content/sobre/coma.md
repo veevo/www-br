@@ -6,7 +6,11 @@ topics:
 ---
 
 ## Definição
-
+Estado de estupor profundo, caracterizado por perda total ou parcial da
+consciência, da sensibilidade e da motricidade voluntária, com manutenção das
+funções vegetativas, em menor ou maior grau, causado por doenças graves
+derivadas de processos de intoxicação, disfunções metabólicas ou de ordem
+endocrinológica, traumatismos etc.
 
 ## Perguntas Relacionadas
 

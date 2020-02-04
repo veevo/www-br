@@ -6,15 +6,12 @@ topics:
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa capacidade?
 Do latim capacitas, aptidão (física, mental e intelectual) de uma
 pessoa. P. ext. Indivíduo que possui muito conhecimento. Em filosofia,
 termo alternativo para a potencialidade das coisas e tem ligação com a
 noção de ato e potência.
+
+## Perguntas Relacionadas
 
 ### Quais são os sinônimos de capacidade?
 Aptidão, habilidade, inclinação, jeito, orientação, predisposição,

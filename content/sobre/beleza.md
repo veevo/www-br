@@ -6,9 +6,10 @@ topics:
 ---
 
 ## Definição
-todo
-
-
+* Qualidade, propriedade, natureza ou virtude do que é belo: “A virtude, a beleza, o talento, a mocidade, a força, a saúde, e principalmente a fortuna, eis o que ele não perdoava a ninguém […]” (AA1).
+* Essência daquilo que se expressa como belo.
+* Característica do ser ou daquilo que apresenta harmonia de proporções e perfeição de formas: A beleza daquela escultura extasiou-nos.
+* Caráter do ser ou da coisa que desperta admiração ou sensações agradáveis (auditivas, gustativas, olfativas, visuais etc.): Acordou triste, mas a beleza da manhã reanimou-a.
 
 ## Perguntas Relacionadas
 

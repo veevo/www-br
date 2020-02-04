@@ -7,8 +7,7 @@ topics:
 ---
 
 ## Definição
-
-
+Argueiro é um cisco. Quando cai no olho incomoda-nos sobremaneira.
 
 ## Perguntas Relacionadas
 
@@ -18,9 +17,6 @@ no teu olho? Ou como dizes a teu irmão: Deixa-me tirar-te do teu olho o
 argueiro, quando tens no teu uma trave? Hipócrita, tira primeiro a trave
 do teu olho, e então verá como hás de tirar o argueiro do olho de teu
 irmão. (MATEUS, VII-.3-5).
-
-### O que é o argueiro?
-Argueiro é um cisco. Quando cai no olho incomoda-nos sobremaneira.
 
 ### Por que vemos o mal alheio antes do próprio?
 Para julgar a nós mesmos precisaríamos nos transportar para fora de nós

@@ -9,7 +9,7 @@ topics:
 ---
 
 ## Definição
-
+Natural ou habitante do Brasil.
 
 ## Perguntas Relacionadas
 

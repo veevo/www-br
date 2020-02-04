@@ -3,12 +3,13 @@ title: Ansiedade
 date: 2019-01-11 13:00:00
 topics: 
 - ansiedade
+- psicologia
+- freud
 ---
 
 ## Definição
 Ansiedade é um intenso mal-estar físico e psíquico, acompanhado de aflição e
 agonia. Figuradamente, desejo veemente e impaciente.  
-
 
 ## Perguntas Relacionadas
 

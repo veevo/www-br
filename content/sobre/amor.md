@@ -6,16 +6,12 @@ topics:
 ---
 
 ## Definição
-
-
-
-## Perguntas Relacionadas
-
-### O que se entende por amor?
 Palavra polissêmica que nos leva a diversos significados. Entre eles,
 encontramos a seguinte definição: é uma força tendente a aproximar e a
 unir, numa relação particular, dois ou mais seres. É um sentimento que
 leva a desejar o bem de outrem ou de alguma coisa.
+
+## Perguntas Relacionadas
 
 ### O que é o ódio?
 Sentimento profundo de raiva ou rancor, que leva a desejar ou a causar o

@@ -7,7 +7,8 @@ topics:
 ---
 
 ## Definição
-
+Denominação dada a várias tendências religiosas e/ou filosóficas, surgidas na
+Europa, a partir do século XII, carregadas de misticismo e esoterismo.
 
 ## Perguntas Relacionadas
 

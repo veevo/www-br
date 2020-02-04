@@ -2,11 +2,13 @@
 title: Coação
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- violencia
+- justica
 ---
 
 ## Definição
-
+Obrigar (alguém) a fazer ou a não fazer algo, contra sua vontade, através da
+violência, ameaça ou chantagem.
 
 ## Perguntas Relacionadas
 

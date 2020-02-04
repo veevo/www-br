@@ -6,7 +6,7 @@ topics:
 ---
 
 ## Definição
-todo
+Ciência que estuda a constituição e o movimento dos astros, suas posições relativas e as leis dos seus movimentos.
 
 
 ## Perguntas Relacionadas
@@ -14,6 +14,7 @@ todo
 ### O que significa astronomia?
 Astronomia é uma ciência que estuda os astros, incluindo as galáxias, e
 procura responder às questões: de onde viemos? Estamos sós?
+
 ### Quem primeiro falou do espaço sideral?
 Leucipo, filósofo grego (séc. V a.C.), provavelmente foi o primeiro
 pensador a conceber corpos celestes separado por espaço vazio. Para ele,

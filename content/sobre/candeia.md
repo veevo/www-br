@@ -2,11 +2,15 @@
 title: Candeia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- evangelho
+- jesus
 ---
 
 ## Definição
-
+Candeia. Pequeno aparelho de iluminação, que se suspende por um
+prego, com recipiente de folha-de-flandres, barro ou outro material,
+abastecido com óleo, no qual se embebe uma torcida, e de emprego em
+casas pobres.
 
 ## Perguntas Relacionadas
 
@@ -16,12 +20,7 @@ eles. Tomemos a citação de Mateus: “Não se acende uma candeia para
 colocá-la sob o alqueire; mas se a coloca sobre um candeeiro, a fim de
 que ela clareie todos aqueles que estão na casa”.
 
-### Qual o significado de candeia? E de alqueire?
-Candeia. Pequeno aparelho de iluminação, que se suspende por um
-prego, com recipiente de folha-de-flandres, barro ou outro material,
-abastecido com óleo, no qual se embebe uma torcida, e de emprego em
-casas pobres.
-
+### Qual o significado de alqueire?
 Alqueire – do ár. al-kail –, antiga medida de capacidade para
 secos e líquidos, variável de terra para terra. Na Europa, correspondia
 pouco mais ou menos a 13 litros; na China, entre 10 e 31 litros. No
@@ -41,8 +40,7 @@ daquilo que ele deixou velado, ou seja, a simbologia de sua linguagem.
 Cristo é o grande educador da humanidade. Para educar o povo, recorreu à
 pedagogia da época: parábolas, hipérboles gráficas e alegorias.
 
-### O que se entende por reino dos céus? E o falar por parábolas? E o
-mistério?
+### O que se entende por reino dos céus? E o falar por parábolas? E o mistério?
 Reino dos céus – não é um lugar circunscrito, nem governo ou Estado;
 é governo do cada um pela obediência às leis naturais, inscritas por
 Deus em nossa consciência.

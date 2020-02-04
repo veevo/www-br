@@ -7,7 +7,8 @@ topics:
 ---
 
 ## Definição
-
+Atlântida é uma lendária ilha ou continente cuja primeira menção conhecida
+remonta a Platão em suas obras "Timeu ou a Natureza" e "Crítias ou a Atlântida".
 
 ## Perguntas Relacionadas
 

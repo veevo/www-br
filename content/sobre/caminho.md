@@ -7,14 +7,11 @@ topics:
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa caminho?
 Faixa de terreno ou local de passagem que serve de ligação ou
 comunicação terrestre entre dois ou mais lugares. P. ext. orientação
 ou direção de uma sucessão de fatos ou eventos.
+
+## Perguntas Relacionadas
 
 ### Qual a simbologia do caminho?
 Na amplidão do horizonte, vê-se uma linha tênue que ziguezagueia,

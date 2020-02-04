@@ -6,9 +6,8 @@ topics:
 ---
 
 ## Definição
-Monstruosidade caracterizada pela ausência total do encéfalo. É quase sempre acompanhada de acrania.
-
-
+Monstruosidade caracterizada pela ausência total do encéfalo. É quase sempre
+acompanhada de acrania.
 
 ## Perguntas Relacionadas
 

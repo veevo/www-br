@@ -6,16 +6,12 @@ topics:
 ---
 
 ## Definição
-
-
-
-## Perguntas Relacionadas
-
-### O que é antagonismo?
 Do grego anti, “contrário”, e agone, “luta”, significa luta de uns
 contra os outros. Pessoas e facções divergem e entram em choque pela
 defesa de seus interesses. Os antagonismos econômicos e políticos podem
 levar à guerra, quando não forem bem administrados.
+
+## Perguntas Relacionadas
 
 ### Na área médica, o que é antagonismo?
 Efeito que se observa quando uma substância, atuando sobre o organismo,

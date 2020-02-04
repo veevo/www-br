@@ -7,7 +7,10 @@ topics:
 ---
 
 ## Definição
-
+Circunstância de pensamento e de vontade que indica a orientação seletiva de
+alguém diante de um problema ou de uma situação que diga respeito a pessoas,
+objetos, instituições etc., podendo envolver uma dimensão cognitiva, afetiva ou
+comportamental.
 
 ## Perguntas Relacionadas
 
