@@ -1,11 +1,12 @@
 --
 title: Lei de Afinidade Fluídica
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei de Afinidade Fluídica.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
 - afinidade
 - fluidos
+- mediunidade
 ---
 
 Todas as manifestações espirituais são reguladas pela Lei da Afinidade Fluídica.
@@ -43,7 +44,7 @@ correntes mentais.  É conseqüência do adiantamento alcançado pelo médium e 
 espírito.
 
 ## Leis Relacionadas
-[Lei da Causa e Efeito](../cause-effect)  
+[Lei de Ação e Reação](../acao-reacao)
 [Lei de Afinidade](../afinidade)  
 
 ## Bibliografia Recomendada

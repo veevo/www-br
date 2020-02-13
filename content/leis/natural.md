@@ -1,6 +1,6 @@
 ---
 title: Lei Natural ou Divina
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Compreenda que se compreende por Lei Natural ou Divina.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
@@ -9,17 +9,34 @@ topics:
 - deus
 ---
 
+As Leis Naturais existem desde sempre: elas são tão velhas quanto o próprio
+Deus. Na Antigüidade, embora os grandes filósofos não a expressassem
+textualmente, podemos lê-las nas entrelinhas dos seus discursos. Sócrates e
+Platão falavam que o homem devia agir de acordo com a sua consciência, ou seja,
+praticar as virtudes que nada mais é do que escolher com justiça o bem e se
+apartar do mal. No campo político, Platão falava de um estado ideal, em que os
+mais sábios deviam governar por serem os mais conhecedores dessas leis da
+natureza.
+
+Refere-se tanto à lei física quanto à lei moral. Ela regula todos os
+acontecimentos no universo. São leis eternas, imutáveis, não estão sujeitas ao
+tempo, nem à circunstância, embora tenham em si o elemento do progresso.
+
+## Conhecendo a Lei Natural
+Mas como o homem faz para conhecê-la? Há dois elementos básicos: unidade e
+universalidade. A lei matemática em que dois mais dois são quatro existe em todo
+o lugar do universo. Independe de tempo e espaço.
+
 A Lei Natural ou Divina decorre da essência das coisas; é perfeita e imutável,
 como emanação da Natureza; representa como que a materialização da vontade do
 Criador Supremo — Deus. Nenhum homem promulga uma Lei Natural, pois ela existe
 independentemente de sua vontade; ele próprio é também um produto dessa lei. 
 
-Para que melhor a entendamos, veja-se:
-o vento sopra e resfria a Terra; o Sol nasce e traz calor aos seres e vegetais;
-a chuva vai e os rios se enchem, dando vida à fauna; as plantas crescem e dão
-frutos; os homens e os animais se reproduzem, cumprem sua trajetória e morrem.
-Tudo isso ocorre, sem que tenha sido escrita uma linha pelo homem, determinando
-que assim fosse.
+Para que melhor a entendamos, veja-se: o vento sopra e resfria a Terra; o Sol
+nasce e traz calor aos seres e vegetais; a chuva vai e os rios se enchem, dando
+vida à fauna; as plantas crescem e dão frutos; os homens e os animais se
+reproduzem, cumprem sua trajetória e morrem.  Tudo isso ocorre, sem que tenha
+sido escrita uma linha pelo homem, determinando que assim fosse.
 
 Tudo que existe no Universo tem sua origem nas Leis Naturais: mineral, vegetal,
 animal, seres humanos, Espíritos, são componentes harmônicos do todo, regidos

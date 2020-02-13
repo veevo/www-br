@@ -1,6 +1,6 @@
 ---
 title: Lei da Atração
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei da Atração.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas

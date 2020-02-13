@@ -1,12 +1,14 @@
 ---
 title: Lei do Mérito
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei do Mérito.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
 - merito
 - merecimento
+- paulo-de-tarso
 ---
+
 Sendo criados por Deus, na simplicidade e na ignorância, mas com destino à
 perfeição, sempre tivemos a estrada aberta à nossa frente esperando por nossa
 vontade e esforço em trilhá-la na direção da felicidade, que nos aguarda mais

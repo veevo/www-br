@@ -1,6 +1,6 @@
 ---
 title: Lei da Ação e Reação
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei de Ação e Reação, também conhecida como Lei de Causa e Efeito.
 date: 2019-01-11 13:00:00
 image: "images/contact.jpg"
 topics: 
@@ -34,9 +34,9 @@ cruel assassino numa outra vida e estaria resgatando assim sua dívida.
 [leis de Deus](/leis-divinas). Entretanto, uma pessoa pode diminuir sua dívida
 cármica através da prática do bem e da [caridade](/virtudes/caridade).
 
-## Citações de Livros
-Encontramos a lei de ação e reação (também conhecida como [lei da causa e
-efeito](../causa-efeito) extensamente documentada na [bibliografia
+## Lei de Causa e Efeito
+A Lei de ação e reação também conhecida como [lei da causa e
+efeito](../causa-efeito) e está extensamente documentada na [bibliografia
 Espírita](/livros).
 
 [J. Herculano Pires](/bio/herculano-pires), por exemplo diz:
@@ -153,8 +153,7 @@ real é quantitativo: um assassinato, que produziu um agravo à Lei de
 Deus e que deverá ser reparado. O fato qualitativo: os dois se
 modificaram ao longo do tempo.
 
-### Dê-nos um exemplo.
-
+### Exemplo
 O Espírito Hilário Silva, no capítulo 20 do livro A Vida Escreve,
 psicografada por F. C. Xavier e Waldo Vieira, retrata a história de uma
 pessoa que deveria perder o braço, mas por causa de suas boas ações,
@@ -165,12 +164,9 @@ Sim. Praticar a caridade ajuda-nos a reparar os danos que causamos à Lei
 Divina. Assim, se soubermos viver sóbrios e sem muitos agravos à Lei,
 certamente faremos uma passagem tranquila ao outro plano de vida.
 
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  
 Autor: Sérgio Biagi Gregório
-
-
 
 ## Leis Relacionadas
 [Lei da Causa e Efeito](../cause-effect)  
@@ -181,11 +177,11 @@ Autor: Sérgio Biagi Gregório
 [Carma](/sobre/carma)
 
 ## Bibliografia Recomendada
-[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
-Ação e reação, André Luiz  
-O céu e o inferno, Allan Kardec  
+* [O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+* Ação e reação, André Luiz  
+* O céu e o inferno, Allan Kardec  
 
 ## Fontes
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)  
-[O Consolador | O Espiritismo responde](http://www.oconsolador.com.br/ano8/371/oespiritismoresponde.html)
-[Q&A - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  
+* [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)  
+* [O Consolador | O Espiritismo responde](http://www.oconsolador.com.br/ano8/371/oespiritismoresponde.html)
+* [Perguntas Relacionadas: Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  

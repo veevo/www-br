@@ -1,6 +1,6 @@
 ---
-title: Lei da adoração
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+title: Lei de Adoração
+description: Conheça mais sobre a Lei de Adoração.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas

@@ -1,6 +1,6 @@
 ---
 title: Lei de Causa e Efeito
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei de Causa e Efeito, também conhecida como Lei de Ação e Reação.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
@@ -8,7 +8,7 @@ topics:
 - causa-efeito
 ---
 
-A Lei da Causa e Efeito também é conhecida como lei de Ação e Reação.
+A Lei da Causa e Efeito também é conhecida como Lei de Ação e Reação.
 
 Para saber mais sobre a Lei de Ação e Reação, [clique aqui](../acao-reacao).
 

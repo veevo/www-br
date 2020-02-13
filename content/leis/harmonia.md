@@ -1,6 +1,6 @@
 ---
-title: Esquecimento
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+title: Lei do Esquecimento
+description: Conheça mais sobre a Lei do Esquecimento.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas

@@ -1,12 +1,11 @@
 ---
 title: Lei de Sociedade
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei de Sociedade.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
 - sociedade
 ---
-
 
 A vida em sociedade é uma Lei Natural, pois, para isso, Deus concedeu ao homem
 todas as faculdades. Mesmo porque, instintivamente, os seres descobrem que
@@ -47,8 +46,12 @@ Para o Espiritismo, a sociedade existe para a elevação moral do homem, para o
 seu crescimento interior, para que aprenda a ser fraterno e indulgente, em seu
 benefício e no do todo. 
 
+## Fonte
+[CE Ismael | Lei de Sociedade](https://www.ceismael.com.br/download/apostila/apost1.htm)
+
 ## Leis Relacionadas
 [Lei Natural](../natural)  
+[Lei de Liberdade](../liberdade)  
 
 ## Expressões Relacionadas
 [Livre Arbítrio](/sobre/livre-arbitrio)  
@@ -59,6 +62,3 @@ benefício e no do todo.
 
 ## Veja Também
 [Espiritismo](/espiritismo)
-
-## Fonte
-[CE Ismael | Lei de Sociedade](https://www.ceismael.com.br/download/apostila/apost1.htm)

@@ -1,9 +1,11 @@
 ---
 title: Lei do Trabalho
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei do Trabalho.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
+- trabalho
+- lazer
 ---
 
 Já aprendemos que a Lei da Natureza, ou Lei Natural, ou Lei Divina, ou Lei de

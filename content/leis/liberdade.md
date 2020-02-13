@@ -1,6 +1,6 @@
 ---
 title: Lei de Liberdade
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei de Liberdade.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
@@ -9,9 +9,10 @@ topics:
 - acaso
 ---
 
-## Liberdade
-senso comum — faculdade de cada um agir ou decidir segundo a sua própria
-determinação, sem submeter-se à vontade alheia.
+Para compreendermos o que seja a Lei de Liberdade, precismos anteriormente
+compreender o setido da palavra Liberdade. De acordo com o dicionário, Liberdade
+representa senso comum — faculdade de cada um agir ou decidir segundo a sua
+própria determinação, sem submeter-se à vontade alheia.
 
 ## Liberdade, pensamento e ação
 Entre a vontade e o pensamento deve-se colocar a liberdade de pensar, e entre o
@@ -28,10 +29,11 @@ indivíduo é livre para pensar o que quiser, pois goza da liberdade sem limites
 nesse campo. Só responde perante deus.
 
 ## Liberdade natural
-como emanação da vontade de deus, o homem goza de liberdade natural, mas não de
-liberdade absoluta, isso porque necessita do semelhante. 
+A liberdade natural se apresenta como emanação da vontade de deus, o homem goza
+de liberdade natural, mas não de liberdade absoluta, isso porque necessita do
+semelhante. 
 
-Dizem os espíritos: "desde que haja dois homens juntos, há direitos a respeitar
+Dizem os Espíritos: "desde que haja dois homens juntos, há direitos a respeitar
 e não terão eles, portanto, liberdade absoluta. (q. 826). Quando alguém se diz
 "liberal", com ares de bondade, mas age despoticamente, na família ou nas
 ocupações da vida, é que o egoísmo e o orgulho ainda lhe são companheiros

@@ -1,6 +1,6 @@
 ---
 title: Lei de Afinidade (ou Sintonia)
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei de Afinidade (ou Sintonia).
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
@@ -88,16 +88,16 @@ vivem espíritos benfeitores que têm por objetivo nos ajudar a vencer a difíci
 jornada no corpo físico.
 
 ## Leis Relacionadas
-[Lei da Causa e Efeito](../cause-effect)  
-[Lei do Mérito](../merito)  
-[Lei Natural](../natural)  
+* [Lei da Causa e Efeito](../cause-effect)  
+* [Lei do Mérito](../merito)  
+* [Lei Natural](../natural)  
 
 ## Expressões Relacionadas
-[Casualidade](/sobre/casualidade)  
-[Carma](/sobre/carma)
+* [Casualidade](/sobre/casualidade)  
+* [Carma](/sobre/carma)
 
 ## Bibliografia Recomendada
-[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+* [O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 
 ## Fontes
 [Momento Espírita | Herança](http://www.momento.com.br/pt/ler_texto.php?id=1380)  

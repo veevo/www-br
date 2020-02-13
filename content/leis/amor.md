@@ -1,6 +1,6 @@
 ---
 title: Lei do Amor
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Conheça mais sobre a Lei do Amor.
 date: 2019-01-11 13:00:00
 topics: 
 - leis-divinas
@@ -18,7 +18,6 @@ São as antíteses para a visão materialista e instintiva do homem universo, em
 sua ignorância, vive por. O amor altruísta era a mensagem de Jesus trouxe para a
 humanidade e morreu na cruz para se certificar de que a lição nunca foi
 Esquecido. 
-
 
 ## Amor ao próximo
 é o fundamento maior para a elevação espiritual. Amar a quem nos ama é muito
