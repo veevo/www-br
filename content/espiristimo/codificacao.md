@@ -1,60 +1,63 @@
 ---
-title: The Codification
-description: The Spiritist Codification consists of 5 essential books. Read to know them.
+title: A Codificação
+description: A Codificação Espírita consiste em 5 livros essenciais. Leia para conhecê-los.
 date: "2019-01-01"
 topics:
-- spiritism
-- spiritism
+- espiritismo
 ---
 
-### Introduction 
-The Codification of Spiritism is the collection of principles and laws, 
-revealed by the [Superior Spirits](/about/superior-spirit)
-to [Allan Kardec](/bio/allan-kardec). The spiritual mentor and guide for 
-all the work was [The Spirit of Truth](/about/spirit-of-truth),
-[Jesus](/about/jesus) himself.
+### Introdução 
+A Codificação do Espiritismo é a cobrança de princípios e leis, 
+revelado pelo [EspíritoSuperior](/sobre/espírito superior)
+para [Allan Kardec](/bio/allan-kardec). O mentor espiritual e guia para 
+todo o trabalho foi [O Espírito da Verdade](/sobre/espírito de verdade),
+[Jesus] (/sobre/jesus) ele mesmo.
 
-The main 5 books are:
-[The Spirits' Book](/books/spirits-book), [The Mediums' Book](/books/mediums-book), 
-[The Gospel According to Spiritism](/books/gospel-according-spiritism),
-[Heaven and Hell](/books/heaven-and-hell), and 
-[Genesis](/books/genesis).
+Os 5 principais livros são:
+* [O Livro dos Espíritos] (/livros/spirits-book)
+* [Livro dos Médiuns](/livros/meios-livro)
+* [O Evangelho Segundo o Espiritismo](/livros/gospel-de-Espiritismo)
+* [Céu e Inferno](/livros/céu e inferno)
+* [Gênesis](/livros/gênese)
 
-### History
-If you're interested, we provide in detail how these books were organized
-[on this page](../origins).
+### História
+Se você está interessado, nós fornecemos em detalhes como esses livros foram
+organizados [nesta página](../origens).
 
-### The first published book
-When Rivail submitted this idea to the communicators they replied:-
+### O primeiro livro publicado
+Quando Rivail submeteu essa ideia aos comunicadores eles responderam:-
 
-> ‘To the book…you will give, as being our work rather than yours,
-the title of Le Livre des Espirits (The Spirits’ Book); and you will publish it, not under your own name,
-but under the pseudonym of Allan Kardec [‘Kardec’ was an old Breton name in his mother’s family].
-Keep your own name of Rivail for your own books already published.’
+> 'Para o livro... você vai dar, como sendo o nosso trabalho em vez do seu,
+o título de Le Livre des Espirits (Livro dos Espíritos); e você vai publicá-lo,
+não seu próprio nome, mas o pseudônimo de Allan Kardec ['Kardec' era um velho
+nome bretão na família de sua mãe].  Mantenha seu próprio nome de Rivail para
+seus próprios livros já publicados.
 
-### How to read the books
-All these books contain very profound and life-changing knowledge. In order to maximize your understanding,
-we recommend you to find a nice and quite place to read, far from distractions and interruptions and 
-start with [The Spirits Book](/books/allan-kardec/spirits-book), reading 2, 3 questions at a time
-and reflecting carefully on their answers.
+### Como ler os livros
+Todos esses livros contêm conhecimentos muito profundos e que mudam a vida. A
+fim de maximizar sua compreensão, recomendamos que você encontre um lugar
+agradável e bastante para ler, longe de distrações e interrupções e começar com
+[O Livro dos Espíritos](/livros/allan-kardec/spirits-book), lendo 2, 3 perguntas
+de cada vez e refletindo cuidadosamente sobre suas respostas.
 
-Then, we suggest read the beautiful [Gospel According to Spiritism](/books/allan-kardec/gospel-according-spiritism)
-which contains the Spiritist vision of [the Gospel](/gospel) along with multiple comments
-by Kardec himself, from [Superior Spirits](/about/superior-spirit) and from 
-[The Spirit of Truth](/about/spirit-of-truth), [Jesus](/about/jesus) himself.
+Em seguida, sugerimos ler o belo [Evangelho De acordo com o
+Espiritismo](/livros/allan-kardec/gospel-de-Espiritismo) que contém a visão
+espírita do [Evangelho](/evangelho) juntamente com vários comentários pelo
+próprio Kardec, de [Espíritos Superiores](/sobre/espírito superior) e de [O
+Espírito da Verdade] (/sobre/espírito de verdade), [Jesus](/sobre/jesus) ele
+mesmo.
 
-## View the books
-We provide a lot more information about these books on the links below.
+## Conheça os livros
+Fornecemos muito mais informações sobre esses livros nos links abaixo.
+* [O Livro dos Espíritos] (/livros/spirits-book)  
+* [O Livro dos Meios] (/livros/meios-livro)  
+* [Evangelho Segundo o Espiritismo] (/livros/gospel-de-Espiritismo)  
+* [Gênesis] (/livros/gênese)  
+* [Céu e Inferno] (/livros/céu e inferno)  
 
-[The Spirits Book](/books/spirits-book)  
-[The Mediums Book](/books/mediums-book)  
-[Gospel According to Spiritism](/books/gospel-according-spiritism)  
-[Genesis](/books/genesis)  
-[Heaven and Hell](/books/heaven-and-hell)  
-
-## See Also
-[Spiritism - The origin of the Codification](../origins)   
-[Spiritism - Teachings](../teachings)  
-[Spiritism - FAQ](../faq)  
-[Spiritism - Science, Philosophy or Religion?](../science-philosophy-religion)  
-[Learn Spiritism](../learn)  
+## Veja Também
+[Espiritismo - A origem da Codificação](../origens)   
+[Espiritismo - Ensinamentos](../ensinamentos)  
+[Espiritismo - FAQ](../faq)  
+[Espiritismo - Ciência, Filosofia ou Religião?](../ciência-filosofia-religião)  
+[Aprenda Espiritismo](../aprender)  

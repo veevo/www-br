@@ -1,20 +1,20 @@
 ---
-title: Spiritism for Kids
-description: Know how important it is to foster Spiritistm on children and get to know material, practices and procedures.
+title: Espiritismo para Crianças
+description: Saiba como é importante fomentar o Espiritismo nas crianças e conhecer material, práticas e procedimentos.
 date: "2018-11-30"
 image: "images/contact.jpg"
 topics:
-- spiritism
-- fluidic-therapy
-- spiritist-center
+- espiritismo
+- centro-espirita
 ---
 
-Many Spiritist centers offer a study time for children to attend while their
-parents are attending a public meeting. In this way, the center helps the
-parents to expose children to the basic precepts and teachings of Spiritism, in
-a manner that is accessible to them. They're given the seeds of a knowledge that
-will help them to interact in a positive way with the world around them.
+Muitos centros espíritas oferecem um tempo de estudo para as crianças
+participarem enquanto seus os pais estão participando de uma reunião pública.
+Desta forma, o centro ajuda o pais para expor filhos aos preceitos básicos e
+ensinamentos do Espiritismo, em uma maneira acessível a eles. Eles recebem as
+sementes de um conhecimento que irá ajudá-los a interagir de forma positiva com
+o mundo ao seu redor.
 
-## Fluidic Therapy
-In the end (and during) the studies, everyone (including children), is invited
-to also participate in the fluidic therapy.
+## Terapia Fluida
+No final (e durante) os estudos, todos (incluindo crianças), são convidados
+para também participar da terapia fluida.

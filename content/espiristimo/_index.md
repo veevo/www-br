@@ -1,57 +1,52 @@
 ---
-title: Spiritism
-description: Learn more about Spiritism. A Consoler to the humankind.
+title: Espiritismo
+description: Aprenda o que é o Espiritismo, o Consolador da humanidade.
 date: "2019-01-01"
 image: "images/masonary-post/post-2.jpg"
 layout: list-simple
 topics:
-- spiritism
+- espiritismo
 ---
 
-Welcome to our special section about Spiritism! On this section we hope to teach
-you a little more about what Spiritism is, its foundations, contributions and
-how it can help you being a better, happier person.
+Bem-vindo à nossa seção sobre Espiritismo! Procuraremos ensinar um pouco mais
+sobre o Espiritismo, seus fundamentos, contribuições e como ele pode ajudá-lo a
+ser uma pessoa melhor e mais feliz.
 
-## Starting with Spiritism 
-Want to start right away? Read our [introduction to Spiritism](about), the
-[FAQ](faq) or jump right into the [Spiritist Codification](codification), the
-essance of the teachings of Spiritism.
+## Iniciando com o Espiritismo
+Deseja começar imediatamente? Leia nossa [Introdução ao Espiritismo](../intro),
+nossa [FAQ](../faq) ou saiba mais sobre a [Codificação Espírita](../codificação), a
+essência dos ensinamentos do Espiritismo.
 
-#### Prefer a study guide?
-Sure! Check our [Guide to Study Spiritism](learn) to get started.
+#### Prefere um guia de estudo?
+Certo! Consulte o nosso [Guia para estudar o Espiritismo](../guia) para começar.
 
-## Why Spiritism?
-Maybe you're asking yourself, why Spiritism?
+## Por que Espiritismo?
+Talvez você esteja se perguntando, por que o Espiritismo?
 
-Spiritism is probably the best tool available to _[help you know
-thyself](/about/know-thyself)_.  That very (if not the most important)
-commitment [we chose to realize in this
-incarnation](/spiritism/reincarnation/planning) is the key to understanding [why
-we suffer](/articles/why-we-suffer), understanding more about our
-[lives](/about/life), [death](/about/death), [virtues](/virtues),
-[moral](/about/moral), our [vices](/vices) and more, much more.
+Espiritismo é hoje a melhor ferramenta disponível para [ajudá-lo com seu
+auto-conhecimento](/sobre/conhece-a-ti-mesmo). É a chave para entender [por que
+sofremos] (/articles/por que sofremos), entendendo mais sobre nossos
+[vidas] (/sobre/vida), [morte] (/sobre/morte), [virtudes] (/virtudes),
+[moral] (/sobre/moral), nossos [vícios] (/vícios) e mais, muito mais.
 
-## How to reach out to Spiritists?
-Looking to meet other Spiritists? Spiritists usually gather on [Spiritist
-Centers](/spiritism/centers): places dedicated for studying, practicing and
-collecting the spiritual blessings provided in the house.  On [this
-section](centers) you'll also learn about [Spiritist Councils](/councils),
-bodies that orient, guide and foster the Spiritist doctrine around the world.
+## Como chegar aos espíritas?
+Procurando conhecer outros espíritas? Os espíritas geralmente se reúnem em
+[Centros Espíritas] (/espiritismo/centros-espiritas), locais dedicados ao estudo
+e prática do Espiritismo.
 
-## Getting Help
-Need help? Get in touch via the [Contact Page](/help/contact-us).
+## Obtendo Ajuda
+Precisando de ajuda? Entre em contato conosco através da [Página de contato]
+(/help/contact-us).
 
-## Other Educational Resources
-Want to learn more or looking for educational material?
-We're glad to help.  We have compiled sections with material for
-[adults](learn), [teenagers](for-teens), [kids](for-kids) and even
-[babies](for-babies)!
+## Outros Recursos
+Deseja aprender mais ou acessar outro material? 
 
-We also have an extensive [Books](/books) section where we provide only
-Spiritist material.  Feel free to also know more about [important
-personalities](/bio) the [history of Spiritism](history).
+Também temos uma seção extensa [Livros] (/livros), onde fornecemos apenas
+Material espírita. Sinta-se à vontade para também saber mais sobre [importantes
+personalidades](/bio) a [história do Espiritismo](../historia).
 
-## Advanced Topics
-Want to learn more, more in-deph information?  Check the [Advanced
-section](advanced) and [Mediumship Section](mediumship) for more material.
+## Tópicos avançados
+Deseja obter informações mais detalhadas? Verifique as seções [Tópicos
+Avançados](../avançado) e [Mediunidade] (mediunidade) para obter mais
+informações.
 

@@ -1,30 +1,23 @@
 ---
-title: Mediumship Sessions
-description: Spiritist Centers also realize work on the spiritual side on meetings called Mediumship Sessions.
+title: Reuniões Mediúnicas
+description: Centros Espíritas também realizam trabalhos no lado espiritual em reuniões chamadas Sessões de Médioporte.
 date: "2019-01-01"
 topics:
-- spiritist-centers
+- centro-espirita
 ---
 
-Mediumship Sessions are meetings that are not open to the public and are held
-with a consistent group of disciplined [mediums](/about/medium) who are
-knowledgeable in Spiritism and who have been prepared to work together, along
-with at least one spirit mentor who also works consistently with the group.
+Reuniões Mediúnicas são reuniões não abertas ao público e são realizadas com um
+grupo consistente de [médiuns](/sobre/meio) que são conhecedor no Espiritismo e
+que foram preparados para trabalhar juntos, ao longo com pelo menos um mentor
+espiritual que também trabalha consistentemente com o grupo.
 
-Such meetings may be held for different objectives. However, they are always of
-a serious nature, with the general goal of fraternal, spiritual assistance.
+Tais reuniões podem ser realizadas para diferentes objetivos. No entanto, eles
+são sempre de uma natureza séria, com o objetivo geral da assistência fraternal
+e espiritual.
 
-They typically offer counseling, instruction, and friendly support to suffering
-spirits who come to communicate, some of whom are brought to the meeting by
-higher spirits.  In some cases, help is offered to spirits who are involved in a
-negative and harmful relationship with an incarnate or another disincarnate
-spirit who is seeking help at the Spiritist center. 
-
-## See Also
-[Public Meetings](../public-meetings)  
-[Fluidic Therapy](../fluidic-therapy)  
-[Children's and Youth Studies](../children-youth-studies)  
-[Class and Study Groups](../study-groups)  
-[Fraternal Assistance](../fraternal-assistance)  
-[Community Outreach](../community-outreach) 
-
+Eles normalmente oferecem aconselhamento, instrução e apoio amigável ao
+sofrimento espíritos que vêm para se comunicar, alguns dos quais são levados
+para a reunião por espíritos mais altos. Em alguns casos, a ajuda é oferecida
+aos espíritos que estão envolvidos em um relação negativa e prejudicial com um
+encarnado ou outro desencarnado espírito que está procurando ajuda no centro
+espírita. 

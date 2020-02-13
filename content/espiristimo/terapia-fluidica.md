@@ -1,28 +1,28 @@
 ---
-title: Fluidic Therapy
-description: Learn what Fluidic Therapy is and how it can help you revitalize your energies and your life.
+title: Terapia Fluídica
+description: Saiba o que é a terapia fluídica e como ela pode ajudá-lo a revitalizar suas energias e sua vida.
 date: "2019-01-01"
 topics:
-- spiritist-centers
+- espiritismo
+- centro-espirita
 ---
 
-Fluid Therapy is a practice of magnetization that involves the transmission, or
-donation of positive, restorative energies/fluids that help to revitalize and
-re-balance those of the patient. Normally, it refers to the utilization of a
-technique involving “hand passes” as well as magnetized water.   At the
-Spiritist center, you may also hear this referred to  as "passes", “spiritual
-healing” or “bioenergetic therapy”. 
+Fluidoterapia é uma prática de magnetização que envolve a transmissão, ou doação
+de energias/fluidos positivos e restauradores que ajudam a revitalizar e
+reequilibrar as do paciente. Normalmente, refere-se à utilização de técnica
+envolvendo "passes manuais", bem como água magnetizada. 
 
-You can read more about Fluidic Therapy by reading the section titled "Intro to
-Fluidic Therapy", found in the web section for the scientific aspect of
-Spiritism. 
+No Centro Espírita, você também pode ouvir isso referido como "passes", 
+"cura espiritual" ou "terapia bioenergética". 
 
+Você pode ler mais sobre a terapia fluídica na seção "Introdução à Terapia
+fluídica", encontrado na seção web para o aspecto científico de Espiritismo. 
 
-## See Also
-[Public Meetings](../public-meetings)  
-[Children's and Youth Studies](../children-youth-studies)  
-[Class and Study Groups](../study-groups)  
-[Mediumship Sessions](../mediumship-sessions)  
-[Fraternal Assistance](../fraternal-assistance)  
-[Community Outreach](../community-outreach) 
+## Veja Também
+[Reuniões Públicas](../reunioes-publicas)  
+[Estudos para Crianças e Adolescentes](../criancas-e-jovens)  
+[Grupos de Estudo](../grupos-de-estudo)  
+[Reuniões Mediúnicas](../reunioes-mediunicas)  
+[Assitência Fraterna](../assistencia-fraterna)  
+[Trabalhos Comunitários](../trabalhos-comunitarios)
 

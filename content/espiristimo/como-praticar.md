@@ -1,67 +1,69 @@
 ---
-title: Spiritism - How to Practice
-description: Learn how to practice Spiritism.
+title: Espiritismo - Como Praticar
+description: Aprenda a praticar o Espiritismo.
 date: "2019-01-01"
 topics:
-- spiritism
-- mediumship  
+- espiritismo
+- mediunidade
+- ciencia
+- filosofia
+- religiao
 ---
 
-Spiritism can and should be [studied](../how-to-study), analyzed and put into
-practice in all fundamental aspects of life, such as: [science](../science),
-[philosophy](../philosophy), [religion](../religion), [ethics](/about/ethics),
-[morality](/about/moral), [virtues](/virtues), education and social life.
+O Espiritismo pode e deve ser [estudado](.. /como estudar), analisou e colocou em
+prática em todos os aspectos fundamentais da vida, tais como: [ciência](.. /ciência),
+[filosofia](../filosofia), [religião](.. /religião), [ética](/sobre/ética),
+[moralidade] (/sobre/moral), [virtudes](/virtudes), educação e vida social.
 
-All practical activities that happen on [Spiritist Centers](../centers) such as
-[mediumship](../mediumship), [fraternal
-assistance](../centers/fraternal-assistance) are free of any charge, which
-follows the [Gospel](/gospel) principle that we must _"give for free what we
-receive for free."_
+Todas as atividades práticas que acontecem nos [Centros Espíritas](.. /centros) como
+[mediunidade](../mediunidade), [fraternal
+assistência](.. /centros/assistência fraternal) são gratuitos, que
+segue o princípio [Evangelho](/evangelho) que devemos "dar de graça o que
+receber de graça".
 
-Spiritist institurions don't charge for any of the work that one is expected to
-be there.
+Casas espíritas não cobram por qualquer um dos trabalhos que se espera
+estar lá.
 
-## Practicing Spiritism
-Spiritism is practiced without rites or rituals, adhering to the Christian
-principle that [God](/about/god) should be adored in spirit and truth.
+## Praticando Espiritismo
+O Espiritismo é praticado sem ritos ou rituais, aderindo ao cristão princípio
+que [Deus](/sobre/deus) deve ser adorado em espírito e verdade.
 
-There is no ministry within Spiritism, neither does it adopt or use in its
-meetings or in its practices any of the following: vestments, alcoholic
-beverages, incense, tobacco, altars, banners, candles, processions, talismans,
-amulets, sacraments, the making of promises and the paying of penances,
-horoscopes, fortune telling with cards or sea shells, pyramids, crystals, or any
-other form of cultism.
+Não há ministério dentro do Espiritismo, nem adota ou usa em sua reuniões ou em
+suas práticas qualquer uma das seguintes: vestes, alcoólatra bebidas, incenso,
+tabaco, altares, faixas, velas, procissões, talismãs, amuletos, sacramentos, a
+realização de promessas e o pagamento de penitências, horóscopos, adivinhação de
+fortuna com cartas ou conchas do mar, pirâmides, cristais, ou qualquer outra
+forma de cultismo.
 
-Spiritism does not impose its principles. It invites all those who are
-interested in exploring its teachings to submit them to the test of reason
-before accepting them.
+O Espiritismo não impõe seus princípios. Ele convida todos aqueles que são
+interessado em explorar seus ensinamentos para submetê-los ao teste da razão
+antes de aceitá-los.
 
+## Centros Espíritas
+O lugar onde os espíritas se reúnem são referidos como [espírita
+Centros](Centro Espírita).  Lá, espíritas colaboram uns com os outros e
+com os [guias espirituais](/sobre/guia espiritual) da casa realizando
+atividades como estudar, praticar, orar e promover o Espiritismo. 
 
-## Spiritist Centers
-The place where Spiritists gather are referred to as [Spiritist
-Centers](Spiritist Center).  There, spiritists collaborate with one another and
-with the [spiritual guides](/about/spiritual-guide) of the house performing
-activities such as studying, practicing, praying and promoting Spiritism. 
+Para saber mais sobre [Centros Espíritas, clique aqui](Centro Espírita).
 
-To learn more about [Spiritist Centers, please click here](Spiritist Center).
+## Mediunidade
+[Mediunidade](../mediunidade), é o nome do corpo docente que facilita o
+comunicação entre [espíritos](/sobre/espírito) e homem. É um presente que
+qualquer um pode ter, independentemente do sistema de crenças que eles podem
+escolher seguir. 
 
-## Mediumship
-[Mediumship](../mediumship), is the name of the faculty which facilitates the
-communication between [spirits](/about/spirit) and man. It is a gift anyone can
-have, regardless of the belief system they may choose to follow. 
-
-Spiritist mediumship is only that which is practiced based upon the principles
-of Spiritism and within [Christian morality](/gospel). The practice of
-mediumship without the [moral](/about/moral) is dangerous and should be in all
-cases avoided.
+A medirismo espírita é apenas aquela que é praticada com base nos princípios do
+Espiritismo e dentro [da moralidade cristã](/gospel). A prática de mediunidade
+sem a [moral](/sobre/moral) é perigoso e deve estar em todos casos evitados.
 
 To [learn more about Mediumship, please click here](../mediumship).
 
-## See Also
-[Learn Spiritism](../learn)   
-[Spiritism - FAQ](../faq)  
-[What is Spiritism](../about)  
-[Spiritism - How to Study](../how-to-study)  
-[Spiritism - Science, Philosophy and Religion](../science-philosophy-religion)  
-[Spiritist Centers](../centers)  
+## Veja Também
+[Conheça o Espiritismo](../aprender)   
+[Espiritismo - FAQ](../faq)  
+[O que é Espiritismo](../sobre)  
+[Espiritismo - Como Estudar](../como estudar)  
+[Espiritismo - Ciência, Filosofia e Religião](../ciência-filosofia-religião)  
+[Centros Espíritas](../centros)  
 

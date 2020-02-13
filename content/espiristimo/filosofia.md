@@ -1,54 +1,45 @@
 ---
-title: The Philosophyc Aspect of Spiritism
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+title: O Aspecto Filosófico do Espiritismo
+description: Conheça o aspecto filosófico que o Espiritismo nos apresenta.
 date: "2019-01-01"
 topics
 - philosophy
 ---
 
-Trough philosophical thought and exploration, man seeks to answer the great
-questions of life:  Who are we?  Where do we come from?  What is our Purpose?
-Where are we going?  Spiritism addresses all those questions in its rational and
-uplifting philosophy, a philosophy grounded in scientific study and logical
-thought
+Cocho pensamento filosófico e exploração, o homem procura responder ao grande
+perguntas da vida: Quem somos nós?  De onde viemos?  Qual é o nosso propósito?
+Para onde vamos?  Espiritismo aborda todas essas questões em seu racional e
+filosofia edificante, uma filosofia fundamentada em estudo científico e lógica
+Pensei
 
-Spiritist philosophy not only satisfies our insatiable desire for the answers to
-these questions, but also arms us with wisdom for defense against life's
-struggles and with a moral framework for the achievement of progress and the
-attainment of true happiness. 
+Filosofia espírita não só satisfaz nosso desejo insaciável pelas respostas para
+essas perguntas, mas também nos arma com sabedoria para a defesa contra a vida
+lutas e com um quadro moral para a realização do progresso e do realização da
+verdadeira felicidade. 
 
-Spiritism focuses on studying our [moral behaviour](/about/moral) the [moral
-laws](/about/moral-laws) and the outcomes of each our our acts in our lifes and
-thus on the Universe.
+O Espiritismo se concentra em estudar nosso [comportamento moral](/sobre/moral)
+o [moral] leis](/sobre/leis morais) e os resultados de cada um de nossos atos em
+nossas vidas e assim no Universo.
 
-Spiritists also practice profound, [reflexive studies](/about/reflexive-study)
-of [The Gospel of Jesus](/gospel), the [Spiritist Codification](/spiritism) and
-from instructions and readings provided by the [Superior
-Spirits](/about/superior-spirits).
+Espíritas também praticam estudos profundos, [reflexivos](/sobre/estudo
+reflexivo) de [O Evangelho de Jesus](/evangelho), a [Codificação
+Espírita](/Espiritismo) e a partir de instruções e leituras fornecidas pelo
+[Superior Espíritos](/sobre/espíritos superiores).
 
-[Allan Kardec](/bio/allan-kardec) who codified the Spiritist Doctrine asked
-profound phylosophycal questions to the [mentors of
-humankind](/about/superior-spirits), all documented on the [The Spirits'
-Book](/books/spirits-book).
+[Allan Kardec] (/bio/allan-kardec) que codificaram a Doutrina Espírita pediu
+perguntas filosofilalógicas profundas para os [mentores de
+humanidade](/sobre/espíritos superiores), todos documentados no [Os Espíritos'
+Livro](/livros/spirits-book).
 
-That book also provides us valuable information regarding the relationship
-between the [spiritual world](/about/spiritual-world) and the [physical
-world](/about/material-world).  
+Esse livro também nos fornece informações valiosas sobre a relação entre o
+[mundo espiritual](/sobre/mundo espiritual) e o [físico]
+mundo](/sobre/material-mundo).  
 
-How [communication](/spiritism/mediumship/communication) between
-[incarnated](/about/incarnated) and [discarnated](/about/discarnate) beings
-happen, proofs of the existence of [God](/about/god), information about the
-constant and infinite progress of the intelligent principle, through the world
-throughout multiple bodies.
+Como [comunicação](/espiritismo/medietismo/comunicação) entre [encarnado]
+(/sobre/encarnado) e seres [descarnados](/sobre/descarnado) acontecer, provas da
+existência de [Deus](/sobre/deus), informações sobre o progresso constante e
+infinito do princípio inteligente, através do mundo através de múltiplos corpos.
 
-Spiritism is a Philosophical Doctrine, but it has religious consequences, as
-does every spiritual philosophy, because it touches unavoidably on the basis of
-all religions: God, the soul and the future life.
-
-## On this Section
-TODO :: Add links to other topics
-
-
-## Other Topics
-* Science and Spiritism
-* Religion and Spiritism
+Espiritismo é uma Doutrina Filosófica, mas tem consequências religiosas, como
+faz cada filosofia espiritual, porque toca inevitavelmente com base em todas as
+religiões: Deus, a alma e a vida futura.

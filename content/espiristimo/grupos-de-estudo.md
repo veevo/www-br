@@ -1,25 +1,27 @@
 ---
-title: Classes and Study Groups in Spiritist Centers
-description: Learn how Spiritist Centers organize, promote and contribute to spiritual education and to self-knowledge.
+title: Classes e Grupos de Estudo em Centros Espíritas
+description: Saiba como os Centros Espíritas organizam, promovem e contribuem para a educação espiritual e para o autoconhecimento.
 date: "2019-01-01"
 topics:
-- spiritist-centers
-- spiritism
+- espiritismo
+- centro-espirita
 ---
 
-Spiritist Centers offer public classes open to everyone as well as study groups.
+Centros Espíritas oferecem aulas públicas abertas a todos, bem como grupos de
+estudo.
 
-Spiritist centers offer weekly classes or study groups. The duration of
-such studies can be anywhere from a few weeks to a few years.  The studies are
-centered around a particular book or theme.  Likewise, many centers also offer a
-class that teaches the basic principles of Spiritism to newcomers.  
+Centros espíritas oferecem aulas semanais ou grupos de estudo. A duração de tais
+estudos podem ser de algumas semanas a alguns anos.  Os estudos são centrado em
+torno de um livro ou tema em particular.  Da mesma forma, muitos centros também
+oferecem um classe que ensina os princípios básicos do Espiritismo aos
+recém-chegados.  
 
-## See Also
-[Public Meetings](../public-meetings)  
-[Fluidic Therapy](../fluidic-therapy)  
-[Children's and Youth Studies](../children-youth-studies)  
-[Class and Study Groups](../study-groups)  
-[Mediumship Sessions](../mediumship-sessions)  
-[Fraternal Assistance](../fraternal-assistance)  
-[Community Outreach](../community-outreach) 
+## Veja Também
+[Reuniões Públicas](../reuniões públicas)  
+[Terapia Fluidica](../terapia fluida)  
+[Estudos infantis e juvenis](../crianças-jovens-estudos)  
+[Grupos de Classe e Estudo](../grupos de estudo)  
+[Sessões de Medietinismo](../sessões de medietinidade)  
+[Assistência Fraternal](../assistência fraternal)  
+[Divulgação da Comunidade](../comunidade-divulgação) 
 

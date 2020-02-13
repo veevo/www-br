@@ -1,146 +1,142 @@
 ---
-title: Spiritism - The origin of the Codification
-description: Want to know more about the origins of Spiritism? Read this to understand.
+title: Espiritismo - A origem da Codificação
+description: Quer saber mais sobre as origens do Espiritismo? Leia isso para entender.
 date: "2019-01-01"
 topics:
-- spiritism
+- espiritismo
 - turning tables
 ---
 
-On this post let's learn the origins of Spiritism.
+Neste post vamos aprender as origens do Espiritismo.
 
-### The Turning Tables
-By 1848, when the [mediumship](../mediumship) of the [Fox
-Sisters](/bio/fox-sisters) was creating such a stir in America, Rivail (later
-known as [Allan Kardec](/bio/allan-kardec)) was already a well known and highly
-respected educator in the French society.
+### As mesas giratórias
+Em 1848, quando a [mediunidade](.. /mediunidade) do [Fox
+Irmãs](/bio/fox-sisters) estava criando tal agitação na América, Rivail (mais tarde
+conhecido como [Allan Kardec](/bio/allan-kardec)) já era um conhecido e altamente
+respeitado educador na sociedade francesa.
 
-In 1854, Mr Fortier, a friend with a shared interest in the phenomena of
-mesmerism told Rivail of the [table-turning](/about/turning-tables) craze that
-had, by that time, reached France.  Rivail’s response was typical of the initial
-reaction of many other successful 19th century academics who would later risk
-their reputations by publicly endorsing [mediumship](../mediumship).  He
-replied:
+Em 1854, o Sr. Fortier, um amigo com um interesse compartilhado nos fenômenos de
+mesmerismo disse rivail da mania [de virar mesa](/sobre/virar-mesas) que tinha,
+por esse tempo, chegou à França. A resposta de Rivail foi típica da inicial
+reação de muitos outros acadêmicos bem sucedidos do século XIX que mais tarde
+arriscariam suas reputações endossando publicamente [mediunidade](..
+/mediunidade). Hge Respondeu:
 
-> I will believe it when I see it and when it has been proved to me that a table
-> has a brain to think 
-and nerves to feel and that it can become a sleep-walker.  Until then, allow me
-to see nothing in this but a fable told to provoke sleep.
+> Eu vou acreditar quando eu vê-lo e quando foi provado para mim que uma mesa
+> tem um cérebro para pensar e nervos para sentir e que pode se tornar um
+> dormista. Até lá, permita-me para não ver nada nisso, mas uma fábula disse
+> para provocar o sono.
 
-He would later recall that Fortier told him how 
+Mais tarde, ele se lembraria que Fortier lhe disse como 
 
-> …not only is a table made to tilt, magnetising it, but it can also be made to
-> speak. 
-Ask it a question, and it replies.
+> ... não só é uma mesa feita para inclinar, magnetizando-a, mas também pode ser feita para
+> falar. Faça uma pergunta, e ela responde.
 
-Like many others in America and England, Rivail assumed that
-[table-turning](/about/turning-tables) was a _purely material effect_ and it was
-not until the following year that he allowed himself to be persuaded to attend a
-table-turning session in the home of one of Fortier’s mesmeric subjects, a Mrs
-Roger. 
+Como muitos outros na América e Inglaterra, Rivail assumiu que [virada de mesa]
+(/sobre/mesas giratórias) era um _purely material effect_ e era não até o ano
+seguinte que ele permitiu-se ser persuadido a participar de um sessão de virada
+de mesa na casa de um dos assuntos mesméricos de Fortier, uma Sra.  Roger. 
 
-It was there that he first witnessed the phenomenon of tables which ‘jumped and
-ran under conditions that precluded doubt’ and some ‘very imperfect attempts at
-mediumistic writing on a slate’.  But this did no more than arouse Rivail’s
-natural curiosity and cause him to make a mental note to investigate the matter
-further.
+Foi lá que ele testemunhou pela primeira vez o fenômeno das tabelas que 'saltou
+e correu condições que impediam a dúvida e algumas tentativas muito imperfeitas
+de escrita média em uma lousa'. Mas isso não fez mais do que despertar rivail
+curiosidade natural e fazê-lo fazer uma nota mental para investigar o assunto
+Mais.
 
-He wrote:
+Ele escreveu:
 
-> My ideas were far from being modified, but I saw in those phenomena an effect
-> that must have had a cause.
-I glimpsed beneath the apparent frivolities and entertainment associated with
-these phenomena something serious, perhaps the revelation of a new law, which I
-promised myself I would explore.
+> Minhas ideias estavam longe de serem modificadas, mas eu vi nesses fenômenos um efeito
+> que deve ter tido uma causa.
+Eu vislumbrei as frivolidades aparentes e entretenimento associados com
+esses fenômenos algo sério, talvez a revelação de uma nova lei, que eu
+prometeu a mim mesmo que eu exploraria.
 
-### The first seances
-Rivail was then introduced to a Mr Baudin who held weekly seances at his home.
-Baudin’s two daughters (who, by all accounts, were rather frivolous and
-empty-headed) were in the habit of obtaining communications by use of
-table-tipping.16 Normally the results of their experiments were ample
-confirmation of the golden rule ‘like attracts like’, but whenever Rivail was
-present, the nature of the communications changed completely.  The usual stream
-of banalities was replaced by philosophy of a ‘very grave and serious character’
-and Rivail adopted the regular practice of arriving at every meeting armed with
-a list of penetrating questions for the new communicators.
+### As primeiras sessões
+Rivail foi então apresentado a um Sr. Baudin que tinha sessões semanais em sua casa.
+As duas filhas de Baudin (que, ao que tudo indica, eram bastante frívolas e
+de cabeça vazia) tinham o hábito de obter comunicações por uso de
+mesa-tombamento.16 Normalmente os resultados de seus experimentos foram amplos
+confirmação da regra de ouro 'como atrai como', mas sempre que Rivail era
+presente, a natureza das comunicações mudou completamente. O fluxo usual
+de banalidades foi substituído pela filosofia de um "caráter muito grave e sério"
+e Rivail adotou a prática regular de chegar a cada reunião armada com
+uma lista de perguntas penetrantes para os novos comunicadores.
 
-Although English accounts of events during this period vary greatly, it is
-apparent that, at some point, the planchette medium Celina Japhet also became
-involved in providing answers to his questions.
+Embora as contas em inglês de eventos durante este período variem muito, é
+aparente que, em algum momento, o médium planchette Celina Japhet também se tornou
+envolvido em fornecer respostas para suas perguntas.
 
-These sessions provided the basis of Spiritist theory by use of table-tipping,
-raps and planchette writing.  However, when a group of other investigators who
-had collected over 50 notebooks full of communications asked Rivail to arrange
-them into some sort of order he initially refused.
+Estas sessões forneceram a base da teoria espírita usando o tombamento de mesa,
+raps e escrita planchette. No entanto, quando um grupo de outros investigadores
+que tinha coletado mais de 50 cadernos cheios de comunicações pediu rivail para
+organizar eles em algum tipo de ordem que ele inicialmente recusou.
 
-Whether or not this was because he was not yet sufficiently enthused about the
-subject to absorb himself in such an arduous task is any body’s guess, but he
-eventually changed his mind.
+Se isso foi ou não porque ele ainda não estava suficientemente entusiasmado com
+o sujeito a absorver-se em uma tarefa tão árdua é o palpite de qualquer corpo,
+mas ele eventualmente mudou de ideia.
 
-### Invisible Intelligences
-After two years of scrutinising the communications he remarked to his wife:
+### Inteligências Invisíveis
+Depois de dois anos examinando as comunicações, ele comentou com sua esposa:
 
-> My conversations with the invisible intelligences have completely
-> revolutionised my ideas and convictions.
-The instructions thus transmitted constitute an entirely new theory of human
-life, duty, and destiny, that appears to me to be perfectly rational and
-coherent, admirably lucid and consoling, and intensely interesting.  I have a
-great mind to publish these conversations in a book; for it seems to me that
-what interests me so deeply might very likely prove interesting to others.
+> Minhas conversas com as inteligências invisíveis têm completamente
+revolucionou minhas ideias e convicções. As instruções, portanto, transmitidas
+constituem uma teoria inteiramente nova do ser humano vida, dever e destino, que
+me parece ser perfeitamente racional e coerente, admirável lúcido e consolador,
+e intensamente interessante. Eu tenho um grande mente para publicar essas
+conversas em um livro; pois me parece que o que me interessa tão profundamente
+pode muito provavelmente ser interessante para os outros.
 
-When Rivail submitted this idea to the communicators they replied:
+Quando Rivail submeteu essa ideia aos comunicadores eles responderam:
 
-> To the book…you will give, as being our work rather than yours, the title of
-> Le Livre des Espirits (The Spirits’ Book);
-and you will publish it, not under your own name, but under the pseudonym of
-Allan Kardec [‘Kardec’ was an old Breton name in his mother’s family].  Keep
-your own name of Rivail for your own books already published.’ 
+> Para o livro... você vai dar, como sendo o nosso trabalho em vez do seu, o
+> título de Le Livre des Espirits (Livro dos Espíritos);
+e você vai publicá-lo, não seu próprio nome, mas o pseudônimo de Allan Kardec
+['Kardec' era um velho nome bretão na família de sua mãe]. Manter seu próprio
+nome de Rivail para seus próprios livros já publicados. 
 
-Rivail then took on the task of editing the fifty notebooks, classifying the
-different types of communication according to their character and the inner
-consistency of their arguments.
+Rivail, então, assumiu a tarefa de editar os cinquenta cadernos, classificando o
+diferentes tipos de comunicação de acordo com seu caráter e o interior
+consistência de seus argumentos.
 
-To these he added further communications from Japhet and then, still not being
-satisfied that the material was sufficiently verified, submitted his questions
-to a number of other mediums. 
+A estes, ele adicionou mais comunicações de Japhet e, em seguida, ainda não sendo
+satisfeito que o material foi suficientemente verificado, apresentou suas perguntas
+para uma série de outros meios. 
 
-### The Mediumistic Phenomena
-Throughout, he used what he called the principle of ‘concordance’ or
-‘conformity’ by which he meant that he accepted as most likely to be true, the
-answers that could not only ‘resolve all the difficulties of the question’, but
-were also consistent with answers from other, independent, sources.
+### Os Fenômenos Médios
+Ao longo de tudo, ele usou o que ele chamou de princípio de "concordância" ou
+'conformidade' pelo qual ele quis dizer que ele aceitou como mais provável ser verdade, o
+respostas que poderiam não apenas "resolver todas as dificuldades da pergunta", mas
+também foram consistentes com respostas de outras fontes independentes.
 
-He would write many years later of his early attempts to explain [mediumistic
-phenomena](../mediumship) and make sense of contradictory statements about
-spirit life by spirits:
+Ele escreveria muitos anos depois de suas primeiras tentativas de explicar [mediumistic
+fenômenos](.. /mediunidade) e fazer sentido de declarações contraditórias sobre
+espírito vida por espíritos:
 
-> ‘I tried to identify the causes of the phenomena by linking the facts
-> logically, 
-and I did not accept an explanation as valid unless it could resolve all the
-difficulties of the question.  This was the way I had always, from the age of
-fifteen or sixteen, proceeded in my investigations… One of my first observations
-was that the Spirits, being only the souls of men, did not have either absolute
-wisdom or absolute knowledge; their knowledge was limited to the level of their
-advancement and their opinion had only the value of a personal opinion.
-Recognising this fact, from the beginning saved me from the serious error of
-believing in the Spirits’ infallibility and prevented me from formulating
-premature theories based upon the opinion of only one or a few Spirits.’
+> 'Tentei identificar as causas dos fenômenos ligando os fatos
+> logicamente, 
+e eu não aceitei uma explicação tão válida a menos que pudesse resolver todos os
+dificuldades da questão. Era assim que eu sempre tive, desde a idade de
+15 ou 16, prosseguiu em minhas investigações... Uma das minhas primeiras observações
+foi que os Espíritos, sendo apenas as almas dos homens, não tinha ou absoluto
+sabedoria ou conhecimento absoluto; seu conhecimento foi limitado ao nível de sua
+avanço e sua opinião tinha apenas o valor de uma opinião pessoal.
+Reconhecendo este fato, desde o início me salvou do grave erro de
+acreditando na infalibilidade dos Espíritos e me impediu de formular
+teorias prematuras com base na opinião de apenas um ou alguns Espíritos.
 
-## Source 
-Adapted from [SGNY: Origins of the Codification](//www.sgny.org/spiritism-guide/the-5-book-codification/)  
+## Fonte 
+Adaptado de [SGNY: Origins of the Codification](//www.sgny.org/spiritism-guide/the-5-book-codification/)  
 
-## Recommended Bibliography
-We provide more information about these books on the links below.
+## Bibliografia Recomendada
+[O Livro dos Espíritos] (/livros/spirits-book)  
+[O Livro dos Meios] (/livros/meios-livro)  
+[Evangelho Segundo o Espiritismo] (/livros/gospel-de-Espiritismo)  
+[Gênesis] (/livros/gênese)  
+[Céu e Inferno] (/livros/céu e inferno)  
 
-[The Spirits Book](/books/spirits-book)  
-[The Mediums Book](/books/mediums-book)  
-[Gospel According to Spiritism](/books/gospel-according-spiritism)  
-[Genesis](/books/genesis)  
-[Heaven and Hell](/books/heaven-and-hell)  
-
-## See Also
-[Learn Spiritism](../learn)  
-[Spiritism - Teachings](../teachings)  
-[Spiritism - FAQ](../faq)  
-[Spiritism - Science, Philosophy or Religion?](../science-philosophy-religion)  
+## Veja Também
+[Aprenda Espiritismo](../aprender)  
+[Espiritismo - Ensinamentos](../ensinamentos)  
+[Espiritismo - FAQ](../faq)  
+[Espiritismo - Ciência, Filosofia ou Religião?](../ciência-filosofia-religião)  
 

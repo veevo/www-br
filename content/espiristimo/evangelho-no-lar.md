@@ -1,142 +1,179 @@
 ---
-title: Gospel At Home
-description: Learn about the Gospel at Home and why it's an important tool to help you and your family on your spiritual journey.
+title: Evangelho no Lar
+description: Conheça o Evangelho em Casa e por que é uma ferramenta importante para ajudar você e sua família em sua jornada espiritual.
 date: "2019-01-01"
 image: "images/contact.jpg"
 layout: list-simple
 ---
 
-The Gospel At Home is a special time set aside each week for family or
-household members to gather at home and jointly elevate their thoughts in prayer
-and study. As the name suggests, the focus of study is on the collection of
-moral lessons, comforting passages, and encouraging words, inspired by the
-teachings and examples left by our model and guide, [Jesus](/about/jesus).
+O Evangelho no Lar é um horário especial reservado a cada semana para a família
+ou membros domésticos para se reunir em casa e, em conjunto, elevar seus
+pensamentos em oração e estudar. Como o nome sugere, o foco do estudo está na
+coleta de lições morais, passagens reconfortantes, e palavras encorajadoras,
+inspirados pelo ensinamentos e exemplos deixados pelo nosso modelo e guia,
+[Jesus](/sobre/jesus).
 
-During this time, family members are invited to read a passage from an
-enlightening book (for example, [The Gospel According to
-Spiritism](/books/gospel-according-spiritism)) and share comments and
-reflections, often relating the lesson to the events of their current lives.	      	
+Durante este tempo, os membros da família são convidados a ler uma passagem de
+um livro esclarecedor (por exemplo, [O Evangelho De acordo com
+Espiritismo](/livros/gospel-de-acordo-esspiritismo)) e compartilhar comentários
+e reflexões, muitas vezes relacionando a lição aos eventos de suas vidas atuais.	      	
 
-This is a powerful moment, not only for fortifying the moral and emotional
-strengths of the participants, but also for strengthening ties, both among the
-individuals and with the good spirits that look after them.
+Este é um momento poderoso, não apenas para fortificar a moral e emocional
+pontos fortes dos participantes, mas também para o fortalecimento dos laços,
+tanto entre os indivíduos e com os bons espíritos que cuidam deles.
 
+## Formato Recomendado
+Não há formato rígido para o Evangelho no Lar. Entretanto, gostaríamos de
+recomendar um formato que funciona para grande parte das pessoas.
 
-## The Format
-Let's learn some guidelines on how to do the Gospel at Home.
+### Passo 1 - Leitura complementar 
+Comece com sua leitura complementar, como um livro espírita de inspiração
+mensagens, para ajudar todos a se concentrar no estudo que você está para
+começar, deixando de lado outras preocupações naquele momento.
 
-### Step 1 - Start with a Complementary reading
-Begin with your complementary reading, such as a Spiritist book of inspirational
-messages, to help everyone focus on the study you are to begin, leaving aside
-other concerns at that time.
+### Passo 2 - Oração Inicial
+Então, alguém do grupo deve dizer uma simples oração de abertura, durante a qual
+tempo os participantes devem elevar seus pensamentos, a fim de
+conectar,mentalmente, uns com os outros e com os bons espíritos.
 
-### Step 2 - Initial Prayer
-Then, someone from the group should say a simple opening prayer, during which
-time the the participants should elevate their their thoughts, in order to
-connect, mentally, with one another and with the good spirits.
-
-If children are present, you may want to start their reading first, using the
-children's books. They should be encouraged to make comments about the reading
-and to participate in prayers, as well.
+Se as crianças estão presentes, você pode querer começar sua leitura primeiro,
+usando o livros infantis. Eles devem ser encorajados a fazer comentários sobre a
+leitura e participar de orações, também.
 	     	
-### Step 3 - Read a passage
-You can now begin your reading of a passage from "The Gospel According to
-Spiritism".  Participants can take turns reading different pieces of the
-passage.  Then, participants can offer comments according to their understanding
-of the reading.
+### Passo 3 - Leia uma passagem 
+Agora você pode começar a leitura de uma passagem de "O Evangelho De acordo com
+Espiritismo".  Os participantes podem se revezar lendo diferentes peças do
+Passagem.  Então, os participantes podem oferecer comentários de acordo com seu
+entendimento da leitura.
 
-### Step 4 - Discuss the passage
-They should also try to relate the lesson contained in the reading to the events
-of their daily lives.  If you are reading in sequence, you should take note of
-the place where you left off to begin there at the next meeting.
+### Passo 4 - Discuta a passagem 
+Eles também devem tentar relacionar a lição contida na leitura aos eventos de
+suas vidas diárias.  Se você está lendo em sequência, você deve tomar nota de o
+lugar onde você parou para começar lá na próxima reunião.
 
-### Step 5 - Closing Prayer
-End the meeting with a closing prayer, giving thanks for the blessings you have
-received, for this moment of study, and for the assistance of the good spirits.
-Also, ask for assistance for friends and loved ones, as well as for others who
-are in need or who may be suffering.
+### Passo 5 - Oração de Encerramento 
+Termine a reunião com uma oração de encerramento, agradecendo pelas bênçãos que
+você tem recebido, para este momento de estudo, e para a assistência dos bons
+espíritos.  Além disso, peça ajuda para amigos e entes queridos, bem como para
+outros que estão precisando ou que podem estar sofrendo.
 
-### Step 6 - Drink the Magnetized water
-Distribute the [magnetized water](/en/vocabulary/magnetized-water) among
-participants.  The magnetized water is water with powerful spiritual fluids
-manipulated by the superior spirits that participated in your metting.
+### Passo 6 - Beba a água magnetizada 
+Distribua a [água magnetizada](/en/vocabulário/magnetizada-água) entre
+Participantes. A água magnetizada é água com poderosos fluidos espirituais
+manipulado pelos espíritos superiores que participaram de sua metting.
 
-### Step 7 - Keep in Peace
-After the meeting, maintain a vibration of inner peace, with elevated thoughts
-and conversations.  [Discarnate](/about/discarnate) spirits who may approach a
-home to participate in this kind of meeting, may also stay there for some time,
-observing each person's behavior.
-
-
-## Recommended Practices
-
-### Consistency
-The meeting needs to be held on the same day, at the same time, each week.  Why?
-Because these meetings happen in cooperation with the good spirits.  who make
-plans to be present in order to assist both the incarnate participants (us) and
-the discarnate spirits who may come to learn with them. 
-
-Occasionally, the meeting may be held at a different time when needed due to
-special circumstances.  However, this should happen as little as possible.  If
-one or more members is unable to attend on the regular day, the other members
-can continue to hold the meeting.  If the whole family is traveling, it is
-permissible to do the meeting, wherever they are, if circumstances permit. 
-
-### Duration
-The approximate duration of the meeting should be between 30 minutes to one
-hour.
-
-It's important to respect the time since our [Spiritual
-Guides](/about/spiritual-guide) also have a very busy schedule.
-
-### Environment
-The environment should be a place inside the home, where participants feel
-comfortable and which allows for the open reading of books. If a household
-member is sick at the time, the meeting can be conducted they are, if they would
-like. If desired, soft music can be played in the background.  There is no need
-for any kind of special decor, candles, or other objects.
-
-The only item you are advised to have on the table, other than your books, is a
-pitcher of water to be magnetized, by the good spirits and the elevated thoughts
-of prayer, and distributed at the end of the meeting.  If there is someone sick
-in the home, a special glass of water should be set out for him or her, to
-receive special energies.
-
-### Bibliography
-The book to be read should be "The Gospel According to Spiritism"¹, and as a
-complementary reading, you can use a Spiritist book of inspirational messages,
-for example, to begin the meeting.  "The Gospel According to Spiritism" can be
-read by opening the book at random or in sequence, the latter being advised for
-those who do not presently participate in any other orderly/systematic study of
-the Spiritism.  Spiritist books for children can also be included if children
-are present.
-
-### Preparation
-Especially on the day of the meeting, participants should seek to maintain
-physical, emotional, and spiritual equilibrium, avoiding alcoholic drinks, heavy
-foods, mental exhaustion, arguments, and inappropriate behaviors. They should
-turn to the serenity of prayer and be vigilantly observant of their attitudes,
-in order to maintain the spiritual strength that this requires.
+### Passo 7 - Mantenha-se em paz
+Após a reunião, mantenha uma vibração de paz interior, com pensamentos elevados
+e conversas. [Espíritos Descarnados](/sobre/descarnado) que podem se aproximar
+de um casa para participar deste tipo de reunião, também pode ficar lá por algum
+tempo, observando o comportamento de cada pessoa.
 
 
-## Why practice the Gospel at Home
-It's important to understand why practice the Gospel at home.
+## Práticas Recomendadas
 
-### During the Meeting
-Once the meeting begins, it should not be interrupted for phone calls or other
-activities.  If someone arrives late, they can be invited to join the group.
+### Consistência
+A reunião precisa ser realizada no mesmo dia, ao mesmo tempo, a cada semana.
+Porque? Porque essas reuniões acontecem em cooperação com os bons espíritos.
+que fazem planos de estar presente, a fim de ajudar tanto os participantes
+encarnados (nós) quanto os espíritos descarnados que podem vir a aprender com
+eles. 
 
-### Moral And Spiritual Fortitude
-The ethical teachings that are found within "The Gospel According to Spiritism" invite participants to pursue a conscious effort toward inner reform. The educational and inspirational lessons raise their awareness of their own moral strengths and weaknesses and encourage them to resist the negative tendencies that their spirits retain from previous lives, while instead making choices that reflect the more virtuous ideals with which they now they aspire to live.  In addition, when they encounter difficult moments in their lives, and thus find it harder to keep a positive attitude and maintain higher ethical standards, the lessons of the Gospel, when carried in their heart, will serve as a reminder and inspiration to make the extra effort necessary to follow those teachings that they studied during these Gospel At Home meetings and other moments of spiritist study.
+Ocasionalmente, a reunião pode ser realizada em um momento diferente quando
+necessário devido a circunstâncias especiais.  No entanto, isso deve acontecer o
+mínimo possível. Se um ou mais membros é incapaz de participar no dia normal,
+os outros membros pode continuar a realizar a reunião.  Se toda a família está
+viajando, é admissível fazer a reunião, onde quer que estejam, se as
+circunstâncias permitirem. 
+
+### Duração
+A duração aproximada da reunião deve ser entre 30 minutos a um Hora.  É
+importante respeitar o tempo de nossos [guias espirituais](/sobre/guia-espiritiual)
+pois eles também têm uma agenda muito comprometida.
+
+### Meio Ambiente
+O ambiente deve ser um lugar dentro de casa, onde os participantes se sentem
+confortável e que permite a leitura aberta de livros. Se uma família membro está
+doente no momento, a reunião pode ser conduzida eles são, se eles fariam Como.
+Se desejar, a música suave pode ser tocada ao fundo.  Não há necessidade para
+qualquer tipo de decoração especial, velas ou outros objetos.
+
+O único item que você é aconselhado a ter sobre a mesa, além de seus livros, é
+um jarro de água a ser magnetizado, pelos bons espíritos e os pensamentos
+elevados de oração, e distribuído no final da reunião.  Se há alguém doente na
+casa, um copo especial de água deve ser definido para ele ou ela, para receber
+energias especiais.
+
+### Bibliografia
+Um livro comummente lido é "O Evangelho De acordo com o Espiritismo" e como um
+leitura complementar, você pode usar um livro espírita de mensagens
+inspiradoras, por exemplo, para começar a reunião.  "O Evangelho De acordo com o
+Espiritismo" pode ser ler abrindo o livro aleatoriamente ou em sequência, este
+último sendo aconselhado para aqueles que atualmente não participam de qualquer
+outro estudo ordenado/sistemático de o Espiritismo.  Livros espíritas para
+crianças também podem ser incluídos se crianças estão presentes.
+
+### Preparação
+Especialmente no dia do encontro, os participantes devem procurar manter
+equilíbrio físico, emocional e espiritual, evitando bebidas alcoólicas, pesado
+alimentos, exaustão mental, argumentos e comportamentos inapropriados.  Eles
+deveriam recorrer à serenidade da oração e ser vigilante observador de suas
+atitudes, a fim de manter a força espiritual que isso requer.
+
+## Por que praticar o Evangelho em Casa 
+É importante entender por que praticar o Evangelho em casa.
+
+### Durante a Reunião 
+Uma vez que a reunião começa, não deve ser interrompido para telefonemas ou
+outros Atividades. Se alguém chegar tarde, pode ser convidado para se juntar ao
+grupo.
+
+### Força Moral e Espiritual 
+Os ensinamentos éticos encontrados no "Evangelho Segundo o Espiritismo" convidam
+os participantes a buscar um esforço consciente em direção à reforma interna. As
+lições educacionais e inspiradoras aumentam sua consciência de seus próprios
+pontos fortes e fracos morais e os encorajam a resistir às tendências negativas
+que seus espíritos mantêm de vidas anteriores, ao mesmo tempo em que fazem
+escolhas que refletem os ideais mais virtuosos com os quais agora aspiram viver.
+Além disso, quando encontram momentos difíceis em suas vidas e, assim, mais
+difícil manter uma atitude positiva e manter padrões éticos mais elevados, as
+lições do Evangelho, quando levadas em seu coração, servirão de lembrete e
+inspiração para fazer o esforço extra necessário para acompanhar os ensinamentos
+que estudaram durante essas reuniões gospel em casa e outros momentos de estudo
+espírita.
 	     	
-### Strengthened Bond between Family/Household Members
-Sharing this kind of experience and these moments of reflection helps the individuals to keep in touch with one another and to understand each other's perspectives, ideas, beliefs, etc. This helps them to cultivate understanding attitudes toward one another and strengthens the bonds of their relationships.
+### Vínculo reforçado entre familiares/membros domésticos 
+Compartilhar esse tipo de experiência e esses momentos de reflexão ajuda os
+indivíduos a manter contato uns com os outros e a entender as perspectivas,
+ideias, crenças, etc. Isso os ajuda a cultivar atitudes compreensivas uns com os
+outros e fortalece os laços de suas relações.
 
-### Purification of the Home with Elevated Thoughts
-The quality and nature of the energies that we emit are directly related to the quality of thoughts that we entertain.  When the members of a household join together to reflect upon the moral teachings of Spiritism, their thoughts are raised to a higher frequency, and they will, consequently, emit strong currents of positive, purifying energies which will replace those polluted by any negative or immoral thoughts entertained by family members during the previous week.  This works to restore the fluidic hygiene of the environment and to facilitate the work of the good spirits.
+### Purificação do Lar com Pensamentos Elevados 
+A qualidade e a natureza das energias que emitimos estão diretamente
+relacionadas à qualidade dos pensamentos que entretemos.  Quando os membros de
+uma família se unem para refletir sobre os ensinamentos morais do Espiritismo,
+seus pensamentos são elevados a uma frequência mais elevada, e,
+consequentemente, emitem fortes correntes de energias positivas e purificadoras
+que substituirão aqueles poluídos por quaisquer pensamentos negativos ou imorais
+entretidos pelos familiares durante a semana anterior.  Isso funciona para
+restaurar a higiene fluida do meio ambiente e facilitar o trabalho dos bons
+espíritos.
 
-### Company and Assistance of Good Spirits
-When we dedicate ourselves to morally edifying study and put into practice the lessons that educate our ethical character, thereby learning to concern ourselves with the well-being of others and the construction of harmonious relationships, we attract good spirits who observe our efforts and desire to help us to be successful. When participants work together to assist one another and to build a strong foundation of support, love, and understanding, the results are magnified.  The spirits that are called to their aid then work in favor of the family as a whole, guiding them with positive intuitions and helping to keep harmonious energies in the home.  These spirits, when present in the home for the Gospel At Home meetings, also help by working to cleanse the fluidic environment (energy) in the home and to magnetize the water that is set out before the meeting, impregnating the spiritual fluids of the water with healthy and fortifying energies.
+### Companhia e Assistência de Bons Espíritos 
+Quando nos dedicamos a estudar moralmente e colocar em prática as lições que
+educam nosso caráter ético, aprendendo a nos preocupar com o bem-estar dos
+outros e a construção de relacionamentos harmoniosos, atraímos bons espíritos
+que observam nossos esforços e desejos de nos ajudar a ser bem sucedidos. Quando
+os participantes trabalham juntos para ajudar uns aos outros e construir uma
+forte base de apoio, amor e compreensão, os resultados são ampliados.  Os
+espíritos que são chamados para ajudar então trabalham a favor da família como
+um todo, guiando-os com intuições positivas e ajudando a manter energias
+harmoniosas em casa.  Esses espíritos, quando presentes no lar para as reuniões
+do Evangelho no Lar, também ajudam trabalhando para limpar o ambiente fluido
+(energia) em casa e magnetizar a água que se estabelece antes do encontro,
+impregnando os fluidos espirituais da água com energias saudáveis e
+fortificantes.
 
-### Education of Discarnate Spirits
-With the regular practice of Gospel At Home meetings, the family members may begin to host an audience of discarnate spirits who will also be present during the meeting to learn from the readings and discussions. These are spirits in need of 
+### Educação de Espíritos 
+Descarnados Com a prática regular das reuniões gospel em casa, os familiares
+podem começar a receber uma plateia de espíritos desencarnados que também
+estarão presentes durante a reunião para aprender com as leituras e discussões.

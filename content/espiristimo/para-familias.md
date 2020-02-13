@@ -1,19 +1,19 @@
 ---
-title: Spiritism for Families
-description: Know how important it is to foster Spiritistm on children and get to know material, practices and procedures.
+title: Espiritismo para Famílias
+description: Saiba como é importante fomentar o Espiritismo nas crianças e conhecer material, práticas e procedimentos.
 date: "2018-11-30"
 image: "images/contact.jpg"
 topics:
-- spiritism
+- espiritismo
 - fluidic-therapy
 - spiritist-center
 ---
 
-The family is at the center together, participating in an activity that will
-help them to be conscious of the way they treat one another at home, the way
-they interpret the situations and challenges they must face together, and the
-way they relate to others outside their home. 
+A família está no centro juntos, participando de uma atividade que vai ajudá-los
+a estar conscientes da maneira como eles tratam uns aos outros em casa, a
+maneira eles interpretam as situações e desafios que devem enfrentar juntos, e
+os maneira que eles se relacionam com os outros fora de sua casa. 
 
-## Fluidic Therapy
-In the end (and during) the studies, everyone (including children), is invited
-to also participate in the fluidic therapy.
+## Terapia Fluida
+No final (e durante) os estudos, todos (incluindo crianças), são convidados
+para também participar da terapia fluida.

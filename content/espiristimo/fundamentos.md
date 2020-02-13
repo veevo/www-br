@@ -1,303 +1,309 @@
 ---
-title: The Foundations of Spiritism
-description: Get to know the Foundations of Spiritism
+title: As Fundações do Espiritismo
+description: Conheça as Fundações do Espiritismo
 date: "2019-01-01"
 topics:
-- spiritism
-- spiritist-centers
+- espiritismo
+- centro-espirita
 ---
 
-On this post, let's explore the foundations of Spiritism.
+Vamos explorar neste artigo os fundamentos do Espiritismo.
 
-## God
-#### What is God?
-[God](/about/god) is the Supreme Intelligence, first cause of all things.
+## Deus
+### O que é Deus?
+[Deus] (/sobre/deus) é a Inteligência Suprema, primeira causa de todas as coisas.
 
-#### Properties of God
-God is eternal, immutable, immaterial, unique, omnipotent, supremely just and
-good.  
+### Propriedades de Deus
+Deus é eterno, imutável, imaterial, único, onipotente, supremamente justo e
+Bom.  
 
-#### God and the Universe
-The Universe is God’s creation. It encompasses all rational and non-rational
-beings, both animate and inanimate, material and immaterial.  
+### Deus e o Universo
+O Universo é a criação de Deus. Abrange todos os racionais e não racionais
+seres, tanto animados e inanimados, materiais e imateriais.  
 
-God created the universe, which comprehends all beings, animate and inanimate,
-material and immaterial.  
+Deus criou o universo, que compreende todos os seres, anima e inanimado,
+material e imaterial.  
 
-## Universe and Worlds
-#### Types of Worlds
-Within the Universe there are other inhabited worlds, with beings at different
-degrees of evolution: some equal, others more or less evolved than Human Beings.  
+## O Universo
+## Tipos de Mundos
+Dentro do Universo há outros mundos habitados, com seres em diferentes graus de
+evolução: alguns iguais, outros mais ou menos evoluíram do que os Seres Humanos.  
 
-#### The Spiritual World
-The spiritual world is the normal, original, eternal world; it is pre-existent
-to and survives everything else.  
+### O Mundo Espiritual
+O mundo espiritual é o mundo normal, original e eterno; é pré-existente e
+sobrevive a todo o resto.  
 
-#### The Physical World
-The physical world is secondary. It could cease to exist, or even have never
-existed at all, and that would not affect the essence of the spirit-world.  
+### O Mundo Físico
+O mundo físico é secundário. Poderia deixar de existir, ou mesmo nunca existiu
+em tudo, e que não afetaria a essência do espírito-mundo.  
 
-## Laws
-All the Laws of Nature are [Divine Laws](/divine-laws) because [God](/about/god)
-is their author.
+## Leis
+Todas as Leis da Natureza são [Leis Divinas](/leis divinas) porque
+[Deus](/sobre/deus) é seu autor.
 
-The Divine Laws cover both the physical and moral laws.
+As Leis Divinas cobrem as leis físicas e morais.
 
-## Human Beings
-#### What is a human being
-A Human Being is a Spirit incarnated in a material body. The perispirit is the
-semi-material body that unites the Spirit to the physical body.  
+## Seres Humanos
+### O que é um ser humano
+Um Ser Humano é um Espírito encarnado em um corpo material. O perispirit é o
+corpo semi-material que une o Espírito ao corpo físico.  
 
-#### Free will
-Human Beings are given the [free will](/divine-laws/free-will) to act, but they
-must answer for the consequences of their actions.  
+### Livre arbí-lo
+Os Seres Humanos recebem o [livre arbío.(/divine-laws/livre-vontade) para agir, mas eles
+deve responder pelas consequências de suas ações.  
 
-#### Physical Beings
-Physical beings constitute the visible or incarnate world; non-physical beings
-constitute the invisible or spiritual world, i.e. the spirit-world.  
+### Seres Físicos
+Os seres físicos constituem o mundo visível ou encarnado; seres não físicos
+constituem o mundo invisível ou espiritual, ou seja, o mundo espiritual.  
 
-Among the different kinds of physical beings on Earth, God has chosen the human
-species for the incarnation of spirits who have arrived at a certain degree of
-development.  This characteristic gives the human species an ethical and
-intellectual advantage over other living species.  
+Entre os diferentes tipos de seres físicos na Terra, Deus escolheu o humano
+espécies para a encarnação de espíritos que chegaram a um certo grau de
+Desenvolvimento.  Essa característica dá à espécie humana um ético e vantagem
+intelectual sobre outras espécies vivas.  
 
-#### Body, Soul and Spirit
-Human beings consist of the following:   
-1) a body, similar to that belonging to animals and animated by the same [vital principle](/about/vital-principle);  
-2) a [soul](/about/soul), an immaterial spirit incarnated in the body;   
-3) the [perspirit](/about/perspirit), an intermediate link which unites the soul and body.  
+### Corpo, Alma e Espírito
+Os seres humanos consistem no seguinte:   
+1) um corpo, semelhante ao que pertence aos animais e animado pelo mesmo [princípio vital](/sobre/princípio vital);  
+2) a [alma](/sobre/alma), um espírito imaterial encarnado no corpo;   
+3) o [perspirit](/about/perspirit), um elo intermediário que une a alma e o corpo.  
 
-#### Nature
-Human beings have, accordingly, two natures: animal and spiritual.  Through the
-body, humans participate in the nature of animals, with which they share
-instincts.  Through the soul, they participate in the nature of the spirits.  
+### Natureza
+Os seres humanos têm, nesse conformidade, duas naturezas: animal e espiritual.  Através do
+corpo, os seres humanos participam da natureza dos animais, com os quais compartilham
+Instintos.  Através da alma, eles participam da natureza dos espíritos.  
 
-#### Qualities and Virtues
-The qualities of a person are a reflection of the incarnate spirit's qualities.
-Consequently, a good person is the incarnation of a good spirit, and a bad
-person of a less advanced one.  
+### Qualidades e Virtudes
+As qualidades de uma pessoa são um reflexo das qualidades do espírito encarnado.
+Consequentemente, uma boa pessoa é a encarnação de um bom espírito, e um ruim
+pessoa de um menos avançado.  
 
-## Body and Soul
-#### What is soul
-The soul is an incarnate spirit, the body its material envelope.  
+## Corpo e Alma
+### O que é alma
+A alma é um espírito encarnado, o corpo seu envelope material.  
 
-#### What happens when the body dies
-On leaving the body, the soul returns to the spirit-world, where it exists as a
-free spirit (i.e., free from the limitations of the physical world) and where it
-will stay for an indeterminate time until it enters a new incarnation.  
+### O que acontece quando o corpo morre
+Ao deixar o corpo, a alma retorna ao mundo espiritual, onde ele existe como um
+espírito livre (ou seja, livre das limitações do mundo físico) e onde ele
+ficará por um tempo indeterminado até entrar em uma nova encarnação.  
 
-#### Individuality of the soul
-The soul possesses its individuality before incarnating and will preserve it
-after the death of the body.  
+### Individualidade da alma
+A alma possui sua individualidade antes de encarnar e irá preservá-la
+após a morte do corpo.  
 
-#### The return to the spiritual world
-On returning to the spirit world, the soul meets those it has known on Earth.
+### O retorno ao mundo espiritual
+Ao retornar ao mundo espiritual, a alma conhece aqueles que conheceu na Terra.
 
-In addition, it gradually recalls the actions, both good and harmful, of its
-former lives.  
+Além disso, aos poucos lembra as ações, tanto boas quanto prejudiciais, de sua
+vidas anteriores.  
 
-## Spirits
-In addition to the corporeal world inhabited by incarnate Spirits, which are Human Beings, there exists the spiritual world, inhabited by discarnate Spirits.  
+## Espíritos
+Além do mundo corpóreo habitado por Espíritos Encarnados, que são seres humanos,
+existe o mundo espiritual, habitado por espíritos desencarnados.  
 
+### O que são espíritos? 
+Os Espíritos são os seres inteligentes da criação. Eles constituem o mundo dos
+Espíritos, que pré-existe e sobrevive a tudo.  
 
-#### What are spirits? 
-The Spirits are the intelligent beings of creation. They constitute the world of the Spirits, which pre-exists and outlives everything.  
+### Como os espíritos são criados?
+Espíritos são criados simples e ignorantes. Eles evoluem intelectual e
+moralmente, passando de uma ordem inferior para uma mais alta, até que eles
+atingem a perfeição, onde eles vão desfrutar de felicidade inalterável.  
 
+Os espíritos preservam sua individualidade antes, durante e depois de cada
+encarnação.  
 
-#### How spirits are created?
-Spirits are created simple and ignorant. They evolve intellectually and morally,
-passing from a lower order to a higher one, until they attain perfection, where
-they will enjoy unalterable bliss.  
+### Quantas reencarnações?
+Os espíritos reencarnam quantas vezes for necessário para seu avanço espiritual.  
 
-Spirits preserve their individuality before, during, and after each incarnation.  
+### Corpo
+Os espíritos assumem temporariamente um corpo físico perecível, a morte da qual
+os restaura à liberdade.  
 
-#### How many reincarnations?
-Spirits reincarnate as many times as is necessary for their spiritual advancement.  
+### Progresso
+Os espíritos estão sempre progredindo. Em suas múltiplas existências físicas,
+eles podem às vezes se tornam estacionários, mas nunca regredem. A velocidade de
+sua progresso intelectual e moral depende dos esforços que eles fazem para
+alcançar Perfeição.  
 
-#### Body
-Spirits temporarily assume a perishable physical body, the death of which restores them to liberty.  
+### Ordens
+Espíritos pertencem a diferentes ordens de acordo com o grau de perfeição que
+ter alcançado: Espíritos Puros, que atingiram a perfeição máxima; Bom Humor,
+cujo desejo predominante é para a bondade; e Espíritos Imperfeitos,
+caracterizado por sua ignorância, sua tendência para o mal, e por sua paixões
+mais baixas.  
 
-#### Progress
-Spirits are always progressing. In their multiple physical existences, they may
-sometimes become stationary but they never regress. The speed of their
-intellectual and moral progress depends on the efforts they make to attain
-perfection.  
+Espíritos pertencem a diferentes ordens; da mesma forma que eles não são iguais
+no poder, inteligência, conhecimento ou excelência ética.  Aqueles na mais alta
+ordem são distinguido pela pureza, conhecimento e amor da bondade.  Eles são os
+os chamados "anjos" ou "espíritos puros".  Os outros são relativamente mais
+distantes dessa perfeição.  Aqueles nas ordens inferiores estão inclinados para
+a maioria dos nossos sentimentos humanos e ainda pode ter prazer em fazer
+errado.  Entre eles estão aqueles que não são muito bons nem muito ruim, mas têm
+malicioso, travesso ou naturezas irksome.  Estes podem ser classificados como
+espíritos vertiginosos e tolos.    
 
-#### Orders
-Spirits belong to different orders according to the degree of perfection they
-have attained: Pure Spirits, who have attained maximum perfection; Good Spirits,
-whose predominant desire is towards goodness; and Imperfect Spirits,
-characterized by their ignorance, their tendency towards evil, and by their
-lower passions.  
+Os espíritos não pertencem perpetuamente à mesma ordem.  Eles estão destinados a
+alcançar a perfeição e, como eles fazem isso, para progredir através dos
+diferentes Ordens.  Este avanço é alcançado através de encarnações, que são
+realizadas seja como missões especiais ou como testes levando à purificação.
+Vida física é uma experiência que os sprits devem passar muitas vezes antes de
+atingir esse objetivo.  Essas vidas podem ser entendidas como exercícios de
+limpeza de cada um dos quais espíritos geralmente emergem em um estado mais
+purificado.    
 
-Spirits belong to different orders; likewise they are not equals in power,
-intelligence, knowledge, or ethical excellence.  Those in the highest order are
-distinguished by purity, knowledge, and love of goodness.  They are the
-so-called "angels" or "pure spirits."  The others are relatively more distant
-from this perfection.  Those in the lower orders are inclined to most of our
-human feelings and may still take pleasure in wrong-doing.  Among them are those
-who are neither very good nor very bad, but have malicious, mischievous or
-irksome natures.  These might be classed as giddy and foolish spirits.    
+## Interferência espiritual
+As relações dos Espíritos com os Seres Humanos são constantes e sempre
+existiram.  Os Bons Espíritos nos atraem para a bondade, nos sustentar nos
+julgamentos da vida, e ajude-nos a suportá-los com coragem e resignação. Os
+Espíritos Imperfeitos nos induzem para o erro.  
 
-Spirits do not belong perpetually to the same order.  They are destined to
-attain perfection and, as they do so, to progress up through the different
-orders.  This advancement is achieved through incarnations, which are undertaken
-either as special missions or as trials leading to purification.  Physical life
-is an experience sprits must undergo many times before reaching this goal.
-These lives can be understood as cleansing exercises from each of which spirits
-generally emerge in a more purified state.    
+Um espírito não é, portanto, um ser abstrato, um conceito de pensamento. Em vez
+disso, é uma entidade real e bem definida que, em certas situações, pode ser
+percebida pela visão, audição e toque.   
 
-#### Spiritual interference
-The Spirits’ relations with Human Beings are constant and have always existed.
-The Good Spirits attract us towards goodness, sustain us in life’s trials, and
-help us bear them with courage and resignation. The Imperfect Spirits induce us
-towards error.  
+Espíritos constantemente exercem uma influência sobre o físico e ético ambiente
+da Terra.  Eles constituem um dos poderes da natureza, desde eles podem agir
+igualmente sobre matéria e pensamento.  Eles são a causa de muitos tipos de
+fenômenos previamente inexplicáveis ou mal interpretados, que agora pode
+encontrar um lógica convincente na Doutrina Espírita.  
 
-A spirit is not, therefore, an abstract being, a concept of thought. Rather, it
-is a real and well-defined entity that, in certain situations, can be perceived
-by sight, hearing, and touch.   
+Os espíritos constantemente se relacionam com os seres humanos.  Os bons
+inspiram as pessoas para tomar a estrada alta, sustentá-los através de testes, e
+incutir neles coragem e resignação.  Por outro lado, os menos avançados inculcar
+sórdidos ideias e pensamentos depressivos.  Eles ter prazer em nossos problemas
+e se esforçar para nos fazer gostar de si mesmos.  
 
-Spirits constantly exert an influence on both the physical and ethical
-environment of the Earth.  They constitute one of the powers of nature, since
-they may act equally upon matter and thought.  They are the cause of many sorts
-of previously unexplained or misinterpreted phenomena, which may now find a
-compelling rationale in the Spiritist Doctrine.  
+Interações espirituais com seres humanos podem ser sutis ou diretas.  O
+comunicações sutis acontecem sem nossa consciência, geralmente na forma de
+Inspiração.  Precisamos exercitar o discernimento, no entanto, na distinção
+entre os uplifting e os tipos malévolas.  Trocas diretas ocorrem através
+escrita, fala e outras manifestações físicas, geralmente com o
+intervenção de um médium que atua como uma ligação entre os dois mundos.  
 
-Spirits constantly interrelate with human beings.  The good ones inspire people
-to take the high road, sustain them through trials, and instill in them courage
-and resignation.  On the other hand, the less advanced ones inculcate sordid
-ideas and depressive thoughts.  They take pleasure in our troubles and strive to
-make us like themselves.  
+## Comunicação
+Os Espíritos podem se comunicar espontaneamente ou em resposta às evocações
+humanas.  De um modo geral, todas as inteligências livres podem ser evocadas a
+partir do mais obscuro para o mais ilustre, de entes queridos a inimigos ,
+independentemente do época em que eles viviam.  Se permitido, eles podem
+compartilhar informações sobre sua nova situação, seus pensamentos sobre nós, e
+quaisquer insights que eles sentem como Transmitir.  
 
-Spirit interactions with human beings can be either subtle or direct.  The
-subtle communications happen without our awareness, generally in the form of
-inspiration.  We need to exercise discernment, however, in distinguishing
-between the uplifting and the malevolent kinds.  Direct exchanges occur through
-writing, speech, and other physical manifestations, usually with the
-intervention of a medium who acts as a link between the two worlds.  
+Espíritos se movem por leis de afinidade.  Espíritos avançados levam prazer em
+assembleias com um propósito sério, em que os membros são animados pelo amor e
+um sincero desejo de aprender e progredir.  Sua presença repele espíritos menos
+avançados.  O este último, por sua vez, encontrar-se à vontade entre mentes
+frívolas e simples que unir-se une apenas por curiosidade ou outros motivos
+nocivos.  Em tal montagens, nada útil é produzido.  Para piorar as coisas, eles
+muitas vezes emprestar nomes venerados para impor suas ideias de forma mais
+eficaz.  
 
-#### Communication
-Spirits may communicate spontaneously or in response to human evocations.
-Generally speaking, all free intelligences may be evoked  ̶  from the most
-obscure to the most illustrious, from loved ones to enemies ̶  regardless of the
-epoch in which they lived.  If permitted, they may share information about their
-new situation, their thoughts regarding us, and any insights they feel like
-imparting.  
+#### Ensinamentos
+É fácil distinguir entre espíritos avançados e menos avançados.   O linguagem de
+espíritos superiores é digna, de mente alta, e livre de cada traço da paixão
+humana.  Seus conselhos respiram sabedoria.  Seu objetivo é sempre o avanço da
+humanidade.  Por outro lado, observações de espíritos menos avançados fazer uso
+de lugar comum, às vezes grosseiro, linguagem e muitas vezes conter
+inconsistências substanciais.  Embora às vezes eles fazem verdade e vale a pena
+declarações, suas observações são geralmente eticamente falhos e cheio de falso
+Argumentos.  Eles se baseiam na ingenuidade de seu público alimentando falsas
+esperanças e inchando os egos de seus ouvintes.  Obviamente, comunicações
+esclarecedoras podem só ser obtido em assembleias de um personagem sério onde os
+participantes estão unidos no pensamento e desejo pela busca do amor e da
+verdade.  
 
-Spirits move by laws of affinity.  Advanced spirits take pleasure in assemblies
-with a serious purpose, wherein members are animated by love and a sincere
-desire to learn and progress.  Their presence repels less advanced spirits.  The
-latter, in turn, find themselves at ease among frivolous and simple minds who
-come together solely out of curiosity or other harmful motives.  In such
-assemblies, nothing useful is produced.  To make matters worse, they often
-borrow venerated names to impose their ideas more effectively.  
+Os ensinamentos éticos dos espíritos superiores podem ser resumidos pelas
+palavras de Cristo: "Faça aos outros como faria que outros fizessem com você."
+Resumindo, fazer o bem a todos e errado ninguém.  Este princípio de ação fornece
+humanidade com uma regra de conduta com aplicação universal, do mais trivial ao
+assuntos mais críticos.  
 
-#### Teachings
-It is easy to distinguish between advanced and less advanced spirits.   The
-language of higher spirits is dignified, high-minded, and free from every trace
-of human passion.  Their counsels breathe wisdom.  Their aim is always the
-advancement of humanity.  On the other hand, remarks by less advanced spirits
-make use of commonplace, sometimes coarse, language and often contain
-substantial inconsistencies.  Although they sometimes make true and worthwhile
-statements, their observations are usually ethically flawed and full of false
-arguments.  They ply upon the naiveté of their audience by feeding false hopes
-and swelling their listeners' egos.  Obviously, enlightening communications can
-only be obtained in assemblies of a serious character where participants are
-united in thought and desire by the pursuit of love and truth.  
+Inteligências iluminadas ensinam que egocentua, orgulho e sensualidade manter os
+seres humanos absortos em sua natureza animal. Assim, a pessoa que desprende-o
+ou a si mesmo de coisas mundanas e que segue "amo-os vizinhos" cresce mais
+espiritual.  Os espíritos aconselham que nós sempre servimos os outros, como o
+nosso significa permitir-nos, e que o forte e poderoso deve assistência e
+proteção para os fracos.  Eles advertem que a pessoa que usa indevidamente o
+poder para oprimir sua ou seus seres companheiros viola as leis de Deus.  Eles
+também ensinam que no espírito-mundo nada pode ser escondido; que a presença
+inevitável daqueles que nós injustiçado na Terra é um dos julgamentos que
+devemos enfrentar no mundo espiritual; E que o estado ético dos espíritos,
+dependendo de quão avançado ou não avançado eles são, dá origem, nesse mundo,
+aos prazeres ou ao sofrimento e arrependimentos.  
 
-The ethical teachings of the higher spirits may be summed up by the words of
-Christ: "Do unto others as you would that others should do unto you."  In brief,
-do good to all and wrong no one.  This principle of action furnishes humanity
-with a rule of conduct with universal application, from the most trivial to the
-most critical matters.  
-
-Enlightened intelligences teach that self-centeredness, pride and sensuality
-keep human beings engrossed in their animal nature. Accordingly, the person who
-detaches him or herself from worldly things and who follows "love they neighbor"
-grows more spiritual.  The spirits advise that we always serve others, as our
-means allow us, and that the strong and powerful owe assistance and protection
-to the weak.  They caution that the person who misuses power to oppress his or
-her fellow beings violates the laws of God.  They also teach that in the
-spirit-world nothing can be hidden; that the unavoidable presence of those we
-have wronged on Earth is one of the trials we must face in the spirit world; and
-that the ethical state of spirits, depending on how advanced or un-advanced they
-are, gives rise, in that world, to enjoyments or to suffering and regrets.  
-
-Further, they teach that there are no unpardonable faults and that there is no
-misdeed that cannot be redressed.  Men and women find the means of redemption
-and progress through reincarnation.  Their desire and efforts set the pace of
-their advancement toward the ultimate aim of all perfection.  
+Além disso, eles ensinam que não há falhas imperdoáveis e que não há enganado
+que não pode ser revestido.  Homens e mulheres encontram os meios de redenção e
+progredir através da reencarnação.  Seu desejo e esforços definir o ritmo de seu
+avanço em direção ao objetivo final de toda a perfeição.  
 
 ## Jesus
 
-#### Who is Jesus?
-[Jesus](/about/jesus) is the Guide and Model for all Humankind.  
+### Quem é Jesus?
+[Jesus] (/sobre/jesus) é o Guia e Modelo para toda a Humanidade.  
 
-#### What is the Gospel?
-The Doctrine He taught and exemplified is the most pure expression of God’s Law.  
+### O que é o Evangelho?
+A Doutrina que Ele ensinou e exemplificou é a expressão mais pura da Lei de Deus.  
 
-The morality of Christ, as contained in the [Gospel](/gospel), is the pathway
-for the secure progress of all Human Beings.  
+A moralidade de Cristo, como contido no [Evangelho](/evangelho), é o caminho
+para o progresso seguro de todos os Seres Humanos.  
 
-#### Why practice His Gospel?
-Its practice is the solution for all human problems and the objective to be
-attained by Humankind.  
+### Por que praticar seu evangelho?
+Sua prática é a solução para todos os problemas humanos e o objetivo de ser
+alcançado pela Humanidade.  
 
-## Life
-#### Future Life
-[Future life](/about/future-life) reserves for Human Beings penalties and
-pleasures according to the respect they do or do not show for [God’s
-laws](/divine-laws).
+## Vida
+### Vida futura
+[Vida futura] (/sobre/vida futura) reservas para as penalidades dos Seres
+Humanos e prazeres de acordo com o respeito que eles fazem ou não mostram para
+[Deus leis](/leis divinas).
 
-## Prayer
-#### What is Prayer?
-Prayer is an act of adoration for [God](/about/god). It is found in the natural
-law and is the result of an innate sentiment in every Human Being, just as the
-idea of the existence of the Creator is innate.
+## Oração
+### O que é Oração?
+A oração é um ato de adoração para [Deus](/sobre/deus). É encontrado no natural
+lei e é o resultado de um sentimento inato em cada Ser Humano, assim como o
+ideia da existência do Criador é inata.
 
-#### Why Pray?
-Prayer makes Human Beings better. Whoever prays with fervor and confidence grows
-stronger against evil temptations, and God sends the [Good
-Spirits](/about/superior-spirit) to assist them.  This type of assistance will
-never be denied when requested with sincerity.
+### Por que rezar?
+A oração torna os Seres Humanos melhores. Quem reza com fervor e confiança
+cresce mais forte contra tentações malignas, e Deus envia o [Bom
+Espíritos](/sobre/espírito superior) para ajudá-los. Esse tipo de assistência
+irá nunca ser negado quando solicitado com sinceridade.
 
-## Incarnations
-#### What's an incarnation?
-Spirits have many incarnations. From this we can conclude that we all have had
-many existences and will have many others on Earth and elsewhere.  
+## Encarnações
+### O que é uma encarnação?
+Espíritos têm muitas encarnações. A partir disso podemos concluir que todos nós tivemos
+muitas existências e terá muitos outros na Terra e em outros lugares.  
 
-#### How does it happen?
-The incarnation of spirits only takes place in human beings.  Spirits do not
-incarnate in animal form.  
+### Como isso acontece?
+A encarnação dos espíritos só ocorre nos seres humanos.  Espíritos não
+encarnado em forma animal.  
 
-The chain of incarnations is always progressive.  
-The spirit's speed of progress depends on its efforts, but it cannot regress.   
+A cadeia de encarnações é sempre progressiva.  
+A velocidade de progresso do espírito depende de seus esforços, mas não pode regredir.   
 
-#### Material Influence
-An incarnate spirit is under the influence of matter. Essentially, after an
-incarnation 2 things can happen to the incarnate spirit
+### Influência material
+Um espírito encarnado está a influência da matéria. Essencialmente, depois de um
+encarnação 2 coisas podem acontecer com o espírito encarnado
 
-* 1 - Those who surmount this influence, through self-purification, raise themselves nearer to the higher spheres.  
+1 - Aqueles que superam essa influência, através da autopurificação, se aproximam das esferas mais altas.  
+2 - Aqueles que cedem a tendências instintivas e buscam apenas a gratificação dos desejos físicos estão mais próximos do reino inferior.  
 
-* 2 - Those who give in to instinctual tendencies and pursue solely the gratification of physical desires are closer to the inferior realm.  
+### Onde os espíritos encarnam?
+Espíritos encarnados vivem em mundos diferentes ao longo do universo.   
 
-#### Where do spirits incarnate?
-Incarnated spirits live on different worlds throughout the universe.   
+### Espíritos não encarnados
+* Espíritos livres (ou não encarnados) não ocupam um espaço circunscrito.  
+* Eles são encontrados em todos os lugares, e ambos percebem e regularmente se associam com os seres humanos.  
+* Eles constituem uma sociedade invisível, mas ativa, que interage constantemente com a nossa.  
 
-#### Non-incarnating spirits
-Free (or not incarnated) spirits do not occupy a circumscribed space.  
-They are found everywhere, and they both perceive and regularly associate with human beings.  
-They constitute an invisible but active society that constantly interacts with our own.  
+## Fonte
+"Conheça o Espiritismo, uma nova era para a Humanidade" pelo CEI (Conselho Espírita Internacional)
 
-## Source
-“Get to Know Spiritism, a new era for Humanity” by CEI (International Spiritist Council)
-
-## See Also
-[Learn Spiritism](../learn)  
-[Spiritism - FAQ](../faq)  
-[Spiritism - Teachings](../teachings)  
-[Spiritism - History](../history)  
-[Spiritism - The origin of Spiritism](../origin)  
-[Spiritism - The origins of Spiritism](../origins)  
-[Spiritism - Science, Philosophy or Religion?](../science-philosophy-religion)  
+## Veja Também
+[Conheça o Espiritismo](../aprender)  
+[Espiritismo - FAQ](../faq)  
+[Espiritismo - Ensinamentos](../ensinamentos)  
+[Espiritismo - História](../história)  
+[Espiritismo - A origem do Espiritismo](../origem)  
+[Espiritismo - As origens do Espiritismo](../origens)  
+[Espiritismo - Ciência, Filosofia ou Religião?](../ciência-filosofia-religião)  
 

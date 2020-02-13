@@ -1,18 +1,18 @@
 ---
-title: Spiritism for Teenagers
-description: Know how important it is to discuss Spiritistm with our adolescents and how it could help them to better face their conflicts.
+title: Espiritismo para Jovens e Adolescentes
+description: Saiba como é importante discutir o Espiritismo com nossos adolescentes e como isso poderia ajudá-los a enfrentar melhor seus conflitos.
 date: "2018-11-30"
 image: "images/contact.jpg"
 topics:
-- spiritism
+- espiritismo
 - fluidic-therapy
 - spiritist-center
 ---
 
-Many centers offer meetings or study groups for the youth, as well, with lessons
-that are appropriate for their age group and with topics presented in such a way
-as to help them deal with what goes on in their daily lives.  
+Muitos centros oferecem reuniões ou grupos de estudo para os jovens, também, com
+aulas que são apropriados para sua faixa etária e com tópicos apresentados de
+tal forma como ajudá-los a lidar com o que acontece em suas vidas diárias. 
 
-## Fluidic Therapy
-In the end (and during) the studies, everyone (including children), is invited
-to also participate in the fluidic therapy.
+## Terapia Fluida
+No final (e durante) os estudos, todos (incluindo crianças), são convidados
+para também participar da terapia fluida.

@@ -1,205 +1,202 @@
 ---
-title: How to Study Spiritism
-description: Understanding how to study Spiritism is essential to collect its life-changing benefits.
+title: Como Estudar Espiritismo
+description: Entender como estudar o Espiritismo é essencial para coletar seus benefícios que mudam a vida.
 date: "2019-01-01"
 topics:
-- spiritism
-- spiritist-centers
-- study
+- espiritismo
+- centro-espirita
 ---
 
-Spiritism provides a way of thinking, a way of living, a way of clearly
-understanding these crisis and doubts that seem to plague our lives. Most
-importantly, revealing our continued existence after our deaths, and how
-learning, growing and personal progressing continues until our fullest potential
-is achieved.
+O Espiritismo fornece uma maneira de pensar, uma maneira de viver, uma maneira
+de claramente entender essas crises e dúvidas que parecem atormentar nossas
+vidas. Mais importante, revelando nossa existência contínua após nossas mortes,
+e como aprendizado, crescimento e progresso pessoal continua até o nosso maior
+potencial é alcançado.
 
-Unlike any religious [dogma](/about/dogma), Spiritism does not demand blind
-[faith](/about/faith); on the contrary, it asks students to always use reason
-and good sense, and to ask questions.  It also tells us why we should strive for
-an ethical way of living.
+Ao contrário de qualquer [dogma](/sobre/dogma), o Espiritismo não exige [fé
+cega](/sobre/fé); pelo contrário, ele pede aos alunos para sempre usar a razão e
+bom senso, e para fazer perguntas.  Ele também nos diz por que devemos lutar por
+uma maneira ética de viver.
 
-Spiritism proves the existence of God, God’s laws and God’s role in our lives
-not with myth, fear and ritual, but under the lights of [science and
-philosophy](../science-philosophy-religion).
+O Espiritismo prova a existência de Deus, as leis de Deus e o papel de Deus em
+nossas vidas não com mito, medo e ritual, mas as luzes da [ciência e
+filosofia](.. /ciência-filosofia-religião).
 
+## Por que estudar o Espiritismo?
+Não há um momento em nossas vidas em que não precisamos de respostas. A vida está cheia de
+obstáculos e sofrimento que fazem parecer que estamos sozinhos, indefesos e vivendo
+uma vida inútil.  Nos tempos de grande tragédia e perda em nossas vidas somos
+cheio de dúvida sobre a existência de Deus, a vida após a morte e se tentando ser
+uma pessoa melhor tem qualquer recompensa real ou é apenas loucura idealista.
 
-## Why study Spiritism?
-There isn’t a time in our lives when we don’t need answers. Life is filled with
-obstacles and suffering that make it seem like we are alone, helpless and living
-a pointless life.  In the times of great tragedy and loss in our lives we are
-filled with doubt about the existence of God, the afterlife and if trying to be
-a better person has any real reward or is just idealist folly.
+O Espiritismo é uma ferramenta crítica para a vida, para quem olha para a vida humana,
+suas próprias vidas, e ousa perguntar por quê.
 
-Spiritism is a critical tool for living, for anyone who looks at human life,
-their own lives, and dares to ask why.
+## As Obras Essenciais
+A base do Espiritismo consiste em [5 livros geralmente chamados de espíritas
+Codificação](.. /codificação) colocada em papel pelo educador francês [Allan
+Kardec](/bio/allan-kardec) na década de 1850.  Estes livros contêm detalhados
+explicações sobre [espíritos](/sobre/espírito) e [mediumistic
+fenômenos](.. /medirismo), [as leis que Deus criou](/divinas-leis) para a nossa
+crescimento espiritual, a metodologia dos ensaios diários da vida, os diferentes níveis
+da evolução espiritual, uma redescoberta das verdades éticas mal compreendidas ensinadas por
+[Jesus] (/sobre/jesus), detalhes de como o universo e espíritos foram criados e
+o que Deus tem reservado para todos nós.
 
-## The Essential Works
-The base of Spiritism consists of [5 books usually called the Spiritist
-Codification](../codification) put to paper by the French educator [Allan
-Kardec](/bio/allan-kardec) in the 1850s.  These books contain detailed
-explanations regarding [spirits](/about/spirit) and [mediumistic
-phenomena](../mediumship), [the laws God created](/divine-laws) for our
-spiritual growth, the methodology of life’s daily trials, the different levels
-of spirit evolution, a rediscovery of the misunderstood ethical truths taught by
-[Jesus](/about/jesus), details of how the universe and Spirits were created and
-what God has in store for all of us.
+Desde a década de 1850 até os tempos atuais [milhares de livros](/livros) têm e
+continuar a ser publicado sobre o Espiritismo e todas as suas implicações em cada
+aspecto da vida moderna da psicologia humana à pesquisa genética.  A maioria dos livros são
+transcrito por um [meio espírita](/sobre/meio) e vem de [superior
+espíritos](/sobre/espírito superior) no nobre serviço de Deus.
 
-Since the 1850s until present times [thousands of books](/books) have and
-continue to be published about Spiritism and all its implications in every
-aspect of modern life from human psychology to genetic research.  Most books are
-transcribed by a [Spiritist medium](/about/medium) and come from [superior
-spirits](/about/superior-spirit) in the noble service of God.
+## Onde praticar?
+O estudo da codificação espírita é mais eficaz quando feito em grupos de
+indivíduos de mente semelhante em um [Centro Espírita](.. /centros).
 
-## Where to Practice?
-The study of the Spiritist codification is most effective when done in groups of
-like-minded individuals in a [Spiritist Center](../centers).
+O objetivo do estudo não é apenas responder às perguntas das pessoas, mas também
+incentivar fazer perguntas e compartilhar as conclusões que cada indivíduo chega
+do material estudado.  Nenhum desses benefícios pode ser alcançado se o
+o aluno está sozinho durante as sessões de estudo.
 
-The purpose of the study is not just to answer people’s questions but also to
-encourage asking questions and sharing the conclusions each individual reaches
-from the studied material.  None of these benefits can be achieved if the
-student is alone during the study sessions.
+Para obter mais informações, verifique o artigo [Como Praticar](.. /como praticar).
 
-For more information, check the [How to Practice article](../how-to-practice).
+## Comportamento Esperado
+Abaixo, fornecemos algumas informações sobre as mudanças essenciais no
+comportamento uma pessoa desejando melhorar sua vida cocho Espiritismo deve ter.
 
-## Expected Behaviour
-Below, we provide some information regarding the essential changes in the
-behaviour a person desiring to improve their life trough Spiritism should have.
+### Estudos Reflexivos
+Também é altamente recomendável que os estudos sejam aplicados
+[reflexivamente] (/sobre/estudo reflexivo) Essencialmente, devemos assumir que cada
+informação que lemos foi oferecido a nós pelo [espiritual
+mentores](/sobre/espiritual-guia) para nossa própria autoaperfeiçoamento.
 
-### Reflexive Studies
-It is also highly recommended that the studies are applied
-[reflexively](/about/reflexive-study) Essentially, we should assume that every
-information we read was offered to us by the [spiritual
-mentors](/about/spiritual-guide) for our own self-improvement.
+Por exemplo, lendo romances como [Paul e
+Stephen](/livros/paul-and-stephen) ou [Memórias de um
+Suicídio](/livros/memórias-de-suicídio), deve-se pensar como eles agiriam se
+eles estavam nessa situação.
 
-For example, by reading romances like [Paul and
-Stephen](/books/paul-and-stephen) or [Memoirs of a
-Suicide](/books/memoirs-of-a-suicide), one should think how they would act if
-they were on that situation.
+### Crescimento Pessoal
+Em termos de crescimento pessoal, trabalhar em grupos é essencial. Espíritos são
+encorajado a não só estudar a [Codificação](.. /codificação) em si, mas
+também conhecendo, entendendo e _praticando_ as [virtudes essenciais](/virtudes)
+a fim de respeitar, viver e amar as [leis divinas](/leis divinas) associadas a
+Eles.
 
-### Personal Growth
-In terms of personal growth, working in groups is essential. Spiritits are
-encouraged to not only study the [Codification](../codification) itself, but
-also knowing, understanding and _practicing_ the [essential virtues](/virtues)
-in order to respect, live and love the [divine laws](/divine-laws) associated to
-them.
+Por exemplo, [a Lei da Sociedade](/divine-laws/sociedade) significa que apenas por
+compartilhar, ajudar os outros e receber o mesmo pode qualquer aprendizado ser aplicado.
 
-For example, [the Law of Society](/divine-laws/society) means that only by
-sharing, helping others and receiving the same can any learning be applied.
+### Gerenciando Conflitos
+Os obstáculos, julgamentos e conflitos que podem resultar de grupos são críticos para
+praticando [indulgência](/virtudes/indulgência), cooperação, consciência e
+aprendendo com os outros.
 
-### Handling Conflicts
-The obstacles, trials and conflicts that can result from groups are critical to
-practicing [indulgence](/virtues/indulgence), cooperation, awareness and
-learning from others.
+E certamente [caridade](/virtudes/caridade), [compaixão](/virtudes/compaixão) e
+[amor] (/virtudes/amor) não pode ser aprendido, ensinado ou praticado em um ambiente
+de isolamento, e essas três virtudes são vitais para qualquer progresso pessoal.
 
-And certainly [charity](/virtues/charity), [compassion](/virtues/compassion) and
-[love](/virtues/love) cannot be learned, taught or practiced in an environment
-of isolation, and these three virtues are vital to any personal progress.
+### Medindo seu Progresso
+Em cada vida chega um momento em que nos encontramos forçados a
+confrontar nossas falhas e limitações éticas. Para a maior parte deste momento é cumprido
+inicialmente com raiva, então contemplação, dúvida e, finalmente, resignação que
+autoaperfeiçoamento está além do seu alcance.
 
-### Measusing Progress
-In every life there comes a moment(s) in which we find ourselves forced to
-confront our faults and ethical limitations. For most this moment is met
-initially with anger, then contemplation, doubt and finally resignation that
-self-improvement is beyond their reach.
+O que não percebemos é a imensa importância desses momentos. Como nós
+continuar através do longo caminho da evolução intelectual e ética todos nós todos nós
+chegar a muitos momentos de impasse. Esses impasses evolutivos vêm quando estamos
+incapaz de reconhecer nossas falhas pessoais e/ou falta de clareza, disposição ou
+método para mudar essas falhas. Como humanos e como espíritos vivemos em um irônico
+paradoxo, cada aspecto de nossa existência é baseado na mudança, mas parece que
+instintivamente desprezar a mudança.
 
-What we do not realize is the immense importance of these moments. As we
-continue through the long path of intellectual and ethical evolution we all
-reach many moments of impasse. These evolutionary impasses come when we are
-unable to recognize our personal faults and/or lack the clarity, willingness, or
-method for changing these faults. As humans and as spirits we live in an ironic
-paradox, every aspect of our existence is based on change yet we seem to
-instinctively despise change.
+Para que sejamos estimulados a lidar com esses impasses, nós repetidamente
+escolher julgamentos e obstáculos em nossas reencarnações para que sejamos forçados a novamente
+enfrentar essas falhas e novamente se esforçar para a mudança necessária. Então, quando uma pessoa
+chega a um desses momentos e escolhe permanecer inalterado eles se tornam o
+autores de sua própria tragédia. Colocando-se mais uma vez no ciclo de
+julgamento, erro, contemplação, estagnação e, em seguida, escolher tentar novamente com
+julgamentos ainda mais difíceis na próxima reencarnação.
 
-In order for us to be spurred on to deal with these impasses we repeatedly
-choose trials and obstacles in our reincarnations so that we are forced to again
-face these faults and again strive to the needed change. So when a person
-reaches one of these moments and chooses to remain unchanged they become the
-authors of their own tragedy. Placing themselves once again in the cycle of
-trial, mistake, contemplation, stagnation and then choosing to try again with
-even tougher trials in the next reincarnation.
+Através da autoavaliação nós nos fornecemos uma ferramenta que podemos usar todos os dias para
+ajudar a obter clareza quanto às nossas falhas e virtudes, fracassos e sucessos e como
+no que precisamos nos concentrar para melhorar. Um excelente exercício de avaliação
+é tomar meia hora a cada noite, encontrar um espaço isolado tranquilo, meditar e
+começar a se fazer uma série de perguntas como:
+" Aprendi alguma coisa hoje?" 
+" Eu machuquei alguém hoje?" 
+" Eu ajudei alguém hoje?" 
+" Eu fiz alguma coisa altruísta hoje?" 
+" Eu fiz um amigo hoje?" 
+" Eu fiz um inimigo hoje?" 
+" Tentei fazer as pazes com alguém que errei hoje?" 
+" Eu mostrei compaixão hoje?" 
+" Como eu tratei minha família hoje?" 
+" Como eu tratei meus amigos e colegas de trabalho hoje?" 
+" Como eu tratei estranhos hoje?" 
+* "Que erros eu cometi hoje?".
 
-Through self evaluation we provide ourselves a tool that we can use every day to
-help gain clarity as to our faults and virtues, failures and successes and as
-what we need to concentrate on to improve. An excellent exercise in evaluation
-is to take a half hour every evening, find a quiet secluded space, meditate and
-start to ask yourself a series of questions like the ones below.
+É importante ser honesto em responder a essas perguntas e deixar as respostas serem
+seu guia para o dia seguinte. Além disso, pode ser útil manter um diário ou
+diário semanal para escrever seus pensamentos, ideias, perguntas e gravar o seu
+Progresso.
 
-* “Have I learned anything today?” 
-* “Have I harmed anyone today?” 
-* “Have I helped anyone today?” 
-* “Have I done anything unselfish today?” 
-* “Have I made a friend today?” 
-* “Have I made an enemy today?” 
-* “Have I tried to make amends to someone I wronged today?” 
-* “Have I shown compassion today?” 
-* “How did I treat my family today?” 
-* “How did I treat my friends and coworkers today?” 
-* “How did I treat strangers today?” 
-* “What mistakes have I made today?”.
+## Estudando Sozinho
+E se você não tiver acesso a um [Centro Espírita](.. /centros)?
 
-It’s important to be honest in answering these questions and let the answers be
-your guide for the next day. In addition it might be useful to keep a daily or
-weekly journal to write down your thoughts, ideas, questions and to record your
-progress.
+Se grupos de estudo ou Centros Espíritas estão fora de alcance ou você deseja
+começar a estudar só a codificação aqui estão algumas sugestões:
 
-## Studying Alone
-What if you don't have access to a [Spiritist Center](../centers)?
+* Antes de cada sessão de estudo encontrar uma maneira de relaxar, você pode
+  fazer qualquer coisa que você encontrar eficaz como orar ou meditar é com
+  você.
+* Escolha um lugar tranquilo para estudar, um longe de distrações como TVs,
+  rádios ou Pessoas. E tente realizar todas as sessões de estudo naquele mesmo
+  lugar.
+* Comece estudando O Livro dos Espíritos, depois O Livro dos Médiuns e, em
+  seguida, o Evangelho De acordo com o Espiritismo. Os dois últimos livros podem
+  ser estudados em que ordem você deseja.
+* Estude cada livro em pequenas seções. Com o Livro dos Espíritos, por exemplo,
+  não revisar mais de 2 perguntas de cada vez. É importante que o tempo seja
+  levado para pensar sobre o que está sendo lido e chegar conclusões ou chegar a
+  mais perguntas pessoais.
+* Tenha um livro de notas como parte de suas sessões de estudo. Escreva todas as
+  suas ideias, comentários, conclusões e perguntas sobre cada parte dos livros
+  como você lê Eles.
+* Se você está confuso por uma parte do que você está lendo, primeiro tente
+  lê-lo mais de uma vez, qualquer palavra que você pode ser confundido pode ser
+  olhado para cima em um dicionário, e se isso não funcionar, pule para a
+  próxima seção e venha de volta a ele mais tarde.
+* Realisticamente, mesmo se você tenha estudado a codificação por si mesmo, você
+  vai eventualmente tem que encontrar como indivíduos conscientes, a fim de
+  ganhar um mais profundo compreensão das muitas ideias trazidas nesses
+  trabalhos. Mesmo que você não são espíritas, nem nunca pretendem se tornar um.
+  Você pode encontrar um espírita Centro perto de você e junte-se ao seu grupo
+  de estudo. Esses grupos de estudo estão abertos a todos e, claro,
+  gratuitamente.
 
-If study groups or Spiritist Centers are out of reach or you wish to begin study
-of the codification alone here are some suggestions:
-
-* Before each study session find a way to relax, you can do anything you find
-  effective like pray or meditate it is up to you.
-* Pick a quiet place to study, one far from distractions like TVs, radios or
-  people. And try to hold every study session in that same place.
-* Begin by studying The Spirits’ Book, then The Mediums Book and then the Gospel
-  According To Spiritism. The last two books can be studied in what ever order
-  you wish.
-* Study each book in small sections. With the Spirits Book for example don’t
-  review more than 2 questions at a time. It is important that time be taken to
-  think about what is being read and reach conclusions or come up with more
-  personal questions.
-* Have a note book as part of your study sessions. Write down all your ideas,
-  comments, conclusions and questions about each part of the books as you read
-  them.
-* If you are confused by a part of what you are reading, first try reading it
-  more than once, any words that you might be confused about can be looked up in
-  a dictionary, and if that does not work, skip on to the next section and come
-  back to it later.
-* Realistically even if you have studied the codification by yourself, you will
-  eventually have to find like minded individuals in order to gain a deeper
-  understanding of the many many ideas brought forth in these works. Even if you
-  are not a Spiritist, nor ever intent to become one. You can find a Spiritist
-  Center near you and join it’s study group. Such study groups are open to
-  everyone and of course free of charge.
-
-– If you are serious about the study of these books understand that even in
+If you are serious about the study of these books understand that even in
 study groups each book of the codification is studied more than once. Each time
 they are studies something new will be learned.
 
-## Gospel at Home
-The [Gospel at Home](../gospel-at-home) is another essential and very important
-tool for practicing and studying Spiritism. It is a moment for the family to get
-together, learn and connect with their [spiritual
-guides](/about/spiritual-guide).
+## Evangelho em Casa
+O [Evangelho em Casa](.. /gospel-em-casa) é outro essencial e muito importante
+ferramenta para praticar e estudar Espiritismo. É um momento para a família conseguir
+juntos, aprender e conectar com seu [espiritual
+guias](/sobre/guia espiritual).
 
-Read the [Gospel at Home](../gospel-at-home) section to understand more.
+Leia sobre o [Evangelho em Casa](.. /gospel-em-casa) para entender mais.
 
-## Get Started
-Ready to get started?  
+## Pronto para começar?  
+Confira nossa [seção interativa sobre como começar](/começar).
 
-Check our [interactive section on how to get started](/get-started).
-
-
-## Source
+## Fonte
 Article adapted from [SGNY: Practices for improving the medium and their mediumship](https://www.sgny.org/spiritism-guide/mediumship/mediumship-improvement/)
 
-## See Also
-[Learn Spiritism](../learn)   
-[Spiritism - FAQ](../faq)  
-[What is Spiritism](../about)  
-[How to Practice](../how-to-practice)  
-[Spiritism - Science, Philosophy and Religion](../science-philosophy-religion)  
-[Spiritist Centers](../centers)  
+## Veja Também
+[Conheça o Espiritismo](../learn)   
+[Espiritismo - FAQ](../faq)  
+[O que é o Espiritismo](../about)  
+[Como praticar](../como praticar)  
+[Espiritismo - Ciência, Filosofia e Religião](../ciência-filosofia-religião)  
+[Centros Espíritas](../centros)  
 
 

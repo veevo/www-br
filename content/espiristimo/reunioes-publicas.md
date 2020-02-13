@@ -1,51 +1,43 @@
 ---
-title: Public Meetings
-description: Spiritist Centers offer public meetings where the public is invited to discuss the Spiritist Doctrine.
+title: Reuniões Públicas
+description: Centros Espíritas oferecem reuniões públicas onde o público é convidado a discutir a Doutrina Espírita.
 date: "2019-01-01"
 weight: 102
 topics:
-- spiritist-centers
+- centro-espirita
 ---
 
-Public meetings are meetings in which one person (or two) speaks to an audience
-about a topic, often of a [Gospel](/gospel)-related theme.
+Reuniões públicas são reuniões em que uma pessoa (ou duas) fala com uma
+audiência sobre um tema, muitas vezes de um tema relacionado [Gospel](/gospel).
 
-Normally, one such meeting is held at least one day per week, but they may be
-held on multiple days or multiple times in one day, depending on the size of the
-center.  In addition, there may be similar meetings held at other times as well,
-in which the topic is of a different nature, but within the scope and teachings
-of [Spiritism](/spiritism).
+Normalmente, uma reunião desse tipo é realizada pelo menos um dia por semana,
+mas eles podem ser realizada em vários dias ou várias vezes em um dia,
+dependendo do tamanho do Centro. Além disso, pode haver reuniões semelhantes
+realizadas em outros momentos também, em que o tema é de natureza diferente, mas
+dentro do escopo e ensinamentos de [Espiritismo](/Espiritismo).
 
-## Lecturers
-Those who perform such lectures are not ordained or "certified" preachers, but
-rather those who have studied Spiritism well, and as such, are prepared and
-willing to share their knowledge with others.  
+## Palestrantes
+Aqueles que realizam tais palestras não são pregadores ordenados ou
+"certificados", mas em vez daqueles que estudaram bem o Espiritismo, e como tal,
+estão preparados e dispostos a compartilhar seus conhecimentos com os outros. 
 
-Lecturers are scheduled in advance and are assigned a topic for which they must
-prepare before presenting.  
+Os palestrantes são agendados com antecedência e são atribuídos um tópico para o
+qual eles devem preparar antes de apresentar. 
 
-Often times, guest lecturers from other centers are called in to speak, either
-at regularly scheduled meetings or at special seminars.
+Muitas vezes, professores convidados de outros centros são chamados para falar,
+ou em reuniões regularmente agendadas ou em seminários especiais.
 
-## Fluidic Therapy Session
-Following the regular public meetings, a [fluidic therapy
-session](../fluidic-therapy) is usually held for those who wish to participate.  
+## Sessão de Terapia Fluida
+Após as reuniões públicas regulares, uma [terapia fluida sessão](.. /terapia
+fluida) geralmente é realizada para quem deseja participar. 
 
-These meetings are an excellent way for those who are new to
-[Spiritism](/spiritism) to learn more about what it teaches and what the
-Spiritist center is like.  
+Essas reuniões são uma excelente maneira para aqueles que são novos para
+[Espiritismo] (/Espiritismo) para aprender mais sobre o que ensina e o que o
+Centro espírita é como. 
 
-For those who are not new, it is a great way to come together, fraternally, with
-others who share the same beliefs and common goals.  
+Para aqueles que não são novos, é uma ótima maneira de se unir, fraternalmente,
+com outros que compartilham as mesmas crenças e objetivos comuns. 
 
-For all participants, it is a valuable resource for education and lessons that
-help us in our efforts toward inner reform and growth, as well as a source of
-harmonizing energy offered through the fluidic therapy sessions. 
-
-## See Also
-[Fluidic Therapy](../fluidic-therapy)  
-[Children's and Youth Studies](../children-youth-studies)  
-[Class and Study Groups](../study-groups)  
-[Mediumship Sessions](../mediumship-sessions)  
-[Fraternal Assistance](../fraternal-assistance)  
-[Community Outreach](../community-outreach)  
+Para todos os participantes, é um recurso valioso para a educação e lições que
+ajudar-nos em nossos esforços para a reforma interna e crescimento, bem como uma
+fonte de harmonizando a energia oferecida através das sessões de terapia fluida. 

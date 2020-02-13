@@ -1,439 +1,453 @@
 ---
-title: The History of Spiritism
-description: Understand the history of Spiritism.
+title: A História do Espiritismo
+description: Entenda a história do Espiritismo.
 date: "2019-01-01"
 topics:
-- spiritistm
-- death
-- turning tables
-- human being
-- perispirit
+- espiritismo
+- morte
+- mesas-girantes
+- ser-humano
+- perispírito
 ---
 
-By the year 1848, several strange phenomena were gaining notoriety in the United
-States, consisting in noises, raps and movement of objects with no apparent
-cause.  They would happen spontaneously, several times, with a characteristic
-intensity and frequency.
-
-However, it soon became clear that these phenomena could also occur through the
-presence of certain people whom were known as ”mediums”.
-
-These people could provoke the phenomena at will, making experiments possible.
-Such experiments were made using tables, not because these objects are more
-favorable than others, but because they were more convenient, movable, and
-because it was easier to sit around them than any other furniture.
-
-## Turning Tables In this way the rotation of tables was achieved, and
-subsequently, movements in all directions: jumps, turns, fluctuations, violent
-strokes etc.  These phenomena were originally called ‘table dancing’ or ‘table
-turning’.
-
-Initially the facts could be perfectly explained by the action of an electric or
-magnetic current or unknown kind of fluid, and such was the first formed
-explanation.
-
-But within a short time, intelligent effects were recognized in them, such that
-the movement obeyed the will.  The table could move to the right or to the left,
-toward some certain person, it could stand on one or two feet upon command,
-knock the ground a number of ordered times, knock regularly, etc.
-
-## An Intelligent Cause It was clear that the cause was not purely physical and,
-based upon the principle: ”To every effect a cause is associated, to every
-intelligent effect there is an intelligent cause”, an intelligence was appointed
-as the cause.
-
-However, what was the nature of this intelligence? Such was the question.
-Initial impressions were that it could be the reflection of the medium’s
-intelligence or of his assistants.  But experience soon disproved this, since
-responses totally alien to the thought and knowledge of the present people and
-even in opposition to their ideas, wills or desires were obtained.
-
-Therefore this intelligence could only belong to an invisible being.  The way to
-ascertain this was quite simple: a discussion with such entity sufficed.  A
-conventional number of knocks to signify a yes or no answer or to designate
-alphabetical letters was created and, in this way, several chosen questions
-obtained answers.
-
-## Talking Tables This phenomenon was called [_talking
-tables_](/about/talking-tables).  Interrogated in this way about their nature,
-all the beings declared themselves to be spirits and belonging to an [invisible
-world](/about/spiritual-world). 
-
-As the phenomena were produced in different locations, through several different
-people and observed by serious and intelligent people, it was not possible they
-were an illusion.
-
-From America the phenomena spread to France and the rest of Europe, where the
-talking and turning tables were the rage and became a means of entertainment in
-public halls. But when people began to tire of them, they turned their attention
-toward other things.
-
-## A new phenomena However, within a short time, the phenomenon presented itself
-under a new aspect that removed it from the domain of a simple curiosity. But
-the facts encountered many opponents.  Some of them, without taking into account
-the integrity and impartiality of their investigators, would only consider the
-phenomena as a fraud or a clever subtlety. Those who did not admit to anything
-but matter, who did not believe in the invisible world, who thought that
-everything finds its end in the death of the body, the materialists, in one
-word, the so called strong spirits, they moved the existence of the invisible
-spirits to the field of absurd tales. 
-
-They considered those who took the subject seriously as crazy, and treated them
-with sarcasms and mockeries.  Others who could not deny the facts and under the
-influence of certain ideas, considered the phenomena an exclusive action of the
-devil, trying, therefore, to frighten the timid.  However, today fear of the
-devil has lost its popularity. In fact the subject became so popular and was
-portrayed in so many ways that people got used to the idea, and many believed
-that this was the time to find out what it really was. Aside from a few timorous
-women, the communication of the true devil’s arrival was somewhat malicious for
-those who had seen it only in pictures or in the theater. 
-
-For many it was a powerful impulse and they tried to rise barriers against the
-new ideas.  By doing so they involuntarily initiated an opposite reaction, and
-so became the propagators of the ideas; the louder they cried the more efficient
-they were. Other critics were also unsuccessful since the facts, carefully
-verified by clear reasoning, provided only denials. When their publications are
-analyzed the testimony of the ignorance and the lack of serious observation of
-the facts are encountered everywhere.  Nowhere can one find a positive
-demonstration of their impossibility. All of their argumentation are summed up
-by the claims: ”I do not believe, therefore, it does not exist. All those who
-believe are crazy. 
-
-Only we have the privilege of reason and sound judgment.” The number of
-believers resulting from the serious or comical criticisms was immense, because
-only private opinions are found in them which are devoid of disproof. 
-
-## A new form of communication The communication through raps was rather slow
-and incomplete. It was discovered that, by attaching a pencil to a movable
-object (such as a basket, a small board or a similar item, on which the fingers
-could be placed), the object would begin to move and make signs. Later it was
-discovered that such objects were only dispensable accessories. 
-
-Experience has shown that the spirit who acted upon a unanimated body could in
-the same way control the arms or the hands and lead the pencil. Writing mediums
-then appeared, that is, people who could write in an involuntary manner under
-the impulse of the spirits, being their interpreters and instruments.
-Thenceforth the communications had no limits, and the exchange of thoughts was
-as fast and easy as among the living.  It was a vast field opened to
-exploration, the discovery of a new world: the world of the invisible, very much
-the same as the microscope has unveiled the world of the infinitely small.
-
-## The first contacts Who are these spirits? What is their role in the Universe?
-What is their reason for communicating with the mortals?  Such were the first
-questions demanding explanation. The spirits soon revealed that they were not
-apart from creation, but were instead the very souls of those who had lived on
-the earth or on other worlds. After having left their corporeal envelopes, they
-populate and fly through the space. 
-
-There was no room for doubt when friends and relatives were recognized among
-them, furnishing proofs of their existence when interrogated.  They came to
-demonstrate that death was only for their bodies, that their souls or spirits
-continue to live, that they are very near us, that they can see us very much
-like when they were alive.  They kindly watch over those whom they loved and
-whose memories very much please them.
-
-## A false idea In general we make a completely false idea of the spirits. They
-are not abstract or vague beings as many would imagine. Also they are not a
-glaring radiance or a spark, but are rather very real, having their own
-individuality and definite form. We can have a approximate idea of them
-according to the following explanation.
-
-## The essence of the human being There are three essential things in human
-beings:
-
-* 1 - The soul or the spirit, the intelligent principle where the thoughts, will
-  and moral sense are found. 
-* 2 - The body, the material envelope, weighty and rough. The body enables the
-  spirit relate with the material world. 
-* 3 - The perispirit, the light fluidic envelope, which is the intermediary
-  bound between the spirit and the body.
-
-## What is death?  When the exterior covering is threadbare and can no more
-work, the spirit get rid of it, like the fruit liberates itself from the shell
-or as one forsake a clothing which is no longer useful. That is what we call
-[death](/about/death).
-
-Therefore, death is simply the destruction of the crude shell of the spirit;
-only the body dies, not the spirit.  During life, the spirit is somewhat limited
-by the material links of matter to which it is bounded.  These limits can many
-times neutralize its faculties, and the body’s death liberates it from such
-bounds setting it free (like the butterfly from its cocoon). 
-
-## Spirit and Perispirt But the [spirit](/about/spirit) gives up only the
-material body, keeping the [perispirit](/about/perispirit) which is a kind of
-ethereal body, vaporous and very subtle to us. It has the human form which seems
-to be the standard one.  In its normal state, the
-[perispirit](/about/perispirit) is invisible, but the spirit can make certain
-changes upon it so as to render it temporarily visible or able to be touched,
-similar to what happens to condensed vapor. 
-
-In this manner, the spirits can sometimes appear to us during apparitions. By
-using the [perispirit](/about/perispirit), the spirit can act upon matter and
-produce several phenomena of raps, movements, writing etc.
-
-## Calling our attention Raps and movements are a way for the spirits to testify
-their presence and to call our attention, like a person may do to make others
-notice oneself. Some of them do not limit themselves to make moderate noises,
-but instead produce a row of breaking dishes, of opening and closing doors or
-disordered furnitures.
-
-Through knocks and combined movements they are able to express their thoughts,
-but writing, which they prefer, offers them the most complete, convenient and
-fastest way. As they can make marks, so they also can lead the hands to drawn,
-write music or play a piece in a musical instrument.  In few words, because they
-lack physical bodies, they use a medium to manifest themselves to the human in a
-sensible way.
-
-## Seeing Spirits Spirits can also manifests themselves in several other ways,
-including through vision and audition.  Certain people called hearing mediums,
-have the capacity to listen to spirits and they can, therefore, talk to them.
-Others, the seeing mediums can see them. Spirits which generally manifest
-themselves visually appear in the same way as when they were alive, although in
-a vaporous way. 
-
-On other occasions, this form is so similar to a living being that it appears to
-be almost a complete delusion.  They have sometimes been taken to be flesh and
-blood humans which people talked to and shook hands without even suspecting they
-were spirits, except for their later sudden disappearance.
-
-The permanent and general capacity to see spirits is rare, but individual
-apparitions specially at the moment of death, are very common. The released
-spirit seems to hurry to see its relatives and friends again, as if it wished to
-show them that it has just left the earth but wants to tell them it is still
-alive.
-
-## Supernatural?  By gathering individual recollection, many authentic but until
-then unnoticed facts can be considered as having happened not only at night
-during sleep, but during the day in the most complete state of wakefulness.  In
-the past, these facts were considered as marvelous and supernatural and were
-placed in the domain of wizardry and witchcraft. Today, however, the incredulous
-attribute them to imagination and we, since the [spiritist science](/spiritism)
-has given us the key, know how to produce them and that they do not leave from
-the normal phenomenological order.
-
-## Superior Wisdom?  It's important to also understand that the spirits, just
-because they are spirits, should not be understood to have supreme knowledge and
-wisdom; this is a mistaken understanding that experience did not delay to prove. 
-
-Among the spiritual communications, there are those which are rich in sublime
-profundity, eloquence, wisdom and [morals](/virtues) and reflect only good and
-[benevolence](/virtues/benevolence). Others, however, are extremely vulgar,
-futile, trivial and even rough.  Through these messages the spirits reveal their
-most perverted instincts. It is clear that they can not come from the same
-source and that, if there are good spirits, there are also bad ones. Since the
-spirits are only the very souls of the human, they can not turn into perfect
-beings after leaving their bodies. 
-
-They keep the imperfections of their corporeal lives until final improvement.
-Therefore, in their messages, we see all degrees of goodness and badness, of
-wisdom and ignorance.
-
-## Learning with the Spirits The spirits are generally happy to communicate and
-are very satisfied to know that they were not forgotten.  They gladly describe
-their impressions after leaving the earth, their new situation, the origin of
-their happiness and suffering in their new world. Some are happy, others are
-unhappy, suffering terrible torments according to the way in which they lived
-and the good or bad use they made of their lives. 
-
-By watching them in all phases of their new lives, paying attention to the
-positions they occupied on earth, their types of death, their characters and
-behaviors as human beings, we can come to a sufficiently accurate, if not
-complete, knowledge of the [invisible world](/about/spiritual-world). Such
-knowledge enables us the explanation of our future state and to foresee the
-happy or sad destiny that waits for us there.
-
-## Spiritism - a new Doctrine The instructions given by [superior
-spirits](/about/superior-spirit) regarding every subject of interest to
-humankind and their answers regarding the proposed questions were carefully
-gathered and organized. Together they constitute a whole
-[science](/spiritism/science), a [moral](/spiritism/moral) and
-[philosophical](/spiritism/philosophy) doctrine called Spiritism.
-[Spiritism](/spiritism) is, therefore, the doctrine founded upon the existence,
-manifestations and teachings of the spirits. 
-
-This doctrine is fully exposed in [The Spirits’ Book](/books/spirits-book) with
-regard to its philosophical aspect.  Its practical and experimental aspect is
-contained in [The Mediums’ Book](/books/mediums-book), while the moral aspect is
-contained in [The Gospel according to
-Spiritism](/books/gospel-according-spiritism). 
-
-Through the analysis we make here, one can access the variety, extension and
-importance of the subjects covered by the doctrine.
-
-As we have seen, Spiritism had its beginning in the common phenomena of the
-[turning tables](/about/turning-tables). But since facts speak more to the eyes
-than to the intellect, giving rise more to curiosity than to feelings, the
-interest in them disappears with curiosity in face of the lack of any sensible
-explanation. The situation changed when a theory came to explain cause, when it
-was realized that an entire moral doctrine sprang from those dancing tables with
-which so many had such a happy time for a short while. 
-
-## The expansion of Spiritism This doctrine speaks to the [soul](/about/soul);
-it dissipates the distress of doubts and satisfies the desire for a complete
-explanation of the future of humankind that was previously left in the vacuum.
-Serious people received the new teachings as a helpful doctrine and, since then,
-instead of declining, it quickly spread.  Within a few years it encountered
-support worldwide, especially among enlightened people. 
-
-The number of supporters increases daily and one can say that today Spiritism
-has obtained its ”right of citizenship”.  It is founded on bases which challenge
-the effort of its opponents who are more or less interested in its denial. 
-
-The proof is that the attacks and criticisms could not delay its march for even
-a moment.  Its opponents could never explain this simple fact. For the
-Spiritists, if it continues to propagate in spite of its criticism, it is
-because Spiritism is good and the way of its reasoning is better than of its
-opponents.
-
-## The roots of Spiritism Spiritism, however, is not a modern discovery. The
-facts and principles upon which it is based were lost in the night of the times,
-since one can find its tracks in the beliefs of all people, in all religions and
-in the majority of sacred and profane writers. But such facts neither were
-properly considered nor their consequences completely deduced, they were instead
-interpreted according to the superstitious ideas of the ignorant.
-
-In fact, Spiritism is founded on the existence of the spirits. As the spirits
-are only the souls of people and since there were always people, Spiritism could
-not have invented or created the spirits.  If the souls or spirits can manifest
-themselves to the living, this is a natural fact that, therefore, has always
-been so since the beginning of time. Therefore in any place or time one can find
-proofs of such intense manifestations, especially in the [Biblical
-texts](/gospel).
-
-The logical explanation of the facts, the more complete knowledge of the spirit
-nature, of their role and way of action, the revelation of our future state and
-finally the gathering of these facts into a scientific and doctrinal body are,
-however, modern. The ancient knew its principles, while modern individual knows
-its details. In past times the study of these phenomena was a privilege within
-certain castes and were revealed only to their initiates. In the middle ages,
-those who ostensibly dealt with them were considered warlocks and were therefore
-burned at the stakes. 
-
-The very doctrine that the spirits teach today is not new. It can be found in
-fragments of the greatest philosophers from India, Egypt and Greece, and
-entirely in the teachings of [Christ](/about/jesus). 
-
-Today, there is no longer any mystery, no one burns anyone, everything happens
-clearly and everyone is free to learn and practice Spiritism, since there are
-[mediums](/about/medium) everywhere.
-
-## The goal of Spiritism So what is then the goal of Spiritism? It came to give
-new testimonies, to point out, using facts, unknown or not well understood
-truths and to re-establish, in its true sense, misinterpreted ones.
-
-Spiritism teaches nothing new, that is true. But is it not valuable to show, in
-an obvious and irrefutable way, the existence of the soul, its survival over
-body’s death, its immortality, its future punishments and rewards? 
-
-How many believe in such things, but only with weak and hidden thoughts,
-silently wondering: ”And if it were not so?” How many people were brought to
-discredit because they were given a future which their minds could not
-rationally accept? Is it not admirable, then, if the weak believer could say:
-“Now I am sure!”, that the blind could see the light? 
-
-By facts and logic Spiritism dissipates distressing doubts and brings back faith
-to those who had lost it.  It unfolds the existence of the [invisible
-world](/about/spiritual-world) which is around us and in which we unsuspectingly
-live. 
-
-Through the example of the [dead](/about/discarnate), Spiritism shows us our
-happy or sad future condition.  It explains the cause of [earthly
-sufferings](/articles/why-we-suffer) and shows us a way to soften them. Its
-propagation will have as an inevitable effect the destruction of materialist
-doctrines which can no longer resist to its evidence. 
-
-Human beings, convinced of the greatness and importance of their future,
-[eternal life](/about/eternal-life), draw a parallel between it and the
-indefiniteness of the terrestrial life which is so short. 
-
-By their thoughts they elevate themselves above ungenerous human values, and
-realize the cause and reason for their sufferings, which are thereupon viewed by
-them with meekness and endurance because they understand they are a way for
-their improvement. 
-
-The example of [those who come from the beyond](/about/discarnate) to describe
-their joys and pains, demonstrating the reality of the future life shows, at the
-same time, that God’s justice leaves no wickedness without punishment and no
-virtue without reward. 
-
-Finally, we also add that the communication of our dear departed ones brings us
-a sweet consolation, showing not only that they continue to live but also that
-they are less far from us than if they were in a foreign land.
-
-## A source of peace Briefly stating, Spiritism softens the distress of life’s
-sadness, calms the despair and agitation of the soul, dissipates the
-uncertainties and fears of the future and eliminates [suicidal
-feelings](/about/suicide).  At the same time it brings happiness to those who
-believe in it. 
-
-This is the secret of its fast propagation.
-
-## The religious aspect of Spiritism From a religious point of view, Spiritism
-is based on the fundamental truths of every religion: [God](/about/god), the
-[soul](/about/sould), [immortality](/about/immortal-spirit), future punishments
-and rewards. 
-
-It is, however, independent of any particular [cult](/about/cult). Its goal is
-to prove to those who negate soul’s existence that the soul survives after the
-[body](/about/body), that it suffers after [death](/about/death) the
-consequences of the good or evil practiced during its corporeal life. Now then,
-this is common to any religion.
-
-As a belief in the [spirits](/about/spirits), Spiritism is also not different
-from any religion or people, since in any place where there were humans there
-will always be souls or spirits. Its manifestations are natural to all times and
-descriptions can be found in all religions without exception. One can,
-therefore, be a Catholic or Protestant, a Greek or a Roman, a Jew or a Muslim
-and yet believe in the manifestations of the spirits and, consequently, be a
-Spiritist. The fact that Spiritism has adherents from all sects is proof of
-this.
-
-## A moral perspective In a [moral sense](/virtues), Spiritism is essentially
-Christian since it merely teaches the development and application of [Christ’s
-teachings](/gospel), which are the purest of all and whose superiority no one
-contests.  This proves that such teachings are [God’s law](/divine-laws) and
-that it is for everyone.
-
-By being independent of any [cult](/about/cult), Spiritism prescribes none of
-them. It preoccupies itself with no particular dogmas nor is it a religion since
-it has neither priests, pastors nor temples.  It answers those who ask if it is
-of any good to follow such or such practice: If your conscience asks you to do
-it, do it and God always takes into account the intention. 
-
-In essence: [Spiritism](../) imposes itself on no one, it is not intended for
-those who have a faith or whose faith is sufficient, but rather it is for the
-immense majority of unbelievers and insecure. Spiritism does not take these
-unbelievers and insecure out of the Church, as they are morally apart from it
-already. It makes them walk three fourths of the way; it is up to the Church to
-make them walk the rest.
-
-## What Spiritism opposes It is true that Spiritism opposes certain beliefs such
-as [eternal punishments](/about/eternal-punishment), the material fire of
-[hell](/about/hell), the [devil’s personality](/about/devil), etc. 
-
-However, is it not also true that such ideas, imposed as absolute truths, have
-always made and continue to make unbelievers? If, by giving a rational
-explanation for such dogmas, Spiritism brings back faith, is it not helping
-religion? As a venerable ecclesiastic said: 
-
-> ”Spiritism makes one believe in something. Now, is it not better to believe in
-> something rather than absolutely nothing?”.
-
-As the souls are the spirits, one can not deny the existence of the spirits
-without denying the souls.  If one admits to the existence of souls or spirits,
-the question is then reduced to its purest expression: Can the souls of the dead
-communicate with the living? Spiritism proves the affirmative by material facts. 
-
-What proof can be given to the contrary ? If it is so, all negations will not
-impede that it continues to be, since one deals with no system or theory but
-with nature’s law. Now then, humankind’s will is powerless before nature’s law
-and whether one wants to or not, its consequences must be accepted as well as
-human’s beliefs and habits adequate themselves to them.
-
-## Source
-Written by [Allan Kardec](/bio/allan-kardec) in the 1860s, giving his personal explanation of the 
-circumstances that led him to write the Spiritist codification.  
-
-Translated into English by A. L. Xavier Jr. and Carol de Macedo.  
-Based on the essay “O Espiritismo em sua mais simples expressão” by A. Kardec, 2nd ed., FEESP (1989).  
+No ano de 1848, vários fenômenos estranhos estavam ganhando notoriedade nos
+Estados Unidos, consistindo em ruídos, raps e movimento de objetos sem aparentes
+Causa. Eles aconteceriam espontaneamente, várias vezes, com uma característica
+intensidade e frequência.
+
+No entanto, logo ficou claro que esses fenômenos também poderiam ocorrer através do
+presença de certas pessoas que eram conhecidas como "médiuns".
+
+Essas pessoas poderiam provocar os fenômenos à vontade, tornando os experimentos
+possíveis.  Tais experimentos foram feitos usando tabelas, não porque esses
+objetos são mais favorável do que outros, mas porque eles eram mais conveniente,
+móvel, e porque era mais fácil sentar ao redor deles do que qualquer outro
+móvel.
+
+## Mesas giratórias 
+Desta forma, a rotação das tabelas foi alcançada, e posteriormente, movimentos
+em todas as direções: saltos, curvas, flutuações, violento traços etc. Esses
+fenômenos eram originalmente chamados de "dança de mesa" ou "mesa"
+transformando'.
+
+Inicialmente, os fatos poderiam ser perfeitamente explicados pela ação de um
+elétrico ou corrente magnética ou tipo desconhecido de fluido, e tal foi o
+primeiro formado Explicação.
+
+Mas em pouco tempo, efeitos inteligentes foram reconhecidos neles, de tal forma
+que o movimento obedeceu à vontade. A mesa poderia mover-se para a direita ou
+para a esquerda, para alguma pessoa certa, poderia ficar em um ou dois pés sobre
+o comando, derrubar o chão uma série de vezes ordenadas, bater regularmente,
+etc.
+
+## Uma causa inteligente 
+Ficou claro que a causa não era puramente física e, com base no princípio: "A
+cada efeito uma causa está associada, a cada inteligente há uma causa
+inteligente", foi nomeada uma inteligência como a causa.
+
+No entanto, qual era a natureza dessa inteligência? Essa era a questão.
+Impressões iniciais eram de que poderia ser o reflexo do médium
+inteligência ou de seus assistentes. Mas a experiência logo refutou isso, desde
+respostas totalmente estranhas ao pensamento e conhecimento das pessoas presentes e
+mesmo em oposição às suas ideias, testamentos ou desejos foram obtidos.
+
+Portanto, essa inteligência só poderia pertencer a um ser invisível. O caminho
+para verificar isso era bastante simples: uma discussão com tal entidade
+bastada. Um número convencional de batidas para significar uma resposta sim ou
+não ou para designar letras alfabéticas foi criada e, desta forma, várias
+perguntas escolhidas respostas obtidas.
+
+## Mesas Falantes 
+Esse fenômeno foi chamado de [_talking tables_](/sobre/falar mesas).
+Interrogado desta forma sobre sua natureza, todos os seres se declararam ser
+espíritos e pertencer a um [mundo invisível](/sobre/mundo espiritual). 
+
+Como os fenômenos foram produzidos em diferentes locais, através de vários
+diferentes pessoas e observado por pessoas sérias e inteligentes, não era
+possível que eles eram uma ilusão.
+
+Da América, os fenômenos se espalharam para a França e o resto da Europa, onde o
+falar e virar mesas foram a raiva e tornou-se um meio de entretenimento em salas
+públicas. Mas quando as pessoas começaram a cansá-las, eles voltaram sua atenção
+para outras coisas.
+
+## Um novo fenômeno 
+No entanto, em pouco tempo, o fenômeno se apresentou um novo aspecto que o
+removeu do domínio de uma simples curiosidade. Mas os fatos encontraram muitos
+oponentes. Alguns deles, sem levar em conta a integridade e imparcialidade de
+seus investigadores, só consideraria o fenômenos como uma fraude ou uma sutileza
+inteligente. Aqueles que não admitiram nada mas a matéria, que não acreditava no
+mundo invisível, que pensou que tudo encontra seu fim na morte do corpo, os
+materialistas, em um palavra, os chamados espíritos fortes, eles moveram a
+existência do invisível espíritos para o campo de contos absurdos. 
+
+Eles consideraram aqueles que levaram o assunto a sério como loucos, e
+trataram-nos com sarcasmos e zombarias. Outros que não podiam negar os fatos e o
+influência de certas ideias, considerado o fenômeno uma ação exclusiva do diabo,
+tentando, portanto, assustar os tímidos. No entanto, hoje medo do diabo perdeu
+sua popularidade. Na verdade, o assunto tornou-se tão popular e foi retratado de
+tantas maneiras que as pessoas se acostumaram com a ideia, e muitos acreditavam
+que este era o momento de descobrir o que realmente era. Além de alguns
+tiamorosos mulheres, a comunicação da chegada do verdadeiro diabo foi um pouco
+maliciosa para aqueles que tinham visto apenas em imagens ou no teatro. 
+
+Para muitos foi um impulso poderoso e eles tentaram levantar barreiras contra o
+novas ideias. Ao fazê-lo, eles involuntariamente iniciaram uma reação oposta, e
+assim se tornou os propagadores das ideias; mais alto eles choraram o mais
+eficiente eles eram. Outros críticos também não tiveram sucesso desde os fatos,
+cuidadosamente verificado por raciocínio claro, desde negações apenas. Quando
+suas publicações são analisou o testemunho da ignorância e a falta de observação
+séria de os fatos são encontrados em todos os lugares. Em nenhum lugar pode
+encontrar um positivo demonstração de sua impossibilidade. Toda a argumentação
+deles são resumidas pelas alegações: "Eu não acredito, portanto, que não existe.
+Todos aqueles que acredito que são loucos. 
+
+Só que temos o privilégio da razão e do julgamento sonoro." O número de crentes
+resultantes das críticas sérias ou cômicas foi imenso, porque apenas opiniões
+privadas são encontradas neles que são desprovidas de desproof. 
+
+## Uma nova forma de comunicação 
+A comunicação através de raps era bastante lenta e incompleta. Foi descoberto
+que, anexando um lápis a um objeto móvel (como uma cesta, uma pequena placa ou
+um item semelhante, no qual os dedos poderiam ser colocados), o objeto começaria
+para se mover e fazer sinais. Mais tarde foi descoberto que tais objetos eram
+apenas acessórios dispensáveis. 
+
+A experiência mostrou que o espírito que agiu sobre um corpo não animado poderia
+em da mesma forma controlar os braços ou as mãos e liderar o lápis. Meios de
+escrita em seguida, apareceu, ou seja, pessoas que poderiam escrever de forma
+involuntária o impulso dos espíritos, sendo seus intérpretes e instrumentos.
+Thenceforth as comunicações não tinham limites, ea troca de pensamentos foi tão
+rápido e fácil como entre os vivos. Foi um vasto campo aberto para exploração, a
+descoberta de um novo mundo: o mundo do invisível, muito o mesmo que o
+microscópio revelou o mundo dos infinitamente pequenos.
+
+## Os primeiros contatos 
+Quem são esses espíritos? Qual é o papel deles no Universo?  Qual é a razão
+deles para se comunicar com os mortais?  Esse foi o primeiro perguntas exigindo
+explicação. Os espíritos logo revelou que eles não eram além da criação, mas
+foram, em vez disso, as almas muito daqueles que tinham vivido em a terra ou em
+outros mundos. Depois de ter deixado seus envelopes corpóreos, eles povoar e
+voar pelo espaço. 
+
+Não havia espaço para dúvidas quando amigos e parentes foram reconhecidos entre
+eles, fornecendo provas de sua existência quando interrogado. Eles vieram para
+demonstrar que a morte era apenas para seus corpos, que suas almas ou espíritos
+continuar a viver, que eles estão muito perto de nós, que eles podem nos ver
+muito Como quando eles estavam vivos. Eles gentilmente vigiam aqueles que amavam
+e cujas memórias muito agradá-los.
+
+## Uma falsa ideia
+Em geral, fazemos uma ideia completamente falsa dos espíritos. Eles não são
+abstratos ou seres vagos como muitos imaginariam. Também eles não são um brilho
+gritante ou um faísca, mas são bastante real, tendo sua própria individualidade
+e definitivo Forma. Podemos ter uma ideia aproximada deles de acordo com o
+seguinte Explicação.
+
+## A essência do ser humano 
+Há três coisas essenciais nos seres humanos:
+
+* 1 - A alma ou o espírito, o princípio inteligente onde os pensamentos, vontade
+  e o senso moral são encontrados. 
+* 2 - O corpo, o envelope material, pesado e áspero. O corpo permite o
+  espírito se relacionam com o mundo material. 
+* 3 - O perispírito, o envelope fluido de luz, que é o intermediário
+  ligado entre o espírito e o corpo.
+
+## O que é a morte?
+Quando a cobertura exterior é threadbare e não pode mais trabalho, o espírito se
+livrar dele, como o fruto se liberta da concha ou como um abandono de uma roupa
+que não é mais útil. Isso é o que chamamos [morte] (/sobre/morte).
+
+Portanto, a morte é simplesmente a destruição da casca bruta do espírito;
+só o corpo morre, não o espírito. Durante a vida, o espírito é um pouco limitado
+pelas ligações materiais da matéria a que ela é limitada. Esses limites podem muitos
+vezes neutralizar suas faculdades, e a morte do corpo o liberta de tais
+limites deixando-o livre (como a borboleta de seu casulo). 
+
+## Espírito e Perispírito
+Mas o [espírito](/sobre/espírito) desiste apenas do corpo material, mantendo o
+[perispírito](/sobre/perispírito) que é uma espécie de corpo etéreo, vaporoso e
+muito sutil para nós. Tem a forma humana que parece ser a padrão. Em seu estado
+normal, o [perispírito](/sobre/perispírito) é invisível, mas o espírito pode fazer
+certas mudanças sobre ele de modo a torná-lo temporariamente visível ou capaz de
+ser tocado, semelhante ao que acontece com vapor condensado. 
+
+Dessa forma, os espíritos às vezes podem aparecer para nós durante as aparições.
+Por usando o [perispírito](/sobre/perispírito), o espírito pode agir sobre a
+matéria e produzir vários fenômenos de raps, movimentos, escrita etc.
+
+Chamando nossa atenção Raps e movimentos são uma maneira de os espíritos
+testemunharem sua presença e chamar nossa atenção, como uma pessoa pode fazer
+para fazer os outros se notarem. Alguns dos eles não se limitam a fazer ruídos
+moderados, mas em vez disso produzir uma linha de quebrar pratos, de abrir e
+fechar portas ou móveis desordenados.
+
+Através de batidas e movimentos combinados eles são capazes de expressar seus
+pensamentos, mas escrever, que eles preferem, oferece-lhes o mais completo,
+conveniente e maneira mais rápida. Como eles podem fazer marcas, para que eles
+também possam levar as mãos para desenhado, escrever música ou tocar uma peça em
+um instrumento musical. Em poucas palavras, porque eles falta de corpos
+físicos, eles usam um meio para se manifestar ao humano em um maneira sensata.
+
+## Vendo Espíritos 
+Espíritos também podem se manifestar de várias outras maneiras, incluindo
+através visão e audição. Certas pessoas chamadas de meios auditivos, têm a
+capacidade para ouvir espíritos e eles podem, portanto, falar com eles. Outros,
+a vista os meios podem vê-los. Espíritos que geralmente se manifestam
+visualmente aparecem da mesma forma que quando estavam vivos, embora de uma
+forma vaporosa. 
+
+Em outras ocasiões, esta forma é tão semelhante a um ser vivo que parece ser
+quase uma ilusão completa. Eles às vezes foram levados a ser carne e sangue
+humanos com quem as pessoas conversaram e apertaram as mãos sem sequer suspeitar
+que eram espíritos, exceto por seu desaparecimento repentino posterior.
+
+A capacidade permanente e geral de ver espíritos é rara, mas individual
+aparições especialmente no momento da morte, são muito comuns. O liberado
+espírito parece se apressar para ver seus parentes e amigos novamente, como se
+quisesse mostrar-lhes que ele acabou de deixar a terra, mas quer dizer-lhes que
+ainda é Vivo.
+
+## Sobrenatural?
+Juntando lembranças individuais, muitos autênticos, mas até então despercebidos
+fatos podem ser considerados como tendo acontecido não apenas à noite durante o
+sono, mas durante o dia no estado mais completo de vigília. No passado, estes
+fatos foram considerados como maravilhoso saudosos e sobrenaturais e foram
+colocados no domínio da magia e bruxaria. Hoje, no entanto, o atributo incrédulo
+eles para a imaginação e nós, uma vez que a [ciência espírita](/Espiritismo) deu
+nós a chave, saber como produzi-los e que eles não saem do normal ordem
+fenomenológica.
+
+## Sabedoria Superior?
+É importante também entender que os espíritos, só porque eles são espíritos, não
+deve ser entendido ter conhecimento supremo e sabedoria; este é um entendimento
+equivocado que a experiência não atrasou para provar. 
+
+Entre as comunicações espirituais, há aqueles que são ricos em sublime
+profundidade, eloquência, sabedoria e [moral](/virtudes) e refletir apenas bem e
+[benevolência] (/virtudes/benevolência). Outros, no entanto, são extremamente
+vulgares, fútil, trivial e até mesmo áspero. Através dessas mensagens os
+espíritos revelam sua instintos mais. É claro que eles não podem vir do mesmo
+fonte e que, se há bons espíritos, também há maus. Desde o espíritos são apenas
+as almas do humano, eles não podem se transformar em perfeito seres depois de
+deixar seus corpos. 
+
+Eles mantêm as imperfeições de suas vidas corpóreas até a melhoria final.
+Portanto, em suas mensagens, vemos todos os graus de bondade e maldade, de
+sabedoria e ignorância.
+
+## Aprendendo com os Espíritos
+Os espíritos geralmente estão felizes em se comunicar e estão muito satisfeitos
+em saber que eles não foram esquecidos. Eles descrevem com prazer suas
+impressões depois deixando a terra, sua nova situação, a origem de sua
+felicidade e sofrendo em seu novo mundo. Alguns estão felizes, outros estão
+infelizes, sofrendo tormentos terríveis de acordo com a maneira como eles
+viveram e o bom ou ruim usar eles fizeram de suas vidas. 
+
+Observando-os em todas as fases de suas novas vidas, prestando atenção ao
+posições que ocuparam na Terra, seus tipos de morte, seus personagens e
+comportamentos como seres humanos, podemos chegar a um suficientemente preciso,
+se não completo, conhecimento do [mundo invisível](/sobre/mundo espiritual). Tal
+conhecimento nos permite a explicação do nosso futuro estado e prever o destino
+feliz ou triste que espera por nós lá.
+
+## Espiritismo - uma nova Doutrina
+As instruções dadas por [espíritos superiores](/sobre/espírito superior) sobre
+cada assunto de interesse para a humanidade e suas respostas sobre a proposta
+perguntas foram cuidadosamente reunidas e organizadas. Juntos, eles constituem
+um inteiro [ciência](/espiritismo/ciência), um [moral](/espiritismo/moral) e
+[filosófico] (/espiritismo/filosofia) doutrina chamada Espiritismo.
+[Espiritismo] (/Espiritismo) é, portanto, a doutrina fundada sobre o existência,
+manifestações e ensinamentos dos espíritos. 
+
+Esta doutrina está totalmente exposta em [O Livro dos
+Espíritos](/livros/spirits-book) com em relação ao seu aspecto filosófico. Seu
+aspecto prático e experimental é contido em [Livro dos
+Médiuns](/livros/meios-livro), enquanto o aspecto moral é contido em [O
+Evangelho de acordo com Espiritismo](/livros/gospel-de-Espiritismo). 
+
+Através da análise que fazemos aqui, pode-se acessar a variedade, extensão e
+importância dos sujeitos abordados pela doutrina.
+
+Como vimos, o Espiritismo teve seu início nos fenômenos comuns do [mesas
+giratórias] (/sobre/mesas giratórias). Mas já que os fatos falam mais aos olhos
+do que ao intelecto, dando origem mais à curiosidade do que aos sentimentos, o
+interesse em eles desaparece com curiosidade em face da falta de qualquer
+sensível Explicação. A situação mudou quando uma teoria veio para explicar a
+causa, quando percebeu-se que toda uma doutrina moral surgiu daquelas mesas de
+dança com que tantos tiveram um tempo tão feliz por um curto período de tempo. 
+
+## A expansão do Espiritismo
+Essa doutrina fala com a [alma](/sobre/alma); dissipa a angústia de dúvidas e
+satisfaz o desejo de uma explicação completa do futuro de humanidade que foi
+anteriormente deixado no vácuo. Pessoas sérias receberam o novos ensinamentos
+como uma doutrina útil e, desde então, em vez de declinar, rapidamente se
+espalhou. Em poucos anos, encontrou apoio em todo o mundo, especialmente entre
+as pessoas iluminadas. 
+
+O número de apoiadores aumenta diariamente e pode-se dizer que hoje o
+Espiritismo obteve seu "direito de cidadania". É fundada em bases que desafiam
+o esforço de seus oponentes que estão mais ou menos interessados em sua negação. 
+
+A prova é que os ataques e críticas não poderiam atrasar sua marcha para mesmo
+um momento. Seus oponentes nunca poderiam explicar este simples fato. Para o
+Espíritas, se ele continua a se propagar apesar de sua crítica, é porque o
+Espiritismo é bom e a maneira de seu raciocínio é melhor do que de sua
+Adversários.
+
+## As raízes do Espiritismo 
+Espiritismo, no entanto, não é uma descoberta moderna. O fatos e princípios
+sobre os quais se baseia foram perdidos na noite dos tempos, uma vez que pode-se
+encontrar seus rastros nas crenças de todas as pessoas, em todas as religiões e
+na maioria dos escritores sagrados e profanos. Mas tais fatos nem foram
+devidamente considerado nem suas consequências completamente deduzidas, eles
+foram, em vez disso, interpretado de acordo com as ideias supersticiosas dos
+ignorantes.
+
+Na verdade, o Espiritismo é fundado na existência dos espíritos. Como os
+espíritos são apenas as almas das pessoas e como sempre havia pessoas, o
+Espiritismo poderia não inventaram ou criaram os espíritos. Se as almas ou
+espíritos podem se manifestar se para os vivos, este é um fato natural que,
+portanto, sempre tem sido assim desde o início dos tempos. Portanto, em qualquer
+lugar ou tempo que se pode encontrar provas de manifestações tão intensas,
+especialmente no [Bíblico textos](/evangelho).
+
+A explicação lógica dos fatos, o conhecimento mais completo do espírito
+natureza, de seu papel e forma de ação, a revelação do nosso futuro estado e
+finalmente a coleta desses fatos em um corpo científico e doutrinário são, no
+entanto, moderno. Os antigos conheciam seus princípios, enquanto o indivíduo
+moderno sabe seus detalhes. Em tempos passados, o estudo desses fenômenos foi um
+privilégio dentro certas castas e foram reveladas apenas para seus iniciados. Na
+Idade Média, aqueles que ostensivamente lidaram com eles foram considerados
+bruxos e, portanto, foram queimado nas estacas. 
+
+A própria doutrina que os espíritos ensinam hoje não é nova. Pode ser encontrado
+em fragmentos dos maiores filósofos da Índia, Egito e Grécia, e inteiramente nos
+ensinamentos de [Cristo](/sobre/jesus). 
+
+Hoje, não há mais mistério, ninguém queima ninguém, tudo acontece claramente e
+todos são livres para aprender e praticar Espiritismo, uma vez que há [médiuns]
+(/cerca/meio) em todos os lugares.
+
+## O objetivo do Espiritismo
+Então, qual é o objetivo do Espiritismo? Ele veio para dar novos testemunhos,
+para apontar, usando fatos, verdades desconhecidas ou não bem compreendidas e
+para restabelecer, em seu verdadeiro sentido, mal interpretados.
+
+O Espiritismo não ensina nada de novo, isso é verdade. Mas não é valioso
+mostrar, em uma maneira óbvia e irrefutável, a existência da alma, sua
+sobrevivência sobre morte do corpo, sua imortalidade, suas futuras punições e
+recompensas? 
+
+Quantos acreditam em tais coisas, mas apenas com pensamentos fracos e ocultos,
+silenciosamente perguntando: "E se não fosse assim?" Quantas pessoas foram
+trazidas para desacreditar, porque eles receberam um futuro que suas mentes não
+poderia aceitar racionalmente? Não é admirável, então, se o crente fraco poderia
+dizer: "Agora tenho certeza!", que os cegos podiam ver a luz? 
+
+Por fatos e lógica Espiritismo dissipa dúvidas angustiantes e traz de volta a fé
+para aqueles que o perderam. Ele desdobra a existência do [invisível
+mundo](/sobre/mundo espiritual) que está ao nosso redor e em que desavisado
+Viver. 
+
+Através do exemplo dos [mortos](/sobre/descarnado), o Espiritismo nos mostra o
+nosso condição futura feliz ou triste. Ele explica a causa [terrena
+sofrimentos](/artigos/por que-sofrer) e nos mostra uma maneira de amolecê-los.
+Sua propagação terá como efeito inevitável a destruição do materialista
+doutrinas que não podem mais resistir à sua evidência. 
+
+Seres humanos, convencidos da grandeza e importância de seu futuro, [vida
+eterna] (/sobre/vida eterna), traçar um paralelo entre ela e o indefinição da
+vida terrestre que é tão curta. 
+
+Por seus pensamentos, eles se elevam acima de valores humanos pouco generosos, e
+perceber a causa e razão para seus sofrimentos, que são, portanto, vistos por
+los com mansidão e resistência, porque eles entendem que eles são uma maneira de
+sua melhoria. 
+
+O exemplo de [aqueles que vêm do além](/sobre/descarnado) para descrever suas
+alegrias e dores, demonstrando a realidade dos futuros shows de vida, no mesmo
+tempo, que a justiça de Deus não deixa maldade sem punição e não virtude sem
+recompensa. 
+
+Finalmente, também acrescentamos que a comunicação de nossos queridos falecidos
+nos traz um doce consolo, mostrando não só que eles continuam a viver, mas
+também que eles estão menos longe de nós do que se estivessem em uma terra
+estrangeira.
+
+## Uma fonte de paz 
+Brevemente afirmando, o Espiritismo suaviza a angústia da vida tristeza, acalma
+o desespero e agitação da alma, dissipa o incertezas e medos do futuro e elimina
+[suicida sentimentos](/sobre/suicídio). Ao mesmo tempo, traz felicidade para
+aqueles que acreditar nisso. 
+
+Este é o segredo de sua rápida propagação.
+
+## O aspecto religioso do Espiritismo
+Do ponto de vista religioso, Espiritismo baseia-se nas verdades fundamentais de
+cada religião: [Deus](/sobre/deus), o [alma] (/sobre/sould),
+[imortalidade](/sobre/espírito imortal), punições futuras e recompensas. 
+
+É, no entanto, independente de qualquer [culto](/sobre/culto). Seu objetivo é
+para provar àqueles que negam a existência da alma que a alma sobrevive após o
+[corpo] (/sobre/corpo), que sofre após [morte](/sobre/morte) consequências do
+bem ou do mal praticados durante sua vida corpórea. Agora, então, isso é comum a
+qualquer religião.
+
+Como uma crença nos [espíritos](/sobre/espíritos), o Espiritismo também não é
+diferente de qualquer religião ou pessoas, uma vez que em qualquer lugar onde
+havia humanos lá sempre serão almas ou espíritos. Suas manifestações são
+naturais para todos os tempos e descrições podem ser encontradas em todas as
+religiões sem exceção. Uma lata, portanto, ser católico ou protestante, um grego
+ou um romano, um judeu ou um muçulmano e ainda acreditar nas manifestações dos
+espíritos e, consequentemente, ser um Espírita. O fato de que o Espiritismo tem
+adeptos de todas as seitas é a prova de Este.
+
+## Uma perspectiva moral
+Em um [sentido moral](/virtudes), o Espiritismo é essencialmente cristão, pois
+meramente ensina o desenvolvimento e aplicação dos ensinamentos de Cristo(/evangelho),
+que são o mais puro de todos e cuja superioridade ninguém contesta. Isso prova
+que tais ensinamentos são [lei de Deus](/divinas-leis) e que é para todos.
+
+Por ser independente de qualquer [culto](sobre/se/cult), o Espiritismo não prescreve nenhum dos
+Eles. Ele se preocupa sem dogmas particulares nem é uma religião desde
+não tem padres, pastores nem templos. Ele responde aqueles que perguntam se é
+de qualquer bem para seguir tal ou tal prática: Se sua consciência lhe pede para fazer
+ele, fazê-lo e Deus sempre leva em conta a intenção. 
+
+Em essência: [Espiritismo](.. /) impõe-se a ninguém, não se destina a
+aqueles que têm uma fé ou cuja fé é suficiente, mas sim para o
+imensa maioria de incrédulos e inseguros. Espiritismo não toma estes
+incrédulos e inseguros fora da Igreja, como eles são moralmente separados dele
+Já. Ele faz com que eles andem três quartos do caminho; cabe à Igreja
+fazê-los andar o resto.
+
+## O que o Espiritismo se opõe
+É verdade que o Espiritismo se opõe a certas crenças como
+como [punições eternas](/sobre/eterno-punição), o fogo material de
+[inferno] (/sobre/inferno), a [personalidade do diabo](/sobre/diabo), etc. 
+
+No entanto, também não é verdade que tais ideias, impostas como verdades absolutas, têm
+sempre feito e continuar a fazer descrentes? Se, dando um racional
+explicação para tais dogmas, Espiritismo traz de volta a fé, não está ajudando
+Religião? Como um venerável eclesiástico disse: 
+
+> "Espiritismo faz alguém acreditar em alguma coisa. Agora, não é melhor acreditar
+> algo em vez de absolutamente nada?.
+
+Como as almas são os espíritos, não se pode negar a existência dos espíritos
+sem negar as almas. Se alguém admite a existência de almas ou espíritos,
+a questão é então reduzida à sua expressão mais pura: As almas dos mortos podem
+comunicar com os vivos? O Espiritismo comprova a afirmativa por fatos materiais. 
+
+Que prova pode ser dada ao contrário? Se for assim, todas as negações não serão
+impedir que ele continua a ser, uma vez que se lida com nenhum sistema ou teoria, mas
+com a lei da natureza. Agora, então, a vontade da humanidade é impotente antes da lei da natureza
+e se alguém quer ou não, suas consequências devem ser aceitas, bem como
+crenças e hábitos humanos adequados a eles.
+
+## Fonte
+Escrito por [Allan Kardec](/bio/allan-kardec) na década de 1860, dando sua explicação pessoal do 
+circunstâncias que o levaram a escrever a codificação espírita. 
 

@@ -1,22 +1,23 @@
 ---
-title: Fraternal Assistance
-description: Spiritist Centers offer fraternal assistance, one opportunity for you to get answers to your most important questions.
+title: Assistência Fraterna
+description: Os Centros Espíritas oferecem assistência fraterna, uma oportunidade para você obter respostas às suas perguntas mais importantes.
 date: "2019-01-01"
 topics:
-- spiritist-centers
+- espiritismo
+- centro-espirita
 ---
 
-Fraternal assistance is a friendly counseling service offered to those who come
-to the Spiritist center looking for advice or help with a particular personal
-issue. The counselor will sit with the individual seeking help, listening to his
-or her problem and helping the individual to analyze the situation from
-Spiritist viewpoint.
+A assistência fraterna é um serviço de aconselhamento amigável oferecido a quem
+vem ao centro espírita, procurando conselhos ou ajuda com uma pessoa particular
+questão. O conselheiro sentará com o indivíduo buscando ajuda, ouvindo suas seu
+problema e ajudar o indivíduo a analisar a situação a partir de ponto de vista
+espírita.
 
-## See Also
-[Public Meetings](../public-meetings)  
-[Fluidic Therapy](../fluidic-therapy)  
-[Children's and Youth Studies](../children-youth-studies)  
-[Class and Study Groups](../study-groups)  
-[Mediumship Sessions](../mediumship-sessions)  
-[Community Outreach](../community-outreach) 
+## Veja Também
+[Reuniões Públicas](../reuniões-publicas)  
+[Terapia Fluidica](../terapia-fluida)  
+[Estudos infantis e juvenis](../crianças-jovens-estudos)  
+[Grupos de Classe e Estudo](../grupos-de-estudo)  
+[Sessões de Medietinismo](../sessões-de-medietinidade)  
+[Divulgação da Comunidade](../comunidade-divulgação) 
 

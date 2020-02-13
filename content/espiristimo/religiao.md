@@ -1,252 +1,227 @@
 ---
-title: The Religious aspect of Spiritism
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+title: O aspecto religioso do Espiritismo
+description: No vestibulum massa quis arcu lobortis tempus. Nam pretium arcu em odio vulputate luctus.
 date: "2019-01-01"
 topics:
 - religion
 categories:
-- spiritism
+- espiritismo
 ---
 
-[Spiritism](/spiritism) is not actually a separate, distinct religion. There are
-no churches, no dogmas, mysteries, rituals, or initiations, and there exists no
-priestly or ministerial hierarchy.
+[Espiritismo] (/Espiritismo) não é realmente uma religião separada e distinta. Há
+sem igrejas, sem dogmas, mistérios, rituais ou iniciações, e não existe
+hierarquia sacerdosa ou ministerial.
 
-At the same time, the spirits who brought us the teachings of Spiritism did not
-come to destroy any religion or make Spiritism the only one. Their objective was
-to reveal the undiscovered (or forgotten) [laws of nature](/divine-laws) and to
-prove, by demonstration, what other religions teach only in theory:
-[soul](/about/soul), [the afterlife](/about/), compensation for [Earthly
-miseries of this world](/spiritism/science), etc. 
+Ao mesmo tempo, os espíritos que nos trouxeram os ensinamentos do Espiritismo não
+vir para destruir qualquer religião ou fazer do Espiritismo o único. Seu objetivo era
+para revelar as indescobertas (ou esquecidas) [leis da natureza](/divinas-leis) e para
+provar, por demonstração, o que outras religiões ensinam apenas na teoria:
+[alma] (/sobre/alma), [a vida após a morte](/sobre/), compensação por [Terra
+misérias deste mundo](/espiritismo/ciência), etc. 
 
 ## Religare
-_Religion_ in its essence, is a word the derives from latin `Religare` which is
-the combination of words `Re` and `Legare` meaning re-connect. It is supposed to
-denote that reconnection or direct connection that all of us have with our
-eternal father, [God](/about/god), implicit within us.
+_Religion_ em sua essência, é uma palavra que deriva do latim 'Religare' que é
+a combinação de palavras 'Re' e 'Legare' significa reconectar. É suposto
+denotar que a reconexão ou conexão direta que todos nós temos com o nosso
+pai eterno, [Deus](/sobre/deus), implícito dentro de nós.
 
-Spiritism is the the doctrine of the Spirits. It teaches us how to use implicit
-connection that thrives from the heart and reaches [God](/about/god) directly,
-without a need for any intermediary, place or time.
+Espiritismo é a doutrina dos Espíritos. Ele nos ensina a usar implícito
+conexão que prospera do coração e atinge [Deus](/sobre/deus) diretamente,
+sem necessidade de qualquer intermediário, lugar ou tempo.
 
-## The Promised Consoler
-Most people don't know that Spiritism is the [Consoler promised by Jesus on the
-Bible](/gospel) which was originally menthored by [The Spirit of
-Truth](/about/spirit-of-truth), Jesus himself.
+## O Consolador Prometido
+A maioria das pessoas não sabe que o Espiritismo é o [Consolador prometido por Jesus no
+Bíblia](/evangelho) que foi originalmente menthored por [O Espírito de
+Verdade](/sobre/espírito de verdade), o próprio Jesus.
 
-It is a true and profound lesson of regenaration of the soul via reflexive
-studies that anyone can do
+É uma verdadeira e profunda lição de regência da alma via reflexivo
+estudos que qualquer um pode fazer
 
-It is a call to excercise with the heart the
-essential virtues of [humility](/virtues/humility), [love](/virtues/love) and
-[charity](/virtues/charity).
+É um chamado para se exercitar com o coração o
+virtudes essenciais de [humildade](/virtudes/humildade), [amor](/virtudes/amor) e
+[caridade] (/virtudes/caridade).
 
-### The Codifier
-[Allan Kardec](/profiles/allan-kardec) worked a lot for the purity of the
-[doctrine](/spiritism)
+## O Codificador
+[Allan Kardec] (/perfis/allan-kardec) trabalhou muito pela pureza do
+[doutrina] (/Espiritismo)
 
-It's important to note that the doctrine was born out
-of his intensive and persistent work after years of observation, scrutinization
-and confirmation
+É importante notar que a doutrina nasceu
+de seu trabalho intensivo e persistente após anos de observação, escrutínio
+e confirmação
 
+Também é importante afirmar que a doutrina não foi nenhuma escrita por Kardec
+(embora ele escreva muitas seções e comentários dentro dela) nem foi
+ditada empiricamente. É o resultado de uma profunda colaboração entre o
+médiuns, Kardec, os [espíritos superiores](/sobre/espírito superior) e [O Espírito]
+da Verdade](/sobre/espírito de verdade), o próprio Jesus.
 
+## Uma fé racional
+Você pode estar pensando agora que os argumentos acima feitos, portanto, não
+realmente novos, e assim perguntando, o que, se alguma coisa, Espiritismo pode
+adicionar a tudo isso?  Bem muito semelhante à ideia de uma causa inteligente
+ter um efeito inteligente é a declaração feita pelo filósofo, Descartes, quando
+ele disse que "quanto mais conceber a perfeição em algo, mais devemos acreditar
+que sua causa é ainda mais perfeito. Espiritismo nos dá uma ideia melhor sobre
+a perfeição em a causa de todas as coisas, ajudando-nos a entender o que não
+fazemos imediatamente conceber, ou perceber com nossos cinco sentidos materiais
 
-It's also important to state that the doctrine was neither written by Kardec
-(although he writes many sections and comments within it) neither it was
-dictated empirically. It is the result of a profound collaboration between the
-mediums, Kardec, the [superior spirits](/about/superior-spirit) and [The Spirit
-of Truth](/about/spirit-of-truth), Jesus himself.
+Espiritismo não oferecer apenas um argumento teórico sólido quanto à existência
+de espíritos. Através da demonstração física e nos resultados da observação
+direta de fenômenos espirituais (todos cuidadosamente estudados, analisados e
+interrogados), somos dada prova inegável quanto à existência e sobrevivência da
+alma além do morte do corpo físico
 
-## A rational faith
-You may be thinking by now that the above arguments made thus not really new,
-and thus wondering, what, if anything, Spiritism can add to all of this?  Well,
-very similar to the idea of an intelligent cause having an intelligent effect is
-the statement made by the philosopher, Descartes, when he said that “the more we
-conceive of perfection in something, the more we should believe that its cause
-is even more perfect.”  Spiritism gives us a better idea about the perfection in
-the cause of all things by helping us to understand what we don’t immediately
-conceive of, or perceive with our five material senses
+Prova da existência e sobrevivência da alma é mais evidências de uma causa
+inteligente ou criador
 
-Spiritism does not
-offer merely a sound, theoretical argument as to the existence of spirits.
-Through physical demonstration and in the results of the direct observation of
-spiritual phenomena (all carefully studied, analyzed and cross-examined), we are
-given undeniable proof as to the existence and survival of the soul beyond the
-death of the physical body
+Não só isso, mas através as revelações ou explicações de espíritos superiores
+sobre a existência de reencarnação, e através das experiências compartilhadas
+por espíritos de diferentes graus que vêm nos dizer sobre a vida nos reinos
+espirituais e as condições (positivo e negativo) eles se encontram em como
+resultado de suas ações em Terra, somos mais capazes de entender a perfeição de
+Deus, bem como sua justiça e amor por todos os seus filhos.
 
-Proof of the soul’s existence and survival is
-further evidence of an intelligent cause or creator
+No final, as qualidades que nos ajudam a levar a uma crença na existência de
+Deus são humildade, raciocínio, e um coração limpo
 
-Not only that, but through
-the revelations or explanations of  superior spirits regarding the existence of
-reincarnation, and through the experiences shared by spirits of varying degrees
-who come to tell us about life in the spiritual realms and the conditions
-(positive and negative) they find themselves in as a result of their actions on
-Earth,  we are better able to understand God’s perfection, as well as his
-justice and love for all of his children.
+Humildade abre nossos olhos para a perfeição e beleza da natureza, bem como o
+reconhecimento de uma causa inteligente fora da matéria e acima de tudo o que
+existe
 
-In the end, the qualities that help lead us to a belief in the existence of God
-are humility, reasoning, and a clean heart
+Os ensinamentos do Espiritismo ajudam no exercício do raciocínio que nos ajuda a
+entender Deus, não como um governante inspirado em paixões típicas do nosso
+inferior humanidade (como vingança ou egoísmo), mas como um Deus que é
+todo-poderoso, justo, e bom
 
-Humility opens our eyes to the
-perfection and beauty of nature, as well as the recognition of an intelligent
-cause outside of matter and above all that exists
+O raciocínio espírita também nos ensina que podemos ter uma relação íntima com
+Deus, sem a intervenção de outras pessoas chamadas "nomeadas"
 
-The teachings of Spiritism
-aid in the exercise of reasoning that helps us to understand God, not as a ruler
-inspired by passions typical of our inferior humanity (such as vengeance or
-selfishness), but as a God who is all-powerful, just, and good
+Por fim, Jesus disse: "Abençoados são aqueles com corações limpos, pois eles vão
+ver Deus. Em outras palavras, podemos racionalizar ou deduzir por intuição a
+existência de Deus, mas nunca o conheceremos verdadeiramente até nos libertarmos
+de nossos laços com coisas materiais, de nossos vícios e paixões negativas,
+assim não só limpeza, mas abrindo nossos corações para Deus e suas verdades. 
 
-Spiritist
-reasoning also teaches us that we can have an intimate relationship with God,
-without the intervention of other so-called “appointed” persons
+## Além da Religião?
+As revelações introduzidas pelo Espiritismo, bem como as provas que forneceu,
+lideram aqueles em dúvida para entender a verdadeira natureza das [leis de
+Deus](/divinas-leis) com uma fé racional. [Ensinamentos do Espiritismo] (..
+/ensinamentos), assim, incutindo em esses indivíduos a vontade de se
+autoreformar (tanto pessoal quanto social). Bastante do que ser exclusivamente
+uma religião, o Espiritismo também é um [filosofia](../filosofia) com
+consequências morais.
 
-Lastly, Jesus
-said, “Blessed are those with clean hearts, for they will see God.” In other
-words, we can rationalize or deduce by intuition the existence of God, but we
-will never truly know him until we free ourselves from our ties to material
-things, from our vices and negative passions, thereby not only cleaning, but
-opening our hearts to God and his truths. 
+No livro, Espiritismo Básico, Barbosa escreve que os fundamentos do espírita
+filosofia são baseadas em:
+> "[a existência de Deus](/artigos/faz-deus-existem), como a inteligência
+> suprema e causa de todas as coisas; [evolução] (/leis divinas/evolução) como
+> general lei à qual tudo é subordinado, exceto pelo próprio Deus;
+> [reencarnação](.. /reencarnação) como fator predominante na justiça divina; e
+> o exercício e os resultados do uso do nosso [livre
+> vontade](/divine-laws/livre-vontade)."
 
+Como [Kardec](/sobre/allan-kardec) disse então,
+> "Podemos considerar a Doutrina do Espiritismo em seu aspecto religioso quando
+> estabelece um empate moral entre os homens, levando-os na direção do criador,
+> através da aplicação dos ensinamentos morais de Cristo. (Kardec, 1866;  2000)
+> As consequências morais do espírita filosofia surge quando
+> consideramos nossas responsabilidades como seres espirituais em um caminho de
+> evolução moral e intelectual. Começamos nossa jornada de evolução, ignorante e
+> mente simples, em uma missão para chegar a um estado de purificação em que
+> temos um completo conhecimento das leis divinas e um pureza do coração que
+> comanda nosso comportamento. Essa pureza, no entanto, só pode ser alcançado
+> através de grandes esforços para o crescimento pessoal, exercido sobre um
+> série de numerosas encarnações
 
-## On this Section
-[What is God](/.)  
-[Instinctive Belief](instinctive-belief)  
-[
-## Beyond Religion?
-The revelations introduced by Spiritism, as well as the proofs it provided, lead
-those in doubt to understand the true nature of [God's laws](/divine-laws) with
-a rational faith. [Spiritism’s teachings](../teachings), thereby, instill in
-these individuals the will to self-reform (both personal and societal). Rather
-than being exclusively a religion, Spiritism is also a
-[philosophy](../philosophy) with moral consequences.
+Através disso, eventualmente aprendemos a
+> demonstrar, consistentemente, todas as qualidades morais que são
+> características de espíritos puros qualidades como compaixão, perdão,
+> honestidade, altruísmo, humildade, resignação, etc. (Kardec, 1985)
 
-In the book, Basic Spiritism, Barbosa writes that the fundamentals of Spiritist
-philosophy are based on:
-> "[the existence of God](/articles/does-god-exist), as the supreme intelligence
-> and cause of all things; [evolution](/divine-laws/evolution) as the general
-> law to which everything is subordinate except for God himself;
-> [reincarnation](../reincarnation) as the predominant factor in divine justice;
-> and the exercise and results of the use of our [free
-> will](/divine-laws/free-will)."
+## Sem caridade, não há salvação
+Espiritismo ensina que sem caridade, não há salvação, tornando-a necessário,
+como barbosa afirma, "para o homem ter fé e para que suas ações sejam de acordo
+com as leis de Fraternidade, Benevolência, Altruísmo, humildade, trabalho,
+tolerância e solidariedade, em harmonia com os outros, e mesmo com o seres
+inferiores da criação. 
 
-As [Kardec](/about/allan-kardec) said then,
-> "We can consider the Doctrine of Spiritism in its religious aspect when it
-> establishes a moral tie between men, leading them in the direction of the
-> creator, through the application of the moral teachings of Christ." (Kardec,
-> 1866;  2000) <br><br>	     	The moral consequences of the Spiritist
-> philosophy arise when we consider our responsibilities as spiritual beings on
-> a path of moral and intellectual evolution. We start out on our journey of
-> evolution, ignorant and simple-minded, on a mission to reach a state of
-> purification in which we have a complete knowledge of divine laws and a
-> pureness of heart that commands our behavior. This purity, however, can only
-> be achieved through great efforts toward personal growth, exercised over a
-> series of numerous incarnations
+Tornando-se mais caridoso, agindo consistentemente por um amor que não
+discriminar, vai nos salvar do nosso sofrimento, ajudando-nos a parar de causar
+mais sofrimento, para começar a nos redimir de nossos erros passados, e para
+preencher o nosso corações com a felicidade que vem de um amor tanto dado quanto
+recebido.
 
-Through this, we eventually learn to
-> demonstrate, consistently, all the moral qualities that are characteristic of
-> pure spirits— qualities such as compassion, forgiveness, honesty,
-> selflessness, humility, resignation, etc. (Kardec, 1985)
+As sementes da iluminação e as respostas para encontrar a verdadeira paz e
+felicidade do espírito foram disseminados por muitas figuras influentes ou
+exemplares ao longo da história. Os espíritos iluminados afirmaram, como
+registrado por Kardec no "Livro dos Espíritos"¹, que Jesus é o "maior modelo de
+caridade e moral perfeição que temos que seguir", e você vai descobrir que as
+lições morais destacado no Espiritismo foco nos ensinamentos de Jesus.
 
+Espiritismo não nos ensina, no entanto, que somos "perdoados por nossos pecados"
+por causa da morte de Jesus na cruz
 
+Quando cometemos erros, não estamos na verdade , "perdoado", porque Deus não nos
+condena em primeiro lugar. Em vez disso, de acordo com a lei natural de causa e
+efeito, experimentamos o repercussões negativas de nossos erros. Então, cedo ou
+tarde, nesta encarnação ou além, passamos a entender a má escolha ou escolhas
+que fizemos. Instintivamente, desejamos fazer as pazes, e Deus, em sua infinita
+misericórdia, dá nós chances intermináveis de fazê-lo, através do processo de
+reencarnação
 
+Não só que, mas Ele nos dá acesso a várias formas de orientação, incluindo o
+comunicação com nossos amigos e mentores espirituais, por meio de nossa própria
+intuição, bem como a instrução moral de seres mais avançados que encarnam em
+Terra com o papel de colaborar no progresso da humanidade.
 
-##  Without Charity, There is No Salvation
-Spiritism teaches that without charity, there is no salvation, making it
-necessary, as Barbosa states, "for man to have faith and for his actions to be
-in agreement with God's laws of fraternity, benevolence, altruism, humility,
-work, tolerance, and solidarity, in harmony with others, and even with the
-inferior beings of creation." 
+Jesus veio, como Kardec disse,
+> "ensinar à humanidade que a vida verdadeira não é aquela vivida aqui na Terra, mas em
+> o Reino dos céus, para nos mostrar o caminho para este Reino, e para nos ensinar
+> que a maneira de nos reconciliar com Deus é experimentando os eventos de
+> nossas vidas com a consciência de nosso propósito como seres humanos."
 
-Becoming more charitable, acting consistently out of a love that does not
-discriminate, will save us from our suffering by helping us to stop causing more
-suffering, to start redeeming ourselves of our past mistakes, and to fill our
-hearts with the happiness that comes from a love both given and received.
-
-The seeds of enlightenment and the answers to finding true peace and happiness
-of the spirit have been disseminated by many influential or exemplary figures
-throughout history. The enlightened spirits have stated, as recorded by Kardec
-in the "Spirits' Book"¹, that Jesus is the "greatest model of charity and moral
-perfection that we have to follow," and you will find that the moral lessons
-highlighted in Spiritism focus on Jesus' teachings.
-
-Spiritism does not teach us, however, that we are "forgiven for our sins"
-because of Jesus’ death on the cross
-
-When we make mistakes, we are not
-actually "forgiven", because God does not condemn us in the first place.
-Instead, according to the natural law of cause and effect, we experience the
-negative repercussions of our errors. Then, sooner or later, in this incarnation
-or beyond, we come to understand the poor choice or choices that we made.
-Instinctually, we desire to make amends, and God, in his infinite mercy, gives
-us endless chances to do so, through the process of reincarnation
-
-Not only
-that, but He gives us access to various forms of guidance, including the
-communication with our spirit friends and mentors, by way of our own intuition,
-as well as the moral instruction from more advanced beings who incarnate on
-Earth with the role of collaborating in the progress of mankind.
-
-Jesus came, as Kardec said,
-> "to teach humanity that true life is not the one lived here on Earth but in
-> the Kingdom of heaven, to show us the pathway to this Kingdom, and to teach us
-> that the way to reconcile ourselves with God is by experiencing the events of
-> our lives with an awareness of our purpose as human beings."
-
-Following the essence of his lessons and examples are the best way to develop
-the charitable qualities of our spirit and achieve our “salvation”.
+Seguindo a essência de suas lições e exemplos são a melhor maneira de desenvolver
+as qualidades de caridade de nosso espírito e alcançar nossa "salvação".
 	       	  
-¹ question # 625
+## Entendendo a mensagem de Amor de Jesus
+Há muitos livros espíritas que nos trazem uma compreensão evoluída de Jesus
+exemplos e ensinamentos, que ele deu às pessoas daquela época em histórias e
+Parábolas
 
+O maior de todos os recursos espíritas para estudar a moral de Jesus
+ensinamentos sobre questões como as leis de Deus, liberdade de sofrimento, e
+chegando ao Reino Divino, é "O Evangelho Explicado pelo espírita Doutrina", um
+dos cinco livros da codificação da Doutrina Espírita, em que Kardec e os
+Superiores Que colaboraram em sua escrita interpretar e explicar várias
+passagens da Bíblia
 
-## Understanding Jesus' message of Love
-There are many Spiritist books that bring us an evolved understanding of Jesus'
-examples and teachings, which he gave to the people of that time in stories and
-parables
+Espiritismo não só nos ajuda a entender as lições de Jesus, mas também nos
+mostra que pela força da lei divina, todos nós vamos alcançar um estado completo
+de evolução e Felicidade. 
 
-The greatest of all Spiritist resources for studying Jesus’ moral
-teachings regarding issues such as God's laws, freedom from suffering, and
-reaching the Divine Kingdom, is "The Gospel Explained by the Spiritist
-Doctrine", one of the five books of the codification of the Spiritist Doctrine,
-in which Kardec and the Superior Sprits that collaborated in its writing
-interpret and explain various passages from the Bible
+É nesse sentido que o autor Palhano Jr. escreve que o Espiritismo:
+>"não assume a responsabilidade pela salvação de ninguém, uma vez que ele faz
+>não proclamar qualquer condenação eterna para começar. Pelo contrário, diz que
+>todo mundo evolui, o bom e o ruim, alguns mais lentamente do que outros,
+>dependendo sobre os esforços de cada um. Apresenta o recurso da Lei de
+>Reencarnação para justificar a justiça divina e a misericórdia à luz das
+>imperfeições dos homens. Salvação, na visão espírita, é a iluminação do
+>coração do homem, de tal forma que ele pode deixar o estado da infância
+>espiritual e progresso em direção a Deus.
 
-Spiritism not only helps us to understand Jesus' lessons, but also shows us that
-by force of divine law, we will all achieve a complete state of evolution and
-happiness. 
+## Fonte
+[ExploreEspiritismo](//www.explorespiritism.com/)
 
-It is in this sense that the author Palhano Jr. writes that Spiritism:
->"does not assume the responsibility for the salvation of anyone, since it does
->not proclaim any eternal damnation to begin with. To the contrary, it says that
->everyone evolves, the good and the bad, some more slowly than others, depending
->on the efforts of each. It presents the resource of the Law of Reincarnation to
->justify the divine justice and mercy in light of the imperfections of men.
->Salvation, in the Spiritist view, is the illumination of man's heart, such that
->he may leave the state of spiritual infancy and progress towards God."
+## Referências Bibliográficas
+* Kardec, Allan. Espiritismo Cristão (uma compilação de dois livros kardec:
+  Espiritismo Reduzido à Sua Expressão Mais Simples e o que é Espiritismo)
+* Trans. Allan Kardec Educational Society (traduzido de edições francesas originais,
+  publicado em 1860 e 1859, respectivamente). Filadélfia, PA. Allan Kardec
+  Sociedade Educacional. 1985. 106.
+* Barbosa, Pedro Franco. "Postulados e Ensinamentos" [Postulados e Ensinamentos].
+  Espiritismo Basico [Espiritismo Básico]. 3ª ed. Rio de Janeiro-RJ, Brasil:
+  Federação Espírita Brasileira.1987. 96-112.
 
-## Source
-[ExploreSpiritism](//www.explorespiritism.com/)
-
-## References
-* Kardec, Allan. Christian Spiritism (a compilation of two Kardec books:
-  Spiritism Reduced to Its Simplest Expression and What is Spiritism)
-
-Trans.
-  Allan Kardec Educational Society (translated from original French editions,
-  published 1860 and 1859, respectively). Philadelphia, PA. Allan Kardec
-  Educational Society. 1985. 106.
-* Barbosa, Pedro Franco. "Postulados e Ensinamentos" [Postulates and Teachings].
-  Espiritismo Basico [Basic Spiritism]. 3rd ed. Rio de Janeiro-RJ, Brazil:
-  Federação Espírita Brasileira [Brazilian Spiritist Federation].1987. 96-112.
-
-
-## See Also
-[Spiritism: The religious aspect](./)
-[ExploreSpiritism: Without Charity, There is No Salvation](//www.explorespiritism.com/religionsalvation_Without%20Charity.htm)
-[ExploreSpiritism: Spiritism Helps Us Understand Jesus' Lessons](//www.explorespiritism.com/religionsalvation_Spiritism%20Helps%20Understand%20Jesus%20Lessons.htm)
-[ExploreSpiritism: Without Charity, There is No Salvation](//www.explorespiritism.com/religionsalvation_Without%20Charity.htm)
-[ExploreSpiritism: Spiritist teachings about God](//www.explorespiritism.com/religiongod_what%20is%20god.htm)
-
-## Source
-[ExploreSpiritism: A Science & Philosophy with Moral Consequences](//www.explorespiritism.com/religiondoctrine_philosophy%20moral%20consequences.htm)
+## Fonte
+[ExploreEspiritismo: A Ciência & Philosophy with Moral Consequences](//www.explorespiritism.com/religiondoctrine_philosophy%20moral%20consequences.htm)
 

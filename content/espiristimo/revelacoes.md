@@ -1,156 +1,156 @@
 ---
-title: God's Laws
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+title: Revelações
+description: É importante conhecer as revelações sobre as Leis Divinas para compreendermos melhor nossa própria vida.
 date: "2019-01-01"
 topics:
 - religion
 - moses
 - jesus
-- spiritism
+- espiritismo
 ---
 
-## The revelation of god's laws
-The answers to such longings of our sprits, be they these present day desires
-that manifest at a conscious level of thought and feeling, or the long term
-objectives held deep within our souls, the understanding of God's laws holds the
-answers we are looking for.  Over the course of history, many enlightened
-philosophers, spiritual teachers, and other significant moral leaders have
-played a role in illuminating the pathway for the progress of humankind, by
-shedding light on various aspects regarding the true nature of God and the
-natural order that regulates the justice and harmony of all God's creation. 
+## A revelação das leis de Deus
+As respostas para tais anseios de nossos préscíveis, sejam eles esses desejos
+atuais que se manifestam em um nível consciente de pensamento e sentimento, ou a
+longo prazo objetivos mantidos profundamente dentro de nossas almas, a
+compreensão das leis de Deus detém o respostas que estamos procurando. Ao longo
+da história, muitos iluminados filósofos, professores espirituais, e outros
+líderes morais significativos têm desempenhou um papel na iluminação do caminho
+para o progresso da humanidade, por derramando luz sobre vários aspectos sobre a
+verdadeira natureza de Deus eo ordem natural que regula a justiça e a harmonia
+de toda a criação de Deus. 
 
-In Chapter 1 of Kardec's book, "The Gospel According to Spiritism", we find an
-explanation about the Spiritist interpretation of two important, historical
-revelations concerning God's laws, those of Moses and Jesus, followed by
-commentary on the subsequent emergence and role of the Spiritist teachings.
-The following is an excerpt from this reading:
+No Capítulo 1 do livro de Kardec, "O Evangelho De Acordo com o Espiritismo",
+encontramos um explicação sobre a interpretação espírita de dois importantes,
+histórico revelações sobre as leis de Deus, as de Moisés e Jesus, seguido por
+comentários sobre o subsequente surgimento e papel dos ensinamentos espíritas.
+A seguir, um trecho desta leitura:
 
-> "Do not think that I have come to abolish the Law or the Prophets; I have not
-> come to abolish them but to fulfill them.  I tell you the truth, until heaven
-> and earth disappear, not the smallest letter, not the least stroke of a pen,
-> will by any means disappear from the Law until everything is accomplished."
-> (Matthew 5:17-18)<br><br> Chapter 1 - I Have Not Come To Abolish The Law / The
-> Gospel Explained By the Spiritist Doctrine
-
-
-## Moses
-There are two parts to the laws enacted by Moses; the Law of God, which Moses
-received on Mount Sinai, and the civil (or Secular) law, which he devised and
-mandated himself.  The first Law is unalterable; the second which was designed
-to suit the customs and character of people of the people of Moses' era, changes
-over time.
-
-The Divine law is based on the  ten commandments. The Law presented in the Ten
-Commandments is for all times and all nations, a universality that gives the
-commandments a divine character.  
-
-The other laws decreed by Moses were devised to instill, at times through fear,
-a sense of order in a people very much agitated and unorganized, whose behavior
-and prejudices were still freshly colored by many years of bondage in Egypt.  To
-sanction his authority, Moses did claim a divine origin for his secular laws.
-In doing so, he followed a practice common among the leaders and lawgivers of
-many early peoples.  In those days authority over people was often exercised
-under the guise of a divine power.  Only the notion of a harsh God could impress
-a relatively unaware people, whose sense of justice and moral values were still
-very limited.  Today we realize that a God Who would include among the the
-Divine commandments "you shall not murder, and do no harm to your neighbors"
-wouldn't contradict that law by sanctioning any type of bloodshed. This only
-highlights the transient nature of Moses' secular laws.  
-
-### Jesus
-Jesus did not come to abolish the Law defined in the Ten Commandments.  He came
-to fulfill and amplify it, to clarify its real meaning, and to interpret it at
-humanity's level of progress at the time.  Those elements of the Moasaic code
-that emphasize love of God and fellow human beings constitute the very basis of
-Jesus' teachings.  
-
-As for the secular laws, Jesus advocated fundamental reforms both in form and
-substance.  He fought constantly to correct the abuses of ritualistic worship
-and to right misconceived interpretations.  His call for reform could not have
-been any more revolutionary than when He reduced the Law to this one principle:
-"Love the Lord your God with all your heart and with all your soul and with all
-your mind; and Love your neighbor as yourself."  He said Himself, "All the Law
-and the Prophets hang on these two commandments." [Matthew 22:37-39 ]
-
-Furthermore, by the words "until heaven and earth disappear, not the smallest
-letter, not the least stroke of a pen, will by any means disappear from the Law
-until everything is accomplished" Jesus wanted us to realize that the Law must
-be respected and lived in all its purity, over the whole Earth, and with all its
-amplifications and consequences.  What, otherwise, would have been the purpose
-of proclaiming the Law if it was going to benefit one nation or a few people?
-All human beings are sons and daughters of God; they are without distinction in
-God's eyes and subject to the same care and attention.
-
-But Jesus wasn't simply a lawgiver who was offering His word as the one and
-final authority.  He also came to fulfill the prophecies that had foretold His
-coming.  He derived His moral authority from the exceptional nature of His
-spirit and from the Divine mission with which He was entrusted.  Jesus came to
-teach humanity that true life is not the one lived here on Earth but in the
-Kingdom of Heaven.  He came to show us the pathway to this Kingdom.  
-
-Jesus taught us that the way to reconcile ourselves with God is by experiencing
-the events of our lives with an awareness of our higher purpose as human beings.
-But He did not reveal everything.   On many subjects He limited Himself to
-offering only the initial part of the truth, explaining His silence about the
-rest by saying that human beings weren't capable yet of understanding the whole
-truth.   
-
-He did talk about all things, but often in a veiled manner.  He knew that, in
-order for people to be able to assimilate the integral meaning of His words, new
-ideas and knowledge would first have to come into being that would provide the
-key to unlock the full extent of His doctrine.  These ideas would only come once
-the human spirit had reached a certain level of advancement.  Science,
-especially, still had an important part to play in the emergence and development
-of human knowledge, and it needed time to mature.
+> "Não acho que eu vim para abolir a Lei ou os Profetas; Fui para venha
+> aboli-los, mas para cumpri-los. Eu digo a verdade, até o céu e a terra
+> desaparecem, não a menor letra, não o menor golpe de uma caneta, desaparecerá
+> de qualquer forma da Lei até que tudo seja realizado." (Mateus
+> 5:17-18) Capítulo 1 - Eu não vim para abolir a lei / O Evangelho
+> Explicado pela Doutrina Espírita
 
 
-## The Spirits' Doctrine
-The Spiritist Doctrine is the new body of principles that reveals, through
-indisputable evidence, the existence and nature of the spirit world and its
-relationship to the material one.  The spirit world is presented not as a
-supernatural element but as one of the living and active forces of Nature, the
-source of a vast number of phenomena that even today we don't understand and so
-relegate to the realm of fantasy or miracles.  Christ hinted at such a
-development on several occasions, and it is because He only hinted that many of
-the tings He said have remained beyond our grasp or been wrongly interpreted,
-The Spiritist Doctrine offers a key that will help explain all these matters.
+## Moisés
+Há duas partes nas leis promulgadas por Moisés; a Lei de Deus, que Moisés
+recebeu no Monte Sinai, e a lei civil (ou Secular), que ele concebeu e ordenou a
+si mesmo. A primeira Lei é inalterável; o segundo que foi projetado para se
+adequar aos costumes e caráter das pessoas do povo da era moisés, mudanças com o
+tempo.
 
-The law of the Old Testament was personified in Moses; that of the New Testament
-in Christ.  The third revelation can't be personified, however because it isn't
-given by a human being but by spirits.  Having transcended the bondage of
-matter, spirits now constitute the heavenly voices which communicate to all
-parts of the world and through countless intermediaries.  The Spiritist Doctrine
-is, in this sense, the collective work of the illuminated intelligences of the
-spirit world.  This work brings us enlightenment and offers the means of
-understanding the destiny that awaits each of us on our return to the spirit
-realm.
+A lei divina é baseada nos dez mandamentos. A Lei apresentada no Dez Mandamentos
+é para todos os tempos e todas as nações, uma universalidade que dá o
+mandamentos um caráter divino. 
 
-Just as Christ said, "I have not come to abolish the Law or the Prophets but to
-fulfill them," so it is with the Spiritist Doctrine, which has not come to defy
-Christian principles but to help carry them out.  The Spiritist Doctrine teaches
-nothing contrary to Christ's message.  Indeed, it develops that message,
-explains it in a way that everyone can understand, and makes plain that part of
-which it has been known, until now, only in an allegorical form.  The Doctrine
-has come at the predicted time to confirm Christ's foresight and to prepare the
-way for the realization of future things.  The Spiritist Doctrine is, then, part
-of the Christ's design.  As He said Himself, Christ presides over the spiritual
-renewal of humankind, laying the foundation of a more divine order on Earth.    
+As outras leis decretadas por Moisés foram concebidas para incutir, às vezes
+através do medo, um senso de ordem em um povo muito agitado e desorganizado,
+cujo comportamento e os preconceitos ainda eram recém-coloridos por muitos anos
+de escravidão no Egito. Para sancionar sua autoridade, Moisés reivindicou uma
+origem divina por suas leis seculares. Ao fazê-lo, ele seguiu uma prática comum
+entre os líderes e os lawgivers de muitos povos primitivos. Naqueles dias, a
+autoridade sobre as pessoas era muitas vezes exercida o pretexto de um poder
+divino. Apenas a noção de um Deus severo poderia impressionar um povo
+relativamente inconsciente, cujo senso de justiça e valores morais ainda eram
+muito limitado. Hoje percebemos que um Deus que incluiria entre os Mandamentos
+divinos "você não deve matar, e não fazer mal aos seus vizinhos" não contradizer
+essa lei sancionando qualquer tipo de derramamento de sangue. Isso só destaca a
+natureza transitória das leis seculares de Moisés. 
 
+## Jesus
+Jesus não veio abolir a Lei definida nos Dez Mandamentos. Ele veio. para
+cumpri-lo e ampliá-lo, para esclarecer seu significado real, e interpretá-lo em
+nível de progresso da humanidade na época. Esses elementos do código moásico
+que enfatizam o amor de Deus e outros seres humanos constituem a própria base de
+Os ensinamentos de Jesus. 
 
-### Notes
-Note: This chapter from Kardec's book is completed with teachings from three
-spirits ( An Israelite Spirit, received in Mullhouse, 1861; the spirit Fénelon,
-received in Poiters, 1861; and Erastus a disciple of the Apostle Paul, received
-in Paris, 1863) regarding the three revelations and the New Era brought by
-Spiritism.  Check it out in "The Gospel Explained by the Spiritist Doctrine".  
+Quanto às leis seculares, Jesus defendeu reformas fundamentais tanto na forma
+quanto na Substância. Ele lutou constantemente para corrigir os abusos da
+adoração ritualística e para corrigir interpretações mal concebidas. Seu pedido
+de reforma não poderia ter foi mais revolucionário do que quando Ele reduziu a
+Lei a este princípio: "Ame o Senhor seu Deus com todo o seu coração e com toda a
+sua alma e com todos os sua mente; e amar seu vizinho como você mesmo. Ele
+mesmo disse: "Toda a lei e os Profetas se apegara a esses dois mandamentos.
+[Mateus 22:37-39 ]
 
-### References
-Kardec, Allan. "I Have Not Come To Abolish The Law." The Gospel  Explained By
-The Spiritist Doctrine.  Trans. Allan Kardec Educational Society (translated
-from 3rd edition in French). Philadelphia, PA. Allan Kardec Educational Society.
-2000. 25-28.
+Além disso, pelas palavras "até que o céu e a terra desapareçam, não os menores
+carta, não o menor golpe de uma caneta, será por qualquer meio desaparecer da
+Lei até que tudo seja realizado" Jesus queria que percebemos que a Lei deve ser
+respeitado e vivido em toda a sua pureza, sobre toda a Terra, e com todos os
+seus amplificações e consequências. Qual, caso contrário, teria sido o
+propósito de proclamar a Lei se fosse beneficiar uma nação ou algumas pessoas?
+Todos os seres humanos são filhos e filhas de Deus; eles estão sem distinção em
+Os olhos de Deus e sujeitos ao mesmo cuidado e atenção.
 
-## Source
-[ExploreSpiritism: The revelation of god's laws](//www.explorespiritism.com/religionrevelation.htm)
+Mas Jesus não era simplesmente um lawgiver que estava oferecendo sua palavra
+como o único e autoridade final. Ele também veio para cumprir as profecias que
+tinham previsto sua Vindo. Ele derivava sua autoridade moral da natureza
+excepcional de Sua espírito e da missão divina com a qual Ele foi confiado.
+Jesus veio para ensinar humanidade que a vida verdadeira não é o vivido aqui na
+Terra, mas no Reino dos Céus. Ele veio nos mostrar o caminho para este Reino. 
 
+Jesus nos ensinou que a maneira de nos reconciliar com Deus é experimentando os
+eventos de nossas vidas com a consciência de nosso propósito superior como seres
+humanos. Mas Ele não revelou tudo.  Em muitos assuntos ele limitou-se a
+oferecendo apenas a parte inicial da verdade, explicando seu silêncio sobre o
+descansar dizendo que os seres humanos não eram capazes ainda de entender o todo
+Verdade.  
+
+Ele falava sobre todas as coisas, mas muitas vezes de uma maneira velada. Ele
+sabia disso, em ordem para que as pessoas sejam capazes de assimilar o
+significado integral de Suas palavras, novo ideias e conhecimento teria primeiro
+que vir a ser que forneceria o chave para desbloquear toda a extensão de Sua
+doutrina. Essas ideias só viriam uma vez. o espírito humano tinha atingido um
+certo nível de avanço. Ciência, especialmente, ainda tinha um papel importante
+a desempenhar no surgimento e desenvolvimento do conhecimento humano, e
+precisava de tempo para amadurecer.
+
+## A Doutrina dos Espíritos
+A Doutrina Espírita é o novo corpo de princípios que revela, através evidência
+indiscutível, a existência e a natureza do mundo espiritual e sua relação com o
+material. O mundo espiritual não é apresentado como um elemento sobrenatural,
+mas como uma das forças vivas e ativas da Natureza, o fonte de um grande número
+de fenômenos que até hoje não entendemos e assim relegar ao reino da fantasia ou
+milagres. Cristo insinuou tal desenvolvimento em várias ocasiões, e é porque
+Ele só insinuou que muitos dos os formigas que Ele disse ter permanecido além de
+nossas garras ou foi erroneamente interpretado, A Doutrina Espírita oferece uma
+chave que ajudará a explicar todos esses assuntos.
+
+A lei do Antigo Testamento foi personificada em Moisés; o do Novo Testamento em
+Cristo. A terceira revelação não pode ser personificada, no entanto, porque não
+é dado por um ser humano, mas por espíritos. Tendo transcendido a escravidão de
+matéria, espíritos agora constituem as vozes celestiais que se comunicam a todos
+partes do mundo e através de inúmeros intermediários. A Doutrina Espírita é,
+nesse sentido, o trabalho coletivo das inteligências iluminadas do mundo
+espiritual. Este trabalho nos traz iluminação e oferece os meios de entendendo
+o destino que espera cada um de nós em nosso retorno ao espírito Reino.
+
+Assim como Cristo disse: "Eu não vim para abolir a Lei ou os Profetas, mas para
+cumpri-los", por isso é com a Doutrina Espírita, que não veio a desafiar
+Princípios cristãos, mas para ajudar a realizá-los. A Doutrina Espírita ensina
+nada contrário à mensagem de Cristo. Na verdade, desenvolve essa mensagem,
+explica isso de uma forma que todo mundo pode entender, e deixa claro que parte
+de que tem sido conhecido, até agora, apenas de forma alegórica. A Doutrina
+veio no tempo previsto para confirmar a previsão de Cristo e para preparar o
+caminho para a realização de coisas futuras. A Doutrina Espírita é, então,
+parte do projeto de Cristo. Como ele mesmo disse, Cristo preside o espiritual
+renovação da humanidade, estabelecendo a base de uma ordem mais divina na Terra.   
+
+### Notas
+Este capítulo do livro de Kardec é concluído com ensinamentos de três espíritos
+(Um Espírito Israelita, recebido em Mullhouse, 1861; o espírito Fénelon,
+recebido em Poiters, 1861; e Erastus um discípulo do Apóstolo Paulo, recebido em
+Paris, 1863) sobre as três revelações ea Nova Era trazida por Espiritismo.
+Confira em "O Evangelho Explicado pela Doutrina Espírita". 
+
+### Referências Bibliográficas
+Kardec, Allan. "Eu não vim para abolir a lei." O Evangelho Explicado por A
+Doutrina Espírita. Sociedade Educacional Trans. Allan Kardec (traduzido a
+partir da 3ª edição em francês). Filadélfia, PA. Sociedade Educacional Allan
+Kardec. 2000. 25-28.
+
+## Fonte
+[ExploreEspiritismo: The revelation of god's laws](//www.explorespiritism.com/religionrevelation.htm)
 

@@ -1,50 +1,50 @@
 ---
-title: Spiritism - Advanced Topics
-description: In search for more advanced topics? We built a section specific for more in-depth knowledge.
+title: Espiritismo - Tópicos Avançados
+description: Procurando tópicos mais avançados? Construímos uma seção específica para você aprofundar seu conhecimento.
 date: "2019-01-01"
 topics:
-- spiritism
-- spiritist-centers
+- espiritismo
+- centro-espirita
 ---
 
-Interested in knowing more? On this section we provide multiple advanced topics
-for your information.
+Interessado em saber mais? Nesta seção fornecemos vários tópicos avançados
+para sua informação.
 
-### Spirits 
-Understand the spirit creation and evolution learn about different categories of
-Spirits and more.  
+### Espíritos 
+Entenda a criação espiritual e a evolução conheçam diferentes categorias de
+Espíritos e muito mais.  
 
-### Material and Spiritual Worlds 
-Learn about the different types of worlds: [material](/about/material-world) and
-[spiritual](/about/spiritual-world).  Check [this study on
-worlds](/studies/worlds) for more information.
+### Mundos Materiais e Espirituais 
+Conheça os diferentes tipos de mundos: [material](/sobre/material-mundo) e
+[espiritual] (/sobre/espiritual-mundo).  Confira [este estudo sobre
+mundos](/estudos/mundos) para obter mais informações.
 
-### Mediums 
-Learn what [mediums are](/spiritism/mediumship/mediums), [who is a
-medium](/spiritism/mediumship/who-is-medium) and more.
+### Meios 
+Saiba quais são [os meios](/espiritismo/medietismo/médiuns), [quem é um
+médio](/espiritismo/medirismo/quem-é-meio) e muito mais.
 
-### Mediumship 
-Learn what is [mediumship](/spiritism/mediumship), what causes it and more,
+### Medicaridade 
+Saiba o que é [medirismo](/espiritismo/medirismo), o que causa e muito mais,
 
-### Fluidic Theraphy 
-Learn about the fluidic therapy, what it is and how it can help.
+### Terapia Fluídica
+Aprenda sobre a terapia fluídica, o que é e como ela pode ajudar.
 
-### Reincarnation 
-Learn about [reincarnation](/spiritism/reincarnation) and why it represents
-evolution and a divine grace given to us.
+### Reencarnação 
+Conheça [reencarnação](/espiritismo/reencarnacao) e por que ela representa
+evolução e uma graça divina dada a nós.
 
-### Phenomena 
-Learn about the different different types of phenomena.
+### Fenômenos 
+Conheça os diferentes tipos de fenômenos.
 
-### Obsession 
-Learn about [obession](/spiritism/obsession), common types and understand what
-you need to do to prevent it.
+### Obsessão 
+Conheça [obesidade](/espiritismo/obsessão), tipos comuns e entenda o que
+você precisa fazer para evitá-lo.
 
 ### Chakras 
-Learn about [chakras and their influence in our physical and spiritual
-bodies](/studies/chakras).
+Aprenda sobre [chakras e sua influência em nosso físico e espiritual
+corpos](/estudos/chakras).
 
-## See Also
-[Spiritism - FAQ](../faq)  
-[Spiritism - Science, Philosophy or Religion?](../science-philosophy-religion)  
+## Veja Também
+[Espiritismo - FAQ](../faq)  
+[Espiritismo - Ciência, Filosofia ou Religião?](../ciência-filosofia-religião)  
 

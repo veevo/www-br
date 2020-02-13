@@ -1,65 +1,63 @@
 ---
-title: Spiritist Councils and Federations
-description: Spiritist Councils and Federations are organizations that foster and promote the Spiritist Doctrine around the World. Read to understand what are their objectives.
+title: Conselhos espíritas e Federações
+description: Conselhos e Federações Espíritas são organizações que promovem e promovem a Doutrina Espírita em todo o mundo. Leia para entender quais são seus objetivos.
 date: "2018-11-30"
 image: "images/contact.jpg"
 todo: true
 topics:
-- spiritism
-- spiritist-center
+- espiritismo
+- centro-espirita
 ---
 
-Spiritist Councils and Federation have as objective, to promote, unify and
-foster the [Spiritist Doctrine](/spiritism) in each country.
+Conselhos espíritas e Federação têm como objetivo, promover, unificar e
+fomentar a [Doutrina Espírita](/espírita) em cada país.
 
-All federations are represented on the [International Spiritist
-Council](https://cei-spiritistcouncil.com/) (ISC), an organization that supports
-the Spiritist movement in each country. The ISC has regional departments having
-as objective to work together with the representatives from each country.
+Todas as federações estão representadas no [Espírita Internacional
+Conselho](https://cei-spiritistcouncil.com/) (ISC), uma organização que apoia
+o movimento espírita em cada país. O ISC tem departamentos regionais tendo
+como objetivo trabalhar em conjunto com os representantes de cada país.
 
-## International Councils
-[International Spiritist Council](https://cei-spiritistcouncil.com/)  
+## Conselhos Internacionais
+[Conselho Espírita Internacional] (https://cei-spiritistcouncil.com/)  
 
-## Europe
-[Belgian Spiritist Union](http://www.spirite.be/)  
-[British Union of Spiritist Societies-BUSS](http://www.buss.org.uk/)  
-[French Spiritist Council](https://www.conseil-spirite.org/)  
-[German Spiritist Union](https://www.facebook.com/spiritismus)  
-[Spiritist Society of Ireland](http://www.spiritismireland.com/)  
-[Italian Spiritist Union](http://www.italiausi.com/)  
-[Dutch Spiritist Council](http://www.nrsp.nl/)  
-[Portuguese Spiritist Federation](http://www.feportuguesa.pt/)  
-[Spanish Spiritist Federation](http://www.espiritismo.cc/)  
-[Swedish Spiritist Federation](https://www.facebook.com/Spiritismen/)  
-[Union of Spiritist Centers in Switzerland](http://www.ucess.ch/)  
+## Europa
+[União Espírita Belga] (http://www.spirite.be/)  
+[União Britânica das Sociedades Espíritas-ÔNIBUS] (http://www.buss.org.uk/)  
+[Conselho Espírita Francês] (https://www.conseil-spirite.org/)  
+[União Espírita Alemã] (https://www.facebook.com/spiritismus)  
+[Sociedade Espírita da Irlanda] (http://www.spiritismireland.com/)  
+[União Espírita Italiana] (http://www.italiausi.com/)  
+[Conselho Espírita Holandês] (http://www.nrsp.nl/)  
+[Federação Espírita Portuguesa] (http://www.feportuguesa.pt/)  
+[Federação Espírita Espanhola] (http://www.Espiritismo.cc/)  
+[Federação Espírita Sueca] (https://www.facebook.com/Espiritismoen/)  
+[União dos Centros Espíritas na Suíça] (http://www.ucess.ch/)  
 
-## Americas
-[Argentinian Spiritist Confederacy](http://www.ceanet.com.ar/)  
-[Bolivian Spiritist Federation (FEBOL)](http://www.febol.org/)  
-[Brazilian Spiritist Federation](http://www.febnet.org.br/)  
-[Canadian Spiritist Council](http://www.canadianspiritistcouncil.com/)    
-[Colombian Spiritist Confederacy](http://www.confecol.org/)  
-[Cuba - Love and Universal Charity Society](http://www.josedeluz.com/)  
-[El Salvador Spiritist Federation](http://www.elsalvadorespirita.org/)  
-[Guatemalan Heliosophica Chain](mailto:ebravo_1@hotmail.com)  
-[Paraguayan Spiritist Philosophy Center](https://www.facebook.com/Centro-de-Filosof%C3%ADa-Espiritista-Paraguayo-509226199186105/)  
-[Peruvian Spiritist Federation](http://peruespirita.blogspot.pt/)  
-[Spiritist Council of Mexico](http://www.espiritismoenmexico.org/)    
-[United States Spiritist Council](http://www.spiritist.us/)    
-[Uruguayan Spiritist Federation](http://www.espiritismouruguay.com/)  
-[Venezuela - Civil Association “Socrates”](http://www.venezuelaespirita.org/)  
-
+## Américas
+[Confederação Espírita Argentina] (http://www.ceanet.com.ar/)  
+[Federação Espírita Boliviana (FEBOL)] (http://www.febol.org/)  
+[Federação Espírita Brasileira] (http://www.febnet.org.br/)  
+[Conselho Espírita Canadense] (http://www.canadianspiritistcouncil.com/)    
+[Confederação Espírita Colombiana] (http://www.confecol.org/)  
+[Cuba - Love and Universal Charity Society] (http://www.josedeluz.com/)  
+[Federação Espírita de El Salvador] (http://www.elsalvadorespirita.org/)  
+[Cadeia Heliosophica Guatemalteca] (mailto:ebravo_1@hotmail.com)  
+[Centro de Filosofia Espírita Paraguaio] (https://www.facebook.com/Centro-de-Filosof%C3%ADa-Espiritista-Paraguayo-509226199186105/)  
+[Federação Espírita Peruana] (http://peruespirita.blogspot.pt/)  
+[Conselho Espírita do México] (http://www.Espiritismoenmexico.org/)    
+[Conselho Espírita dos Estados Unidos] (http://www.spiritist.us/)    
+[Federação Espírita Uruguaia] (http://www.Espiritismouruguay.com/)  
+[Venezuela - Associação Civil "Sócrates"] (http://www.venezuelaespirita.org/)  
 
 ## Contribute
-Would you like to suggest any update or recommend adding other councils to the above list?
-Please, [contact us](/help/contact-us) and we'll be happy to add your suggestions.
+Gostaria de sugerir qualquer atualização ou recomendar adicionar outros conselhos à lista acima?
+Por favor, [entre em contato conosco](/ajuda/contato-us) e ficaremos felizes em adicionar suas sugestões.
 
+## Fonte
+[CEI - Países Membros] (https://cei-spiritistcouncil.com/member-countries/#1485984587200-c49f8ddf-5f57)
 
-## Source
-[CEI - Member Countries](https://cei-spiritistcouncil.com/member-countries/#1485984587200-c49f8ddf-5f57)
-
-## See Also
-[Spiritism](/spiritism)  
+## Veja Também
+[Espiritismo](/Espiritismo)  
 [Allan Kardec](/bio/allan-kardec)  
-[What is Spiritism?](/spiritism/about)  
-[The Gospel Explained](/gospel)  
+[What is Espiritismo?](/espiritismo/about)  
+[O Evangelho Explicado] (/evangelho)  

@@ -1,97 +1,98 @@
 ---
-title: Spiritism - Backlash to the Codification
-description: In the late 1800s, Spiritism had a lot of critics and backlash from the Catholic Church. Read to understand.
+title: Espiritismo - Reação à Codificação
+description: No final de 1800, o Espiritismo teve muitos críticos e reação da Igreja Católica. Leia para entender.
 date: "2019-01-01"
 topics:
-- spiritism
-- spiritist-centers
+- espiritismo
+- centro-espirita
 ---
 
-## Introduction
-Even though the [Spiritist Codification](/spirism/codification) made
-[Rivail](/about/allan-kardec) a house hold name in much of the continent, the UK
-and later in America and Brazil, for him personally putting the revelations of
-the [Spirit Teachers](/about/superior-spirits) to paper cost him dearly.
+## Introdução
+Mesmo que a [Codificação Espírita](/spirism/codificação) tenha feito
+[Rivail] (/sobre/allan-kardec) uma casa deter nome em grande parte do continente, o Reino Unido
+e mais tarde na América e no Brasil, para ele pessoalmente colocando as revelações de
+os [Professores espirituais](/sobre/espíritos superiores) ao papel lhe custaram caro.
 
-The Spirit teachers had told Rivail that he would find harsh criticism and
-resistance among the Church, among other intellectuals and even among the
-growing Spiritist organizations that were forming as a result of the
-[Codification](/spiritism/codification).
+Os professores do Espírito tinham dito a Rivail que ele encontraria duras críticas e
+resistência entre a Igreja, entre outros intelectuais e até mesmo entre os
+crescenteorganizações espíritas que estavam se formando como resultado do
+[Codificação] (/espiritismo/codificação).
 
-Even physically Rivail would pay a hard price for taking on this immense task.
-Unfortunately that was exactly how things progressed.
+Mesmo fisicamente Rivail pagaria um preço difícil por assumir esta imensa tarefa.
+Infelizmente foi exatamente assim que as coisas progrediram.
 
-## Before the publication of The Spirits' Book
-Before the publication of The Spirits’ Book in 1856, the Holy Office, under
-[Pope Pius IX](//en.wikipedia.org/wiki/Pope_Pius_IX), had prohibited mediumship
-and ‘other analogous superstitions’ as ‘heretical, scandalous, and contrary to
-the honesty of customs’.
+## Antes da publicação do Livro dos Espíritos
+Antes da publicação do Livro dos Espíritos em 1856, o Santo Ofício,
+[Papa Pio IX] (//en.wikipedia.org/wiki/Pope_Pius_IX), tinha proibido a mediunidade
+e "outras superstições análogas" como "herética, escandalosa, e ao contrário
+a honestidade dos costumes.
 
-But in 1861 the Bishop of Barcelona took more direct action.  He ordered an
-auto-da-fe (act of the faith) known as the [Edict of
+Mas em 1861 o Bispo de Barcelona tomou medidas mais diretas. Ele ordenou um
+auto-da-fe (ato da fé) conhecido como o [Edital de
 Barcelona](//www.researchgate.net/publication/291873151_The_celebrated_burning_in_Barcelona_on_October_9_1861_A_history_revisited),
-against three-hundred Spiritist books, including many by Rivail, that were
-confiscated and burnt in public.
+contra livros espíritas de 300, incluindo muitos por Rivail, que foram
+confiscado e queimado em público.
 
-However, the Bishop’s actions did nothing more than stir up French nationalism
-and contribute to the further growth of Spiritism in both France and Spain.
+No entanto, as ações do Bispo não fizeram nada mais do que agitar o nacionalismo francês
+e contribuir para o crescimento do Espiritismo tanto na França quanto na Espanha.
 
-Hess adds that when the Bishop died nine months afterwards, his repentant spirit
-manifested through several French [mediums](/about/medium) begging for Rivail’s
-forgiveness which was, apparently, granted.
+Hess acrescenta que quando o Bispo morreu nove meses depois, seu espírito arrependido
+manifestado através de vários [médiuns] franceses (/sobre/meio) implorando por Rivail
+perdão que foi, aparentemente, concedido.
 
-In France, the dean of the Faculty of Theology of Lyons began public education
-courses against Spiritism and Mesmerism in 1864 and Spiritism was widely branded
-as a form of demon worship in writings by clergymen.
+Na França, o reitor da Faculdade de Teologia de Lyons começou a educação pública
+cursos contra Espiritismo e mesmerismo em 1864 e Espiritismo foi amplamente marcado
+como uma forma de adoração demoníaca em escritos por clérigos.
 
-## Spiritism vs the Catholic Church
-Rivail accused the Church of deliberately inciting hatred against Spiritists:
+## Espiritismo vs a Igreja Católica
+Rivail acusou a Igreja de deliberadamente incitar o ódio contra os espiritistas:
 
-> From the pulpit, we Spiritists have been called enemies of society and public
-> order…In some places, Spiritists were censured to the point of being
-> persecuted and injured on the streets, while the faithful were forbidden to
-> hire Spiritists and were warned to avoid them as they would avoid the plague.  
+> A partir do púlpito, nós espiritistas fomos chamados de inimigos da sociedade e do público
+> ordem... Em alguns lugares, os espíritas foram censurados ao ponto de ser
+> perseguido e ferido nas ruas, enquanto os fiéis foram proibidos de
+> contratar espíritas e foram avisados para evitá-los como eles evitariam a peste. 
 
-> Women were advised to separate from their husbands. Charity has been refused
-> to the needy and workers have lost their livelihoods, just because they were
-> Spiritists.  
+> As mulheres foram aconselhadas a se separar de seus maridos. Caridade foi recusada
+> para os necessitados e os trabalhadores perderam seus meios de subsistência, só porque eles foram
+> Espíritas. 
 
-> Blind men have even been discharged, against their will, from some hospitals
-> because they would not renounce their beliefs.  
+> Homens cegos até receberam alta, contra sua vontade, de alguns hospitais
+> porque eles não renunciariam às suas crenças. 
 
+## Espiritismo, Espiritualismo e América
+Como com o Espiritismo na América e na Grã-Bretanha, certas seções dos franceses
+estabelecimento científico também reagiu com hostilidade à disseminação do
+Espiritismo.
 
-## Spiritism, Spiritualism and America
-As with Spiritualism in America and Britain, certain sections of the French
-scientific establishment also reacted with hostility to the spread of Spiritism.
+Hess menciona que um Dr. Dechambre, um membro da Academia de Medicina, publicou
+uma crítica ao movimento em 1859, e também cita relatos de insanidade,
+supostamente causada pelo Espiritismo, que começou a circular em 1863.
 
-Hess mentions that a Dr Dechambre, a member of the Academy of Medicine,
-published a critique of the movement in 1859, and also cites reports of
-insanity, allegedly caused by Spiritism, that had started to circulate by 1863.
+Havia até um equivalente francês à teoria, que se originou na América, que raps
+espirituais foram produzidos pela rachadura do joelho e articulações do dedo do
+dodo do dedo.
 
-There was even a French equivalent to the theory, which originated in America,
-that spirit raps were produced by the cracking of the knee and toe joints.
+A variação francesa sobre este tema foi apresentada à Academia de Medicina por
+um cirurgião, M. Jobert, que atribuiu os ruídos a rachaduras hábil do curto
+tendão do músculo do passo.
 
-The French variation on this theme was presented to the Academy of Medicine by a
-surgeon, M. Jobert, who attributed the noises to skilful cracking of the short
-tendon of the muscle of the instep.
+## Em defesa do Espiritismo
+Kardec passou o resto de sua vida defendendo o Espiritismo de ataques de em
+todas as direções.
 
-## In defense of Spiritism
-Kardec spent the remainder of his life defending Spiritism from attacks from
-every direction.
+Apesar de ter desenvolvido uma condição cardíaca, Rivail nunca parou sua
+trabalhos incansáveis no estudo, ensino e disseminação do Espiritismo.
 
-In spite of having developed a heart condition, Rivail never stopped his
-tireless works in the study, teaching and spreading of Spiritism.
+Inevitavelmente, em 31 de março de 1869, ele sucumbe a um aneurisma, morrendo
+instantaneamente em a pequena livraria espírita que ele correu para fora de sua
+casa.
 
-Inevitably in March 31st, 1869 he succumb to an aneurysm, dieing instantly in
-the small Spiritist bookstore he ran out of his home.
+## Fonte
+Adaptado de [SGNY - The Backlash to the Codification](https://www.sgny.org/spiritism-guide/the-5-book-codification-ii/)
 
-## Source
-Adapted from [SGNY - The Backlash to the Codification](https://www.sgny.org/spiritism-guide/the-5-book-codification-ii/)
-
-## See Also
-[What is Spiritism](../about)  
-[Spiritism - FAQ](../faq)  
-[Learn Spiritism](../learn)  
-[Mediumship](../mediumship)  
-
+## Veja Também
+[O que é Espiritismo](../sobre)  
+[Espiritismo - FAQ](../faq)  
+[Aprenda Espiritismo](../aprender)  
+[Mediunidade](../mediunidade)  
 

@@ -1,73 +1,71 @@
 ---
-title: About Spiritist Centers
-description: Know what Spirit Centers are and what they can offer to you.
+title: Sobre Centros Espíritas
+description: Saiba o que são Centros Espirituais e o que eles podem oferecer a você.
 date: "2019-01-01"
 weight: 100
 topics:
-- spiritist-centers
+- espiritismo
+- centro-espirita
 ---
 
-You may wonder where those who follow Spiritism go to meet, study, work, and
-pray together.
+Você pode se perguntar onde aqueles que seguem Espiritismo ir para conhecer,
+estudar, trabalhar, e rezem juntos.
 
-Spiritists do not have what is commonly referred to as a church, temple, shrine,
-etc.  In fact, Spiritism is not a religion in the traditional sense, since there
-exists no hierarchical structure of authority or dogmatic practices. 
+Espíritas não têm o que é comumente referido como igreja, templo, santuário,
+Etc.  Na verdade, o Espiritismo não é uma religião no sentido tradicional, já
+que há não existe estrutura hierárquica de autoridade ou práticas dogmáticas. 
 
-The place where Spiritists gather is referred to as a Spiritist Center. There,
-they collaborate, with one another and with the [spiritual
-guides](/about/spiritual-guide), in the study, practice, promote and divulge
-Spiritism. 
+O lugar onde os espíritas se reúnem é chamado de Centro Espírita. Lá eles
+colaboram, uns com os outros e com o [espiritual guias](/sobre/guia
+espiritual), no estudo, prática, promoção e divulgação Espiritismo. 
 
-## Organization
-Spiritist Centers operate independently, though some are affiliated with larger
-associations or federations that bring various Centers together for events and
-special initiatives related to the dissemination of Spiritism.  The Centers are
-often (though not always) named after a historical pioneer of Spiritism, a
-mentoring Spirit, or sometimes a charitable quality, etc. ̶  for example, Allan
-Kardec Spiritist Center, Andre Luiz Spiritist Center, Love and Fraternity
-Spiritist Center, etc.
+## Organização 
+Centros espíritas operam de forma independente, embora alguns estejam afiliados
+a maiores associações ou federações que reúnem vários Centros para eventos e
+iniciativas especiais relacionadas à disseminação do Espiritismo.  Os Centros
+são muitas vezes (embora nem sempre) nomeado em homenagem a um pioneiro
+histórico do Espiritismo, um mentoria Spirit, ou às vezes uma qualidade de
+caridade, etc.  Centro Espírita Kardec, Centro Espírita André Luiz, Amor e
+Fraternidade Centro Espírita, etc.
 
-## Structure
-Centers are often run by a board of directors, but these are elected positions.
-Such positions, as well as those involving the other work that goes on in
-managing the Center and organizing and running its activities are non-paid
-positions. The people who work in a Spiritist center and fulfill those roles do
-so as volunteers.
+## Estrutura 
+Os centros são frequentemente administrados por um conselho de administração,
+mas estes são cargos eleitos.  Tais posições, bem como aqueles que envolvem o
+outro trabalho que continua em gerenciando o Centro e organizando e executando
+suas atividades não são pagos Posições. As pessoas que trabalham em um centro
+espírita e cumprem esses papéis fazem assim como voluntários.
 
-So what goes on at the Spiritist Center?
+Então, o que se passa no Centro Espírita?
 
-## Typical Activities at a Spiritist Center
-A Spiritist center is more than just a place to study. It is a place to pray,
-learn, grow, collaborate, and work for the  benefit of others.  It is often said
-that a Spiritist center is a home, a school, and a hospital, all in one.
+## Atividades Típicas em um Centro Espírita
+Um centro espírita é mais do que apenas um lugar para estudar. É um lugar para
+orar, aprender, crescer, colaborar e trabalhar em benefício dos outros.  Muitas
+vezes é dito que um centro espírita é um lar, uma escola, e um hospital, tudo em
+um.
 
-Spiritist centers cover an extremely broad spectrum in terms of size, number,
-and scope of activities.  There are some centers with as few as 10 or 20 people,
-others with hundreds, and even, in some cases, thousands of members.  Still,
-there are some basic activities common to most centers, regardless of size.
+Centros espíritas cobrem um espectro extremamente amplo em termos de tamanho,
+número, e escopo das atividades.  Há alguns centros com apenas 10 ou 20
+pessoas, outros com centenas, e até, em alguns casos, milhares de membros.
+Ainda existem algumas atividades básicas comuns à maioria dos centros,
+independentemente do tamanho.
 
-## Free of Charge
-All practical activities that happen on [Spiritist Centers](../centers) such as
-[mediumship](../mediumship), dissemination, [fraternal
-assistance](../centers/fraternal-assistance) are free of any charge, which
-follows the [Gospel](/gospel) principle that we must "give for free what we
-receive for free.".  
+## Grátis
+Todas as atividades práticas que acontecem nos [Centros Espíritas](../centros)
+como [mediunidade](../medirismo), disseminação, [fraternal assistência](..
+/centros/assistência fraternal) são gratuitos, que segue o princípio
+[Evangelho](/evangelho) que devemos "dar de graça o que receber de graça.".  
 
-Spiritist institurions don't charge for any of the work that one is expected to
-be there.
+Institurions espíritas não cobram por qualquer um dos trabalhos que se espera
+estar lá.
 
-## Activities
-To learn about the activities that take place in a Spiritist Center, please read
-the following articles:
-* [Public Meetings](../public-meetings)  
-* [Fluidic Therapy](../fluidic-therapy)  
-* [Children's and Youth Studies](../children-youth-studies)  
-* [Class and Study Groups](../study-groups)  
-* [Mediumship Sessions](../mediumship-sessions)  
-* [Fraternal Assistance](../fraternal-assistance)  
-* [Community Outreach](../community-outreach)  
+## Atividades
+Para saber sobre as atividades de um Centro Espírita, leia os seguintes artigos:
+* [Reuniões Públicas](.. /reuniões públicas)  
+* [Terapia Fluidífica](.. /terapia fluida)  
+* [Estudos infantis e juvenis](.. /crianças-jovens-estudos)  
+* [Grupos de Classe e Estudo](.. /grupos de estudo)  
+* [Sessões de Medietismo](.. /sessões de medietinidade)  
+* [Assistência Fraternal](.. /assistência fraternal)  
+* [Divulgação da Comunidade](.. /comunidade-divulgação)  
 
-## See Also
-[Spiritism](/spiritism)  
-[Allan Kardec](/bio/allan-kardec)
+## Veja Também [Espiritismo] (/Espiritismo)  [Allan Kardec] (/bio/allan-kardec)
