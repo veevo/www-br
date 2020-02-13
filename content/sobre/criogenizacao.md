@@ -2,13 +2,12 @@
 title: Criogenização
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- criogenizacao
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
+Processo de congelamento dos corpos com temperaturas que chegam até
+-196º C.
 
 ### O que é criogenia?
 Do grego kryos "gelo" e genos "origem". Estudo da geração de
@@ -18,10 +17,6 @@ temperaturas muito baixas, mais próxima possível de zero absoluto.
 Ramo da física que estuda os comportamentos da matéria a temperaturas
 extremamente baixas, assim como as teorias, técnicas e recursos para
 gerar estas temperaturas.
-
-### O que é criogenização?
-Processo de congelamento dos corpos com temperaturas que chegam até
--196º C.
 
 ### O que é a criogenização humana?
 É nada mais do que congelar uma pessoa após ela ter a morte confirmada.

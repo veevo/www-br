@@ -6,15 +6,12 @@ topics:
 ---
 
 ## Definição
-* Conjunto de regras de conduta consideradas como válidas, quer de modo absoluto
-  para qualquer tempo ou lugar, quer para grupo ou pessoa determinada.   
-* Sistema de idéias que tem por finalidade orientar o uso da liberdade pessoal
-  mediante a distinção entre o bem e mal, de modo que a conduta não acarrete
-  sofrimentos.
+Moral é o conjunto de regras de conduta consideradas como válidas, quer de modo absoluto
+para qualquer tempo ou lugar, quer para grupo ou pessoa determinada.   
 
-
-
-## Perguntas Relacionadas
+Sistema de idéias que tem por finalidade orientar o uso da liberdade pessoal
+mediante a distinção entre o bem e mal, de modo que a conduta não acarrete
+sofrimentos.
 
 ### O que é moral?
 Do latim morales, “relativo aos costumes”. A raiz mores significa

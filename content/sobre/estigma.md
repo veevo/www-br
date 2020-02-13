@@ -2,15 +2,9 @@
 title: Estigma
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- estigma
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por estigma?
 Estigma é uma cicatriz provocada no corpo por uma ferida ou machucado.
 No âmbito religioso, é o nome dado às feridas feitas por alguns
 religiosos em seus corpos, na tentativa de representar as chagas de

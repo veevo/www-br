@@ -59,6 +59,12 @@ planetas influenciam no complexo celular do homem físico, em sua
 formação orgânica e em seu nascimento na Terra. Não diz nada sobre a
 influência na personalidade e no caráter.
 
+### Qual a importância da astrologia, da cartomancia...?
+Tem sua importância relativa, contudo o Evangelho solicita o nosso
+esforço pessoal para a resolução dos problemas atinentes à nossa
+evolução espiritual, e caso tenhamos nascido num dia aziago, isso deve
+ser motivo para nos aplicarmos ainda mais, com mais determinação.
+
 ### Bibliografia
 CAVENDISH, Ricardo (org.). Enciclopédia do Sobrenatural: Magia,
 Ocultismo, Esoterismo, Parapsicologia. Consultor especial sobre

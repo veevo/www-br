@@ -2,16 +2,10 @@
 title: Herança
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- heranca
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por herança?
-É o direito pessoal de alguém, o herdeiro, ao patrimônio total ou
+Herança é o direito pessoal de alguém, o herdeiro, ao patrimônio total ou
 parcial de uma pessoa que faleceu.
 
 ### Quais são as categorias dos herdeiros?

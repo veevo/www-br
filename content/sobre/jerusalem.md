@@ -2,15 +2,9 @@
 title: Jerusalém
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- israel
+- judaismo
 ---
-
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é Jerusalém
 
 Jerusalém, capital de Israel, é uma cidade sagrada de judeus, cristãos e
 muçulmanos.

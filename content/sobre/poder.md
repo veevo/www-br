@@ -2,13 +2,16 @@
 title: Poder
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- poder 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Poder está relacionado a:
+* ter permissão ou autorização para
+* ter possibilidade de
+* ter capacidade de
+* ter calma ou paciência para
+* ficar vulnerável
+* ter oportunidade
 
 ### Qual a dificuldade que temos para definir o poder?
 A definição de poder é polissêmica, pois este termo é ambíguo e, por

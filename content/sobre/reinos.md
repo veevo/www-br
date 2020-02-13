@@ -1,12 +1,11 @@
 ---
-title: Adoração
+title: Reinos
 description: "Concebeu-se dividir a natureza em três reinos. Como podemos compreender isto melhor?"
 date: 2019-01-11 13:00:00
 topics: 
 - reinos
 ---
 
-## Introdução
 Concebeu-se dividir a natureza em: 1) seres orgânicos e seres inorgânicos; 2)
 reino mineral, reino vegetal e reino animal; 3) reino mineral, reino vegetal,
 reino animal e reino hominal. Que subsídios a Doutrina Espírita oferece-nos para

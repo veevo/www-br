@@ -5,10 +5,14 @@ topics:
 - 
 ---
 
-## Definição
+Medicina espiritual é a junção entre os recursos do conhecimento científico da
+medicina natural e a fé do paciente.
 
+Pesquisas realizadas em várias universidades americanas mostram que as
+pessoas espiritualizadas têm maior facilidade para sair dos processos
+depressivos, menor envolvimento com drogas e relacionamentos conjugais
+mais duradouros.
 
-## Perguntas Relacionadas
 
 ### O que é Medicina?
 Medicina é a atividade humana que tem como finalidade estudar as doenças
@@ -23,16 +27,6 @@ Sinais são o que médico detecta em suas análises.
 ### O que é medicina alternativa?
 É a prática médica diversa da medicina convencional. São as frutas, as
 ervas, a ioga, o caminhar, entre outros.
-
-### O que se entende por medicina espiritual?
-É a junção entre os recursos do conhecimento científico da medicina
-natural e a fé do paciente.
-
-### Como comprovar o avanço da Medicina espiritual?
-Pesquisas realizadas em várias universidades americanas mostram que as
-pessoas espiritualizadas têm maior facilidade para sair dos processos
-depressivos, menor envolvimento com drogas e relacionamentos conjugais
-mais duradouros.
 
 ### Nessas pesquisas, o que se diz da fé?
 Essas pesquisas revelam que as pessoas que têm fé enfrentam melhor o

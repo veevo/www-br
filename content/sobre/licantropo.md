@@ -5,20 +5,14 @@ topics:
 - licantropia
 ---
 
-## Definição
-* Alienado que sofre de licantropia.. 
-* Por extensão, Lobisomen.
-
-## Origem
+Alienado que sofre de licantropia. Por extensão, Lobisomen.
 Do grego lykanthropía
 
-## Origem
-Do grego lykaánthropos
+Ver: [Licantropia](../licantropia).
 
-## Relacionado
-Licantropia
 
 ## Veja Também
+Licantropia
 Zoantropia
 
 ## Fonte

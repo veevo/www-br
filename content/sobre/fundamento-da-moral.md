@@ -2,21 +2,16 @@
 title: Fundamento da moral
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- moral
+- religiao
+- filosofia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por fundamento?
 O fundamento comporta vários significados, tais como origem, princípio,
 razão de ser; porém, ele não é princípio, nem causa, nem
 finalidade. O fundamento assenta-se num princípio, numa causa, mas
 não é o princípio, a causa.
 
-### O que é moral?
 Moral é a regra da boa conduta e, portanto, da distinção entre o bem e o
 mal. Funda-se na observação da lei de Deus.
 

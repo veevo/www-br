@@ -5,18 +5,11 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Que se entende por moral?
 A moral é a regra da boa conduta e, portanto, da distinção entre o
 bem e o mal. Funda-se na observação da lei de Deus.
 
-### O que significa estranho?
-De o verbo estranhar, achar extraordinário, oposto aos costumes, ao
-hábito. Achar diferente do que seria natural esperar-se. Fora do comum,
+Estranho deriva do verbo estranhar, achar extraordinário, oposto aos costumes,
+ao hábito. Achar diferente do que seria natural esperar-se. Fora do comum,
 desusado, anormal. Misterioso, enigmático.
 
 ### As palavras perdem seu significado?

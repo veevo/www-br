@@ -2,15 +2,9 @@
 title: Iluminismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- iluminismo 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por iluminismo?
 O iluminismo, ou filosofia das luzes, é o movimento filosófico do
 século XIX, que se caracteriza pela confiança no progresso e na razão,
 pelo desafio à tradição e à autoridade e pelo incentivo à liberdade de

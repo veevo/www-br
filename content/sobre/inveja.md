@@ -2,23 +2,16 @@
 title: Inveja
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- inveja 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Qual a origem do termo "inveja"?
-Inveja vem do latim invidia, vontade de não ver, despeito, inveja. Era
-também o nome de uma deusa do mal, filha da Noite.
-
-### O que é a inveja?
 Consiste na tristeza pelo bem ou alegria pelo mal alheios como se fossem
 obstáculos ao progresso pessoal de um determinado sujeito. A inveja é
 uma víbora que espreita a sua futura vítima a todos os instantes, até
 encontrar ensejo favorável de inocular-lhe o seu vírus letal. (1)
+
+Inveja vem do latim invidia, vontade de não ver, despeito, inveja. Era
+também o nome de uma deusa do mal, filha da Noite.
 
 ### No que a inveja se distingue da emulação e da indignação?
 A inveja é um sentimento de desgosto pelo êxito do próximo. Emulação é

@@ -5,12 +5,6 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é a dor? E o sofrimento?
 Dor. Em sentido geral é a sensação desagradável e penosa, resultante
 de uma lesão, contusão, ferimento ou funcionamento anômalo de um órgão.
 Sofrimento. Sentimentos de tristeza, mágoa, aflição, pesar, que
@@ -18,7 +12,6 @@ podem repercutir de maneira mais ou menos intensa sobre o organismo,
 causando mal-estar.
 
 ### Situe historicamente a dor e o sofrimento.
-
 Na antiguidade, os papiros do Egito e os documentos da Pérsia descreviam
 a ocorrência da dor e o desenvolvimento de medidas para o seu controle.
 Como naquela época a dor era atribuída aos maus espíritos, a Medicina

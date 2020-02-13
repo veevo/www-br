@@ -2,20 +2,14 @@
 title: Eutanásia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- eutanasia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Em linhas gerais, a eutanásia é a morte suave, sem sofrimento.
 
 ### Qual a etimologia da eutanásia?
 Eutanásia vem do grego "eu" (bom) e "thanatos" (morte). Literalmente,
 "boa morte".
-
-### Qual o significado de eutanásia?
-Em linhas gerais, a eutanásia é a morte suave, sem sofrimento.
 
 ### A quem se poderia aplicar?
 Aos portadores de doença incurável, aos recém-nascidos portadores de

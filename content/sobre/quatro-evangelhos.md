@@ -1,14 +1,9 @@
 ---
-title: Quatro evangelhos os
+title: Os Quatro evangelhos
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- evangelho
 ---
-
-## Definição
-
-
-## Perguntas Relacionadas
 
 ### Qual a diferença entre Evangelho e Evangelhos?
 A palavra Evangelho, do grego euaggélion, pelo latim evangelium,

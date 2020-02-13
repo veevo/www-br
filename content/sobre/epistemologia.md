@@ -5,11 +5,7 @@ topics:
 - epistemologia
 ---
 
-## Definição
 Estudo do conhecimento humano quanto ao seu alcance e condições.
-
-
-## Perguntas Relacionadas
 
 ### O que significa episteme?
 Um corpo organizado de conhecimento, uma ciência.

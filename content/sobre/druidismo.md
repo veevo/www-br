@@ -2,23 +2,10 @@
 title: Druidismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- druidismo 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa a palavra “druida”?
-Druida - nome pelo qual era identificado, entre os Celtas,
-importante grupo social que desempenhava variadas funções, sendo os
-responsáveis pela manutenção e guarda dos valores da civilização
-céltica. Modernamente, a preferência etimológica faz o nome derivar de
-dru-wid, que significa "sábio". (Azevedo, 1990)
-
-### O que significa druidismo?
-Druidismo é a religião dos druidas, sacerdotes pagãos dos povos celtas
+Druidismo é a religião dos [druidas, sacerdotes pagãos dos povos celtas](../druida)
 que habitavam a Gália e a Bretanha no período anterior ao Cristianismo,
 mais especificamente entre o século II a.C. e o século II d.C.
 (Castanho, s. d. p.)

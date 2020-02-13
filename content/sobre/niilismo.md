@@ -2,37 +2,30 @@
 title: Niilismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- niilismo
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é niilismo?
 Niilismo – do latim nihil, nada, é o pensamento obcecado pelo nada,
 a doutrina da morte de Deus. Pode-se, também, dizer que é “a
 absolutização do nada”.
 
-### Onde buscar a origem do termo?
 Górgias é apontado como o primeiro niilista da história ocidental. Dele
 vem a frase: “Nada existe; se alguma coisa existisse, não a poderíamos
 conhecer; e, se a conhecêssemos, não seria comunicável”.
 
-### Quais outros pensadores poderiam ser arrolados numa hipotética
-história do niilismo?
-Fridegísio de Tours procurou provar que o nada possui algum ser – alguma
-substancialidade.
+### O que nos leva ao niilismo?
+A sociedade individualista e consumista. Vendem-nos a ideia de que temos
+que ser ricos, poderosos, famosos. Com isso, todos os nossos recursos
+pessoais são deslocados para esse fim. A livre busca do saber e os
+sentimentos profundos da alma são considerados maus e reprimidos.
+Voltemos os nossos olhos para o saber dos antigos, principalmente o dos
+gregos.
 
-Mestre Eckhart declara que Deus e o nada, “o anjo, a mosca e a alma” são
-a mesma coisa.
-
-Charles de Bovelles defende a “negação originária das criaturas e da
-matéria” que é o nada.
-
-Leonardo da Vinci anotou: “Entre as grandes coisas que estão abaixo de
-nós, o ser do nada é imensamente grande”? (1)
+### Quais outros pensadores poderiam ser arrolados numa hipotética história do niilismo?
+* Fridegísio de Tours procurou provar que o nada possui algum ser – alguma substancialidade.
+* Mestre Eckhart declara que Deus e o nada, “o anjo, a mosca e a alma” são a mesma coisa.
+* Charles de Bovelles defende a “negação originária das criaturas e da matéria” que é o nada.
+* Leonardo da Vinci anotou: “Entre as grandes coisas que estão abaixo de nós, o ser do nada é imensamente grande”? (1)
 
 ### Qual a contribuição russa para o estudo do niilismo?
 Por volta de 1860-1870, os russos Dobroliubov, Tchernychewski e Pisarev

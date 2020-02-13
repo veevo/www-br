@@ -1,14 +1,13 @@
 ---
-title: Missão dos espíritos
+title: Missão dos Espíritos
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espirito-superior
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Qual seria a missão dos Espíritos superiores para a humanidade? Instruir os
+homens, em lhes auxiliar o progresso; em lhes melhorar as instituições, por
+meios diretos e materiais. As missões, porém, são mais
 
 ### O que é uma missão?
 Segundo o Dicionário Aurélio: 1. Função ou poder que se confere a alguém
@@ -34,7 +33,6 @@ Missão dos Apóstolos: especialmente a de Paulo, consistia em preparar
 e abrir os caminhos à era do Espírito.
 
 ### Em que consiste a missão dos Espíritos encarnados? (pergunta 573)
-
 Em instruir os homens, em lhes auxiliar o progresso; em lhes melhorar as
 instituições, por meios diretos e materiais. As missões, porém, são mais
 ou menos gerais e importantes. O que cultiva a terra desempenha tão

@@ -2,15 +2,10 @@
 title: Fraternidade
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- fraternidade
+- solidariedade
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por fraternidade?
 Etimologicamente, significa "irmandade" ou "conjunto de irmãos". Em
 sentido estrito, exprime simplesmente o sentimento de afeição recíproca
 entre irmãos.

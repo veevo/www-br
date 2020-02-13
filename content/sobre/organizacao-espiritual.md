@@ -2,25 +2,20 @@
 title: Organização espiritual
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espirito
+- mundo-espiritual
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+A organização espiritual é fruto do trabalho realizado pelos Espíritos,
+para o bom funcionamento de suas instituições. No mundo espiritual há
+colônias, como é o caso da do Nosso Lar, que precisam ser administradas,
+cuidadas, para que os esforços não se percam ao longo do caminho.
 
 ### O que é organização?
 Em Organização e Administração de Empresas, é “ciência do rendimento”.
 Dispõe os elementos funcionais de tal forma que a conjunto resultante
 revela-se capaz de realizar um trabalho eficiente, um dispêndio razoável
 e um mínimo de risco.
-
-### O que é organização espiritual?
-A organização espiritual é fruto do trabalho realizado pelos Espíritos,
-para o bom funcionamento de suas instituições. No mundo espiritual há
-colônias, como é o caso da do Nosso Lar, que precisam ser administradas,
-cuidadas, para que os esforços não se percam ao longo do caminho.
 
 ### De que maneira são organizados os serviços na Colônia "Nosso Lar"?
 A colônia, que é essencialmente de trabalho e realização, divide-se em

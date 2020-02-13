@@ -2,13 +2,11 @@
 title: Cremação
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- cremacao
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
+Ato de destruir pelo fogo, especialmente cadáveres humanos; incineração.
 
 ### Quais são os tipos de sepultamento?
 Os seres humanos sempre pensaram em devolver à natureza o que da

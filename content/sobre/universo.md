@@ -12,11 +12,16 @@ topics:
 * Conjunto de todas as realidades criadas;
 * (Adj) Que compreende todas as coisas; que se estende a tudo; geral, universal.
 
-## Origem
-do latim universu
+### O que é o universo?
+Para a maioria dos filósofos, é o conjunto de tudo o que existe ou
+acontece. Portanto, está excluído que haja vários: se assim fosse, o
+universo seria sua soma.
 
-## Relacionado
-todo
+### Mundo é sinônimo de universo?
+Se o mundo é sinônimo de universo, como explicar a pluralidade dos
+mundos? Haveria vários Todos? Para os antigos, o mundo é um todo, mas
+não o Todo. É o conjunto ordenado que nos contém, tal como podemos
+observá-lo, da Terra ao céu e aos astros.
 
 ## Veja Também
 TODO

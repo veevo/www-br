@@ -5,10 +5,9 @@ topics:
 - duplo-etereo
 ---
 
-## Definição
-Utilizado como sinônimo de perispírito (embora sem o mesmo sentido).
+Duplo Etéreo é comumente (e incorretamente) utilizado como sinônimo de perispírito.
 
-Há porém de se diferenciar o duplo etéreo - apontado pelos pesquisadores do magnetismo - , do perispírito propriamente dito.
+Entretanto, como apontado pelos pesquisadores do magnetismo do perispírito propriamente dito,
 O primeiro refere-se ao conjunto de interações de natureza magnética que é
 inerente a vida e que somente com esta pode se manifestar, desfazendo-se com a
 morte do corpo físico.

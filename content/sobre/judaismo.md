@@ -2,15 +2,9 @@
 title: Judaísmo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- judaismo
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é o judaísmo?
 O Judaísmo é a religião dos israelitas ou hebreus ou judeus. O documento
 essencial sobre o Judaísmo é o livro sagrado de Israel, o Antigo
 Testamento.

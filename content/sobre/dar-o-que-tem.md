@@ -2,13 +2,13 @@
 title: Dar o que tem
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- caridade
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
+Segundo [Jesus](/sobre/jesus) quis nos mostrar que cada um deve dar algo de si,
+do que possui em essência. Isso não pode ser emprestado. É um patrimônio do
+sujeito cognoscente.
 
 ### O que é que julgamos ter?
 Um corpo, uma casa, um óculos, uma personalidade, um caráter etc.
@@ -22,16 +22,12 @@ espiritual.
 Em se tratando de governo, há uma grande ilusão: ele só pode dar aquilo
 que arrecadou em impostos e taxas.
 
-### O significa dar o que tem?
-Jesus quis nos mostrar que cada um deve dar algo de si, do que possui em
-essência. Isso não pode ser emprestado. É um patrimônio do sujeito
-cognoscente.
-
 ### Quem não ama a si mesmo pode amar o próximo?
 Inicialmente, a frase era: primeiro ama a si mesmo, para depois amar ao
 próximo. Hoje, repetimos exaustivamente o “amai o próximo com a si
 mesmo”. Há profunda diferença: como amar o próximo se não amamos a nós
 mesmos?
+
 ### O nosso corpo nos pertence?
 Segundo instruções dos Espíritos, nada nos pertence, nem mesmo o nosso
 corpo físico. O correto é vê-lo como um empréstimo. No devido momento,

@@ -8,9 +8,8 @@ topics:
 - causa-efeito
 ---
 
-A Lei da Causa e Efeito também é conhecida como Lei de Ação e Reação.
-
-Para saber mais sobre a Lei de Ação e Reação, [clique aqui](../acao-reacao).
+A Lei da Causa e Efeito também é conhecida como Lei de Ação e Reação.  
+Ver: [Lei de Ação e Reação](../acao-reacao).
 
 
 ## Leis Relacionadas

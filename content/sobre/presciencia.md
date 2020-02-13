@@ -5,18 +5,13 @@ topics:
 - 
 ---
 
-## Definição
+Presciência é a previsão do futuro. Filos. 
 
-
-## Perguntas Relacionadas
-
-### O que é presciência?
-É a previsão do futuro. Filos. Chamam os teólogos presciência ao
-atributo pelo qual Deus conhece todas as coisas, ou ao conhecimento que
-Deus tem de todo o presente, o passado e o futuro, não só no que
-respeita ao Homem e a tudo que ao Homem concerne, mas também no relativo
-à Natureza, seu curso, fenômenos duração etc. (Grande Enciclopédia
-Portuguesa e Brasileira)
+Chamam os teólogos presciência ao atributo pelo qual Deus conhece todas as
+coisas, ou ao conhecimento que Deus tem de todo o presente, o passado e o
+futuro, não só no que respeita ao Homem e a tudo que ao Homem concerne, mas
+também no relativo à Natureza, seu curso, fenômenos duração etc. (Grande
+Enciclopédia Portuguesa e Brasileira)
 
 ### Como é possível o conhecimento do futuro?
 No mundo espiritual, o espaço e a duração não existem para os Espíritos.

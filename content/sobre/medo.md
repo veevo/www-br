@@ -2,19 +2,12 @@
 title: Medo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- medo
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Qual a origem do termo “medo”?
 Medo vem do latim metu, medo, causador de cuidados, vocábulo que está
 também na raiz de médico, remédio, remediar e irremediável.
 
-### O que é o medo?
 O medo é um temor, surto violento, grande inquietação em presença de um
 perigo real ou imaginário.
 

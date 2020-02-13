@@ -2,11 +2,13 @@
 title: Filosofia da religião
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
+- religiao
 ---
 
-## Definição
-
+Filosofia da religião – por analogia com a filosofia da ciência,
+filosofia da arte etc. – nada mais é do que a reflexão filosófica sobre
+a religião.
 
 ## Perguntas Relacionadas
 
@@ -26,11 +28,6 @@ adquiridas e mantidas. A sociologia da religião estuda os componentes
 sociais (coesão e divisão) das crenças religiosas. A história das
 religiões estuda a sua emergência e influência no campo social e
 político.
-
-### O que se entende por filosofia da religião?
-Filosofia da religião – por analogia com a filosofia da ciência,
-filosofia da arte etc. – nada mais é do que a reflexão filosófica sobre
-a religião.
 
 ### Filosofia da religião é o mesmo que filosofia religiosa?
 Não. A filosofia religiosa é substancialmente uma filosofia da salvação,

@@ -5,10 +5,10 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Incoerência entre certas experiências, ideias, atitudes ou sentimentos.
+A incoerência cria um estado desagradável, que as pessoas tentam reduzir
+interpretando uma parte das suas experiências para torná-las mais
+coerentes com as outras.
 
 ### O que é dissonância?
 Consonância quer dizer coerência; dissonância, incoerência. Sensação de
@@ -19,12 +19,6 @@ atitudes e o comportamento de uma mesma pessoa.
 De acordo com Festinger, cognição diz respeito a conhecimento, opinião
 ou convicção sobre o meio ambiente, sobre nós próprios ou o nosso
 comportamento.
-
-### O que é dissonância cognitiva?
-Incoerência entre certas experiências, ideias, atitudes ou sentimentos.
-A incoerência cria um estado desagradável, que as pessoas tentam reduzir
-interpretando uma parte das suas experiências para torná-las mais
-coerentes com as outras.
 
 ### Quais são as hipóteses básicas da teoria da dissonância cognitiva?
 1. A existência de dissonância, ao ser psicologicamente incômoda,

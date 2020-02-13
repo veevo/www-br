@@ -2,24 +2,16 @@
 title: Laços de família
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- familia
 ---
 
-## Definição
+Laços de família são os compromissos contraídos pelos Espíritos no sentido de
+viverem numa determinada família. Essas famílias são de duas espécies: as
+famílias pelos laços espirituais e as famílias pelos laços corporais.
 
-
-## Perguntas Relacionadas
-
-### Que significa “laços”?
 O termo “laços” tem inúmeras interpretações tanto na mitologia quanto na
 iconografia. Para o nosso propósito, os laços devem ser vistos como os
 compromissos contraídos espontaneamente.
-
-### O que são laços de família?
-São os compromissos contraídos pelos Espíritos no sentido de viverem
-numa determinada família. Essas famílias são de duas espécies: as
-famílias pelos laços espirituais e as famílias pelos laços
-corporais.
 
 ### O que diferencia os laços da família material dos da família
 espiritual?

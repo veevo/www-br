@@ -2,15 +2,10 @@
 title: Metafísica
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- metafisica
+- ciencia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é a Metafísica?
 Metafísica é a doutrina da essência das coisas, o conhecimento das
 coisas primárias e dos primeiros princípios. Por ter como objeto o
 objeto de todas as outras ciências, e como princípio um princípio que
@@ -93,17 +88,9 @@ seja, Deus é eterno, imutável, imaterial, único, todo poderoso, e
 soberanamente justo e bom.
 
 
-
-
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/metafísica)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

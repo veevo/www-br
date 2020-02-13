@@ -2,17 +2,11 @@
 title: Raça
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- humanidade 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por raça?
-Conjunto de indivíduos procedentes do mesmo tronco e com características
-comuns dentro de sua espécie.
+Entende-se por raça como o conjunto de indivíduos procedentes do mesmo tronco e
+com características comuns dentro de sua espécie.
 
 ### Quais são as três principais raças?
 A raça branca, a raça amarela e a raça negra.

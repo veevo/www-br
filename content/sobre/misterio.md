@@ -2,21 +2,12 @@
 title: Mistério
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- religiao
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é mistério?
-É tudo o que não pode ser compreendido, que é inacessível à razão
-humana.
-
-### Qual o sentido teológico de mistério?
-É uma verdade revelada, que é incompreensível à razão sem a presença da
-fé.
+É tudo o que não pode ser compreendido, que é inacessível à razão humana. No
+sentido teológico, mistério seria uma verdade revelada, que é incompreensível à
+razão sem a presença da fé.
 
 ### Como surgiu o mistério da Santíssima Trindade?
 Teófilo de Antiloquia, no fim do século II e Tertuliano, no princípio do

@@ -5,12 +5,6 @@ topics:
 - deus
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é concessão?
 Ação ou efeito de conceder. Privilégio.
 
 ### O que é concessão em direito?

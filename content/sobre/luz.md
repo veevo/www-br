@@ -2,18 +2,11 @@
 title: Luz
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- luz 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa luz?
-Do latim luce. Em Física, radiação eletromagnética capaz de provocar
-sensação visual num observador normal. Em sentido figurado,
-esclarecimento, elucidação.
+Em Física, radiação eletromagnética capaz de provocar sensação visual num
+observador normal. Em sentido figurado, esclarecimento, elucidação.
 
 ### Como a metáfora da luz se apresenta na história?
 Platão, no Mito da Caverna, associa o conhecimento à luz. A primeira

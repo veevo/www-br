@@ -2,23 +2,17 @@
 title: Humanidade
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- humanidade
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Humanidade é o conjunto dos seres humanos. Sinônimo de gênero
+humano. Diz-se, também, do conjunto das características de todos os
+homens.
 
 ### O que está no fundo do termo "humanidade"?
 No fundo do termo "humanidade", encontra-se o homem que, para a
 filosofia, é um "animal racional", ou seja, os seus pensamentos e os
 seus atos emergem de uma dada racionalidade.
-
-### O que significa humanidade?
-Humanidade é o conjunto dos seres humanos. Sinônimo de gênero
-humano. Diz-se, também, do conjunto das características de todos os
-homens.
 
 ### O que diferencia o homem do animal?
 A diferença específica do ser humano com relação ao animal é a sua
@@ -49,18 +43,9 @@ animalizada e nos tornarmos seres angélicos.
 
 Fonte: Dicionários e Enciclopédias
 
-Acesse a
-
-deste tema.
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/humanidade)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

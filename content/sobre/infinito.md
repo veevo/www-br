@@ -5,17 +5,10 @@ topics:
 - 
 ---
 
-## Definição
+Infinito é algo sem fim; eterno. Aquilo que não tem limites.
 
-
-## Perguntas Relacionadas
-
-### O que é o finito?
 Por oposição ao infinito, o finito designa algo que tem limite e pode
 ser medido.
-
-### O que é o infinito?
-Sem fim; eterno. Aquilo que não tem limites.
 
 ### O que caracteriza a condição humana?
 A condição humana é caracterizada pela finitude, seja na concepção

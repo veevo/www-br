@@ -2,13 +2,13 @@
 title: Crianças prodígio
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- crianca
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
+Criança prodígio é a criança que apresenta um quociente de inteligência elevado.
+Suas atividades intelectuais (leitura, resolução de problemas e perseverança no
+estudo) estão acima da média.
 
 ### O que é criança?
 Criança é o ser humano na infância, pessoa jovem. Diz-se, também, das
@@ -23,11 +23,6 @@ absortas num mundo de fantasia interior. (1)
 A criança é denominada de "criança problema" quando o seu comportamento
 se afasta dos padrões normais aceitáveis. Muitas vezes, há necessidade
 de técnicas especiais para se lidar com ela. (1)
-
-### O que é uma criança-prodígio?
-É a criança que apresenta um quociente de inteligência elevado. Suas
-atividades intelectuais (leitura, resolução de problemas e perseverança
-no estudo) estão acima da média.
 
 ### Que outros nomes podem ser usados?
 Alguns autores preferem o termo criança bem-dotada em vez de

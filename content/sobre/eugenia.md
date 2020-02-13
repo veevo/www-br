@@ -2,22 +2,18 @@
 title: Eugenia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- eugenia 
 ---
 
-## Definição
-
+Eugenia é a parte da genética que tem por fim estudar as condições mais
+favoráveis à reprodução humana, para a melhoria das condições de saúde
+dos indivíduos e das populações.
 
 ## Perguntas Relacionadas
 
 ### Qual a etimologia de eugenia?
 Eugenia - do grego genos (nascimento) e eu (bem) significa “bem
 nascido”. Eugenismo e eugênico também provêm desta etimologia.
-
-### O que é a eugenia?
-Eugenia é a parte da genética que tem por fim estudar as condições mais
-favoráveis à reprodução humana, para a melhoria das condições de saúde
-dos indivíduos e das populações.
 
 ### Eugenismo é sinônimo de eugenia?
 Eugenismo é considerado sinônimo de eugenia, pois diz respeito ao

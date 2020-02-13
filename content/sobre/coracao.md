@@ -6,32 +6,21 @@ topics:
 - adoracao
 ---
 
-## Definição
 Órgão muscular oco, situado no tórax, e que constitui o elemento motor central
 da circulação do sangue.
 
-## Considerações iniciais
 O coração é um dos órgãos mais importante do corpo humano, pois bombeia sangue
 para todas as partes do organismo e, por isso, essencial à manutenção da vida.
 Lembremo-nos de que podemos ficar vários dias sem comer e beber, mas não sem
 respirar. Quantas não são as mortes causadas por asfixia?
 
 Desde tempos remotos, o coração é apresentado como a sede da alma, do
-sentimento, da coragem, da consciência e da razão.
-
-Já no antigo mito mesopotâmico, “o medo da morte se aloja no coração”, e leva
-Gilgamesh a procurar pela erva da imortalidade.
-
-No embalsamento egípcio, todos os órgãos internos eram retirados, menos o
-coração, que permanecia em seu lugar.
+sentimento, da coragem, da consciência e da razão. Já no antigo mito
+mesopotâmico, “o medo da morte se aloja no coração”, e leva Gilgamesh a procurar
+pela erva da imortalidade. No embalsamento egípcio, todos os órgãos internos
+eram retirados, menos o coração, que permanecia em seu lugar.
 
 Nas religiões e filosofias, a sua inserção é sempre simbólica.
-
-
-## Aparelho circulatório
-O aparelho circulatório é formado pelo coração e por um conjunto de canais,
-chamados vasos sanguíneos e linfáticos, nos quais circulam respectivamente o
-sangue e a linfa.
 
 ## Descrição do coração
 O coração é um órgão muscular, oco, situado entre os dois pulmões, num espaço
@@ -41,7 +30,6 @@ para esquerda e para frente. O coração possui movimentos de contração e
 dilatação, que lhe permitem impulsionar o sangue para todas as partes do
 organismo. Esse percurso recebe o nome de circulação. (Duarte, 1971, p. 70)
 
-## Estrutura do coração
 O coração é formado por um músculo oco, chamado miocárdio. O miocárdio é formado
 por fibras musculares estriadas, porém contrai-se independentemente de nossa
 vontade, por constituírem um tipo especial de fibras musculares. Internamente, o

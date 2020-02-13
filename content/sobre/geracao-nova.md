@@ -1,16 +1,10 @@
 ---
-title: Geração nova
+title: Geração Nova
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- genese
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Onde situar este tema?
 A Geração Nova é um sub-tema do capítulo XVIII, São Chegados os
 Tempos, do livro A Gênese, de Allan Kardec. Quando os tempos
 chegarem, haverá grandes acontecimentos para a regeneração da

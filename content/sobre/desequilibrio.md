@@ -2,13 +2,19 @@
 title: Desequilíbrio
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- sofrimento
+- depressao
+- ansiedade
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
+No contexto psicológico, desequilíbrio pode ser interpretado como:
+* Instabilidade mental.
+* Desproporção entre a despesa e a receita; deficit.
+* Distúrbio psíquico caracterizado por alterações de humor, excessiva
+  emotividade, descontrole e instabilidade geral, que impossibilita responder de
+  forma adequada às exigências da vida social, adaptar-se às mudanças e
+  ajustar-se ao ambiente de forma equilibrada. 
 
 ### O que se entende por equilibrar?
 Pôr em equilíbrio, fazer com que alguma coisa conserve a posição estável

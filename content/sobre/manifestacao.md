@@ -15,11 +15,17 @@ Ato pelo qual o Espírito revela a sua presença. As manifestações podem ser:
 * provocadas – efeitos da vontade, do desejo ou de uma evocação determinada; 
 * aparentes – quando o Espírito se faz visível.
 
-## Origem
-Do latim manifestatione
+### O que se entende por manifestação?
+Em Espiritismo, é o ato ou efeito de um ou mais Espíritos demonstrarem a
+sua presença por meio de aparição, fatos ou palavras. As manifestações
+espíritas são a base sobre a qual o Espiritismo foi codificado.
 
-## Relacionado
-todo
+### Como são classificadas as manifestações?
+As manifestações podem ser físicas ou inteligentes. Dá-se o nome de
+manifestações físicas às que se traduzem por efeitos sensíveis, tais
+como ruídos, movimentos e deslocação de objetos. Para que a manifestação
+seja inteligente basta que prove um ato livre e voluntário, exprimindo
+uma intenção, ou respondendo a um pensamento. (1)
 
 ## Veja Também
 Aparição  
@@ -27,5 +33,6 @@ TODO
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/manifestação-e-revelação), Sérgio Biagi Gregório
 
 

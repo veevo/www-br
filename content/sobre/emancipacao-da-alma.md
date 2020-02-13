@@ -5,8 +5,7 @@ topics:
 - emancipacao-da-alma
 ---
 
-## Definição
-Emancipação - [do latim emancipatione]. ato ou efeito de se emancipar. Libertar-se.
+Emancipação da alma refere-se ao ato ou efeito de se emancipar. Libertar-se.
 
 Estado particular da vida humana durante o qual a alma, desprendendo-se de seus
 laços materiais, recupera algumas das suas faculdades de Espírito e entra mais

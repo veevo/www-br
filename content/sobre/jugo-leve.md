@@ -8,7 +8,6 @@ topics:
 - jugo
 ---
 
-## Definição
 Do latim _jugu_, pelo hebr. môt, ôl significa peça de madeira que serve para
 emparelhar dois animais para o mesmo trabalho.
 

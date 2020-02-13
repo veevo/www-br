@@ -5,16 +5,41 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é um mito?
 O mito é uma narrativa que procura explicar os principais acontecimentos
 da vida, os fenômenos naturais, as origens do Mundo e do Homem por meio
 de deuses, semi-deuses e heróis. O "mito" é todo relato sério que está
 em conflito com nossos conhecimentos acerca dos processos naturais.
+
+### Como nascem os mitos?
+Os mitos nascem pelo medo ao desconhecido. O ser humano, não sabendo
+explicar a origem da vida e do mundo, cria o mito. Este lhe dá
+tranqüilidade à desordem interna.
+
+### Como podem ser divididos os mitos?
+Os mitos podem ser divididos em “mitos com Criação” e “mitos sem
+Criação”. Nos “mitos com Criação”, admite-se o surgimento do Universo
+num tempo zero (Deus revelado do Cristianismo). Nos “mitos sem
+Criação”, não se admite um tempo zero (Universo pulsante do hinduísmo).
+
+### O que evoca o sentido figurado do mito?
+Evoca a narração fabulosa e fictícia, contrária à verdade. Equivale a
+engano, falsidade. Exemplo: o mito marxista da vitória dos oprimidos, o
+mito do super-homem com a sua vitória sobre o espaço e o tempo, o mito
+da raça pura etc.
+
+### Qual é a fronteira entre o mito e o logos?
+A fronteira entre o mytho e o logos não é percebida com facilidade.
+Observe a astrologia e as demais pseudociências do universo: vindas para
+desmoronar o sacrifício das religiões oficiais, terminam criando o cosmo
+como um grande Anthropos, um homem cuja inteligência reside no
+movimento eterno e harmônico das esferas celestes, cujos olhos
+correspondem ao Sol e à Lua e a cujos pés jaz a matéria, num jogo sutil
+de correspondências regido por um único tema que varia até o infinito.
+
+### O que falar do mito-logos do cristianismo?
+O mytho/logos do cristianismo primitivo apresenta uma novidade: o
+logos se divinizou e ao mesmo tempo se personalizou a ponto de
+coincidir com a própria pessoa do fundador.
 
 ### Quais são os sentidos que o termo carrega?
 Ao longo do tempo, o mito foi carregando outros sentidos, entre os

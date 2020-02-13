@@ -5,12 +5,6 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é gnosticismo?
 Gnosticismo deriva de grego gnosis, e significa “conhecimento”,
 não um conhecimento conceitual, mas intuitivo, reservado somente a
 alguns iniciados. É uma corrente de pensamento que surgiu a partir do

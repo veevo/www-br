@@ -5,7 +5,6 @@ topics:
 - estereologica
 ---
 
-## Definição
 Aparição que adquire as propriedades da matéria resistente e tangível. Diz-se
 por oposição à aparição vaporosa ou etérea, que é impalpável. A aparição
 estereológica apresenta temporariamente à vista e ao toque as propriedades de um

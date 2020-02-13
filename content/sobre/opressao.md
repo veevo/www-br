@@ -2,15 +2,9 @@
 title: Opressão
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- opressao
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa opressão?
 Imposição injustificável de um fardo a alguém ou a um grupo, mediante a
 interferência nos seus poderes, interesses e oportunidades.
 

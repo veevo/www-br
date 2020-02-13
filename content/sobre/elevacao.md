@@ -10,11 +10,7 @@ topics:
 * Ação de elevar-se ou erguer-se. 
 * Grandeza.
 
-## Origem
-Do latim, elevatione
-
-## Relacionado
-todo
+No contexto psicológico-transpessoal, refere-se à qualidade moral de alguém.
 
 ## Veja Também
 TODO

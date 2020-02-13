@@ -9,28 +9,15 @@ topics:
 - mentor-espiritual
 ---
 
-## Definição
-* Aquele que mostra o caminho, cicerone. 
-* De acordo com a Doutrina Espírita, é o Espírito ligado a um indivíduo ou a um
-  grupo de pessoas, comprometido com o progresso de seus assistidos, sobre os
-  quais tem maior hierarquia moral e espiritual. 
+De acordo com a Doutrina Espírita, é o Espírito ligado a um indivíduo ou a um
+grupo de pessoas, comprometido com o progresso de seus assistidos, sobre os
+quais tem maior hierarquia moral e espiritual. 
 
-
-## Origem
-Do francês guider, variante de guier= guiar
-
-## Related
-Anjo guardião
-Guia Espiritual
-Anjo da Guarda
-
-## Relacionado
-todo
+Ver: [Anjo Guardião](../anjo-guardiao)
 
 ## Veja Também
 TODO
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
-
 

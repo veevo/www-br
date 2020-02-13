@@ -2,13 +2,11 @@
 title: Consciência cristalizada
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- consciencia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+O que compreendemos sobre consciência? E o que seria uma consciência
+cristalizada (ou anestesiada)? Leia para compreender
 
 ### O que se entende por consciência?
 Consciência significa etimologicamente um saber testemunhado ou

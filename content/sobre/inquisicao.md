@@ -2,18 +2,12 @@
 title: Inquisição
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- inquisicao
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa inquisição?
-Do latim inquisitione, significa, primeiramente, pesquisa ou
-investigação. Escrita com maiúscula torna-se uma investigação
-particular, muito mais policial do que teórica.
+Inquisição deriva do latim inquisitione que significa, primeiramente, pesquisa
+ou investigação. Escrita com maiúscula torna-se uma investigação particular,
+muito mais policial do que teórica.
 
 ### O que é a Inquisição (com maiúscula)?
 É um Tribunal eclesiástico, também chamado Santo Ofício, encarregado

@@ -2,15 +2,9 @@
 title: Hipocrisia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- hipocrisia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por hipocrisia?
 Hipocrisia é o vício que consiste em aparentar uma virtude ou um
 sentimento que não se sentem. É, também, fingimento, falsidade, falsa
 devoção.

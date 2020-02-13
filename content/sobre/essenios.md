@@ -5,12 +5,6 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa o termo “essênio”?
 Membro de uma seita religiosa judaica, surgida no século II a.C.,
 perdurando até o século I d.C. Uma espécie de ordem monástica com
 tendência ascética.

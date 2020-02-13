@@ -2,15 +2,10 @@
 title: Prolegômenos
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo
+- allan-kardec
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por prolegômenos?
 Prolegômenos é o estudo preliminar, introdutivo e simplificado.
 Segundo a etimologia grega, é o que é dito anteriormente: introdução ou
 exposição preliminar antes do desenvolvimento de uma teoria.

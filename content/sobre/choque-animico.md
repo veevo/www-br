@@ -5,7 +5,6 @@ topics:
 - choque-animico
 ---
 
-## Definição
 Tratamento energético dos desencarnados promovido com a manifestação dos mesmos,
 através da psicofonia, nas sessões de desobsessão das Casas Espíritas.
 

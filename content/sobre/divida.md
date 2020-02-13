@@ -6,11 +6,6 @@ topics:
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por dívida?
 Do latim debitum, “aquilo que é devido”, do verbo debere, “dever”.
 Em direito, é todo dever jurídico de cunho patrimonial. Em economia e
 finanças públicas, implica uma problemática específica dentro da

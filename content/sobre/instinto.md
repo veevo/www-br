@@ -15,16 +15,38 @@ No homem, confundem-se freqüentemente as idéias instintivas com as idéias
 intuitivas. Estas últimas são as que ele hauriu, quer no estado de Espírito,
 quer nas existências anteriores e das quais ele conserva uma vaga lembrança.
 
-## Origem
-Do latim instinctu
+Estímulo ou impulso natural pelo qual seres humanos e animais executam
+certos atos sem conhecer o fim ou o porquê desses atos.
 
-## Relacionado
-todo
+### Qual a distinção entre instinto e inteligência?
+A inteligência é mais flexível do que o instinto. A inteligência tem a
+seu favor o passado, que ajuda o indivíduo em novas situações. O
+instinto é cego.
+
+### Há, ainda no homem, os instintos próprios dos animais?
+Os investigadores do comportamento observam que, apesar do avanço
+tecnlogica, há no ser humano muitas maneiras de agir instintivas e
+próprias dos animais.
+
+### Como retratar a evolução do princípio inteligente?
+No reino mineral, o princípio inteligente adquire a atração, no reino
+vegetal, a sensação, no reino animal, o instinto, e no reino humano, o
+pensamento contínuo, o livre-arbítrio e a razão.
+
+### Como relacionar razão, paixão e instinto?
+O instinto nunca erra. As paixões são uteis até a eclosão do senso
+moral. Torna-se nociva, caso não seja disciplinada pela razão.
+
+### Inteligência e espiritualidade. Comente.
+Se a espiritualidade dependesse exclusivamente da inteligência, não
+veríamos tantas pessoas iletradas realizarem prodígios enquanto os que
+foram à faculdade cometerem atrocidades no seio da sociedade.
+
+## Fonte
+* [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/instinto-e-inteligência), Sérgio Biagi Gregório
 
 ## Veja Também
 TODO
-
-## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
 

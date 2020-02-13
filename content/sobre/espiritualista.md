@@ -22,11 +22,8 @@ espírita,produziria uma confusão evidente.
 ## Origem
 Do latim spirituale + -ista
 
-## Relacionado
-todo
-
 ## Veja Também
-TODO
+[Espiritualismo](../espiritualismo)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

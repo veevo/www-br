@@ -2,23 +2,17 @@
 title: Liberdade igualdade e fraternidade
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- liberdade
+- igualdade
+- fraternidade
 ---
 
-## Definição
+Liberdade procede do inglês freedon e refere-se ao princípio interno de escolha
+e de ação. Do inglês liberty, refere-se à ausência de coação externa.
 
-
-## Perguntas Relacionadas
-
-### O que é a liberdade?
-Do inglês freedon, refere-se ao princípio interno de escolha e de
-ação. Do inglês liberty, refere-se à ausência de coação externa.
-
-### O que é a igualdade?
-Na ética e na política, há igualdade quando os direitos e os deveres, as
+Já a igualdade, presente na ética e na política, garante direitos e os deveres, as
 prescrições e as penas são iguais para todos os cidadãos.
 
-### O que é fraternidade?
 Etimologicamente, significa "irmandade" ou "conjunto de irmãos". Em
 sentido estrito, exprime simplesmente o sentimento de afeição recíproca
 entre irmãos. Em termos práticos, devotamento, abnegação, tolerância,

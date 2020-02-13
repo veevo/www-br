@@ -2,23 +2,17 @@
 title: Imaginação
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- imaginacao 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é imagem?
-Imagem é a representação mental de um objeto externo percebido pelos
-sentidos.
-
-### O que é a imaginação?
 Imaginação é a faculdade de representar ou de combinar imagens de
 objetos ausentes, reais ou possíveis. Pela imaginação, podemos, não só
 evocar coisas anteriormente percebidas, como também inventar ou criar,
 em nosso espírito, coisas que, na realidade, não existem.
+
+### O que é imagem?
+Imagem é a representação mental de um objeto externo percebido pelos
+sentidos.
 
 ### Como Platão entendia a imaginação?
 Para Platão, uma coisa aparece como imagem de outra e remete, pela

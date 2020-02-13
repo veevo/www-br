@@ -2,15 +2,14 @@
 title: Dinheiro
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- dinheiro 
 ---
 
 ## Definição
+* Denominação comum, nessas transações, a todas as cédulas e moedas aceitas como forma de pagamento.
+* Todo e qualquer valor comercial (cheques, letras, notas de banco, títulos etc.).
+* Valor representativo de qualquer quantia. 
 
-
-## Perguntas Relacionadas
-
-### O que é o dinheiro?
 O dinheiro é uma metáfora. Em economia, nome comum de todas as moedas;
 moeda corrente. É o meio de troca utilizado para facilitar as transações
 comerciais.

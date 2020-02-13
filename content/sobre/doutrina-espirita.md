@@ -2,20 +2,12 @@
 title: Doutrina espírita
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por doutrina?
-Conjunto de teorias, noções e princípios, constituindo o fundamento de
-uma ciência, de uma filosofia, de uma religião etc.
-
-### O que é a Doutrina Espírita?
-Conjunto de princípios codificados por Allan Kardec.
+Conjunto de princípios e ditados pelos [Espíritos
+Superiores](/sobre/espirito-superior) e codificados por [Allan
+Kardec](/bio/allan-kardec).
 
 ### Quando surgiu a Doutrina Espírita?
 A Doutrina Espírita surgiu a partir da publicação de O Livro dos

@@ -5,12 +5,6 @@ topics:
 - reencarnacao
 ---
 
-## Definição
-* Ato de voltar a encarnar.
-
-## Perguntas Relacionadas
-
-### Qual o conceito de reencarnação? É possível separar encarnação de reencarnação?
 Reencarnação (re + encarnação) significa voltar a entrar na
 carne. A reencarnação é a volta do Espírito à vida corpórea, mas em
 outro corpo especialmente formado para ele e que nada tem de comum com o
@@ -162,40 +156,15 @@ e outros doentes? Por que uns são inteligentes e outros ignorantes? Por
 que uns são ricos e outros pobres?
 
 
-
-Texto curto:
-
-
-
-
 ## Bibliografia
-
-CROLARD, Jean-Francis. Renascer Após a Morte. Tradução de Antonio
-Manuel de Almeida Gonçalves. \_\_\_\_\_: Europa-América, 1979 (?)
-
-KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
-
-PAULA, J. T. Dicionário Enciclopédico Ilustrado de Espiritismo,
-Metapsíquica e Parapsicologia. 3. ed. São Paulo: Bels, 1976.
-
-STEVENSON, I. 20 Casos Sugestivos de Reencarnação. São Paulo, Difusora
-Cultural, 1971.
-
-Acesse a
-
-deste tema.
+* CROLARD, Jean-Francis. Renascer Após a Morte. Tradução de Antonio Manuel de Almeida Gonçalves. \_\_\_\_\_: Europa-América, 1979 (?)
+* KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
+* PAULA, J. T. Dicionário Enciclopédico Ilustrado de Espiritismo, Metapsíquica e Parapsicologia. 3. ed. São Paulo: Bels, 1976.
+* STEVENSON, I. 20 Casos Sugestivos de Reencarnação. São Paulo, Difusora Cultural, 1971.
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/reencarnação)  
 Autor: Sérgio Biagi Gregório
 
-
-
-
-
-## Relacionado
-[Encarnação](../encarnacao)
-
 ## Veja Também
-
-TODO
+[Encarnação](../encarnacao)

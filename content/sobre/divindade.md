@@ -5,15 +5,10 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Qual o significado de divindade?
 Filosoficamente, divindade designa, em abstrato, a natureza ou essência
 de Deus, o ser de Deus enquanto Deus. Sendo sinônimo de Deus, é um ser
 supremo idolatrado pelos humanos que exerce algum poder sobre eles.
+
 ### Qual o sentido amplo e sentido restrito da divindade?
 No sentido amplo, aplica-se ao politeísmo primitivo e ao nominalismo
 cristão. Em sentido estrito, significa aquele atributo que, segundo o
@@ -44,15 +39,9 @@ deuses, de modo que não há uma identidade entre Deus e Divindade. No
 monoteísmo, a divindade é possuída só por Deus. Nesse caso, Deus e
 divindade coincidem.
 
-Acesse a
-
-deste tema.
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/divindade)  
 Autor: Sérgio Biagi Gregório
-
-
 
 ## Relacionado
 todo

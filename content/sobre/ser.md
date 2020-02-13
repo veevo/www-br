@@ -16,11 +16,9 @@ topics:
 ## Origem
 do latim sedere
 
-## Relacionado
-todo
-
 ## Veja Também
-TODO
+Ser Pensante
+Auto-Conhecimento
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

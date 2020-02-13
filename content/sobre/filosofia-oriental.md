@@ -5,14 +5,8 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Qual o sentido amplo da filosofia oriental?
-Em sentido amplo, seria a filosofia ou mais especificamente o
-"pensamento" de todos os países do Oriente.
+Em sentido amplo, podemos demoninar de filosofia oriental o "pensamento" de
+todos os países do Oriente.
 
 ### Qual o sentido restrito da filosofia oriental?
 Consiste em limitar a filosofia oriental à filosofia indiana, à

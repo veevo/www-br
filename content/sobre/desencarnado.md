@@ -8,11 +8,7 @@ topics:
 ## Definição
 Que desencarnou. Que deixou a carne. Espírito sem corpo físico. Morrer.
 
-## Origem
-Do latim: de des + incarnatu
-
-## Relacionado
-Desencarnação
+Ver: [Desencarnação](../desencarnacao).
 
 ## Veja Também
 TODO

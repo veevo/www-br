@@ -7,9 +7,6 @@ topics:
 - fluidos
 ---
 
-## Definição
-todo
-
 Ver: [Água Fluidificada](../agua-fluidificada)
 
 ## Relacionado

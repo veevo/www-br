@@ -5,15 +5,9 @@ topics:
 - espiritismo
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por conduta espírita?
-É o comportamento do espírita ante as diversas situações do seu
-dia-a-dia. Em se tratando de uma Casa Espírita, lembremo-nos de que “da
-conduta dos indivíduos depende o destino das organizações”.
+Conduta Espírita é o comportamento do espírita ante as diversas situações do seu
+dia-a-dia. Em se tratando de uma Casa Espírita, lembremo-nos de que “da conduta
+dos indivíduos depende o destino das organizações”.
 
 ### Como deve se comportar o dirigente de reuniões doutrinárias?
 Observar rigorosamente o horário das sessões; ser assíduo; esquivar-se

@@ -5,22 +5,15 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Qual a etimologia de mártir?
-Do grego martys, "testemunha". Pode tratar-se de um testemunho no
+Do grego martys, mártir significa "testemunha". Pode tratar-se de um testemunho no
 plano histórico, jurídico ou religioso.
 
-### O que se entende por mártir?
 Um "mártir" é alguém que é morto injustamente por aquilo em que
 acredita. Por extensão, pessoa que sofre extremamente ou morre por uma
 causa. Figuradamente, todo e qualquer gênero de sofrimento corporal ou
 moral.
 
-### E o martírio?
+### Martírio?
 Sofrimento e morte suportados por fiéis à fé. Morte ou tormentos
 sofridos pela religião cristã: a palma do martírio; o martírio de
 Cristo.

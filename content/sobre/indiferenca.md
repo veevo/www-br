@@ -5,15 +5,9 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é indiferença?
-"Adiáfora" significa, em grego, indiferença. Para os cínicos e os
-estoicos, indiferentes são todas as coisas que não contribuem para a
-virtude nem para a maldade.
+Indiferença deriva da palavra "Adiáfora" em grego. Para os cínicos e os
+estoicos, indiferentes são todas as coisas que não contribuem para a virtude nem
+para a maldade.
 
 ### O que é indiferença para a teologia?
 Para a teologia, o termo "indiferença" – aparentado aos de abandono e

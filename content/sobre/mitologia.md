@@ -2,24 +2,17 @@
 title: Mitologia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- mitologia 
 ---
 
-## Definição
+Mitologia – do grego mito, significa narrar, contar e logia, estudo, ciência. É
+o estudo das fábulas, das narrativas, das histórias sobre a criação do mundo e
+dos seres que neles habitam.
 
-
-## Perguntas Relacionadas
-
-### O que é a mitologia?
-Mitologia – do grego mito, narrar, contar e logia, estudo, ciência. É o
-estudo das fábulas, das narrativas, das histórias sobre a criação do
-mundo e dos seres que neles habitam.
-
-### Quais são a principais mitologias?
-A mitologia grega (deuses imortais, criaturas semidivinas e musas), a
-mitologia romana (deuses e heróis, que foram admirados durante o Império
-Romano) e a mitologia egípcia (conjunto de fábulas que reuniu uma
-considerável variedade de deuses). Há, também, a mitologia nórdica, a
+As principais mitologias são a mitologia grega (deuses imortais, criaturas
+semidivinas e musas), a mitologia romana (deuses e heróis, que foram admirados
+durante o Império Romano) e a mitologia egípcia (conjunto de fábulas que reuniu
+uma considerável variedade de deuses). Há, também, a mitologia nórdica, a
 mitologia céltica.
 
 ### O que falar da mitologia pagã?

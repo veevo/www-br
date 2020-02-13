@@ -1,16 +1,14 @@
 ---
-title: Gênese a
+title: Gênese
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- genese
+- biblia
+- revelacao
+- ciencia
+- historia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa a palavra gênese?
 É o conjunto dos fatos que concorrem para a produção de qualquer coisa.
 Em Biologia, é a formação, produção ou desenvolvimento de uma célula, de
 um órgão, de uma espécie. Em se tratando da religião, a palavra

@@ -8,9 +8,8 @@ topics:
 
 ## Definição
 Pensamento - do latim pensare significa pesar, isto é, medir, avaliar e
-comparar.
-
-No sentido mais lato, designa-se por pensamento toda a atividade psíquica;
+comparar. No sentido mais lato, designa-se por pensamento toda a atividade
+psíquica;
 
 Numa acepção mais estreita, só o conjunto de todos os fenômenos cognitivos, e
 excluindo, portanto, os sentimentos e as volições;
@@ -150,6 +149,15 @@ pensamento (sem barreira ou distância), o Espírito encarnado age sobre o
 semelhante, e o desencarnado, também, atua sobre nós, encarnados. Melhorando o
 pensamento, melhora a vida nos dois planos — físico e espiritual.
 
+### O pensamento pode ser fotografado?
+Não. O pensamento propriamente dito não, porque ele não é matéria.
+
+### O que se entende por fotografia do pensamento?
+Ernesto Bozzano fala-nos da fotografia do pensamento no sentido de que
+alguém projeta uma imagem; depois, esta imagem é captada por uma máquina
+fotográfica. Allan Kardec liga fotografia do pensamento aos fluidos
+espirituais.
+
 ## Conclusão
 Vigilância e oração atenuam as vicissitudes da senda regenerativa. Através
 delas, pomo-nos em sintonia conosco mesmos, tornando-nos cada dia mais
@@ -174,12 +182,6 @@ de Janeiro, FEB, 1977.
 ## Fonte
 [CEIsmael | Pensamento](http://www.sergiobiagigregorio.com.br/palestra/pensamento.htm)
 São Paulo, dezembro de 1995  
-
-
-
-
-
-
 
 ## Relacionado
 todo

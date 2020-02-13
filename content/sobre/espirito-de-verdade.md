@@ -5,7 +5,6 @@ topics:
 - espirito-de-verdade
 ---
 
-## Definição
 O Espírito de Verdade é um espírito citado nas obras de Allan Kardec. A citação
 ocorre, primeiramente, em O Livro dos Espíritos, no último parágrafo dos
 prolegômenos, onde os participantes ativos da obra são apresentados.

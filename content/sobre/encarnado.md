@@ -10,11 +10,7 @@ topics:
 * Espírito mergulhado na carne.  
 * Espírito com corpo físico
 
-## Origem
-Do latim encarnatu
-
-## Relacionado
-todo
+Ver: [Encarnação](../encarnacao).
 
 ## Veja Também
 TODO

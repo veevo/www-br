@@ -2,13 +2,26 @@
 title: Democracia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- democracia
+- politica
 ---
 
 ## Definição
+* Forma de governo em que a soberania é exercida pelo povo: “Queremos a paz com
+  liberdade, a lei com legitimidade, a democracia não como uma palavra, mas como
+  um processo de ascensão do povo ao poder” (CA).
+* Sistema de governo em que cada cidadão tem sua participação.
+* Sistema político dedicado aos interesses do povo.
+* Forma de governo que tem o compromisso de promover a igualdade entre os
+  cidadãos.
+* Sistema político influenciado pela vontade popular e que tem por obrigação
+  distribuir o poder equitativamente entre os cidadãos, assim como controlar a
+  autoridade de seus representantes.
+* Sistema de governo caracterizado pela liberdade do ato eleitoral. 
 
-
-## Perguntas Relacionadas
+O termo “democracia” assumiu, ao longo do tempo, uma vasta e imprecisa
+significação. Na sua acepção mais vulgarizada, forma de governo em que a
+soberania deriva do povo e é exercida pelo povo.
 
 ### O que se entende por "governo"?
 Governo é o conjunto de órgãos a que se acha entregue a direção de um
@@ -21,11 +34,6 @@ hoje adotada, as formas de governo são: a) a monarquia, na qual o
 poder se concentra em uma pessoa; b) a aristocracia, na qual o mesmo
 se acha entregue a um grupo de pessoas; c) a democracia, na qual é o
 povo que exerce o poder, através de seus representantes eleitos. (1)
-
-### O que é democracia?
-O termo “democracia” assumiu, ao longo do tempo, uma vasta e imprecisa
-significação. Na sua acepção mais vulgarizada, forma de governo em que a
-soberania deriva do povo e é exercida pelo povo.
 
 ### A democracia na Antiguidade tem o mesmo sentido do que na era moderna
 e contemporânea?

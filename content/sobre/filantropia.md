@@ -5,12 +5,6 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é filantropia?
 Filantropia - do grego philos, "amigo", e anthropos, "homem",
 significa amigo do homem ou simpatia pelos homens.
 

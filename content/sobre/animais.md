@@ -6,7 +6,8 @@ topics:
 ---
 
 ## Definição
-* Ser vivo multicelular, dotado de movimento, de crescimento limitado, com capacidade de responder a estímulos.
+* Ser vivo multicelular, dotado de movimento, de crescimento limitado, com
+  capacidade de responder a estímulos.
 * Ser animal destituído de razão; animal irracional.
 
 

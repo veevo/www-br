@@ -6,7 +6,9 @@ topics:
 ---
 
 ## Definição
-
+Normalmente abreviado como sci-fi ou scifi, é um gênero, literário ou
+cinematográfico, que antecipa o futuro por meio da representação fictícia do
+universo.
 
 ## Perguntas Relacionadas
 
@@ -16,14 +18,12 @@ disfarçar, supor. Exemplo: ficti dei (falsos deuses). Em seu sentido
 filosófico, é uma construção elaborada pela imaginação em que uma pessoa
 acredita poder resolver um problema real (metafísico, lógico, moral ou
 psicológico).
-### O que se entende por ficção científica?
-Normalmente abreviado como SF, FC, sci-fi ou scifi, é um gênero,
-literário ou cinematográfico, que antecipa o futuro por meio da
-representação fictícia do universo.
+
 ### Quais são os assuntos preferidos pela ficção científica?
 Viagem espacial, viagem no tempo, viagem mais rápida que a luz,
 universos paralelos, mudanças climáticas, totalitarismo, vida
 extraterrestre etc.
+
 ### Quais são os autores mais famosos da ficção científica?
 Isaac Asimov (1920-1992) \[ “Nós robôs”\], Ray Bradbury (1920-)
 \[“Crônicas Marcianas”, “Fahrenheit 451”\], Arthur C. Clarke (1917-2008)

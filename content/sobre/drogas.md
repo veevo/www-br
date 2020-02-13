@@ -2,18 +2,15 @@
 title: Drogas
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- drogas
+- cigarro
+- alcoolismo
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é a droga?
-Genericamente, toda a substância usada em química, farmácia etc. Para os
-fins deste estudo, qualquer substância alucinógena capaz de levar à
-dependência química; entorpecente.
+Genericamente, droga é toda a substância usada em química, farmácia etc. Para os
+fins deste estudo, qualquer substância alucinógena capaz de levar à dependência
+química; entorpecente.
 
 ### Quais são os tipos de drogas?
 Anfetaminas, cocaína, heroína, morfina, maconha, haxixe, LSD, Ecstasy,
@@ -36,20 +33,12 @@ de abstinência). (1)
 
 ### Quais são as características do viciado em drogas?
 A Organização Mundial da Saúde (1981) propôs as seguintes:
-
--   
-    droga;
--   
-    ingestão continue;
--   
-    ingestão;
--   
-    pela droga, levando à tolerância dos seus efeitos e sintomas de
-    supressão quando a droga é suspensa;
--   
-    droga sobre todas as outras atividades;
--   
-    quando se quebra um período de abstinência.
+* droga;
+* ingestão continue;
+* ingestão;
+* pela droga, levando à tolerância dos seus efeitos e sintomas de supressão quando a droga é suspensa;
+* droga sobre todas as outras atividades;
+* quando se quebra um período de abstinência.
 
 ### Por que é difícil parar de fumar?
 “Um dos neurotransmissores naturalmente presentes no circuito da

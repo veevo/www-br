@@ -5,6 +5,8 @@ topics:
 
 ---
 
+Camille Flammarion (1842-1925) foi cientista, filósofo e espírita.
+
 Camille Flammarion nasceu na França e nela passou a sua infância, adentrando a
 adolescência com uma forte paixão pela Astronomia. Muito jovem, redigiu um
 trabalho de grande fôlego sobre o universo, que veio a cair nas mãos de um
@@ -93,9 +95,49 @@ no universo. Seu nome brilha entre os estudiosos do Espiritismo como os sóis qu
 pesquisou, e, não há névoa por mais espessa, que um dia lhe venha a ofuscar a
 magnitude.
 
+### Que tipo de atividade desenvolvia?
+Fez estudos no Observatório de Paris. Para conhecer a direção das
+correntes aéreas, realizou, no ano de 1868, algumas ascensões
+aerostáticas. Em 1870, escreveu e publicou um tratado sobre a rotação
+dos corpos celestes. (2)
+
+### Como foi a sua atuação no campo do Espiritismo?
+Tornando-se espírita convicto, foi amigo pessoal e dedicado de Allan
+Kardec, tendo sido o orador designado para proferir as últimas palavras
+à beira do túmulo do Codificador do Espiritismo, a quem denominou "o bom
+senso encarnado". (2)
+
+### Como Delanne via Flammarion?
+Para Gabriel Delanne, Camille Flammarion foi um filósofo enxertado em
+sábio, possuindo a arte da ciência e a ciência da arte.
+
+### Do que tratam as obras de Flammarion?
+Suas obras, de uma forma geral, giram em torno do postulado espírita da
+pluralidade dos mundos habitados. Eis algumas delas: Os Mundos
+Imaginários e os Mundos Reais; As Maravilhas Celestes; Deus na Natureza;
+As Casas Mal-Assombradas; Estela; A Morte e seus Mistérios; O Fim do
+Mundo e outras. (2)
+
+### Qual a contribuição de Delanne e Flammarion no contexto da
+codificação espírita?
+À Allan Kardec coube a tarefa de organizar e compilar ensinamentos
+revelados pelos Espíritos; à João Batista Roustang, a organização do
+trabalho da fé; à Léon Denis, o desdobramento filosófico; à Gabriel
+Delanne, a estrada científica; à Gabriel Delanne, a abertura da cortina
+dos mundos. (3)
+
+## Referências Biliográficas
+(1) BODIER, Paul e REGNAULT, Henri. Gabriel Delanne: Sua Vida, seu
+Apostolado. Rio de Janeiro: C. E. Léon Denis, 1988.
+
+(2) GODOY, Paulo Alves. Grandes Vultos do Espiritismo. São Paulo: FEESP.
+
+(3) XAVIER, F. C. Brasil, Coração do Mundo, Pátria do Evangelho, pelo
+Espírito Humberto de Campos. 11. ed. Rio de Janeiro: FEB, 1977.
+
 ## Fonte
 [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/camilleflammarion.html)
 
-
-
+## Leitura Recomendada
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
 

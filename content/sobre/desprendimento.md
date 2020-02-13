@@ -5,12 +5,6 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Qual o significado de desprendimento?
 Ação ou efeito de desprender. Alheamento; abnegação, desapego: tem o
 desprendimento das honras.
 

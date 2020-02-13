@@ -2,13 +2,20 @@
 title: Culpa
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- culpa
+- sofrimento
+- sentimento
+- ansiedade
 ---
 
 ## Definição
-
-
-## Perguntas Relacionadas
+* Responsabilidade por algo, condenável ou danoso, causado a outrem.
+* Transgressão à lei; crime, delito.
+* Atitude ou omissão que possa causar dano ou desastre a outrem.
+* Jur Ato voluntário que evidencia imprudência, imperícia ou negligência e provoca dano ou dolo a outrem.
+* Rel Responsabilidade por ato de transgressão de preceitos religiosos ou morais; pecado.
+* Falha deliberada no cumprimento de um dever ou de um princípio ético.
+* Psicol Consciência penosa por ter falhado no cumprimento de uma norma social ou moral.
 
 ### O que se entende por culpa?
 Emoção autoconsciente de ter pensado ou feito algo errado. Ação

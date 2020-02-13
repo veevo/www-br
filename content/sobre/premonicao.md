@@ -2,17 +2,11 @@
 title: Premonição
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- premonicao 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é premonição?
-Pressentimento ou intuição daquilo que vai se produzir no futuro. É uma
-forma de precognição.
+Premonição é um pressentimento ou intuição daquilo que vai se produzir no
+futuro. É uma forma de precognição.
 
 ### O que é precognição?
 Conhecimento do futuro que não pode ser racionalmente deduzido a partir

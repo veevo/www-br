@@ -2,19 +2,12 @@
 title: Idolatria
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- idolatria 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa idolatria?
 Adoração de ídolos. Figuradamente, amor exagerado.
 
 ### O que é um ídolo
-
 Figura, estátua que representa uma divindade que se adora. Certas
 figuras que desfrutam de grande popularidade (artistas, cantores,
 jogadores de futebol etc.).

@@ -2,29 +2,26 @@
 title: Eubiose
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- eubiose
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é Eubiose?
 Neologismo que significa bom modo de vida. Eu (bom), bio (vida) e ose
 (processo). Processo de bem viver.
-### Quando foi criada?
+
 Henrique José de Souza criou, em 1921, na cidade mineira de São
 Lourenço, a Sociedade Brasileira de Eubiose. Hoje distribuída em várias
 cidades do Brasil e no exterior.
+
 ### Quem foi Henrique José de Souza?
 Nascido na Bahia, foi um estudioso do ocultismo. Teve várias
 experiências de iniciação no budismo esotérico e na teosofia.
+
 ### Qual o objetivo da Sociedade Brasileira de Eubiose?
 Tem como base a evolução humana no sentido de transformar energia em
 consciência, apontando os caminhos do autoconhecimento. O lema da
 sociedade é Spes messis in semine ("A esperança da colheita reside na
 semente")
+
 ### Quais são os meios para atingir o fim?
 Cultivar a fraternidade universal, estudar comparativamente as ciências,
 artes, filosofias e religiões de todos os povos através dos tempos.

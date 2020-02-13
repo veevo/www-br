@@ -5,14 +5,27 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por filosofia?
 Filosofia é pensar, refletir sobre nós, os outros e o mundo que nos
 rodeia.
+
+### Como nasceu o pensamento racional?
+O pensamento racional nasceu da necessidade de explicar a realidade não
+através do mito, mas pela própria ideia pela própria observação.
+
+### Qual a palavra chave para compreender o início da filosofia?
+Physis é a palavra-chave para compreender a inicio da filosofia. Para os
+antigos filósofos, a physis refere-se a tudo o que se pode imaginar:
+os rios, as estradas, o planeta, o tempo, o ódio, o amor
+
+### Qual a importância da polis?
+A polis propiciou o debate, a discussão e, com ela, o acréscimo de
+conhecimentos pelo contato das mentes inquiridoras. Na polis grega, os
+pensadores dispensaram a influência de agentes e forças sobrenaturais,
+ficando apenas com a razão e a experiência.
+
+### Quais são os principais representantes desse período histórico?
+Tales de Mileto, Anaximandro de Mileto, Heráclito de Éfeso, Pitágoras de
+Samos, Parmênides de Eléia, Zenão de Eléia, entre outros.
 
 ### Qual a função do mito?
 O mito foi a primeira tentativa de elucidar as incertezas e os medos dos
@@ -38,22 +51,6 @@ apresenta um Universo governado por deuses. Hesíodo narra a origem do
 mundo: "No começo era o Caos". O Caos é pura extensão, sem consistência
 orgânica; um vazio sobre o qual se assenta a Gaia, a Terra, "base segura
 de tudo que é".
-
-### Como nasceu o pensamento racional?
-O pensamento racional nasceu da necessidade de explicar a realidade não
-através do mito, mas pela própria ideia pela própria observação.
-### Qual a palavra chave para compreender o início da filosofia?
-Physis é a palavra-chave para compreender a inicio da filosofia. Para os
-antigos filósofos, a physis refere-se a tudo o que se pode imaginar:
-os rios, as estradas, o planeta, o tempo, o ódio, o amor
-### Qual a importância da polis?
-A polis propiciou o debate, a discussão e, com ela, o acréscimo de
-conhecimentos pelo contato das mentes inquiridoras. Na polis grega, os
-pensadores dispensaram a influência de agentes e forças sobrenaturais,
-ficando apenas com a razão e a experiência.
-### Quais são os principais representantes desse período histórico?
-Tales de Mileto, Anaximandro de Mileto, Heráclito de Éfeso, Pitágoras de
-Samos, Parmênides de Eléia, Zenão de Eléia, entre outros.
 
 ### Bibliografia
 TEMÁTICA BARSA - FILOSOFIA. Rio de Janeiro, Barsa Planeta, 2005.
