@@ -2,56 +2,14 @@
 title: Lei de justiça amor-e-caridade
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- leis-divinas
+- justica
+- amor
+- caridade
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que se entende por justiça?
-A justiça é um princípio moral que exige o respeito ao direito de si
-próprio e ao dos outros, segundo a equidade. Por direito, entende-se
-aquilo que é conforme uma regra precisa ou àquilo que é permitido. Por
-equidade, entende-se o tratar todos com igualdade, ou seja, da mesma
-maneira seres que, além de suas diferenças acidentais, podem ser
-considerados como essencialmente parecidos. Pode-se falar, também, de um
-sentimento de verdade, de equidade, de humanidade, colocado acima das
-paixões humanas.
-
-### Qual o conceito de amor?
-Sentimento interior que nos remete a um objeto, considerado bom. Em se
-tratando de pessoa, é uma força tendente a aproximar e a unir, numa
-relação particular, dois ou mais seres. Exemplo: "amor ao próximo";
-"amor fraternal".
-
-### Qual o conceito de caridade?
-Da mesma raiz de amor (caritas), é uma virtude cristã fundamental que
-move a vontade à busca efetiva do bem de outrem e procura identificar-se
-com o amor de Deus. A máxima empregada é: "Ama o próximo como ti mesmo".
-Paulo foi quem mais insistiu na superioridade da caridade em relação às
-outras virtudes cristãs, quais sejam a fé e a esperança. Assim se
-expressava: "Agora, essas três virtudes: a fé, a esperança e a caridade
-permanecem; mas, entre elas, a mais excelente é a caridade". (Paulo, 1.ª
-Epístolas aos Coríntios, 13, 1 a 7 e 13). Para ele, "A caridade é
-paciente; é doce e benfazeja; a caridade não é invejosa; não é temerária
-e precipitada; não se enche de orgulho; não é desdenhosa; não procura os
-seus próprios interesses; não se melindra e não se irrita com nada; não
-suspeita mal; não se regozija com a injustiça, mas se regozija com a
-verdade; tudo suporta, tudo crê, tudo espera, tudo sofre". (Kardec,
-1984, p. 201)
-
-### Por que a Lei de Justiça, Amor e Caridade é a mais importante das
-Leis Naturais?
-De acordo com O Livro dos Espíritos, há dez Leis Naturais: 1) Lei de
-Adoração; 2) Lei do Trabalho; 3) Lei de Reprodução; 4) Lei de
-Conservação; 5) Lei de Destruição; 6) Lei de Sociedade; 7) Lei do
-Progresso; 8) Lei de Igualdade; 9) Lei de Liberdade; 10) Lei de Justiça,
-Amor e Caridade. Essa divisão da Lei Natural em dez partes, da mesma
-forma como fez Moisés com os Dez Mandamentos, abrange todas as
-circunstâncias da vida. A Lei de Justiça, Amor e Caridade é a mais
-importante, porque ela resume todas as outras.
+A Lei de Justiça, Amor e Caridade é a mais importante das Leis Naturais
+porque ela resume todas as outras.
 
 ### Que relação existe entre justiça, amor e caridade?
 A justiça procura simplesmente ajustar-se à lei. A lei, contudo, é fria,
@@ -99,27 +57,13 @@ prisão, ela diz que aquela acusação era injusta e que ele deveria fugir
 de lá. Como filósofo que era, retrucou: e você gostaria que a acusação
 fosse justa?
 
-
-
-
-
-
 ### Bibliografia
-Enciclopédias
-
-KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE,
-1984.
-
-KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
+* KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE, 1984.
+* KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-justiça-amor-e-caridade)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

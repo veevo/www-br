@@ -33,6 +33,15 @@ b) devotamento (dedicação consciente, sem esperar recompensa);
 c) indulgência ( tolerância, misericórdia, compreensão, perdão); sacrifício
 (renúncia, em favor de outrem mais necessitado).
 
+### O que é a caridade, segundo Jesus?
+"A caridade, segundo Jesus, não se restringe à esmola, mas abrange todas
+as relações com os nossos semelhantes, quer se trate de nossos
+inferiores, iguais ou superiores. Ela nos manda ser indulgentes, porque
+temos necessidade da indulgência, e nos proíbe humilhar o infortúnio, ao
+contrário do comumente se pratica... O homem verdadeiramente bom procura
+elevar o inferior aos seus próprios olhos, diminuindo a distancia entre
+ambos". (Kardec, 1995, pergunta 885)
+
 ## Leis Relacionadas
 [Lei Natural](../natural)  
 [Lei de Amor](../amor)  

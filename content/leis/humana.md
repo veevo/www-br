@@ -2,18 +2,8 @@
 title: Lei humana e lei-divina
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- leis
 ---
-
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Que é uma lei?
-Lei é uma norma ou conjunto de normas ditada pela autoridade estatal e
-tornada obrigatória para manter, numa comunidade, a ordem e o
-desenvolvimento.
 
 ### O que caracteriza a lei humana?
 A noção de lei depende da regra ou da necessidade. Em se tratando da
@@ -21,6 +11,11 @@ regra, refere-se às emanações do poder político com vistas a reger a
 atividade de uma determinada sociedade. Nesse caso, dizemos que a lei é
 humana, portanto limitada ao conhecimento dos seres humanos numa
 determinada época.
+
+### Que é uma lei?
+Lei é uma norma ou conjunto de normas ditada pela autoridade estatal e
+tornada obrigatória para manter, numa comunidade, a ordem e o
+desenvolvimento.
 
 ### O que caracteriza a lei divina?
 A noção de lei depende da regra ou da necessidade. Em se tratando da
@@ -63,12 +58,12 @@ todos; a lei humana é variável e progressiva. Na infância das
 sociedades, só esta pode consagrar o direito do mais forte. (2)
 
 ### Na época de Moisés, como distinguir a lei divina da lei humana?
-Há duas partes distintas na lei mosaica: 1) a promulgada no monte Sinai;### a lei civil ou disciplinar estabelecida por Moisés. A Lei de Deus é
-invariável; a outra, apropriada ao caráter e aos costumes daquele povo.
-Como Moisés queria controlar o povo, disse-lhes que a lei civil tinha
-caráter divino. Mas, hoje notamos bem a diferença entre uma lei e outra.
-O "olho por olho e dente por dente", por exemplo, não pode fazer parte
-da natureza, da lei de Deus. (3)
+Há duas partes distintas na lei mosaica: 1) a promulgada no monte Sinai, a lei
+civil ou disciplinar estabelecida por Moisés. A Lei de Deus é invariável; a
+outra, apropriada ao caráter e aos costumes daquele povo.  Como Moisés queria
+controlar o povo, disse-lhes que a lei civil tinha caráter divino. Mas, hoje
+notamos bem a diferença entre uma lei e outra.  O "olho por olho e dente por
+dente", por exemplo, não pode fazer parte da natureza, da lei de Deus. (3)
 
 ### Jesus veio para destruir a lei?
 Jesus não veio para destruir a lei de Deus, mas modificar as leis de
@@ -83,23 +78,11 @@ serem presos sem culpa. E se voltarmos a uma encarnação passada que
 ficou sem punição? Não teríamos uma resposta mais aceitável?
 
 ### Bibliografia
-(1) WHITEHEAD, A. F. Adventures of Ideas. Cambridge, University Press,
-1942.
-
-(2) Kardec, Allan. O Livro dos Espíritos, perguntas 794 a 797.
-
-(3) Kardec, Allan. O Evangelho Segundo o Espiritismo, capítulo I.
+* (1) WHITEHEAD, A. F. Adventures of Ideas. Cambridge, University Press, 1942.
+* (2) Kardec, Allan. O Livro dos Espíritos, perguntas 794 a 797.
+* (3) Kardec, Allan. O Evangelho Segundo o Espiritismo, capítulo I.
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-humana-e-lei-divina)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
-
-## Veja Também
-TODO
-
 

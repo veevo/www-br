@@ -10,12 +10,10 @@ topics:
 - deus
 ---
 
-
-## Conceito de justiça
-(definição de ulpiano, jurista romano): "é a vontade constante e perpétua de dar
-a cada um o que é seu". (definição dos espíritos, q. 875, l.e.): "justiça é o
-respeito aos direitos de cada um". A justiça é um sentimento natural; deus o
-concedeu ao homem.
+Justiça de acorddo com ulpiano, jurista romano "é a vontade constante e perpétua
+de dar a cada um o que é seu". Segundo os [Espíritos Superiores](/sobre/espirito-superior),
+"justiça é o respeito aos direitos de cada um". A justiça é um sentimento natural; 
+Deus o concedeu ao homem.
 
 ## Justiça divina
 (regra da lei natural): querer para os outros aquilo que se quer para si mesmo
@@ -52,6 +50,42 @@ A justiça é o bem maior da humanidade. Em seu sentido restrito, é a
 vontade de conceder o direito a si próprio e aos outros segundo a
 igualdade. Em seu sentido moral, respeitar cada um a si mesmo e ao
 próximo. "Dar a cada um o que é seu".
+
+### Como distinguir a justiça humana da justiça divina?
+A justiça humana está sujeita às limitações do ser humano. Serve para
+uma sociedade durante um determinado período de tempo, conforme o grau
+de desenvolvimento moral e espiritual alcançado pelas pessoas que ali
+vivem. A justiça divina é a justiça estabelecida por Deus, é um modelo a
+ser seguido. A função dos seres humanos é aproximar-se cada vez mais
+dessa justiça maior, a justiça das justiças.
+
+### Qual o critério da verdadeira justiça?
+"O critério da verdadeira justiça é de fato o de se querer para os
+outros aquilo que se quer para si mesmo, e não de querer para si o que
+se deseja para os outros. Como não é natural que se queira o próprio
+mal, se tomarmos o desejo pessoal por norma ou ponto de partida, podemos
+estar certos de jamais desejar para o próximo senão o bem. Desde todos
+os tempos e em todas as crenças o homem procurou sempre fazer prevalecer
+o seu direito pessoal. O sublime da religião cristã foi tomar o direito
+pessoal por base do direito do próximo". (Kardec, 1995, perguntas 873 a
+876)
+
+### Qual o critério da verdadeira justiça?
+"O critério da verdadeira justiça é de fato o de se querer para os
+outros aquilo que se quer para si mesmo, e não de querer para si o que
+se deseja para os outros. Como não é natural que se queira o próprio
+mal, se tomarmos o desejo pessoal por norma ou ponto de partida, podemos
+estar certos de jamais desejar para o próximo senão o bem. Desde todos
+os tempos e em todas as crenças o homem procurou sempre fazer prevalecer
+o seu direito pessoal. O sublime da religião cristã foi tomar o direito
+pessoal por base do direito do próximo". (Kardec, 1995, perguntas 873 a
+876)
+
+### Deve o homem sofrer ou fugir à injustiça?
+Lembremo-nos do diálogo entre Sócrates e sua esposa. Ao visitá-lo na
+prisão, ela diz que aquela acusação era injusta e que ele deveria fugir
+de lá. Como filósofo que era, retrucou: e você gostaria que a acusação
+fosse justa?
 
 ### Como é posta a justiça em Aristóteles?
 Para Aristóteles, a justiça é o principal fundamento da ordem do mundo.
@@ -141,8 +175,9 @@ Girão)
 
 
 ## Fonte
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-verdade), Sérgio Biagi Gregório
 * [CE Ismael | Lei de Justiça](https://www.ceismael.com.br/download/apostila/apost1.htm)
+* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-verdade), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-justiça-amor-e-caridade)  
 
 ## Leis Relacionadas
 [Lei Natural](../natural)

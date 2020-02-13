@@ -9,6 +9,13 @@ obrigação imposta pela consciência e pela sociedade. Em sentido geral, é a
 expressão de uma relação causal de caráter necessário, que se estabelece entre
 dois eventos ou fenômenos.
 
+### O que é uma lei?
+Norma, preceito, princípio, regra; obrigação imposta pela consciência e
+pela sociedade. Em sentido geral, é a expressão de uma relação causal de
+caráter necessário, que se estabelece entre dois eventos ou fenômenos.
+
+Exemplo: aumento de temperatura dilata os corpos.
+
 ## Classificações das Leis
 As Leis Universais podem ser classificadas em:
 
