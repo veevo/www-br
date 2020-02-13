@@ -5,7 +5,6 @@ topics:
 - telegrafia
 ---
 
-## Definição
 Sistema que transmite sinais gráficos à distância. 
 
 ## Telegrafia humana

@@ -5,7 +5,6 @@ topics:
 - ceticismo
 ---
 
-## Definição
 Do grego skeptikos, aquele que investiga. Concepção segundo a qual
 algum ou todo conhecimento é duvidoso ou mesmo falso.
 
@@ -82,9 +81,6 @@ al. Rio de Janeiro: Zahar, 1977.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ceticismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

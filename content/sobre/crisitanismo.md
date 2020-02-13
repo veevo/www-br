@@ -5,14 +5,10 @@ topics:
 - crisitanismo
 ---
 
-## Definição
 Corrente monoteísta que tem como princípio Cristo.
 
 ## Origem
 Do latim christianismu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

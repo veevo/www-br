@@ -8,7 +8,6 @@ topics:
 - antiguidade
 ---
 
-## Definição
 Religião que admite vários deuses. Entre os povos antigos a palavra deus revela
 a idéia de poder; para eles todo o poder superior ao vulgar era um deus. Mesmo
 os homens que haviam feito grandes coisas se tornavam deuses para eles.
@@ -24,9 +23,6 @@ supremo, soberano e senhor do mundo.
 
 ## Origem
 Do grego polus= vários + théos= Deus
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

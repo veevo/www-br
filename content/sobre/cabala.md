@@ -6,7 +6,6 @@ topics:
 - judaismo
 ---
 
-## Definição
 Denominação dada a várias tendências religiosas e/ou filosóficas, surgidas na
 Europa, a partir do século XII, carregadas de misticismo e esoterismo.
 
@@ -98,9 +97,6 @@ Vera Barkow. 2. ed., São Paulo: Martins Fontes, 2003.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/cabala)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

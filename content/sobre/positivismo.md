@@ -6,13 +6,9 @@ topics:
 - augusto-comte
 ---
 
-## Definição
 Sistema criado por Augusto Comte, de caráter empirista e antimetafísico, que
 recusa qualquer juízo de valor não consubstanciado numa certeza científica e
 idêntica essência e fenômeno. 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

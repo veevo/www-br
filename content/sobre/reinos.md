@@ -157,9 +157,6 @@ evolução do Espírito e não a da matéria o que conta.
 Autor: Sérgio Biagi Gregório 
 São Paulo, fevereiro de 2002 
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

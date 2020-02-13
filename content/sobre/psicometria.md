@@ -7,7 +7,6 @@ topics:
 - medium
 ---
 
-## Definição
 * Em Psicologia, é o registro e medida dos fenômenos psíquicos por meio de
   métodos experimentais padronizados. 
 * Em Espiritismo, designa a faculdade mediúnica de ler impressões e recordações
@@ -15,9 +14,6 @@ topics:
 
 ## Origem
 Do grego psyché + métron (do latim metru) + -ia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

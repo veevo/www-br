@@ -5,7 +5,6 @@ topics:
 - desencarnacao
 ---
 
-## Definição
 * Ato ou efeito de desencarnar, isto é, deixar a carne, passar para o Mundo
 Espiritual. 
 
@@ -94,9 +93,6 @@ nossa evolução ou para a nossa ruína?
 ## Fonte
 [CEIsmael | Desencarne](https://www.ceismael.com.br/artigo/desencarne.htm)
 
-
-## Relacionado
-todo
 
 ## Veja Também
 Morte  

@@ -8,9 +8,6 @@ topics:
 Tratamento energético dos desencarnados promovido com a manifestação dos mesmos,
 através da psicofonia, nas sessões de desobsessão das Casas Espíritas.
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

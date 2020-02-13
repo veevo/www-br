@@ -6,7 +6,6 @@ topics:
 - politica
 ---
 
-## Definição
 * Forma de governo em que a soberania é exercida pelo povo: “Queremos a paz com
   liberdade, a lei com legitimidade, a democracia não como uma palavra, mas como
   um processo de ascensão do povo ao poder” (CA).
@@ -94,9 +93,6 @@ de Janeiro: M.E.C., 1967.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,15 +5,11 @@ topics:
 - hipnose
 ---
 
-## Definição
 Estado mental semelhante ao sono, provocado artificialmente, e no qual a pessoa
 mantém-se capaz de atender às sugestões feitas pelo hipnotizador.
 
 ## Origem
 Do grego hýpnos + -ose
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

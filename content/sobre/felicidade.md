@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 
 
 ## Perguntas Relacionadas
@@ -121,9 +120,6 @@ Maria Clara de Biase W. Fernandes. Rio de Janeiro: BestSeller, 2008.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -8,7 +8,6 @@ topics:
 - desencarnacao
 ---
 
-## Definição
 Estado dos Espíritos errantes, quer dizer, não encarnados, durante os intervalos
 de suas existências corporais.  
 
@@ -18,9 +17,6 @@ menos longo, durante o qual permanece no estado de Espírito errante.
 
 ## Origem
 Do francês erraticité
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

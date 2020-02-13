@@ -7,16 +7,12 @@ topics:
 - mediunidade
 ---
 
-## Definição
 * Escrita direta dos Espíritos sem o concurso da mão do médium.  
 * Voz direta.
 
 ## Origem
 Do grego pneuma= ar, sopro, vento, espírito + grafo= eu
 escrevo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

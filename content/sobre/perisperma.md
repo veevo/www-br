@@ -5,14 +5,10 @@ topics:
 - perispirito
 ---
 
-## Definição
 Fina membrana envolvente produzida pelo resto não absorvido da nucela (pequena
 noz), que fica em redor do embrião e do endosperma de uma semente. 
 
 Ver: [Perispírito](../perispirito).
-
-## Relacionado
-todo
 
 ## Veja Também
 Expiação

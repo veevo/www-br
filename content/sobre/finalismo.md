@@ -5,15 +5,11 @@ topics:
 - finalismo
 ---
 
-## Definição
 Doutrina filosófica que sustenta que, na natureza, nada se faz em vão, que todo
 o ser tem um fim.
 
 ## Origem
 Do latim finale + -ismo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

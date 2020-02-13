@@ -6,7 +6,6 @@ topics:
 - magnetismo
 ---
 
-## Definição
 todo
 
 ## Perguntas Relacionadas
@@ -59,9 +58,6 @@ meu nome, aí estou eu no meio deles". (Mateus 18:20)
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

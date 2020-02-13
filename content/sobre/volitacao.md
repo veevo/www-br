@@ -6,7 +6,6 @@ topics:
 - mundo-espiritual
 ---
 
-## Definição
 1. Literalmente: querer, desejar, ter a intenção. 
 2. Designa um impulso consciente que leva a personalidade a pensar e realizar uma ação, para obter
    determinado fim.
@@ -33,9 +32,6 @@ Também conhecido como _volição_.
 
 ## Origem
 Ou volição) [do latim escolástico volitione
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

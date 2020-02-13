@@ -5,7 +5,6 @@ topics:
 - pensamento
 ---
 
-## Definição
 Evocação não é sinônimo perfeito de invocação, por mais que tenham a mesma raiz..
 
 Enquanto evocar é chamar, fazer vir a si, fazer aparecer por cerimônias mágicas,

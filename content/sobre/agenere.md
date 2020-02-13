@@ -5,7 +5,6 @@ topics:
 - agenere
 ---
 
-## Definição
 * Variedade de aparição tangível
 * Estado de certos Espíritos que podem revestir, temporariamente, 
 as formas de uma pessoa encarnada, ao ponto de produzirem completa ilusão.
@@ -63,9 +62,6 @@ obtêm farto material para a teoria do corpo fluídico de Jesus.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/agêneres)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja TambÃ©m
 TODO

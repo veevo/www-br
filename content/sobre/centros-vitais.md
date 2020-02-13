@@ -5,7 +5,6 @@ topics:
 - centros-vitais
 ---
 
-## Definição
 São fulcros energéticos que, sob a direção automática da alma, ativam o
 funcionamento dos órgãos do respectivo corpo material. 
 

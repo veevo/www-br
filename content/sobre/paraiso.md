@@ -7,7 +7,6 @@ topics:
 - inferno
 ---
 
-## Definição
 Termo que designa 'morada dos bem-aventurados', no entendimento espírita. Os
 antigos o colocavam na parte dos Infernos chamada Campos Elíseos. Os povos
 modernos situam-no nas regiões elevadas do espaço. Esta palavra é sinônimo de
@@ -21,9 +20,6 @@ de acordo com a ciência.
 
 ## Origem
 Do grego paradeizos= jardim, vergel
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

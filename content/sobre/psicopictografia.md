@@ -7,13 +7,9 @@ topics:
 - medium
 ---
 
-## Definição
 Faculdade mediúnica de fazer pinturas ou desenhos utilizando as mãos do médium
 psicopictógrafo. 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

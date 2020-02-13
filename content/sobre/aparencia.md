@@ -5,7 +5,6 @@ topics:
 - aparencia
 ---
 
-## Definição
 * specto exterior (de algo ou alguém); aquilo que se mostra imediatamente; exterioridade, aspecto, vulto.
 * ext Bom aspecto; porte, vista.
 * Realidade enganosa, ficção, falso indício.
@@ -104,9 +103,6 @@ Editorial Enciclopédia, \[s.d. p.\]
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aparência-e-realidade)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

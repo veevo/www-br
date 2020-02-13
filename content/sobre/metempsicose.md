@@ -5,7 +5,6 @@ topics:
 - metempsicose
 ---
 
-## Definição
 Transmigração da alma de um corpo para outro. 
 
 Doutrina filosófica de origem indiana, transportada para o Egito, de onde mais
@@ -25,9 +24,6 @@ que se torne Espírito purificado.
 
 ## Origem
 Do grego: meta= mudança + en= em + psukê= alma
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

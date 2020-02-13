@@ -7,7 +7,6 @@ topics:
 - medium
 ---
 
-## Definição
 Termo de pouco uso e que significa o mesmo que incorporação, a ação de um
 Espírito através do corpo de um médium. 
 

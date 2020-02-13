@@ -7,13 +7,9 @@ topics:
 - desdobramento
 ---
 
-## Definição
 Estado especial do organismo, caracterizado por inatividade relativa,
 consciência reduzida e escassa reação aos estímulos externos. Nesse estado
 ocorre o fenômeno da emancipação ou desdobramento da alma.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

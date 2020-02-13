@@ -6,7 +6,6 @@ topics:
 - bicorporeidade
 ---
 
-## Definição
 Faculdade que têm os Espíritos de se apresentarem em vários lugares ao mesmo
 tempo.
 

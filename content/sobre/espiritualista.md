@@ -5,7 +5,6 @@ topics:
 - espiritualista
 ---
 
-## Definição
 O que tem relação com o espiritualismo; partidário do espiritualismo. Quem creia
 que tudo em nós não é só matéria, é espiritualista, o que não implica, de nenhum
 modo na crença nas manifestações dos Espíritos. Todo espírita é necessariamente

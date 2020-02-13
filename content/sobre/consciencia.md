@@ -6,7 +6,6 @@ topics:
 - auto-conhecimento
 ---
 
-## Definição
 Conhecer é uma atividade mental por meio da qual o ser humano se
 apropria do mundo ao seu redor.
 
@@ -105,9 +104,6 @@ Mundos, de André Luiz)
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

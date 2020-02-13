@@ -9,7 +9,6 @@ topics:
 - mundo-espiritual
 ---
 
-## Definição
 Pessoa dotada de mediunidade de vidência que, lhe permite ver os espíritos e o
 mundo espiritual. 
 

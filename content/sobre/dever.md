@@ -6,7 +6,6 @@ topics:
 - dever
 ---
 
-## Definição
 Dever – Do latim devere significa a obrigação moral determinada, expressa numa
 regra de ação. É o princípio da ação e estriba-se na razão. Muitas vezes usados
 como sinônimos, as duas palavras "dever" e "obrigação" podem ser empregadas com
@@ -254,9 +253,6 @@ Verbo, 1986.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

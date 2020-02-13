@@ -5,7 +5,6 @@ topics:
 - licantropia
 ---
 
-## Definição
 * Doença mental em que o enfermo se julga transformado em lobo. 
 * Metamorfose perispirítica, processada através de indução hipnótica, do desencarnado
    inferiorizado em suas culpas, que ganha a forma e passa a agir como um lobo.

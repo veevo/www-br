@@ -5,7 +5,6 @@ topics:
 - centro-espirita
 ---
 
-## Definição
 * Casa ou sociedade espírita. 
 * Local de reunião dos espíritas, para orar e praticar a Doutrina dos Espíritos. 
 * Sociedade civil legalmente constituída, com a finalidade de praticar o Espiritismo.
@@ -121,9 +120,6 @@ separar o joio do trigo.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/centro-espírita)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

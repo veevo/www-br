@@ -5,16 +5,12 @@ topics:
 - presuncao
 ---
 
-## Definição
 * Ato ou efeito de presumir. 
 * Suposição; suspeita; desconfiança. 
 * Vaidade;
 
 ## Origem
 do latim praesumptione
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

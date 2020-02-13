@@ -10,7 +10,6 @@ topics:
 - morte
 ---
 
-## Definição
 * oval, de estrutura maciça cuja forma é semelhante à do ovo
 
 No contexto espiritual, atribui-se ao estágio de degradação a que chegam certos
@@ -81,9 +80,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Bibliografia Recomendada
 Evolução em dois mundos, André Luiz

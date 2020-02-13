@@ -5,7 +5,6 @@ topics:
 - antagonismo
 ---
 
-## Definição
 Do grego anti, “contrário”, e agone, “luta”, significa luta de uns
 contra os outros. Pessoas e facções divergem e entram em choque pela
 defesa de seus interesses. Os antagonismos econômicos e políticos podem
@@ -74,9 +73,6 @@ interferências em nossos mais secretos pensamentos.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/antagonismo)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

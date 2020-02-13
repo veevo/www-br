@@ -6,7 +6,6 @@ topics:
 - meditacao
 ---
 
-## Definição
 Meditar é buscar um estado de dissociação da consciência para atingir níveis
 mais altos de autoconhecimento. 
 
@@ -227,9 +226,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

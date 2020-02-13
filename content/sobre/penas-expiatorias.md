@@ -6,7 +6,6 @@ topics:
 - suicidio
 ---
 
-## Definição
 Etapa em que, como o nome diz, o espírito expia erros e infrações anteriormente
 cometidas com o objetivo de regeneração.O espírito pode expiar um erro não só no
 plano físico como também no própio plano espiritual.
@@ -21,9 +20,6 @@ maneira nenhuma, regra para casos como esse, tendo em vista que cada caso é
 ## Leitura Recomendada
 O céu e o inferno, Allan Kardec  
 O martírio dos suicidas, Almerindo Martins de Castro  
-
-## Relacionado
-todo
 
 ## Veja Também
 Expiação

@@ -6,7 +6,6 @@ topics:
 - mediunidade
 ---
 
-## Definição
 Pessoas acessíveis à influência dos Espíritos, e mais ou menos dotadas da
 faculdade de receber e transmitir suas comunicações. Para os Espíritos, o médium
 é um intermediário, um instrumento segundo a natureza ou o grau da faculdade
@@ -19,9 +18,6 @@ videntes, audientes, curadores, etc..
 
 ## Origem
 Do latim medium= meio, intermediário
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

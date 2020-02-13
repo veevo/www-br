@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 
 
 ## Perguntas Relacionadas
@@ -54,9 +53,6 @@ deste tema.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

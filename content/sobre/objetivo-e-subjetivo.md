@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 
 
 ## Perguntas Relacionadas
@@ -86,9 +85,6 @@ Marina Appenzeller. Campinas, SP: Papirus, 1993.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -6,15 +6,11 @@ topics:
 - doenca
 ---
 
-## Definição
 * Parte da medicina que tem por objeto as medidas preventivas contra as enfermidades. 
 * Conjunto de medidas para evitar o aparecimento de doenças.
 
 ## Origem
 Do grego prophylaxis= precaução + -ia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

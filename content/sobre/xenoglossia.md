@@ -7,14 +7,10 @@ topics:
 - medium
 ---
 
-## Definição
 Rara faculdade onde o médium consegue falar ou escrever línguas estranhas a si próprio.
 
 ## Origem
 Do grego xénon= estranho, estrangeiro + glôssa= língua + -ia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

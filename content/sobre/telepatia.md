@@ -6,7 +6,6 @@ topics:
 - allan-kardec
 ---
 
-## Definição
 Transferência de pensamentos e emoções de pessoa para pessoa, sem o emprego dos
 sentidos conhecidos. Kardec usou a expressão telegrafia humana, significando a
 comunicação à distância entre duas pessoas vivas, que se evocam reciprocamente.

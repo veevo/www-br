@@ -5,15 +5,11 @@ topics:
 - quiromancia
 ---
 
-## Definição
 * Pretensa arte de adivinhar o futuro das pessoas pelo exame das linhas da mão; quiroscopia.
 * Adivinhação pela inspeção das mãos.
 
 ## Origem
 Do grego cheiromantéia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

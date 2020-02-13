@@ -5,7 +5,6 @@ topics:
 - crianca
 ---
 
-## Definição
 Criança prodígio é a criança que apresenta um quociente de inteligência elevado.
 Suas atividades intelectuais (leitura, resolução de problemas e perseverança no
 estudo) estão acima da média.
@@ -78,9 +77,6 @@ Janeiro: Esparsa, s.d.p.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

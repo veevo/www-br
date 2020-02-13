@@ -5,15 +5,11 @@ topics:
 - taumaturgo
 ---
 
-## Definição
 Diz-se daqueles que, com ou sem razão, se vangloriam de ter o poder de produzir
 fenômenos fora das leis da natureza. 
 
 ## Origem
 Do grego thauma, thaumatos= maravilha + ergon= obra
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

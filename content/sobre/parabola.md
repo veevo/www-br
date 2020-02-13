@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 
 
 ## Perguntas Relacionadas
@@ -121,9 +120,6 @@ Janeiro: Vozes, 1972.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

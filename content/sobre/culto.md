@@ -5,16 +5,12 @@ topics:
 - culto
 ---
 
-## Definição
 * Adoração ou homenagem à Divindade em qualquer de suas formas, e em qualquer religião. 
 * Modo ou sistema de exteriorizar o culto: ritual. 
 * No Espiritismo, o culto é de foro íntimo, sem exteriorização, isto é, sem ritual.
 
 ## Origem
 Do latim cultu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

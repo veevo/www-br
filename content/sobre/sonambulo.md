@@ -5,7 +5,6 @@ topics:
 - sonambulismo
 ---
 
-## Definição
 Pessoa em estado de sonambulismo, podendo levantar-se, andar e falar durante o
 sono. 
 

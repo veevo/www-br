@@ -5,7 +5,6 @@ topics:
 - medianimidade
 ---
 
-## Definição
 * Sinônimo de mediunidade. 
 * Faculdade dos médiuns.
 

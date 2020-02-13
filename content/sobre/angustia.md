@@ -5,7 +5,6 @@ topics:
 - angustia
 ---
 
-## Definição
 A angústia, proveniente do latim angustia, significa estreiteza, espaço
 reduzido, carência, falta. É um sentimento que paralisa a vida psíquica
 racional e consciente. É o medo vago ou indeterminado, sem objeto real ou
@@ -111,9 +110,6 @@ IDE, 1984.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

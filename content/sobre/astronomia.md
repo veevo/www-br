@@ -5,7 +5,6 @@ topics:
 - astrologia
 ---
 
-## Definição
 Ciência que estuda a constituição e o movimento dos astros, suas posições relativas e as leis dos seus movimentos.
 
 
@@ -75,9 +74,6 @@ deste tema
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -6,7 +6,6 @@ topics:
 - casamento
 ---
 
-## Definição
 * Dissolução absoluta do vínculo conjugal, ou distrato da sociedade entre
   cônjuges, na presença de um juiz.
 * Qualquer desavença, desacordo ou rompimento de relação estabelecida entre
@@ -90,9 +89,6 @@ mulher se encontram para o entendimento indispensável”.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

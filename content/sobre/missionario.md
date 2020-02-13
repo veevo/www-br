@@ -5,14 +5,10 @@ topics:
 - missionario
 ---
 
-## Definição
 Propagandista de uma idéia. Aquele que missiona, que prega a fé, evangeliza. 
 
 ## Origem
 Do francês missionaire
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

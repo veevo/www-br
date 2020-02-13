@@ -5,7 +5,6 @@ topics:
 - extase
 ---
 
-## Definição
 Paroxismo da emancipação da alma durante a vida corporal, de que resulta a
 suspensão momentânea das faculdades perceptivas e sensitivas dos órgãos. Neste
 estado, a alma não se prende mais ao corpo, a não ser por laços fracos, que ela
@@ -17,9 +16,6 @@ grau superior de sonambulismo.
 
 ## Origem
 Do grego: ekstasis= arrebatamento, arroubo de espírito; feito de existêmi= tomar de espanto
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,16 +5,12 @@ topics:
 - letargia
 ---
 
-## Definição
 * Estado patológico caracterizado por um sono profundo e contínuo, no qual as
   funções da vida estão de tal modo atenuadas que parecem suspensas. 
 * Perda temporária da sensibilidade e do movimento.
 
 ## Origem
 Do grego lethargía, pelo latim lethargia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

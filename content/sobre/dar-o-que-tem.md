@@ -5,7 +5,6 @@ topics:
 - caridade
 ---
 
-## Definição
 Segundo [Jesus](/sobre/jesus) quis nos mostrar que cada um deve dar algo de si,
 do que possui em essência. Isso não pode ser emprestado. É um patrimônio do
 sujeito cognoscente.
@@ -55,9 +54,6 @@ pois os ociosos e os inativos estão cultivando o joio da imprevidência.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,7 +5,6 @@ topics:
 - consequencialismo
 ---
 
-## Definição
 * A visão de que o valor de uma ação deriva apenas do valor de sua Consequências.
 * O estudo ético da moral, deveres e direitos com uma abordagem que se concentra
   consequências de uma ação particular.
@@ -30,9 +29,6 @@ embora se concentrando em um pov não materialista.. Lei Universal assegura que 
 e escolhas têm consequências correspondentes que refletem o ético ou
 natureza antiética da ação. É tão importante explorar os resultados de
 suas ações como é identificar a causa.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

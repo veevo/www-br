@@ -5,7 +5,6 @@ topics:
 - agnosticismo
 ---
 
-## Definição
 * Designa toda a doutrina que rejeita a metafísica, quando ligada ao estudo de objetos
 radicalmente incognoscíveis. O positivismo e certas formas de evolucionismo são
 consideradas doutrinas agnósticas. 

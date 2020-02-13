@@ -5,7 +5,6 @@ topics:
 - astrologia
 ---
 
-## Definição
 Estudo e prática de prever e revelar a influência dos astros no destino dos
 homens, nos acontecimentos terrestres e nos fenômenos atmosféricos; uranoscopia.
 
@@ -78,9 +77,6 @@ ed. São Paulo: Iracema, 1987.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/astrologia)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,7 +5,6 @@ topics:
 - biologia
 ---
 
-## Definição
 Célula indiferenciada capaz de dar origem a outros tecidos. 
 
 ## Perguntas Relacionadas
@@ -218,9 +217,6 @@ Ribeiro dos Santos, da Bahia.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/células-tronco)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

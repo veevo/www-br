@@ -5,7 +5,6 @@ topics:
 - historia
 ---
 
-## Definição
 As Cruzadas foram expedições militares (1096 a 1271), empreendidas por
 cristãos da Europa Ocidental, com o objetivo de libertar o Santo
 Sepulcro (onde Jesus Cristo teria sido sepultado) do domínio muçulmano.
@@ -71,9 +70,6 @@ deste tema.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

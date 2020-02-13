@@ -7,7 +7,6 @@ topics:
 - allan-kardec
 ---
 
-## Definição
 Allan Kardec apresenta o Espiritismo como sendo a Terceira Revelação da Lei de
 Deus, o Consolador prometido aos homens por Jesus, conforme anunciado por
 [João-XIV:15-17,26]:
@@ -47,9 +46,6 @@ recuperação moral da humanidade .
 * Evolução em Dois Mundos - André Luiz/Chico Xavier - Waldo Vieira
 * Cristianismo e Espiritismo - Leon Denis
 * Cristianismo: A mensagem esquecida - Hermínio Miranda
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

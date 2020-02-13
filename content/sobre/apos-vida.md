@@ -7,7 +7,6 @@ topics:
 - encarancao
 ---
 
-## Definição
 Após-vida é o termo dado ao período pós-desencarnação e entre encaranações.
 
 Ver: [Erraticidade](../erraticidade).

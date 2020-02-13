@@ -6,7 +6,6 @@ topics:
 - charlatanismo
 ---
 
-## Definição
 Segundo as crenças pagãs, respostas dos deuses, através da boca das pitonisas,
 às questões que lhes eram dirigidas. Por extensão, também pode designar a pessoa
 que pronunciava a resposta, assim como os diversos meios empregados para
@@ -18,9 +17,6 @@ vemos em toda a sua simplicidade.
 
 ## Origem
 Do latim oraculu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

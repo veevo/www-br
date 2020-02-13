@@ -5,16 +5,12 @@ topics:
 - deus
 ---
 
-## Definição
 * Que está acima de tudo.
 * O primeiro, o principal, o mais alto, ou o mais elevado. 
 
 
 ## Origem
 do latim supremu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

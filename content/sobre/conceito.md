@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 Conceito é a apreensão ou representação intelectual e abstrata da quidade
 (essência) de um objeto. (1)
 
@@ -74,9 +73,6 @@ São Paulo: Parábola, 2013.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conceito)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

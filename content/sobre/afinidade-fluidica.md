@@ -6,7 +6,6 @@ topics:
 - psicofonia
 ---
 
-## Definição
 Afinidade entre os fluidos do médium e do Espírito comunicante. Esta afinidade
 está submetida à [Lei de Afinidade Fluídica](/leis/afinidade-fluidica).
 

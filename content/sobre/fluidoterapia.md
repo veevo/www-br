@@ -9,14 +9,10 @@ topics:
 - agua-magnetizada
 ---
 
-## Definição
 É o tratamento feito com fluidos: passes, irradiação, água magnetizada.
 
 ## Origem
 Do latim: fluidu + do grego: therapeía
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

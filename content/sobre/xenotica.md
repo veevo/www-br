@@ -7,15 +7,11 @@ topics:
 - medium
 ---
 
-## Definição
 Neologismo criado por Hermínio Miranda para designar a faculdade de vidência de
 palavras ou textos em lingua desconhecida ao médium.
 
 ## Origem
 Do grego xénon + optikós
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

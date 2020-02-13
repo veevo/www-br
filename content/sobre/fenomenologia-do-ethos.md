@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 
 
 ## Perguntas Relacionadas
@@ -78,9 +77,6 @@ evangélica para, posteriormente, fazê-la frutificar cento por um.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

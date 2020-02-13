@@ -6,7 +6,6 @@ topics:
 - espiritismo
 ---
 
-## Definição
 Conhecimento sistematizado como campo de estudo. Observação e classificação dos
 fatos inerentes a um determinado grupo de fenômenos e formulação das leis gerais
 que o regem.
@@ -157,9 +156,6 @@ Contemporânea). 2 ed., Rio de Janeiro, FEB, 1955, p. 95.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ciências-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

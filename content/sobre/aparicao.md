@@ -5,7 +5,6 @@ topics:
 - aparicao
 ---
 
-## Definição
 * Aparecimento, presença rápida e breve de pessoa ou coisa. 
 * Espectro, fantasma. 
 * Visão de um ser fantástico ou sobrenatural. 
@@ -85,9 +84,6 @@ grande com o fluido do vidente de se combinar com o do Espírito.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

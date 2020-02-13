@@ -5,7 +5,6 @@ topics:
 - adoracao
 ---
 
-## Definição
 Doutrina das coisas ou dos fins últimos do ser humano e do mundo – a doutrina
 dos "novíssimos": morte, juízo, inferno, paraíso, fim do mundo e ressurreição
 dos mortos. Entende-se, também, como a doutrina da esperança, a doutrina da

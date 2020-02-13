@@ -5,7 +5,6 @@ topics:
 - espirita
 ---
 
-## Definição
 Neologismo criado por Allan Kardec, em "O Livro dos Espíritos", para significar:
 * o que tem relação com o Espiritismo; 
 * adepto do Espiritismo; 
@@ -22,9 +21,6 @@ escritos e em seus discursos. Ver: Espiritista.
 
 ## Origem
 Do francês spirite
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

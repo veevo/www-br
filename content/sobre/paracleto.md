@@ -7,16 +7,12 @@ topics:
 - anjo-da-guarda
 ---
 
-## Definição
 * Espírito Santo. 
 * Mentor, defensor, intercessor. 
 * Aquele que indica ou sugere a outrem o que deve fazer. 
 
 ## Origem
 Do latim Paracletu, grego parákletos
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

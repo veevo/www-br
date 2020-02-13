@@ -6,7 +6,6 @@ topics:
 - obsessao
 ---
 
-## Definição
 * Em sentido restrito: é o tratamento das obsessões orientado pela Doutrina
   Espírita, em reuniões especializadas. 
 * Em sentido amplo: processo de regeneração da Humanidade, através da renovação

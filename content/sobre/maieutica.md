@@ -6,16 +6,12 @@ topics:
 - socrates
 ---
 
-## Definição
 Processo dialético e pedagógico, inicialmente usado por Sócrates, em que se
 multiplicam as perguntas a fim de obter, por indução dos casos particulares e
 concretos, um conceito geral do objetivo em questão.
 
 ## Origem
 Do grego maieutikós
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

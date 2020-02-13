@@ -5,7 +5,6 @@ topics:
 - desdobramento
 ---
 
-## Definição
 * ato de desdobrar.
 * Faculdade anímica que permite a pessoa, estando o corpo físico num determinado local, deslocar-se ou ser levada a outro local, espiritualmente
   podendo ser ou não vista pelos encarnados presentes nesse mesmo local.
@@ -106,9 +105,6 @@ Doutrinadores. Tradução de Eliseu Rigonatti. São Paulo: Lake,
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 Ver: emancipação da alma.

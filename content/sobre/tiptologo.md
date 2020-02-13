@@ -7,7 +7,6 @@ topics:
 - mediunidade
 ---
 
-## Definição
 Médium que exerce a tiptologia.
 
 Ver: [Tiptologia](../tiptologia)

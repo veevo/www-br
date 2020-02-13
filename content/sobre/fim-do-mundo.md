@@ -6,7 +6,6 @@ topics:
 - catastrofes
 ---
 
-## Definição
 De modo geral, o fim do mundo significa que não durará eternamente a ordem atual
 das coisas. Pode ser no sentido material e no sentido espiritual. Da maneira
 como está anunciado na Bíblia, o mundo atual, especialmente a terra, perecerá
@@ -144,9 +143,6 @@ Rio de Janeiro: FEB, 1975.
 Autor: Sérgio Biagi Gregório 
 São Paulo, outubro de 2008
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

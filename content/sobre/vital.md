@@ -5,16 +5,12 @@ topics:
 - vida
 ---
 
-## Definição
 * Relativo à vida; que pertence à vida
 * Próprio para conservar a vida
 * Que dá força; fortificante. 
 
 ## Origem
 do latim vitale
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

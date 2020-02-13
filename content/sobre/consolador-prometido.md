@@ -10,8 +10,5 @@ topics:
 
 Ver: [O Consolador](../consolador).
 
-## Relacionado
-todo
-
 ## Veja Também
 todo

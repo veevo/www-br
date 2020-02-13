@@ -13,9 +13,6 @@ corpo vivo.
 ## Origem
 Do grego stéreos= sólido
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

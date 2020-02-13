@@ -6,16 +6,12 @@ topics:
 - biologia
 ---
 
-## Definição
 Parte da medicina que trata do estudo e tratamento das doenças mentais, sob o
 ponto de vista físico e biológico.
 
 
 ## Origem
 Do grego psyché= alma + -iatria
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

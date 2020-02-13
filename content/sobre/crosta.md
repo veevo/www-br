@@ -7,7 +7,6 @@ topics:
 - umbral
 ---
 
-## Definição
 Designação dada pelo Espírito André Luiz à região espiritual mais próxima da
 crosta terrestre, onde perambulam os Espíritos desencarnados ainda muito
 vinculados com as sensações e os interesses materiais.

@@ -5,15 +5,11 @@ topics:
 - fluidico
 ---
 
-## Definição
 * Etérico ou imponderável.
 * Relativo ou semelhante a fluido. 
 
 ## Origem
 Do latim fluidu
-
-## Relacionado
-todo
 
 ## Veja Também
 Fluido.

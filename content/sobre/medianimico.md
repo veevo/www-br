@@ -6,7 +6,6 @@ topics:
 - medium
 ---
 
-## Definição
 Qualidade do poder dos médiuns; faculdade de intermediário através dos recursos
 de sua própria alma.
 

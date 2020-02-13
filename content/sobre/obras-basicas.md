@@ -6,7 +6,6 @@ topics:
 - allan-kardec
 ---
 
-## Definição
 São as obras que compõem o pentateuco da codificação promovida por Allan Kardec
 dos ensinos dos Espíritos Superiores, denominada de Espiritismo ou Doutrina dos
 Espíritos: 
@@ -15,9 +14,6 @@ Espíritos:
 * "O Evangelho Segundo o Espiritismo" (1864)
 * "O Céu e o Inferno" (1865) 
 * "A Gênese" (1868)
-
-## Relacionado
-todo
 
 ## Veja Também
 todo

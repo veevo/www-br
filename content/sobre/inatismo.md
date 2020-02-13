@@ -6,15 +6,11 @@ topics:
 - filosofia
 ---
 
-## Definição
 Corrente filosófica que admite a existência de princípios e idéias inatas,
 independentes da experiência.
 
 ## Origem
 Do latim innatu + -ismo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

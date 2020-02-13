@@ -7,7 +7,6 @@ topics:
 - anjo-da-guarda
 ---
 
-## Definição
 É o Espírito protetor de uma ordem elevada, encarregado de assistir e proteger
 indivíduos ou coletividades, sendo tudo relativo ao grau de adiantamento das
 massas como dos indivíduos. 

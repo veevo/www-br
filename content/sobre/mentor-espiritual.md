@@ -6,7 +6,6 @@ topics:
 - anjo-da-guarda
 ---
 
-## Definição
 Ver: [Anjo Guardião](../anjo-guardiao)
 
 ## Veja Também

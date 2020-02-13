@@ -5,16 +5,12 @@ topics:
 - imaterial
 ---
 
-## Definição
 * que não é material; 
 * incorpóreo; impalpável; espiritual
 * sobrenatural; 
 
 ## Origem
 Do latim immateriale
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

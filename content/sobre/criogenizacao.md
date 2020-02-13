@@ -5,7 +5,6 @@ topics:
 - criogenizacao
 ---
 
-## Definição
 Processo de congelamento dos corpos com temperaturas que chegam até
 -196º C.
 
@@ -56,9 +55,6 @@ http://mundoestranho.abril.com.br/ciencia/o-que-e-criogenia-humana/
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -6,7 +6,6 @@ topics:
 - hahnemann
 ---
 
-## Definição
 Sistema terapêutico criado por Cristian Fiedrich Samuel Hahnemann, em 1796, na
 Alemanha, sendo amplamente divulgado após meados do século passado. 
 
@@ -23,9 +22,6 @@ similibus curantur" – os semelhantes curam-se pelos semelhantes.
 
 ## Origem
 Do grego hómoios, a , on + -pat + -ia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

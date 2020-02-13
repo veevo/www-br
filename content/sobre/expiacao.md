@@ -5,7 +5,6 @@ topics:
 - expiacao
 ---
 
-## Definição
 Segundo a Doutrina Espírita, é a purgação purificadora do mal que infeccionou o
 Espírito. Até que os últimos vestígios da falta desapareçam, a expiação consiste
 nos sofrimentos físicos e morais que lhe são conseqüentes, seja na vida atual,
@@ -17,9 +16,6 @@ Espírito.
 
 ## Origem
 Do latim expiatione
-
-## Relacionado
-todo
 
 ## Veja Também
 Prova.

@@ -5,7 +5,6 @@ topics:
 - comunicacao-espirita
 ---
 
-## Definição
 Manifestação inteligente dos Espíritos, tendo por objeto uma troca contínua de
 pensamento entre eles e os homens.
 
@@ -18,9 +17,6 @@ etc..
 
 Quanto à modalidade, ver Sematologia, Tiptologia, Psicografia, Pneumatografia,
 Psicofonia, Pneumatofonia, Pictografia, Telepatia ou Telegrafia humana.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

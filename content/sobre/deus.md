@@ -5,7 +5,6 @@ topics:
 - deus
 ---
 
-## Definição
 Deus é a inteligência suprema, causa primária de todas as coisas
 
 Deus, é eterno, imutável, imaterial, único, onipotente, todo-poderoso, soberanamente bom e
@@ -207,9 +206,6 @@ KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conceito-de-deus)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

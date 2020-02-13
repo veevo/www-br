@@ -5,7 +5,6 @@ topics:
 - deus
 ---
 
-## Definição
 Providência é a suprema sabedoria com que Deus conduz todas as criaturas.
 
 Providência é a solicitude de Deus para com as suas criaturas. Ele está em toda
@@ -16,9 +15,6 @@ Para estender a sua solicitude a todas as criaturas, não precisa Deus lançar o
 olhar do alto da imensidade. As nossas preces, para que Ele as ouça, não
 precisam transpor o espaço, nem ser ditas com voz retumbante, pois que, estando
 de contínuo ao nosso lado, os nossos pensamentos repercutem nele.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

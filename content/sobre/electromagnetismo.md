@@ -5,14 +5,10 @@ topics:
 - electromagnetismo
 ---
 
-## Definição
 Estudo da interação entre correntes elétricas e campos magnéticos.
 
 ## Origem
 Eletro + magnetismo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

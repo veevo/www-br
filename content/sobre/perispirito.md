@@ -5,7 +5,6 @@ topics:
 - perispirito
 ---
 
-## Definição
 Invólucro semi-material do Espírito. Nos encarnados, serve de laço intermediário
 entre o Espírito e a matéria; nos Espíritos errantes, constitui o corpo fluídico
 do Espírito. (Kardec, s. d. p., p. 374) 
@@ -151,9 +150,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 Expiação

@@ -8,7 +8,6 @@ topics:
 - mentor-espiritual
 ---
 
-## Definição
 Ser puramente espiritual que, segundo o cristianismo, o judaísmo e o islamismo,
 serve de mensageiro entre Deus e os homens.
 
@@ -25,9 +24,6 @@ geral, ligada a esta palavra, é o da bondade e da suprema virtude.
 
 ## Origem
 Do latim: angelus; do grego: aggelos= mensageiro 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

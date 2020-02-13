@@ -7,14 +7,10 @@ topics:
 - medium
 ---
 
-## Definição
 O que usa a psicografia; médium escrevente.
 
 ## Origem
 Do grego psyké= borboleta, alma + graphó= escrevo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

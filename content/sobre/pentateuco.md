@@ -5,7 +5,6 @@ topics:
 - pentateuco
 ---
 
-## Definição
 Designação dada pelos gregos ao conjunto dos cinco primeiros livros da Bíblia.
 
 Espiritismo: conjunto formado pelos cinco livros que formam a Codificação
@@ -14,9 +13,6 @@ e o Inferno, Livro dos Médiuns).
 
 ## Origem
 Do grego pentáteukhos
-
-## Relacionado
-todo
 
 ## Veja Também
 Expiação

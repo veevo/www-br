@@ -7,7 +7,6 @@ topics:
 - politica
 ---
 
-## Definição
 * Tentativa persistente de persuadir ou convencer outras pessoas a aceitar suas
   crenças, em geral relativas à religião ou à política.
 * Atividade ou zelo em fazer prosélitos. 

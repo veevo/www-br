@@ -5,7 +5,6 @@ topics:
 - irradiacao
 ---
 
-## Definição
 Irradiação é a doação à distância de boas energias ao próximo. Este tratamento é
 direcionado a pessoas que passam por problemas diversos como enfermidade física,
 desarmonia, depressão, perturbação espiritual, obsessão, dependência química e
@@ -76,9 +75,6 @@ efetivamente, o amor ao próximo.
 
 ## Fonte
 [Introdução à Doutrina Espírita | Irradiação](https://introducaodoutrinaespirita.blogspot.com/2009/01/irradiao-bases-do-fenmeno.html)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

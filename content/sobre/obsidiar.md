@@ -8,7 +8,6 @@ topics:
 - obsidiado
 ---
 
-## Definição
 Ato ou efeito de importunar, incomodar, perturbar, molestar. Sinônimo de
 Obsedar. 
 
@@ -16,9 +15,6 @@ Ver: Obsessão.
 
 ## Origem
 Do latim obsidiare
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

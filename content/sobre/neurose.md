@@ -5,15 +5,11 @@ topics:
 - neurose
 ---
 
-## Definição
 Perturbação mental que não compromete as funções essenciais da personalidade e
 em que o indivíduo mantém penosa consciência de seu estado.
 
 ## Origem
 Do grego neûron + -ose
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

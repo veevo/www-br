@@ -5,7 +5,6 @@ topics:
 - vicissitude
 ---
 
-## Definição
 * Alteração; instabilidade das coisas. 
 * Inconstância dos fatos; sucessão de mudanças ou de alternâncias.
 * Sequência de coisas que se sucedem.
@@ -13,9 +12,6 @@ topics:
 
 ## Origem
 do latim vicissitudine
-
-## Relacionado
-todo
 
 ## Veja Também
 Parasitose

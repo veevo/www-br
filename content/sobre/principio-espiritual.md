@@ -5,12 +5,8 @@ topics:
 - principio-espiritual
 ---
 
-## Definição
 * Princípio a partir do qual se dá a individualização do espírito. 
 * Um dos elementos gerais do Universo em parceria com o Fluido Cósmico Universal.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

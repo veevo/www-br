@@ -5,7 +5,6 @@ topics:
 - lei
 ---
 
-## Definição
 * Norma, preceito, princípio, regra. 
 * Obrigação imposta pela consciência e pela sociedade. 
 * Fórmula geral que enuncia uma relação constante entre fenômenos de uma dada ordem; lei natural. 
@@ -18,9 +17,6 @@ Para saber mais sobre as Leis Divinas, [clique aqui](/leis-divinas).
 
 ## Origem
 Do latim lege
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

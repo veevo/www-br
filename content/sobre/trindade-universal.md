@@ -9,7 +9,6 @@ topics:
 - universo
 ---
 
-## Definição
 Princípio de tudo o que existe, constituído por Deus, Espírito e Matéria. Nada
 além disto existe no Universo. 
 

@@ -5,14 +5,10 @@ topics:
 - frivolo
 ---
 
-## Definição
 Sem importância, insignificante, fútil, leviano.
 
 ## Origem
 Do latim frivolu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

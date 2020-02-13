@@ -6,7 +6,6 @@ topics:
 - fluidos
 ---
 
-## Definição
 Agente que dá atividade e movimento aos seres vivos e faz cm que se distingam da
 matéria inerte. Intermediário entre Espírito e matéria. 
 
@@ -43,9 +42,6 @@ ou fluido elétrico animalizado.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

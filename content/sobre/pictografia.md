@@ -7,14 +7,10 @@ topics:
 - mediunidade
 ---
 
-## Definição
 Pintura ou desenho feito por Espírito através de médium.
 
 ## Origem
 Do latim pictu, particípio de pingere= pintar + o + graf(o) + ia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

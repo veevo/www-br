@@ -5,7 +5,6 @@ topics:
 - desencarnado
 ---
 
-## Definição
 Que desencarnou. Que deixou a carne. Espírito sem corpo físico. Morrer.
 
 Ver: [Desencarnação](../desencarnacao).

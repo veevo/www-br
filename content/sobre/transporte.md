@@ -6,7 +6,6 @@ topics:
 - mundo-espiritual
 ---
 
-## Definição
 * Ato ou efeito de transportar(-se); transportação 
 * Qualquer veículo utilizado para transportar pessoas ou cargas
 
@@ -15,9 +14,6 @@ transportarem objetos de um lugar para outro.
 
 ## Origem
 Ontexto Espírita, transporte [do latim trans + portare
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

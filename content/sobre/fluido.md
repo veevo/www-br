@@ -5,7 +5,6 @@ topics:
 - fluidos
 ---
 
-## Definição
 * Diz-se das substâncias líquidas ou gasosas. 
 * Que corre ou se expande à maneira de um líquido ou gás.
 

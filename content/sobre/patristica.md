@@ -8,7 +8,6 @@ topics:
 - cristianismo
 ---
 
-## Definição
 Dá-se ao nome de patrística à fase de fundamentação e da fixação dos dogmas
 cristãos. 
 

@@ -6,7 +6,6 @@ topics:
 - jesus
 ---
 
-## Definição
 Candeia. Pequeno aparelho de iluminação, que se suspende por um
 prego, com recipiente de folha-de-flandres, barro ou outro material,
 abastecido com óleo, no qual se embebe uma torcida, e de emprego em

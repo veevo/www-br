@@ -7,7 +7,6 @@ topics:
 - espiritismo
 ---
 
-## Definição
 Segundo a idéia ligada a essa palavra, o possesso é aquele no qual um demônio
 veio alojar-se. Tomando o demônio não em sua acepção vulgar, mas no sentido de
 Espírito mau, Espírito impuro, Espírito malfazejo, Espírito imperfeito,

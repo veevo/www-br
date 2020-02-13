@@ -5,7 +5,6 @@ topics:
 - loucura
 ---
 
-## Definição
 * Doença mental caracterizada pela alienação total do indivíduo em relação aos
   fatos que lhe são pertinentes
 * Ato, estado ou dito que revela falta de senso ou de juízo; maluquice, piração.
@@ -30,9 +29,6 @@ erros. Para maiores informações favor checar a literatura recomendada.
 
 ## Leitura Recomendada
 "A loucura sob novo prisma", Dr. Bezerra de Menezes
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

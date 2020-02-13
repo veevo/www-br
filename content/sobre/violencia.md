@@ -7,7 +7,6 @@ topics:
 - paz
 ---
 
-## Definição
 Violência vem do latim violentia, que significa violência, caráter violento ou
 bravio, força. O verbo violare significa trotar com violência, profanar,
 transgredir. Tais termos devem ser referidos a vis, que quer dizer, força,
@@ -152,9 +151,6 @@ Violência. 6. ed., São Paulo, Brasiliense, 1991 (Coleção Primeiros Passos, n
 [CEIsmael | Violência](https://www.ceismael.com.br/artigo/violencia-manifesta-e-oculta.htm)
 Autor: Sérgio Biagi Gregório 
 São Paulo, abril de 2000
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

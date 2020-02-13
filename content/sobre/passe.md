@@ -7,7 +7,6 @@ topics:
 - espiritismo
 ---
 
-## Definição
 * Transfusão de energias psicofísicas alterando o corpo celular. 
 * Transmissão de fluidos de uma pessoa, encarnada ou não, a outra, ou a objetos. 
 * O passe pode ser: 
@@ -19,9 +18,6 @@ topics:
 
 ## Origem
 Do latim passare
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

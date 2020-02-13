@@ -5,7 +5,6 @@ topics:
 - profeta
 ---
 
-## Definição
 * Aquele que prediz por inspiração divina; 
 * vidente; adivinho; 
 * título dado pelos Maometanos a Mafoma; 
@@ -13,9 +12,6 @@ topics:
 
 ## Origem
 do grego prophétes; latim propheta
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

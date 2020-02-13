@@ -6,7 +6,6 @@ topics:
 - reencarnacao
 ---
 
-## Definição
 Renascimentos sucessivos dos mesmos indivíduos. 
 
 ## Origem

@@ -5,7 +5,6 @@ topics:
 - coma
 ---
 
-## Definição
 Estado de estupor profundo, caracterizado por perda total ou parcial da
 consciência, da sensibilidade e da motricidade voluntária, com manutenção das
 funções vegetativas, em menor ou maior grau, causado por doenças graves
@@ -67,9 +66,6 @@ Aydir.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/coma)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

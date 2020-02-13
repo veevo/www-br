@@ -5,14 +5,10 @@ topics:
 - monteismo
 ---
 
-## Definição
 Sistema ou doutrina daqueles que admitem a existência de um único Deus.
 
 ## Origem
 Do grego mónos + -teísmo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

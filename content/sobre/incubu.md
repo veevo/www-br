@@ -8,7 +8,6 @@ topics:
 - obsessor
 ---
 
-## Definição
 Demônio masculino que, segundo velha crença popular, vem pela noite copular com
 uma mulher, perturbando-lhe o sono e causando-lhe pesadelos.
 

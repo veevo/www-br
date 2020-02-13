@@ -5,7 +5,6 @@ topics:
 - egoismo
 ---
 
-## Definição
 * Amor próprio excessivo, desconsiderando o interesse alheio. 
 * Doutrina que coloca o interesse individual como norteador da conduta humana e dos seus
   preceitos morais. 
@@ -13,9 +12,6 @@ topics:
 
 ## Origem
 Do latim ego + ismo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,16 +5,12 @@ topics:
 - codice
 ---
 
-## Definição
 * forma característica do manuscrito em pergaminho, denominada por oposição à
 forma de rolo. 
 * Registro ou compilação de manuscritos, documentos históricos ou leis.
 
 ## Origem
 Do latim codice
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

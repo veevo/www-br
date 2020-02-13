@@ -5,7 +5,6 @@ topics:
 - animais
 ---
 
-## Definição
 * Ser vivo multicelular, dotado de movimento, de crescimento limitado, com
   capacidade de responder a estímulos.
 * Ser animal destituído de razão; animal irracional.
@@ -89,9 +88,6 @@ Paulo: Edicel, 1984.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/animais-os)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

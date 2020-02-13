@@ -5,7 +5,6 @@ topics:
 - inconsciente
 ---
 
-## Definição
 Conjunto dos processos e fatos psíquicos que atuam sobre a conduta do indivíduo,
 mas que escapam ao âmbito da consciência, para a qual não podem ser trazidos por
 esforço da vontade ou da memória. 
@@ -15,9 +14,6 @@ psicóticos, ou seja, quando a consciência não está vigilante.
 
 ## Origem
 Do latim in + consciente
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

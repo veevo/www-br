@@ -7,7 +7,6 @@ topics:
 - mentor
 ---
 
-## Definição
 É o Espírito bom que aceitou a missão de acompanhar e ajudar o progresso de seu
 protegido, influindo com seus conselhos, consolando suas aflições, sustentando
 sua coragem nas provas da vida. 
@@ -19,9 +18,6 @@ Ver: Anjo guardião, Guia espiritual.
 
 ## Origem
 Do latim protectore
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

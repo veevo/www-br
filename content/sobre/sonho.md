@@ -6,7 +6,6 @@ topics:
 - alma
 ---
 
-## Definição
 Efeito da emancipação da alma durante o sono. 
 
 Quando os sentidos ficam entorpecidos, os laços que unem o corpo e a alma se
@@ -25,9 +24,6 @@ frases.
 
 ## Origem
 Do latim somniu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,7 +5,6 @@ topics:
 - fluido
 ---
 
-## Definição
 Ver: [Perispirito](../perispirito).
 
 ## Relacionado

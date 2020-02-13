@@ -5,7 +5,6 @@ topics:
 - proselito
 ---
 
-## Definição
 Aquele que abraça uma nova religião, seita, doutrina ou partido. Partidário,
 adepto. 
 

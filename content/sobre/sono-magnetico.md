@@ -6,7 +6,6 @@ topics:
 - fluidos
 ---
 
-## Definição
 Atuando sobre o sistema nervoso, o fluido magnético produz, em certas pessoas,
 um efeito que se comparou ao sono natural, mas que difere dele essencialmente em
 muitos pontos. A principal diferença consiste em que, neste estado, o pensamento
@@ -21,9 +20,6 @@ respondem quase sempre não a esta pergunta: dormis? E, com efeito, visto que
 vêem e pensam livremente, para eles isso não é dormir no sentido vulgar da
 palavra.
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

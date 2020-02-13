@@ -7,7 +7,6 @@ topics:
 - ansiedade
 ---
 
-## Definição
 No contexto psicológico, desequilíbrio pode ser interpretado como:
 * Instabilidade mental.
 * Desproporção entre a despesa e a receita; deficit.
@@ -63,9 +62,6 @@ deste tema.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

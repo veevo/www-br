@@ -7,7 +7,6 @@ topics:
 - mediunidade
 ---
 
-## Definição
 * Estado de inconsciência ou semiconsciência em que se verificam diversos fenômenos psíquicos ou mediúnicos.
 * Estado de baixa tensão psíquica com estreitamento do campo da consciência e dissociação. 
 
@@ -142,9 +141,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

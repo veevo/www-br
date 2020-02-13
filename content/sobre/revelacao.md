@@ -5,7 +5,6 @@ topics:
 - revelacao
 ---
 
-## Definição
 * Dar a conhecer coisas ocultas. 
 * Tirar o véu, mostrar, descobrir, clarear.  
 * Doutrina religiosa revelada, por oposição a que se chega pela razão apenas.

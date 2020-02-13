@@ -5,7 +5,6 @@ topics:
 - maniqueismo
 ---
 
-## Definição
 Seita persa que afirmava ser o Universo dominado por dois grandes princípios
 opostos, o bem e o mal, mantendo uma incessante luta entre si. 
 

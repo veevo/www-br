@@ -208,9 +208,6 @@ receberemos: esta é a lei Divina” (do livro: Jesus no Lar).
 Autor: Sérgio Biagi Gregório
 
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

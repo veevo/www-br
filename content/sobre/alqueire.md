@@ -6,7 +6,6 @@ topics:
 - jesus
 ---
 
-## Definição
 Alqueire – do ár. al-kail –, antiga medida de capacidade para
 secos e líquidos, variável de terra para terra. Na Europa, correspondia
 pouco mais ou menos a 13 litros; na China, entre 10 e 31 litros. No

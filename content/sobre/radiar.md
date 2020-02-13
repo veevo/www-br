@@ -6,16 +6,12 @@ topics:
 - fluidos
 ---
 
-## Definição
 * Emitir ondas e energia calorífica, luminosa ou, de modo geral, eletromagnética. 
 * Transmitir ondas mentais ou fluidos terapêuticos a um paciente distante. 
 * Fazer brilhar, irradiar.
 
 ## Origem
 Do latim radiare
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

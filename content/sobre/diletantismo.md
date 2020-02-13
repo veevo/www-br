@@ -5,14 +5,10 @@ topics:
 - diletantismo
 ---
 
-## Definição
 Jogo de idéias sem o propósito de estabelecer a verdade.
 
 ## Origem
 Do italiano dilletante + -ismo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

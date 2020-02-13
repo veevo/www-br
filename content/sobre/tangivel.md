@@ -5,15 +5,11 @@ topics:
 - tangivel
 ---
 
-## Definição
 * Que se pode tanger, tocar ou apalpar.
 * Sensível; palpável. 
 
 ## Origem
 do latim tangibile
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

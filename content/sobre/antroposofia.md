@@ -5,7 +5,6 @@ topics:
 -  antroposofia
 ---
 
-## Definição
 De antropo (homem) e sofia (ciência). Estudo do homem sob o ponto de
 vista moral. Corpo da doutrina espiritualista estabelecido pelo
 austríaco Rudolfo Steiner.
@@ -80,9 +79,6 @@ Antroposófica, 1997.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/antroposofia)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

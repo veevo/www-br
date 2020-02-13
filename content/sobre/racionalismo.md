@@ -9,7 +9,6 @@ topics:
 - filosofia
 ---
 
-## Definição
 * Modo de pensar e de avaliar a realidade somente à luz da razão, com o
   pensamento lógico.
 * Conceito segundo o qual o conhecimento provém da razão e não da experiência.

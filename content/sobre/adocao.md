@@ -5,7 +5,6 @@ topics:
 - adocao
 ---
 
-## Definição
 Do latim adoptio, do verbo adoptare, escolher, adotar. Dir. Ato
 jurídico que cria entre duas pessoas vínculo de parentesco civil
 semelhante ao da paternidade e filiação legítimas. É o ato de tomar o
@@ -74,21 +73,14 @@ larga das drogas e do crime.
 
 
 ## Bibliografia
-
-GRANDE ENCICLOPÉDIA DELTA LAROUSSE. Rio de Janeiro: Delta, 1979.
-
-ÁVILA, F. B. de S.J. Pequena Enciclopédia de Moral e Civismo. Rio de
-Janeiro: M.E.C., 1967.
-
-Enciclopédia Delta Universal.
+* GRANDE ENCICLOPÉDIA DELTA LAROUSSE. Rio de Janeiro: Delta, 1979.
+* ÁVILA, F. B. de S.J. Pequena Enciclopédia de Moral e Civismo. Rio de Janeiro: M.E.C., 1967.
+* Enciclopédia Delta Universal.
 
 ## Fonte
 [Q&A - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/adoção-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -8,15 +8,11 @@ topics:
 - volupia
 ---
 
-## Definição
 * Qualidade de sensual. 
 * Luxúria; volúpia. 
 
 ## Origem
 do latim sensualitate
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

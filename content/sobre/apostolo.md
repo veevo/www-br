@@ -7,15 +7,11 @@ topics:
 - evangelho
 ---
 
-## Definição
 * Cada um dos doze discípulos de Jesus. 
 * Aquele que evangeliza; propagador de qualquer idéia ou doutrina.
 
 ## Origem
 Do grego: apóstolos= enviado; do latim: apostolu 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

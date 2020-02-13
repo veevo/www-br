@@ -9,7 +9,6 @@ topics:
 - espirito-de-verdade
 ---
 
-## Definição
 O Consolador (também conhecido como O Consolador Prometido) é o o termo
 comumente dado ao [Espiritismo](/espiritismo) com base no
 [Evangelho](/evangelho) de [Jesus](/sobre/jesus) com base no
@@ -107,9 +106,6 @@ alheia e fornecer-lhe o alimento espiritual de que necessita.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/consolador-prometido)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

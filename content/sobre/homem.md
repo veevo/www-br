@@ -5,7 +5,6 @@ topics:
 - homem
 ---
 
-## Definição
 Dentre as diferentes espécies de seres corpóreos, a humana foi a escolhida para
 encarnação dos Espíritos que atingiram um certo grau de desenvolvimento, o que
 lhe dá a superioridade moral e intelectual sobre os outros. 
@@ -93,9 +92,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

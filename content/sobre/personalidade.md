@@ -5,7 +5,6 @@ topics:
 - personalidade
 ---
 
-## Definição
 * Caráter do que é pessoal, pessoalidade. 
 * Organização constituída por todas as características cognitivas, afetivas, volitivas e físicas de um indivíduo.
 * Para cada encarnação do Espírito, como individualidade que é, uma personalidade. 
@@ -15,9 +14,6 @@ topics:
 
 ## Origem
 Do latim personalis + -dade
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

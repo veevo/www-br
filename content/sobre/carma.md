@@ -5,7 +5,6 @@ topics:
 - carma
 ---
 
-## Definição
 * Nas filosofias hinduístas, o conjunto das ações dos homens e suas conseqüências. 
 
 ## Carma e Espiritismo
@@ -78,9 +77,6 @@ Alda Porto e Marcos Santarrita. Porto Alegre: L&PM, 1993.
 
 ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

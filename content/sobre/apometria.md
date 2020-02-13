@@ -5,7 +5,6 @@ topics:
 - apometria
 ---
 
-## Definição
 Apometria - do grego apo, "além de", e metron, "medida",
 significa um conjunto de práticas visando tratamento a distância.
 
@@ -67,9 +66,6 @@ passado entre 2500 a 3000 anos antes de cristo, e sempre ativo).
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/apometria)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

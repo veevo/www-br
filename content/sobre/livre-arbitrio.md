@@ -7,7 +7,6 @@ topics:
 - livre-arbitrio
 ---
 
-## Definição
 * Liberdade de juízo e de conduta, entendida como resultado puro da vontade, quando perante uma escolha. 
 * É a liberdade moral do homem, faculdade que ele tem de se guiar pela sua vontade na realização de seus atos.
 
@@ -26,9 +25,6 @@ Quando chega a hora da reencarnação, dependendo de nosso nível evolutivo, som
 nós mesmos que escolhemos nossa próxima existência e a provações que
 aprenderemos nessa existência. Até a natureza da nossa morte e a duração de
 nossas vidas está em nossas mãos.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

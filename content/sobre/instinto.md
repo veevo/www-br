@@ -5,7 +5,6 @@ topics:
 - instinto
 ---
 
-## Definição
 Espécie de inteligência rudimentar que dirige os seres vivos em suas ações, à
 revelia de sua vontade e no interesse de sua conservação. O instinto torna-se
 inteligência quando surge a deliberação. Pelo instinto, age-se sem raciocinar;

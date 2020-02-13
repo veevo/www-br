@@ -5,7 +5,6 @@ topics:
 - reforma-intima
 ---
 
-## Definição
 É mudança comportamental, substituindo a indiferença, os maus hábitos e as
 atitudes negativas, pelas virtudes, conforme às leis morais cristãs; ou seja, o
 esforço permanente da pessoa para se renovar moralmente e dominar as más
@@ -37,9 +36,6 @@ ao progresso, a mudança pressupõe que esse Espírito esteja crescendo,
 evoluindo.
 
 #
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

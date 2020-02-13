@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 Do latim capacitas, aptidão (física, mental e intelectual) de uma
 pessoa. P. ext. Indivíduo que possui muito conhecimento. Em filosofia,
 termo alternativo para a potencialidade das coisas e tem ligação com a
@@ -69,9 +68,6 @@ pessoal, não alcançou, ainda, em verdade, a noção real do tempo. (1)
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/capacidade)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

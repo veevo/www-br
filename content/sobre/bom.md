@@ -5,7 +5,6 @@ topics:
 - bom
 ---
 
-## Definição
 * Que tem todas as qualidades adequadas à sua natureza ou função. 
 * Benévolo, bondoso, benigno. 
 * Misericordioso, caritativo. 
@@ -15,9 +14,6 @@ topics:
 
 ## Origem
 Do latim: bonu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

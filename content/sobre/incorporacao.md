@@ -5,7 +5,6 @@ topics:
 - incorporacao
 ---
 
-## Definição
 * Ato ou efeito de incorporar(-se).  
 * O termo incorporação tem sido aplicado inadequadamente à mediunidade
   psicofônica, pois não tem como dois espíritos ocuparem o mesmo corpo. No
@@ -35,9 +34,6 @@ médiuns" de Allan Kardec)(ver "Cordão-de-prata")
 
 ## Origem
 Do latim incorporatione
-
-## Relacionado
-todo
 
 ## Veja Também
 Psicofonia

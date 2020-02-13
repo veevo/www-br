@@ -5,15 +5,11 @@ topics:
 - semantologia
 ---
 
-## Definição
 Transmissão do pensamento dos Espíritos por meio de sinais, tais como pancadas,
 batidas, movimentos de objetos, etc..
 
 ## Origem
 Do grego sema, semato= sinal + logos= discurso
-
-## Relacionado
-todo
 
 ## Veja Também
 Tiptologia  

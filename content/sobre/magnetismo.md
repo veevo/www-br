@@ -6,7 +6,6 @@ topics:
 - hipnotismo
 ---
 
-## Definição
 Magnetismo é o processo pelo qual o homem, emitindo energia do seu perispírito,
 age sobre outro homem, bem como sobre todos os corpos animados ou inanimados.
 

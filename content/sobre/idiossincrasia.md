@@ -5,15 +5,11 @@ topics:
 - idiossincrasia
 ---
 
-## Definição
 Característica que individualiza o ser, a sua maneira peculiar de ver, de sentir
 e de reagir.
 
 ## Origem
 Do grego idiosygkrasía
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -7,7 +7,6 @@ topics:
 - alcoolismo
 ---
 
-## Definição
 Genericamente, droga é toda a substância usada em química, farmácia etc. Para os
 fins deste estudo, qualquer substância alucinógena capaz de levar à dependência
 química; entorpecente.
@@ -119,9 +118,6 @@ Brasília, Recanto, 1991, p. 42 e 43.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

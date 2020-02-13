@@ -5,7 +5,6 @@ topics:
 - ser
 ---
 
-## Definição
 * Aquele ou aquilo que existe. 
 * O que é sensorialmente cognoscível e se opõe ao nada. inorgânicos, que carecem
   de vida. 

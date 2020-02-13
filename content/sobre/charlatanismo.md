@@ -5,13 +5,9 @@ topics:
 - charlatanismo
 ---
 
-## Definição
 * Crime que consiste em explorar a crença do povo, apregoando cura milagrosa e garantida
 * Conjunto de ações de charlatão; charlatanaria, charlatanice.
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

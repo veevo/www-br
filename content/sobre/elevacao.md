@@ -5,7 +5,6 @@ topics:
 - elevacao
 ---
 
-## Definição
 * Ato ou efeito de elevar ou de levantar. 
 * Ação de elevar-se ou erguer-se. 
 * Grandeza.

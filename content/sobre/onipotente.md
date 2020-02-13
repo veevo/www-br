@@ -6,16 +6,12 @@ topics:
 - deus
 ---
 
-## Definição
 * Que tudo pode.
 * Detentor de poder absoluto.
 * Que encerra toda a potência.
 
 ## Origem
 Do latim onipotente
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

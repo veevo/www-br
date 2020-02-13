@@ -5,7 +5,6 @@ topics:
 - bicorporeidade
 ---
 
-## Definição
 Variação das manifestações visuais, quando o indivíduo se mostra simultaneamente
 em dois lugares diferentes. No primeiro lugar, com o corpo que tem a vida
 orgânica, mas em estado de êxtase; no segundo, com o corpo que tem a vida da
@@ -16,9 +15,6 @@ reentra no corpo material.
 
 ## Origem
 Do latim bis + corporalitate
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

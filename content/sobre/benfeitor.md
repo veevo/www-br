@@ -7,7 +7,6 @@ topics:
 - anjo-da-guarda
 ---
 
-## Definição
 Benfeitor é um dos nomes dado ao Espírito que nos acompanha durante a vida.
 
 Ver: [Anjo Guardião](../anjo-guardiao).

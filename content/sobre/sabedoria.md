@@ -5,7 +5,6 @@ topics:
 - sabedoria
 ---
 
-## Definição
 * Conhecimento extenso e profundo das coisas. 
 * Ciência.  
 * Qualidade de quem é sabedor, de quem tem muita instrução. Grande circunspeção
@@ -14,9 +13,6 @@ topics:
 
 ## Origem
 de saber
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

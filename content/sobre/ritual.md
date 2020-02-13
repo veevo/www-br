@@ -5,7 +5,6 @@ topics:
 - ritual
 ---
 
-## Definição
 * Conjunto de práticas consagradas pelo uso e/ou por normas, e que devem ser
   observadas de forma invariável em ocasiões determinadas. 
 * Qualquer cerimonial;
@@ -14,9 +13,6 @@ topics:
 
 ## Origem
 Do latim rituale
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

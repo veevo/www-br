@@ -5,7 +5,6 @@ topics:
 - moral
 ---
 
-## Definição
 Moral é o conjunto de regras de conduta consideradas como válidas, quer de modo absoluto
 para qualquer tempo ou lugar, quer para grupo ou pessoa determinada.   
 
@@ -86,9 +85,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

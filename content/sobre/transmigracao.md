@@ -6,7 +6,6 @@ topics:
 - espirito
 ---
 
-## Definição
 Ato ou efeito de transmigrar(-se), passar (o Espírito) de um corpo para outro.
  
 ## Origem

@@ -5,16 +5,12 @@ topics:
 - precognicao
 ---
 
-## Definição
 * Conhecer antes, forma de percepção extrasensorial; conhecimento de um evento
   futuro que não pode ser inferido logicamente. 
 * Profecia, predição, previsão, etc..
 
 ## Origem
 Do latim praecognitu + -ção
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

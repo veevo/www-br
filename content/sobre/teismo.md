@@ -6,14 +6,10 @@ topics:
 - deus
 ---
 
-## Definição
 Doutrina que admite a existência de um deus, força causal do mundo.
 
 ## Origem
 Do grego teós + -ismo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

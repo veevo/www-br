@@ -8,7 +8,6 @@ topics:
 - subjulgacao
 ---
 
-## Definição
 Poltergeist (também chamado por alguns parapsicólogos como Psicocinesia
 Recorrente Expontânea (em inglês: Recurrent Spontaneous Psychokinesis, RSPK), é
 um tipo de evento paranormal que se manifesta em um ambiente no qual existem
@@ -51,9 +50,6 @@ ares atingindo outros objetos e pessoas. Para a ocorrência da manifestação é
 obrigatória a presença de um médium de efeitos físicos, ainda que completamente
 alheio à sua faculdade.
 
-
-## Relacionado
-todo
 
 ## Veja Também
 

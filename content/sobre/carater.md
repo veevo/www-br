@@ -5,16 +5,12 @@ topics:
 - carater
 ---
 
-## Definição
 * Qualidade inerente a uma pessoa, animal ou coisa, aquilo que os faz distinguir de quaisquer outras pessoas, animais ou coisas. 
 * O conjunto de traços particulares, o modo de ser de um indivíduo ou de um grupo. 
 * Índole, temperamento, natureza; o conjunto de peculiaridades boas ou más de uma pessoa, determinado-lhe a conduta e a concepção moral.
 
 ## Origem
 Do gr. charaktér
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -6,16 +6,11 @@ topics:
 - mundo-espiritual
 ---
 
-## Definição
-* Que ou aquele que zombeteia, escarnece, graceja, goza.
-
-Normalmente atribuído a Espíritos maus ou menos evoluídos.
+Aquele que zombeteia, escarnece, graceja, goza. Normalmente atribuído a
+Espíritos maus ou menos evoluídos.
 
 ## Origem
 de zombar
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

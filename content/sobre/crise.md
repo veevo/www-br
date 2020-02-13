@@ -6,7 +6,6 @@ topics:
 - crise
 ---
 
-## Definição
 Crise. Do grego krisis, do mesmo étimo do verbo krino, separar, depurar, como se
 faz com o ouro. O Dicionário Etimológico de Antenor Nascentes dá também os
 significados de momento decisivo, separação e julgamento.
@@ -195,9 +194,6 @@ XAVIER, F. C. Vinha de Luz, pelo Espírito Emmanuel. Brasília: FEB,
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

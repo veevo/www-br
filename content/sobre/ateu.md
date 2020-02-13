@@ -5,7 +5,6 @@ topics:
 - ateu
 ---
 
-## Definição
 Aquele que pratica o ateísmo e não crê em Deus ou que
 não segue religião alguma.
 
@@ -15,14 +14,8 @@ Ateísta [do grego: atheos + -ista] - Aquele que não crê em Deus, o mesmo que 
 Do grego: atheos, composto de a= privativo, e de theos= Deus: sem Deus,
 que não crê em Deus
 
-## Relacionado
-todo
-
 ## Veja Também
 Ateísta.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

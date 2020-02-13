@@ -5,15 +5,11 @@ topics:
 - zoovidente
 ---
 
-## Definição
 Animal (principalmente cães e cavalos) que tem a faculdade anímica de vidência
 de Espíritos desencarnados.
 
 ## Origem
 Do latim zoo + vidente
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

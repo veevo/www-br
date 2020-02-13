@@ -5,7 +5,6 @@ topics:
 - silfos
 ---
 
-## Definição
 Segundo a mitologia céltica e germânica da Idade Média, os silfos eram os gênios
 do ar, como os gnomos eram os da terra e as ondinas os das águas. Eram
 representados sob forma humana, semi-vaporosa, com traços graciosos, asas
@@ -17,9 +16,6 @@ germânica da Idade Média para Silfos.
 
 ## Origem
 Do latim sylphu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

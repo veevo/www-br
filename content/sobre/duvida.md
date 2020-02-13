@@ -6,7 +6,6 @@ topics:
 - duvida
 ---
 
-## Definição
 Apesar da ambiguidade conceitual, pode-se dizer que a dúvida é um estado de
 incerteza em que consiste na suspensão do julgamento, dada a ausência de razões
 para a afirmação ou negação.  
@@ -224,9 +223,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

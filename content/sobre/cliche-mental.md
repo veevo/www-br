@@ -6,7 +6,6 @@ topics:
 - familia
 ---
 
-## Definição
 Clichês mentais são ideias fixas sobre determinado ponto de vista. Elas ficam
 congeladas, cristalizadas em nossa mente.
 
@@ -53,9 +52,6 @@ obsessores que são arrastadas para regiões que eles mesmos criaram.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/clichês-mentais)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -7,7 +7,6 @@ topics:
 - reino-de-deus
 ---
 
-## Definição
 O reino de Deus é um estado de felicidade proporcional ao grau de perfeição
 adquirida; materialização da felicidade dos bem-aventurados; obra divina no
 coração dos homens; estado de sublimação da alma, criado por ela própria,
@@ -130,9 +129,6 @@ querelar com o vizinho assume papel relevante na prática da perfeição.
 
 ## Fonte
 [Sérgio Biagi Gregório | O Reino de Deus](http://www.sergiobiagigregorio.com.br/palestra/reino-de-deus.htm)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

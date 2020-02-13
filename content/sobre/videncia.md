@@ -8,7 +8,6 @@ topics:
 - medium
 ---
 
-## Definição
 * Qualidade ou faculdade de vidente. 
 * Pessoa que tem o uso da vista, em oposição a cego. 
 
@@ -18,9 +17,6 @@ de ver com os olhos da alma. A visão geral e permanente dos Espíritos
 
 ## Origem
 Do latim vidente + -ia
-
-## Relacionado
-todo
 
 ## Veja Também
 Parasitose

@@ -5,14 +5,10 @@ topics:
 - cosmogonia
 ---
 
-## Definição
 Especulação religiosa, filosófica ou científica sobre a origem do universo.
 
 ## Origem
 Do grego kosmogonía
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,7 +5,6 @@ topics:
 - superioridade
 ---
 
-## Definição
 * Qualidade do que é superior. 
 * Autoridade.  
 * Excelência. 
@@ -13,9 +12,6 @@ topics:
 
 ## Origem
 De superior
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -60,9 +60,6 @@ Autor: Sérgio Biagi Gregório
 ## Bibliografia Recomendada
 * KARDEC, A. O Livro dos Espíritos. 8. ed., São Paulo, FEESP, 1995.
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

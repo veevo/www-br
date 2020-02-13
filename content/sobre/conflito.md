@@ -5,15 +5,11 @@ topics:
 - conflito
 ---
 
-## Definição
 * Embate dos que lutam. 
 * Situação de competição, gerando uma sensação de desconforto.
 
 ## Origem
 Do latim conflictu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

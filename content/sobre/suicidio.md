@@ -6,7 +6,6 @@ topics:
 - suicidio
 ---
 
-## Definição
 De um modo geral, define-se suicídio como a ação pela qual alguém põe
 intencionalmente termo à própria vida. É um ato exclusivamente humano e está
 presente em todas as culturas.
@@ -333,9 +332,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

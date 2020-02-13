@@ -5,7 +5,6 @@ topics:
 - apocalipse
 ---
 
-## Definição
 * Apocalipse - do grego: apokalypsis significa revelação. 
 
 Consiste da revelação tida por João, o Evangelista, na Ilha de Patmos, acerca
@@ -254,9 +253,6 @@ Espiritismo, pelo Espírito Emmanuel. Rio de Janeiro, FEB, 1972.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/apocalipse-de-joão)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,7 +5,6 @@ topics:
 - existencialismo
 ---
 
-## Definição
 Essencialismo é uma doutrina filosófica em que a essência sobrepõe à
 existência. Algumas filosofias fazem total abstração dos existentes
 concretos. A filosofia de Hegel, por exemplo, é uma delas.
@@ -67,9 +66,6 @@ PIRES, J. H. Introdução à Filosofia Espírita. São Paulo: Paidéia,
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

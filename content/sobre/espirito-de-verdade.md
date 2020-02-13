@@ -51,8 +51,5 @@ imortalidade. - O Espírito de Verdade. (Paris, 1861.)
 ## Fonte
 [Wikipedia | O Espírito da Verdade](https://pt.wikipedia.org/wiki/O_Esp%C3%ADrito_da_Verdade_(espiritismo))
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO

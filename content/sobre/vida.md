@@ -5,7 +5,6 @@ topics:
 - vida
 ---
 
-## Definição
 * O resultado da atividade comum às plantas e aos animais e que concorrem para o seu desenvolvimento e conservação. 
 * Tempo que decorre entre o nascimento e a morte. 
 * Conjunto de coisas necessárias à subsistência. atividade; movimento; calor; animação. 
@@ -139,9 +138,6 @@ concordância entre a nossa vontade e a do Criador.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/vida)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 Parasitose

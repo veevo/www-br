@@ -5,7 +5,6 @@ topics:
 - sensacao
 ---
 
-## Definição
 * Ação ou função sensorial. 
 * Tomada de consciência da alteração interna ou externa de um ou vários sentidos
   em simultâneo, conduzida pelos nervos ao cérebro.  
@@ -13,9 +12,6 @@ topics:
 
 ## Origem
 Do latim sensatione
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

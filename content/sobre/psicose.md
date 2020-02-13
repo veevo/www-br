@@ -6,14 +6,10 @@ topics:
 - psicopatia
 ---
 
-## Definição
 Designação comum às doenças mentais; psicopatia.
 
 ## Origem
 Do grego psyché= alma + -ose
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

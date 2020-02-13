@@ -8,9 +8,6 @@ topics:
 Ver: [Ceticismo](../ceticismo).
 
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

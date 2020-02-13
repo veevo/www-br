@@ -7,7 +7,6 @@ topics:
 - obesessao
 ---
 
-## Definição
 Doença é a alteração na saúde dos seres vivos.
 
 Doença mental é a variação mórbida do normal, variação esta capaz de
@@ -65,9 +64,6 @@ frequentadores.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/doença-mental)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

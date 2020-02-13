@@ -5,15 +5,11 @@ topics:
 - monoideismo
 ---
 
-## Definição
 Estado de alma em todo o psiquismo que se acha dominado por uma idéia central;
 fixação em uma única idéia.
 
 ## Origem
 Do grego mónos + -idéa + -ismo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

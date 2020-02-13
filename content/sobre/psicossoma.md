@@ -6,14 +6,10 @@ topics:
 - perispirito
 ---
 
-## Definição
 O mesmo que corpo espiritual ou perispírito.
 
 ## Origem
 Do grego psyché= alma + sôma= corpo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

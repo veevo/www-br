@@ -5,7 +5,6 @@ topics:
 - forma-pensamento
 ---
 
-## Definição
 São as idéias projetadas pela mente humana e materializadas no mundo espiritual,
 construções substanciais na esfera da alma que se mantêm pela força de
 sustentação de nossos pensamentos. Ver: Ideoplastia e Imagens-molde.
@@ -56,9 +55,6 @@ comandar com plenos poderes suas formas-pensamento, os demais espíritos as
 produzem inconscientemente.  (Leitura básica: "Evolução em dois mundos"
 psicografado pelos médiuns Francisco Cândido Xavier e Waldo Vieira e ditado
 pelo espírito André Luiz)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

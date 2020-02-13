@@ -5,16 +5,12 @@ topics:
 - personificar
 ---
 
-## Definição
 * Considerar como pessoa. Atribuir a uma coisa inanimada, a uma abstração, a imagem, os
 sentimentos ou a linguagem de uma pessoa real. 
 * Realizar ou representar na figura de uma pessoa; exprimir por um tipo. 
 
 ## Origem
 do latim persona+facere
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

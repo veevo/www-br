@@ -7,7 +7,6 @@ topics:
 - evangelho
 ---
 
-## Definição
 Bem-Aventurança – Grande felicidade, suprema ventura, especialmente
 a que se goza no céu. Para a teologia, são as oito bênçãos
 (beatitudes) com cuja exposição deu Cristo princípio ao Sermão da
@@ -122,9 +121,6 @@ Janeiro: FEB, 1977
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/bem-aventuranças-as)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

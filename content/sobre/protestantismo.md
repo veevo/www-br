@@ -6,16 +6,12 @@ topics:
 - igreja
 ---
 
-## Definição
 Nome dado à doutrina religiosa que pretende conservar a pureza do dogma e do
 culto dos primeiros tempos do cristianismo, e que, nessa base, originou uma nova
 igreja cristã, em que há várias seitas. 
 
 ## Origem
 Do francês protestantisme
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

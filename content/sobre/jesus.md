@@ -9,7 +9,6 @@ topics:
 - espirito-puro
 ---
 
-## Definição
 Jesus é o ser mais perfeito que Deus ofereceu aos homens para lhes servir de
 modelo e guia.
 

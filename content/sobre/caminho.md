@@ -6,7 +6,6 @@ topics:
 - religiao
 ---
 
-## Definição
 Faixa de terreno ou local de passagem que serve de ligação ou
 comunicação terrestre entre dois ou mais lugares. P. ext. orientação
 ou direção de uma sucessão de fatos ou eventos.
@@ -104,9 +103,6 @@ Minas Gerais: CEC, 1986.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/caminho)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

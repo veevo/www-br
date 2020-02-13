@@ -6,7 +6,6 @@ topics:
 - justica
 ---
 
-## Definição
 Obrigar (alguém) a fazer ou a não fazer algo, contra sua vontade, através da
 violência, ameaça ou chantagem.
 
@@ -79,9 +78,6 @@ Editorial Enciclopédia, \[s.d. p.\].
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/coação)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

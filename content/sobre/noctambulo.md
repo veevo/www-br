@@ -5,14 +5,10 @@ topics:
 - sonambulismo
 ---
 
-## Definição
 Aquele que marcha ou passeia durante a noite, dormindo; sinônimo de sonâmbulo. 
 
 ## Origem
 Do latim nox, noctis= a noite + ambulare= marchar, passear
-
-## Relacionado
-todo
 
 ## Veja Também
 Noctambulismo  

@@ -9,7 +9,6 @@ topics:
 - expiacao
 ---
 
-## Definição
 Lugar de expiação temporária, segundo a Igreja Católica, para as almas que têm
 ainda que se purificar. A Igreja não define de um modo preciso o lugar onde se
 acha o Purgatório e não se explica mais claramente sobre a natureza das penas

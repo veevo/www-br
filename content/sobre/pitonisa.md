@@ -5,7 +5,6 @@ topics:
 - pitonisa
 ---
 
-## Definição
 Sacerdotisa de Apolo Pítio, em Delfos, também chamada pítia, por causa da
 serpente Pitão que Apolo havia matado. A pítia dava os oráculos, mas, como eles
 nem sempre eram inteligíveis, os sacerdotes se encarregavam de interpretá-los

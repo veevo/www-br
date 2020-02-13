@@ -5,7 +5,6 @@ topics:
 - tiptologia
 ---
 
-## Definição
 * Linguagem por pancadas; modo de comunicação dos Espíritos. 
 * Tiptologia alfabética
 * Nomenclatura muito utilizada para designar o estudo dos raps

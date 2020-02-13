@@ -6,7 +6,6 @@ topics:
 - platao
 ---
 
-## Definição
 Movimento filosófico do período greco-romano desenvolvido por pensadores
 inspirados em Platão. 
 

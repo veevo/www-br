@@ -7,7 +7,6 @@ topics:
 - alma
 ---
 
-## Definição
 Espírito pode classificar-se em:
 * Espírito (E maiúsculo): seres inteligentes da criação;
 * espírito (e minúsculo): quando relacionado ao espírito, parte integrante do
@@ -172,9 +171,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -6,7 +6,6 @@ topics:
 - medium
 ---
 
-## Definição
 Faculdade que a quase totalidade das pessoas possuem, umas mais outras menos, de
 sentirem a influência ou ensejarem a comunicação dos Espíritos, tanto que Allan
 Kardec afirma serem raros os que não possuem rudimentos de mediunidade.
@@ -81,9 +80,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

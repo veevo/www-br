@@ -5,7 +5,6 @@ topics:
 - fatalismo
 ---
 
-## Definição
 Corrente filosófica segundo a qual as coisas estão predeterminadas e se
 produzirão, apesar do esforço contrário da inteligência e da vontade.
 

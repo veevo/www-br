@@ -5,7 +5,6 @@ topics:
 - clarividencia
 ---
 
-## Definição
 * Para a Doutrina Espírita, é propriedade inerente à alma e que dá a certas
   pessoas a faculdade de ver sem o auxílio dos órgãos da visão. 
 * Visão mais perfeita, mais clara.

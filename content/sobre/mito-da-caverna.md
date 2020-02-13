@@ -5,7 +5,6 @@ topics:
 - mito 
 ---
 
-## Definição
 
 
 ## Perguntas Relacionadas

@@ -5,7 +5,6 @@ topics:
 - conservadorismo 
 ---
 
-## Definição
 Conservadorismo é o conjunto de correntes doutrinárias e de movimentos
 políticos que se baseiam no caráter orgânico e natural da sociedade
 política. Não busca um ótimo político-social, mas um equilíbrio no
@@ -96,9 +95,6 @@ VIDE Editorial, 2016.
 ## Fonte
 Adaptado de [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conservadorismo-e-liberalismo)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -6,7 +6,6 @@ topics:
 - inferno
 ---
 
-## Definição
 * Limiar, entrada. 
 * Conforme informação do Espírito André Luiz, uma das
 regiões inferiores do Mundo Espiritual em que se agregam por sintonia mentes

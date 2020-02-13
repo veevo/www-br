@@ -7,16 +7,12 @@ topics:
 - centro-espirita
 ---
 
-## Definição
 É a reunião de pessoas na Casa Espírita, com o objetivo do estudo e da prática
 da Doutrina dos Espíritos. 
 
 Pode ser pública, como as sessões doutrinárias e de passes, ou privada, como as
 mediúnicas de orientações dos Espíritos, de desobsessão ou de educação e
 desenvolvimento da mediunidade.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

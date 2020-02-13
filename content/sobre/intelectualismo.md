@@ -10,7 +10,6 @@ topics:
 - filosofia
 ---
 
-## Definição
 Doutrina filosófica que exalta o predomínio da inteligência sobre a vontade e o
 sentiment
 

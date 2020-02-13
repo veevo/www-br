@@ -8,7 +8,6 @@ topics:
 - espiritismo
 ---
 
-## Definição
 Comunicação dos Espíritos pela voz de um médium falante. 
 
 ## Origem

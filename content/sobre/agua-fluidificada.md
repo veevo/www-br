@@ -5,7 +5,6 @@ topics:
 - agua-fluidificada
 ---
 
-## Definição
 * Água magnetizada por fluidos.
 * Segundo o Espiritismo, seria a água normal acrescida de fluidos curadores.
 

@@ -5,7 +5,6 @@ topics:
 - iluminado
 ---
 
-## Definição
 * Qualidade dada a certos indivíduos que se pretendem esclarecidos por Deus, de
   maneira particular, e que são considerados geralmente como visionários ou
   doentes mentais. 
@@ -16,9 +15,6 @@ topics:
 
 ## Origem
 Do latim -> particípio de iluminar= iluminare
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

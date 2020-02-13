@@ -65,9 +65,6 @@ Bíblia; mas a Bíblia ensina como ir ao Céu, não como ele foi feito.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/céu-e-inferno)  
 Autor: Sérgio Biagi Gregório
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

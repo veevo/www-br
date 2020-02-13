@@ -6,15 +6,11 @@ topics:
 - sono
 ---
 
-## Definição
 Desejo incontrolável de dormir ou acessos repentinos de sono que aparecem a
 intervalos.
 
 ## Origem
 Do grego nárke= torpor + lepsis= acesso
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,7 +5,6 @@ topics:
 - dinheiro 
 ---
 
-## Definição
 * Denominação comum, nessas transações, a todas as cédulas e moedas aceitas como forma de pagamento.
 * Todo e qualquer valor comercial (cheques, letras, notas de banco, títulos etc.).
 * Valor representativo de qualquer quantia. 
@@ -114,9 +113,6 @@ Minas Gerais: CEC, 1986.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

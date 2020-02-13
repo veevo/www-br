@@ -8,7 +8,6 @@ topics:
 - desencarnacao
 ---
 
-## Definição
 Neste artigo, iremos estudar o que o [Espiritismo](/espiritismo) nos ensina
 sobre a morte e o que ocorre após ela.
 
@@ -113,9 +112,6 @@ a sua consciência, banhada pelas luzes da lei natural gravada na mesma.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

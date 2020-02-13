@@ -7,7 +7,6 @@ topics:
 - inferno
 ---
 
-## Definição
 Demônio feminino que, segundo velha crença popular, vem pela noite copular com
 um homem, perturbando-lhe o sono e causando-lhe pesadelos.
 

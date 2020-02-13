@@ -18,9 +18,6 @@ invólucro semimaterial do Espírito, persiste depois da separação do corpo. A
 definições de duplo etéreo são vastas e, muita vez, até opostas. O conceito de
 perispírito permanece consolidado nas definições kardequianas.
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

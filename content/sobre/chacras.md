@@ -5,7 +5,6 @@ topics:
 - chacras
 ---
 
-## Definição
 Centros de força instalados no perispírito, regendo a atividade funcional dos
 órgãos relacionados pela fisiologia terrena. 
 
@@ -103,9 +102,6 @@ ascendência em todo o sistema endocrínico. (2)
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/centros-de-força)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

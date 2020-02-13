@@ -5,7 +5,6 @@ topics:
 - encarnado
 ---
 
-## Definição
 * Que encarnou. 
 * Espírito mergulhado na carne.  
 * Espírito com corpo físico

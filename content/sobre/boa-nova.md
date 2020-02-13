@@ -5,7 +5,6 @@ topics:
 - evangelho
 ---
 
-## Definição
 Boa Nova vem do grego Euangelion, em que eu = boa e angelion =
 notícia. Significa boa notícia.
 
@@ -68,9 +67,6 @@ dos céus nos corações dos seres humanos.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/boa-nova)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

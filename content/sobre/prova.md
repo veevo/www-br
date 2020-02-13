@@ -9,7 +9,6 @@ topics:
 - expiacao
 ---
 
-## Definição
 * Aquilo que serve para estabelecer uma verdade por verificação ou demonstração. 
 * Exame. 
 * Uma das formas do espírito experimentar-se. 

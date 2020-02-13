@@ -6,7 +6,6 @@ topics:
 - materializacao
 ---
 
-## Definição
 * Modelagem da matéria pelo pensamento. 
 * A materialização do pensamento, criando formas que às vezes se revestem de
   grande duração, conforme a persistência da onda em que se expressam.
@@ -16,9 +15,6 @@ Do grego idéa= idéia, aparência + plásso ou plátto= modelar + -ia
 
 ## Related
 Imagens-moldes – O mesmo que Formas-pensamento.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

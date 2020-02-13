@@ -5,7 +5,6 @@ topics:
 - preconceito
 ---
 
-## Definição
 * Conceito formado antecipadamente e sem fundamento sério. 
 * Preocupação. Prejuízo. Crendice;
 * Superstição. 
@@ -91,9 +90,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

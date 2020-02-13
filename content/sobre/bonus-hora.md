@@ -5,12 +5,8 @@ topics:
 - bonus-hora
 ---
 
-## Definição
 Remuneração espiritual relativa a cada hora de serviço prestado nas colônias
 espirituais.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -16,9 +16,6 @@ imaginárias; excessiva credulidade.
 ## Origem
 do latim superstitione
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

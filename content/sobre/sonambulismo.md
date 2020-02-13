@@ -5,7 +5,6 @@ topics:
 - sonambulismo
 ---
 
-## Definição
 Estado de emancipação da alma mais completo do que no sonho. O sonho é um
 sonambulismo imperfeito. No sonambulismo, a lucidez da alma, isto é, a faculdade
 de ver, que é um dos atributos de sua natureza, é mais desenvolvida. Ela vê as
@@ -21,9 +20,6 @@ Tipos de sonambulismo:
 
 ## Origem
 Do latim somnus= sono e ambulare= marchar, passear
-
-## Relacionado
-todo
 
 ## Leitura Recomendada
 [André Luis - Nos Domínios da Mediunidade](/books/andre-luis/in-the-realms-of-mediumship)

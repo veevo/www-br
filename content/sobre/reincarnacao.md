@@ -5,7 +5,6 @@ topics:
 - reincarnacao
 ---
 
-## Definição
 * Volta do Espírito à vida corpórea, em um novo corpo especialmente formado para
   ele. É progressiva ou estacionária, nunca é retrógrada. 
 * Uma das personalidades do Espírito dentro da pluralidade das suas existências.
@@ -39,9 +38,6 @@ lhes sondamos o sentido íntimo.
 
 ## Origem
 Do latim re + incarnatione
-
-## Relacionado
-todo
 
 ## Veja Também
 Palingenesia

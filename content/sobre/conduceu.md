@@ -5,14 +5,10 @@ topics:
 - conduceu
 ---
 
-## Definição
 Espécie de veículo do plano espiritual.
 
 ## Origem
 Do latim conduc(ere) + caelu)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

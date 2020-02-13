@@ -89,9 +89,6 @@ Janeiro: FEB, 1981.
 Autor: Sérgio Biagi Gregório
 
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

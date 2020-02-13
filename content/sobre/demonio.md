@@ -5,7 +5,6 @@ topics:
 - demonio
 ---
 
-## Definição
 * gênio, sorte, destino, manesSão todos os seres incorpóreos, bons ou maus, e
   que se supõe terem conhecimento e poder superiores aos dos homens. Nas línguas
   modernas, esta palavra é geralmente tomada em má acepção, que se restringe aos

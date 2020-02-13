@@ -5,7 +5,6 @@ topics:
 - encarnacao
 ---
 
-## Definição
 * Ato ou efeito de tomar forma carnal. 
 * Ato pelo qual os seres a que se atribui divindade tomam corpo; corporificação.
 * As diferentes existências do espírito que se materializa. 
@@ -33,9 +32,6 @@ nosso redor.
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 [CEIsmael | Resumo da Doutrina dos Espíritos](https://ceismael.com.br/tema/resumo-doutrina-dos-espiritos.htm)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

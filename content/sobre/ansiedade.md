@@ -7,7 +7,6 @@ topics:
 - freud
 ---
 
-## Definição
 Ansiedade é um intenso mal-estar físico e psíquico, acompanhado de aflição e
 agonia. Figuradamente, desejo veemente e impaciente.  
 
@@ -108,9 +107,6 @@ Janeiro: FEB, 1977.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ansiedade-psicologia-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

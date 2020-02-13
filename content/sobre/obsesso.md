@@ -7,11 +7,7 @@ topics:
 - obsidiado
 ---
 
-## Definição
 Ver: [Obsidiado](../obsidiado)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,14 +5,10 @@ topics:
 - levitacao
 ---
 
-## Definição
 Ato ou efeito de erguer objetos ou pessoas acima do solo, sem esforço corporal.
 
 ## Origem
 Do latim levitu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

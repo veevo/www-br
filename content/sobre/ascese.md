@@ -6,7 +6,6 @@ topics:
 - virtude
 ---
 
-## Definição
 Exercício prático que leva à efetiva realização da virtude, à plenitude da vida
 moral.
 

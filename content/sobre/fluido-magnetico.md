@@ -5,11 +5,7 @@ topics:
 - fluido-vital
 ---
 
-## Definição
 Ver: [Fluido Vital](../fluido-vital)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

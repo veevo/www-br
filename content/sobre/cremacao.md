@@ -5,7 +5,6 @@ topics:
 - cremacao
 ---
 
-## Definição
 Ato de destruir pelo fogo, especialmente cadáveres humanos; incineração.
 
 ### Quais são os tipos de sepultamento?
@@ -81,9 +80,6 @@ deste tema.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

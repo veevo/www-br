@@ -6,7 +6,6 @@ topics:
 - augusto-comte
 ---
 
-## Definição
 * Palavra forjada por Augusto Comte para designar o amor ao próximo, no sentido
   mais geral, isto é, a inclinação natural que nos impele a preferir o interesse
   geral ao nosso próprio interesse. 

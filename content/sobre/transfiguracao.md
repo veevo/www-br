@@ -7,7 +7,6 @@ topics:
 - mediunidade
 ---
 
-## Definição
 * Transformação, metamorfose, mudança radical na aparência, no caráter e na forma. 
 * Fenômeno em que o médium sofre mudanca de fisionomia e de expressão
 por envolvimento fluídico do Espírito manifestante.
@@ -65,9 +64,6 @@ Autor: Sérgio Biagi Gregório
 
 
  
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

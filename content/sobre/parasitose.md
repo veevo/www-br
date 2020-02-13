@@ -7,7 +7,6 @@ topics:
 - vampirismo
 ---
 
-## Definição
 O processo de obsessão em que o obsessor faz o papel de parasito e o obsidiado
 de hospedeiro, com o primeiro sugando os princípios vitais do segundo. Igual a
 Vampirismo.

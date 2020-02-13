@@ -7,7 +7,6 @@ topics:
 - filosofia
 ---
 
-## Definição
 A Apologia de Sócrates é a obra escrita por Platão depois da morte de
 seu mestre (399 a.C.). Platão imagina Sócrates defendendo-se diante dos
 juízes que o condenaram à morte por corromper a juventude e introduzir
@@ -74,9 +73,6 @@ Edipro, 2011. (Edipro de bolso)
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/apologia-de-sócrates)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

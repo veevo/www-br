@@ -5,7 +5,6 @@ topics:
 - manifestacao
 ---
 
-## Definição
 Ato pelo qual o Espírito revela a sua presença. As manifestações podem ser:
 * ocultas – não ostensivas, quando o Espírito age sobre o pensamento; 
 * patentes – quando apreciáveis pelos sentidos; 

@@ -6,13 +6,9 @@ topics:
 - espiritismo
 ---
 
-## Definição
 O Movimento Espírita é o conjunto das atividades que têm por objetivo colocar a
 Doutrina Espírita ao alcance e a serviço de toda a Humanidade, através do seu
 estudo, da sua prática e da sua divulgação.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

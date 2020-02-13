@@ -6,15 +6,11 @@ topics:
 - biologia
 ---
 
-## Definição
 Substância viva das células constituída pela associação de citoplasma e
 cromatina, podendo estar contida no núcleo.
 
 ## Origem
 do grego prôtos + plasma, atos
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

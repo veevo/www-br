@@ -7,7 +7,6 @@ topics:
 - benfeitor
 ---
 
-## Definição
 Ver: [Anjo Guardião](../anjo-guardiao)
 
 ## Relacionado

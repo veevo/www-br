@@ -5,7 +5,6 @@ topics:
 - necromacia
 ---
 
-## Definição
 Arte de evocar as almas dos mortos para obter delas revelações. Por extensão,
 esta palavra foi aplicada a todos os meios de adivinhação. 
 

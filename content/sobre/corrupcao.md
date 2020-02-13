@@ -5,7 +5,6 @@ topics:
 - corrupcao
 ---
 
-## Definição
 * Ato ou resultado de corromper; corrompimento, corruptela.
 * Decomposição de matéria orgânica, geralmente causada por microrganismos;
   putrefação.
@@ -116,9 +115,6 @@ Janeiro: FEB, 1977.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

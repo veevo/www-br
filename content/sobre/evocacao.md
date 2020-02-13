@@ -5,7 +5,6 @@ topics:
 - pensamento
 ---
 
-## Definição
 Evocação não é sinônimo perfeito de invocação, por mais que tenham a mesma raiz..
 
 Enquanto evocar é chamar, fazer vir a si, fazer aparecer por cerimônias mágicas,
@@ -79,9 +78,6 @@ de vir". ( O Livros dos Médiuns – Cap. XXV – 277).
 
 ## Fonte
 [Introdução à Doutrina Espírita | Evocações](https://introducaodoutrinaespirita.blogspot.com/2009/01/evocaes.html)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

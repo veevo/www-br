@@ -7,13 +7,9 @@ topics:
 - mundo-espiritual
 ---
 
-## Definição
 Aparelho concentrador de ectoplasma existente no mundo espiritual, descrito pelo
 Espírito André Luiz, e que reproduz as imagens projetadas pelo pensamento
 daquele a quem é aplicado.
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

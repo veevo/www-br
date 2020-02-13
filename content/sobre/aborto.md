@@ -6,7 +6,6 @@ topics:
 - aborto
 ---
 
-## Definição
 Aquele que nasceu antes do tempo próprio. Parto prematuro ou expulsão do feto
 antes dos nove meses de gestação. O aborto é usualmente definido como a
 interrupção da gravidez antes de o feto atingir a viabilidade, ou seja, antes de
@@ -219,9 +218,6 @@ Junho de 2010.
 
 [Perguntas e Respostas - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aborto-e-suas-consequências-o)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

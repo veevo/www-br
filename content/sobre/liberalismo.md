@@ -6,7 +6,6 @@ topics:
 - conservadorismo
 ---
 
-## Definição
 * O Estado ou a qualidade de ser liberal.
 * Uma teoria política fundada na bondade natural dos humanos e na autonomia
   do indivíduo e favorecendo liberdades civis e políticas, governo por
@@ -26,9 +25,6 @@ VIDE Editorial, 2016.
 ## Fonte
 Adaptado de [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conservadorismo-e-liberalismo)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

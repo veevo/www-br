@@ -5,7 +5,6 @@ topics:
 - prece
 ---
 
-## Definição
 Oração é rogo, súplica. A prece é uma invocação, mediante a qual o ser
 humano entra, pelo pensamento, em comunicação com o ser a quem se
 dirige. Pode ter por objeto um pedido, um agradecimento e um louvor. A
@@ -79,9 +78,6 @@ IDE, 1984, cap. 27, itens 22 e 23.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,14 +5,10 @@ topics:
 - necromante
 ---
 
-## Definição
 Quem quer que faça profissão da Necromancia, isto é, aquele que diz o futuro.
 
 ## Origem
 Do grego nekrómantis
-
-## Relacionado
-todo
 
 ## Veja Também
 Necromancia  

@@ -5,7 +5,6 @@ topics:
 - cartomancia
 ---
 
-## Definição
 * Adivinhação através de cartas de jogar.
 
 ### Qual a importância da astrologia, da cartomancia...?

@@ -9,7 +9,6 @@ topics:
 - joanna-de-angelis
 ---
 
-## Definição
 No livro Momentos de Harmonia, mensagem Projetos Iluminativos, psicografia de
 Divaldo Pereira Franco, a Mentora Joanna de Ângelis faz uma proposta para que
 implementemos projetos iluminativos. Vejamos um pequeno trecho da mensagem:

@@ -6,11 +6,7 @@ topics:
 - centro-de-forca
 ---
 
-## Definição
 Ver: [Chacras](../chacras)
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,7 +5,6 @@ topics:
 - inteligencia
 ---
 
-## Definição
 Faculdade de conceber, de compreender e raciocinar. Seria injusto recusar aos
 animais uma espécie de inteligência e acreditar que eles apenas seguem
 maquinalmente o impulso cego do instinto. A inteligência deles é sempre limitada
@@ -17,9 +16,6 @@ que, a este é dado ter, do Ser Supremo.
 
 ## Origem
 Do latim intelligentia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

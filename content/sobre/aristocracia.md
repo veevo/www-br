@@ -6,7 +6,6 @@ topics:
 - jesus
 ---
 
-## Definição
 * Sociedade politicamente organizada em que o controle estatal é privativo de uma camada social privilegiada, composta de nobres cujo monopólio do poder pode ser eletivo, quando a escolha de seus membros se faz no interior dessa mesma classe, ou hereditário, quando a sucessão política exclui todos os que dela não descendem, ficando, neste último caso, concentrado nas mãos de uma ou de várias famílias.
 * Classe social privilegiada que, por concessão ou herança de uma longa linhagem de ancestrais igualmente privilegiados, detém grande parte do prestígio e da influência política e cultural que lhe conferem seus títulos nobiliárquicos; classe nobre; nobreza.
 * Estado cujo governo é exercido por indivíduos pertencentes a essa classe social.
@@ -100,9 +99,6 @@ sobre Aristocracias, p. 239 a 245.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aristocracias)  
 Autor: Sérgio Biagi Gregório
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

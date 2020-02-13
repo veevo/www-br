@@ -5,7 +5,6 @@ topics:
 - vontade
 ---
 
-## Definição
 * Faculdade de mentalmente desejar um ato que pode ou não ser executado. 
 * Sentimento que leva a pessoa a atingir o fim a que mentalmente se propôs. 
 * Firmeza moral. Desejo; intenção; gosto; empenho; interesse; necessidade
@@ -13,9 +12,6 @@ topics:
 
 ## Origem
 Do latim voluntate
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

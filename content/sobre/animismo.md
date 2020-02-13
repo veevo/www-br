@@ -5,7 +5,6 @@ topics:
 - animismo
 ---
 
-## Definição
 Teoria segundo a qual a alma é simultaneamente princípio de vida orgânica e psíquica. 
 
 Para o Espiritismo, é relativo aos fenômeno intelectuais e físicos que deixam

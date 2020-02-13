@@ -5,7 +5,6 @@ topics:
 - corpo-fisico
 ---
 
-## Definição
 Segundo a Codificação Espírita, todo ser humano é composto de:
 * espírito - essência eterna, divina, imortal;
 * perespírito - corpo espiritual, ligação entre espírito e corpo;

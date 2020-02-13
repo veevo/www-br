@@ -6,14 +6,10 @@ topics:
 - jesus
 ---
 
-## Definição
 Tratado em torno da pessoa de Jesus Cristo e de sua doutrina.
 
 ## Origem
 Hierônimo => Cristo + -log(o) + -ia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

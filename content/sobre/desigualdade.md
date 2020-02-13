@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 * Atributo de pessoas ou coisas distintas; dessemelhança, diferença.
 * Falta de equilíbrio; disparidade, distância.
 
@@ -104,9 +103,6 @@ KARDEC, A. O Livro dos Espíritos. 8. ed., São Paulo, FEESP, 1995.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

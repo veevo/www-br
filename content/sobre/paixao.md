@@ -5,7 +5,6 @@ topics:
 - paixao
 ---
 
-## Definição
 Paixão - Do grego pathos, sofrer, suportar. Significa o estado
 "passivo" do ser humano, contraposto aos fenômenos da atividade. Segundo
 Aristóteles, designa o fato de sofrer a ação de um agente exterior.
@@ -92,9 +91,6 @@ Abnegar-se.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/paixão)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

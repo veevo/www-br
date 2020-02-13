@@ -147,9 +147,6 @@ ciências.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/manifestação-e-revelação), Sérgio Biagi Gregório
 
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

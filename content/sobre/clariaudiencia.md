@@ -5,11 +5,7 @@ topics:
 - clariaudiencia
 ---
 
-## Definição
 Faculdade mediúnica de ouvir espíritos desencarnados. 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

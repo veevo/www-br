@@ -6,7 +6,6 @@ topics:
 - fluidos
 ---
 
-## Definição
 Vivemos, todos nós, os encarnados e os desencarnados, em um meio comum formado
 de Fluído Cósmico Universal. Mergulhados nos encontramos nessa “substância
 primitiva” que absorvemos automática e inconscientemente, por várias portas de
@@ -40,9 +39,6 @@ Xavier, Francisco Cândido – Fonte Viva. Pelo Espírito Emmanuel. Capítulo 15
 
 ## Fonte
 [Introdução à Doutrina Espírita | Fluido Cósmico Universal](https://introducaodoutrinaespirita.blogspot.com/2009/01/o-fludo-csmico-universal.html)
-
-## Relacionado
-todo
 
 ## Veja Também
 [What's the difference between Principle, Fluid and Energy?](/articles/principle-fluid-energy)

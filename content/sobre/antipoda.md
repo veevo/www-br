@@ -5,7 +5,6 @@ topics:
 - antipoda
 ---
 
-## Definição
 Habitante que, em relação a outro do globo, se encontra em lugar diametralmente
 oposto.
 

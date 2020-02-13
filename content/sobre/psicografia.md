@@ -7,7 +7,6 @@ topics:
 - mediunidade
 ---
 
-## Definição
 Escrita dos Espíritos pela mão do médium.
 
 Tipos de psicografia:
@@ -17,9 +16,6 @@ que não diretamente o médium.
 
 ## Origem
 Do grego psyké= borboleta, alma + graphó= escrevo + -ia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

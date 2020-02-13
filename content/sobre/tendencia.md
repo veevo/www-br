@@ -17,9 +17,6 @@ tendências que encontram sua explicação na sucessão das existências. Os
 conhecimentos adquiridos pelo Espírito nas existências anteriores se refletem
 nas existências posteriores através do que denominamos tendências inatas. 
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

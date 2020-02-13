@@ -5,7 +5,6 @@ topics:
 - virtude
 ---
 
-## Definição
 Qualidade do sentimento e do comportamento de acordo com uma moral. A virtude
 pratica-se mais do que se define.
 

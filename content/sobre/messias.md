@@ -6,7 +6,6 @@ topics:
 - jesus
 ---
 
-## Definição
 * Pessoa apontada como escolhida e enviada por Deus para revelar um caminho de
    redenção às demais criaturas. 
 * Líder carismático, pessoa esperada 
@@ -16,9 +15,6 @@ topics:
 
 ## Origem
 Do hebraico mashiah= ungido, pelo latim messias
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

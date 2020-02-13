@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 Taoísmo é uma doutrina filosófica e religiosa fundada por Lao-Tse,
 que viveu na China provavelmente no séc. VI a.C., a quem se atribui o
 Tao Te Ching (o Livro do Caminho e da Virtude).
@@ -63,9 +62,6 @@ deste tema.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

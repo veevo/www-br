@@ -5,7 +5,6 @@ topics:
 - diabo
 ---
 
-## Definição
 A palavra satã é sinônimo de diabo, com a diferença de que este último é mais
 genérico, aplicando-se a todos os demônios, enquanto o primeiro aplica-se a um
 ser único, o rival de Deus. 
@@ -15,9 +14,6 @@ a personificação alegórica do mal e de todos os maus Espíritos.
 
 ## Origem
 Do hebreu chaitán= adversário, inimigo de Deus
-
-## Relacionado
-todo
 
 ## Veja Também
 Diabo  

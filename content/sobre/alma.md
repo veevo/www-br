@@ -6,7 +6,6 @@ topics:
 - espirito
 ---
 
-## Definição
 A alma é um Espírito encarnado, e o corpo apenas o seu invólucro.
 
 É o ser imaterial, distinto e individual, unido ao corpo que lhe serve de
@@ -40,9 +39,6 @@ durante o qual permanecera no estado de Espírito errante.
 
 ## Fonte
 [CEIsmael | Resumo da Doutrina dos Espíritos](https://ceismael.com.br/tema/resumo-doutrina-dos-espiritos.htm)
-
-## Relacionado
-todo
 
 ## Veja Também
 

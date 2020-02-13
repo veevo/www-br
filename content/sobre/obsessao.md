@@ -9,7 +9,6 @@ topics:
 - subjulgacao
 ---
 
-## Definição
 * Domínio que alguns Espíritos logram adquirir sobre certas pessoas. Nunca é
 praticada senão pelos Espíritos inferiores, que procuram dominar. Os bons
 Espíritos nenhum constrangimento inflingem. Aconselham, combatem a influência
@@ -144,9 +143,6 @@ recíprocos da vida em comum? (5)
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/obsessão)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

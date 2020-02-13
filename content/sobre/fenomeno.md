@@ -5,16 +5,12 @@ topics:
 - fenomeno
 ---
 
-## Definição
 * Fato de natureza moral ou social. 
 * O que se manifesta aos sentidos ou à consciência 
 * Aquilo que é raro e surpreendente.
 
 ## Origem
 Do grego phainómenon, do latim phaenomenon
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

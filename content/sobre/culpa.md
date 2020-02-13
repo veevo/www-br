@@ -8,7 +8,6 @@ topics:
 - ansiedade
 ---
 
-## Definição
 * Responsabilidade por algo, condenável ou danoso, causado a outrem.
 * Transgressão à lei; crime, delito.
 * Atitude ou omissão que possa causar dano ou desastre a outrem.
@@ -72,9 +71,6 @@ deste tema.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -6,7 +6,6 @@ topics:
 - aura
 ---
 
-## Definição
 Aura. Emanação, radiação ou halo invisível de luz ou faixas de luz coloridas em
 volta de uma planta, de um animal, de uma pessoa, que podem ser captadas por
 clarividentes e sensitivos.
@@ -189,9 +188,6 @@ Alda Porto e Marcos Santarrita. Porto Alegre: L&PM, 1993.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 Ateísta.

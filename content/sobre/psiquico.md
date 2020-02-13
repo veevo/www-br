@@ -6,14 +6,10 @@ topics:
 - alma
 ---
 
-## Definição
 Relativo à alma, ou às faculdades intelectuais e morais de um indivíduo. 
 
 ## Origem
 do grego psykhikós
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

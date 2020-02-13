@@ -5,7 +5,6 @@ topics:
 - 
 ---
 
-## Definição
 Normalmente abreviado como sci-fi ou scifi, é um gênero, literário ou
 cinematográfico, que antecipa o futuro por meio da representação fictícia do
 universo.
@@ -70,9 +69,6 @@ transmitidas.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

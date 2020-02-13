@@ -5,12 +5,8 @@ topics:
 - espirito-batedor
 ---
 
-## Definição
 Qualidade de certos Espíritos que revelam sua presença por meio de pancadas e de
 ruídos de diversas naturezas. 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

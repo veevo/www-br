@@ -5,7 +5,6 @@ topics:
 - ectoplasma
 ---
 
-## Definição
 * Biologia: parte periférica do citoplasma. 
 * Parapsicologia: designa a substância visível que emana do corpo de certos médiuns.
 * Substância que se acredita seja a força nervosa e que tem propriedades

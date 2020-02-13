@@ -5,15 +5,11 @@ topics:
 - determinismo
 ---
 
-## Definição
 Teoria que afirma correlações indispensáveis entre fenômenos, um sendo
 condicionado ao precedente e condicionando os que lhe sucedem.
 
 ## Origem
 Do latim determinare + -ismo
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

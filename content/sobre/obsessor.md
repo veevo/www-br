@@ -5,7 +5,6 @@ topics:
 - obsessao
 ---
 
-## Definição
 Espírito inferior, agente eventual ou cármico da obsessão, encarnado ou
 desencarnado que, em ação irrefletida ou premeditada, domina, persegue, assedia
 ou importuna, em virtude da sintonia moral estabelecida. Sinônimo de Obsidiante.

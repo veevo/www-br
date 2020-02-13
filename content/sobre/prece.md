@@ -5,7 +5,6 @@ topics:
 - prece
 ---
 
-## Definição
 Espiritualmente, é a prece uma súplica, feita com fé e sinceridade, que leva o
 ser humano a aproximar-se de Deus.
 
@@ -130,9 +129,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

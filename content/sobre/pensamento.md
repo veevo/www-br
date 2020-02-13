@@ -6,7 +6,6 @@ topics:
 - pensamento
 ---
 
-## Definição
 Pensamento - do latim pensare significa pesar, isto é, medir, avaliar e
 comparar. No sentido mais lato, designa-se por pensamento toda a atividade
 psíquica;
@@ -182,9 +181,6 @@ de Janeiro, FEB, 1977.
 ## Fonte
 [CEIsmael | Pensamento](http://www.sergiobiagigregorio.com.br/palestra/pensamento.htm)
 São Paulo, dezembro de 1995  
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

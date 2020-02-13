@@ -43,9 +43,6 @@ divindade coincidem.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/divindade)  
 Autor: Sérgio Biagi Gregório
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

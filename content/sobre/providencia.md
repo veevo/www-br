@@ -6,7 +6,6 @@ topics:
 - deus
 ---
 
-## Definição
 * Sabedoria suprema, com que Deus tudo dirige. 
 * O próprio Deus.
 

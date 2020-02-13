@@ -5,7 +5,6 @@ topics:
 - dogma
 ---
 
-## Definição
 * Ponto fundamental e indiscutível de uma doutrina religiosa, e, por extensão,
   de qualquer doutrina ou sistema. 
 * Na Igreja Católica Romana, ponto de doutrina já por ela definida como expressão legítima e necessária de sua fé.
@@ -15,9 +14,6 @@ topics:
 
 ## Origem
 Do grego dógma, pelo latim dogma
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

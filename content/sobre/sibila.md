@@ -5,7 +5,6 @@ topics:
 - sibila
 ---
 
-## Definição
 Profetisa que fornecia os oráculos e que os Antigos julgavam inspirada pela
 Divindade. Levando-se em conta a parte de charlatanismo e o prestígio com que as
 sibilas era cercadas por aqueles que as exploravam, reconhece-se nelas e nas
@@ -13,9 +12,6 @@ pitonisas todas as faculdades dos sonâmbulos, dos extáticos e de certos médiu
 
 ## Origem
 Do grego sybilla
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

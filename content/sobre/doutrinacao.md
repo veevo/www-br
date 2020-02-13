@@ -5,7 +5,6 @@ topics:
 - doutrinacao
 ---
 
-## Definição
 Ato ou efeito de doutrinar, orientar e esclarecer Espíritos rebeldes,
 ignorantes, maus ou refratários àquilo que o doutrinador prega ou ensina.
 
@@ -56,9 +55,6 @@ Doutrinação). 3. ed., Rio de Janeiro, FEB, 1982.
 ## Fonte
 * [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 * [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/doutrinação-dos-espíritos), Sérgio Biagi Gregório
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

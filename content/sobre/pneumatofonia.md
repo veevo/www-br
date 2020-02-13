@@ -7,15 +7,11 @@ topics:
 - mediunidade
 ---
 
-## Definição
 Comunicação verbal e direta dos Espíritos sem o concurso dos órgãos fonadores
 humanos. Voz direta.
 
 ## Origem
 Do grego pneuma= ar, e de phoné= som ou voz
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,16 +5,12 @@ topics:
 - progresso
 ---
 
-## Definição
 * Movimento para diante. 
 * Desenvolvimento gradual de um ser ou de uma atividade.
 * Adiantamento; melhoramento; aperfeiçoamento. 
 
 ## Origem
 do latim progressu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

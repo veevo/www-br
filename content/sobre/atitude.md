@@ -6,7 +6,6 @@ topics:
 - comportamento
 ---
 
-## Definição
 Circunstância de pensamento e de vontade que indica a orientação seletiva de
 alguém diante de um problema ou de uma situação que diga respeito a pessoas,
 objetos, instituições etc., podendo envolver uma dimensão cognitiva, afetiva ou
@@ -84,9 +83,6 @@ André Luiz, 4. ed., Rio de Janeiro, FEB, 1977.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/atitude-e-comportamento)  
 Autor: Sérgio Biagi Gregório
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

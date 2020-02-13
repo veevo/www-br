@@ -5,7 +5,6 @@ topics:
 - satanas
 ---
 
-## Definição
 Forma derivada de Satã. 
 
 ## Origem

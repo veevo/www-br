@@ -18,9 +18,6 @@ Gália, Grã-Bretanha e Irlanda.
 
 Ver: [Druidismo](../druidismo).
 
-## Relacionado
-todo
-
 ## Veja Também
 TODO
 

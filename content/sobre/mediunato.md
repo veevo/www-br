@@ -7,15 +7,11 @@ topics:
 - mediunidade
 ---
 
-## Definição
 Nome criado pelos Espíritos, para significar a missão providencial dos médiuns,
 a ação mediúnica que eles desenvolvem durante a reencarnação.
 
 ## Origem
 Do latim medium + actu
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

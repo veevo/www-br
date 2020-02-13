@@ -6,15 +6,11 @@ topics:
 - biologia
 ---
 
-## Definição
 Capítulo das ciências biológicas que estuda a maneira como se formam e
 desenvolvem os órgãos, a partir do embrião.
 
 ## Origem
 Do grego órganon + génesis
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

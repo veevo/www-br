@@ -5,12 +5,8 @@ topics:
 - mediunismo
 ---
 
-## Definição
 Uso indevido da mediunidade, fora das regras de segurança aconselhadas pelo
 espiritismo. 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

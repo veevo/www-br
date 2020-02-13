@@ -6,7 +6,6 @@ topics:
 - jesus
 ---
 
-## Definição
 Argueiro é um cisco. Quando cai no olho incomoda-nos sobremaneira.
 
 ## Perguntas Relacionadas
@@ -47,9 +46,6 @@ moral fica deteriorada.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

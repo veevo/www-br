@@ -5,7 +5,6 @@ topics:
 - evangelho
 ---
 
-## Definição
 * Conjunto de princípios, preceitos e dogmas que regula uma doutrina ou seita, considerado verdadeiro e irretocável por aqueles que o defendem e seguem; dogma. 
 * A doutrina cristã, a palavra de Jesus Cristo
 * Cada um dos quatro principais livros do Novo Testamento, escritos pelos apóstolos Mateus, Marcos, Lucas e João, onde estão narradas a vida e a doutrina de Jesus Cristo. 

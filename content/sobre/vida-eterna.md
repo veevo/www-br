@@ -7,7 +7,6 @@ topics:
 - espirito-imortal
 ---
 
-## Definição
 Vida eterna segundo o Espiritismo é a vida normal do espírito imortal, essencia
 divina e filho de Deus.
 
@@ -123,9 +122,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

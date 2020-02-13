@@ -7,7 +7,6 @@ topics:
 - espiritismo
 ---
 
-## Definição
 Invólucro semimaterial do Espírito depois de sua separação do corpo. Nos
 encarnados, serve de laço ou intermediário entre o Espírito e a matéria. O
 Espírito o tira do mundo em que se acha e o troca ao passar de um a outro. Ele é
@@ -26,9 +25,6 @@ delicado do perisperma.
 
 ## Origem
 Do latim peri= em redor + spiritus= espírito
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

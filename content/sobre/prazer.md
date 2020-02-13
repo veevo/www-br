@@ -5,7 +5,6 @@ topics:
 - prazer
 ---
 
-## Definição
 * Gratificação dos sentidos.
 * Estado de satisfação dos sentidos ou da mente; alegria, contentamento, júbilo;
 
@@ -112,9 +111,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

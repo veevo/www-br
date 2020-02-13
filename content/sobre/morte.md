@@ -5,7 +5,6 @@ topics:
 - morte
 ---
 
-## Definição
 Aniquilamento das forças vitais do corpo pelo esgotamento dos órgãos. Ficando o
 corpo privado do princípio da vida orgânica, a alma se desprende dele e entra no
 mundo dos Espíritos Etimologicamente, morte significa "cessação completa da vida

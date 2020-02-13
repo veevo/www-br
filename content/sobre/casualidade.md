@@ -7,7 +7,6 @@ topics:
 - acao-reacao
 ---
 
-## Definição
 Chama-se princípio ou lei da causalidade ao axioma segundo o qual todo o
 fenômeno tem uma causa. 
 

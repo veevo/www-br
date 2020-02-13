@@ -5,12 +5,8 @@ topics:
 - obsessao
 ---
 
-## Definição
 Paciente da obsessão, aquele que sofre a influência perniciosa de um Espírito
 encarnado ou desencarnado. 
-
-## Relacionado
-todo
 
 ## Veja Também
 Obsessão

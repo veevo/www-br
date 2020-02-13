@@ -7,7 +7,6 @@ topics:
 - subjulgacao
 ---
 
-## Definição
 * Domínio que alguns Espíritos logram adquirir sobre certas pessoas. Nunca é
 praticada senão pelos Espíritos inferiores, que procuram dominar. Os bons
 Espíritos nenhum constrangimento inflingem. Aconselham, combatem a influência

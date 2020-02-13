@@ -6,7 +6,6 @@ topics:
 - materia
 ---
 
-## Definição
 * Agente, intermediário com o auxílio do qual e sobre o qual atua o Espírito.
 * Laço que prende o Espírito
 
@@ -165,9 +164,6 @@ Autor: Sérgio Biagi Gregório
 
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

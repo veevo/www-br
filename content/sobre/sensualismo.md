@@ -8,14 +8,10 @@ topics:
 - volupia
 ---
 
-## Definição
 Doutrina que considera ser a satisfação carnal o prazer último de homem. 
 
 ## Origem
 de sensual
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -5,7 +5,6 @@ topics:
 - ateismo
 ---
 
-## Definição
 Doutrina que nega categoricamente a existência de Deus ou de qualquer outra divindade.
  
 O Ateísmo é a negação absoluta da divindade. Todo aquele que crê na existência
@@ -69,9 +68,6 @@ da Silva Braga. Porto Alegre, RS: L&PM, 2016. (Coleção L&PM POCKET, v.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

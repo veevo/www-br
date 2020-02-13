@@ -5,14 +5,10 @@ topics:
 - hipnologia
 ---
 
-## Definição
 Tratado acerca do sono e seus efeitos.
 
 ## Origem
 Do grego hýpnos= sono + -logo(s)= ciência + -ia
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

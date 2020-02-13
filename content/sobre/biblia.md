@@ -7,7 +7,6 @@ topics:
 - jesus
 ---
 
-## Definição
 Conjunto dos livros sagrados do Antigo e Novo Testamentos, aceitos pelas igrejas
 cristãs (parcialmente, pelos judeus) como revelação da palavra de Deus;
 Escritura, Escrituras, Sagrada Escritura.
@@ -148,9 +147,6 @@ deste assunto.
 Autor: Sérgio Biagi Gregório
 
 
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO
