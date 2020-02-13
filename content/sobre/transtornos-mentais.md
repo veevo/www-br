@@ -5,19 +5,13 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Transtornos mentais são síndromes ou padrões comportamentais ou psicológicos
+clinicamente importantes, que ocorrem num individuo e que estão associados a
+sofrimento, morte, doença etc.
 
 ### Qual o significado de transtorno?
 Transtornar é modificar a ordem, atrapalhar. Transtorno é a situação
 que causa incômodo a outrem; contratempo, contrariedade.
-
-### Como conceber os transtornos mentais?
-São síndromes ou padrões comportamentais ou psicológicos clinicamente
-importantes, que ocorrem num individuo e que estão associados a
-sofrimento, morte, doença etc.
 
 ### Em se tratando dos transtornos mentais, qual a questão fundamental?
 Não importa como sejam definidos, mas eles são uma fonte de grande

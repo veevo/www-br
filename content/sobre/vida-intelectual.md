@@ -2,25 +2,9 @@
 title: Vida intelectual
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- inteligencia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Qual o conceito de vida?
-É um conjunto dos fenômenos de toda a espécie, incluindo nutrição e
-reprodução, que se estende do nascimento até a morte.
-
-### O que significa intelecto? Intelectual?
-Intelecto é a faculdade de perceber, conceber, compreender; na
-Escolástica, designava a capacidade e a atividade cognitiva a que depois
-se chamou entendimento e inteligência. Intelectual é o que pertence
-à inteligência, ao intelecto, que está no entendimento.
-
-### O que se entende por vida intelectual?
 A vida intelectual (ou racional), também chamada de vida intelectiva,
 designa o conjunto das operações propriamente racionais. A vida
 intelectiva integra, assim, as funções de ordem cognoscitiva, tendencial
@@ -74,11 +58,6 @@ Realizações, 2014.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/vida-intelectual)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

@@ -40,6 +40,11 @@ conciliar fé e razão. Na Idade Moderna, com a chegada do Iluminismo e o
 desenvolvimento das ciências, a filosofia voltou a ser independente e
 desgarrou-se da fé.
 
+### Qual a relação entre razão e sentimento?
+A razão é fria, calculista, raciocina com a lógica. O sentimento é o
+elemento que vem completar o raciocínio, dando-lhe uma espécie de apoio
+moral.
+
 ### Relacione fé religiosa, fé humana e fé divina.
 A fé é inata. Ela não é adquirida pelo esforço, pela inteligência, pela
 técnica. Crê-se porque se crê. Os desdobramentos dessa crença é que

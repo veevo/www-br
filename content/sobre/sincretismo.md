@@ -2,15 +2,9 @@
 title: Sincretismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- sincretismo
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que entende por sincretismo?
 Originariamente, união dos cretenses contra o inimigo comum. No século
 XVII, passou a significar mescla de doutrinas derivadas. A partir daí, o
 conceito alargou-se a toda a forma de mistura – por justaposição,

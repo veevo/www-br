@@ -2,15 +2,10 @@
 title: Teologia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- teologia
+- religiao
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa teologia?
 Teologia – Do grego teo (Deus) e logia (estudo de) significa o estudo
 sistemático e racional da religião e suas influências. Ciência da
 religião, das coisas divinas.

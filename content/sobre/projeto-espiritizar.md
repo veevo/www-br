@@ -1,5 +1,5 @@
 ---
-title: Projeto Espiritiza
+title: Projeto Espiritizar
 date: 2019-02-01 19:00:00
 topics:
 - projeto-espiritizar
@@ -9,10 +9,9 @@ topics:
 - joanna-de-angelis
 ---
 
-## Definição
-Instrumento desenvolvido pela Federação Espírita do Estado de Mato Grosso cujo
-objetivo é estimular a sintonia com o Projeto Iluminativo de Jesus, por meio da
-Doutrina Espírita.
+O Projeto Espiritizar é um instrumento desenvolvido pela Federação Espírita do
+Estado de Mato Grosso cujo objetivo é estimular a sintonia com o Projeto
+Iluminativo de Jesus, por meio da Doutrina Espírita.
 
 Desenvolve em suas ações a tríade Qualificar, Humanizar e Espiritizar, proposta
 pela Mentora Joanna de Ângelis ao Movimento Espírita.

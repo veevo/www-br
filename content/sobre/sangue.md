@@ -1,16 +1,11 @@
 ---
-title: Sangue ritual e simbologia
+title: Sangue
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- ritual
+- simbologia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa a palavra sangue?
 O sangue é um líquido vermelho que percorre o sistema circulatório e
 irriga todos os tecidos do organismo dos vertebrados.
 

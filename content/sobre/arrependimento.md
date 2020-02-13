@@ -1,24 +1,11 @@
 ---
-title: Remorso e arrependimento
+title: Arrependimento
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- remorso
+- arrependimento
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é o remorso?
-Inquietação, abatimento da consciência que percebe ter cometido uma
-falta, um erro.
-
-### Como o remorso é visto em termos teológicos?
-É o estado de pena interior que se segue normalmente ao ato de violação
-da ordem moral.
-
-### O que é o arrependimento?
 Sentimento de pesar causado por violação de uma lei ou de uma conduta
 moral: resulta na livre aceitação do castigo e na disposição de evitar
 futuras violações.
@@ -31,6 +18,7 @@ de evitá-la daí em diante e, se possível, repará-la.
 ### Como, em termos espíritas, relacionar remorso e arrependimento?
 O remorso é o prelúdio do castigo. O arrependimento, a caridade e a fé
 nos conduzirão à felicidade?
+
 ### Como exemplificar a dor causada pelo remorso?
 Na Revista Espírita de 1858, Allan Kardec publica o diálogo feito com
 o ASSASSINO LEMAIRE, Condenado à pena última pelo júri de Aisne, e
@@ -43,8 +31,7 @@ remorso pungente, cuja causa ignorava".
 É que somente o remorso faz o Espírito culpado compreender a gravidade
 de suas faltas.
 
-### Qual a verdadeira chaga da sociedade? Por que ela nos leva ao
-remorso?
+### Qual a verdadeira chaga da sociedade? Por que ela nos leva ao remorso?
 A verdadeira chaga da sociedade é a incredulidade. A incredulidade pode
 ser apontada como a causa de todas as desordens. A negação do princípio
 espiritual, a crença no nada depois da morte e as ideias materialistas
@@ -78,11 +65,6 @@ sua consequência é a dor e o sofrimento.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/remorso-e-arrependimento)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

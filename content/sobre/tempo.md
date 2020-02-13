@@ -1,17 +1,12 @@
 ---
-title: Tempo o
+title: Tempo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- tempo
+- vida
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é o tempo?
-É a sucessão dos anos, dos dias, das horas etc., que envolve, para o
+Tempo é a sucessão dos anos, dos dias, das horas etc., que envolve, para o
 homem, a noção de presente, passado e futuro. Um período ou espaço
 limitado de existência contínua, como o intervalo entre dois eventos
 sucessivos.

@@ -1,11 +1,10 @@
 ---
-title: Tendências Inatas
+title: Tendência
 date: 2019-02-01 19:00:00
 topics:
-- tendencias-inatas
+- tendencia
 ---
 
-## Definição
 Tendências, idéias ou conhecimentos não adquiridos que, parece, trazemos ao
 nascer. Há muito tempo discutem-se as tendências inatas, cuja realidade é
 combatida por certos filósofos que pretendem sejam todas adquiridas. Se assim

@@ -2,16 +2,10 @@
 title: Valor
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- valor
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Que é valor?
-É uma relação entre um objeto e um padrão utilizado pela consciência que
+Valor é uma relação entre um objeto e um padrão utilizado pela consciência que
 avalia uma ação realizada ou a realizar.
 
 ### Como se explica a polissemia deste termo?

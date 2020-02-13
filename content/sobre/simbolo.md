@@ -2,22 +2,9 @@
 title: Símbolo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- mundo
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Como podemos representar o mundo?
-Há duas maneiras de representar o mundo: a direta, em que objeto se
-apresenta à nossa frente; b) indireta, quando por qualquer razão o
-objeto não pode se apresentar em "carne e osso". A forma indireta
-representa o símbolo, usado indiferentemente como "imagem", "figura",
-"ícone", "ídolo", "signo", "emblema", "parábola", "mito" etc. (1)
-
-### O que é um símbolo?
 Símbolo é um sinal particular, que pode ser expresso com figuras,
 imagens, palavras e gestos. Do gr. symbolon = neutro - vem de
 symbolé‚ que significa aproximação, ajustamento, encaixamento, cuja
@@ -25,6 +12,13 @@ origem etimológica é indicada pelo prefixo syn, com e bolé, donde
 vem o nosso termo bola, roda, círculo. Referia-se, deste modo, à moeda
 usada como sinal. O símbolo é, pois, tudo quanto está em lugar de outro.
 (2)
+
+### Como podemos representar o mundo?
+Há duas maneiras de representar o mundo: a direta, em que objeto se
+apresenta à nossa frente; b) indireta, quando por qualquer razão o
+objeto não pode se apresentar em "carne e osso". A forma indireta
+representa o símbolo, usado indiferentemente como "imagem", "figura",
+"ícone", "ídolo", "signo", "emblema", "parábola", "mito" etc. (1)
 
 ### Como conceituar filosoficamente o símbolo?
 Ao passo que um sinal de um objeto de percepção é uma parte do objeto

@@ -6,7 +6,9 @@ topics:
 - justica
 ---
 
-É uma adequação entre o Sujeito (inteligência) e o Objeto (realidade).
+O que está de acordo com os fatos ou a realidade; conformidade com o real;
+autenticidade, exatidão, veracidade.
+
 Do latim adaequatio intellectus et rei. Em sentido mais elevado, uma
 completa interpenetração de inteligência e ser.
 

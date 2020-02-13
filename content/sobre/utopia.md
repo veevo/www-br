@@ -2,15 +2,9 @@
 title: Utopia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- utopia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é utopia?
 A utopia é todo o projeto de uma sociedade perfeita. Pejorativamente,
 considera-se esse ideal fantasioso e irrealizável. No sentido positivo,
 esse ideal contém o germe do progresso e da transformação da sociedade.

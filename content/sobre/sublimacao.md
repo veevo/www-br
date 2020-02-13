@@ -2,15 +2,11 @@
 title: Sublimação
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- sublimacao
+- psicanalise
+- freud
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é sublimação?
 É um fenômeno físico-químico que consiste na passagem direta de uma
 substância do estado sólido para o estado gasoso e vice-versa, sem
 passar pelo estado líquido.

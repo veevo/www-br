@@ -1,23 +1,14 @@
 ---
-title: Riqueza e pobreza
+title: Riqueza
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- riqueza
+- pobreza
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é a riqueza?
-Em sentido lato é tudo quanto pode satisfazer uma necessidade ou um
-desejo. Em sentido restrito, são os bens ou riquezas, que têm um
-valor econômico, que são, por isso, chamados de bens econômicos.
-
-### O que é pobreza?
-Pessoa que não tem condições básicas para garantir a sua sobrevivência
-com qualidade de vida e dignidade.
+Em sentido lato riqueza é tudo quanto pode satisfazer uma necessidade ou um
+desejo. Em sentido restrito, são os bens ou riquezas, que têm um valor
+econômico, que são, por isso, chamados de bens econômicos.
 
 ### Dinheiro é riqueza?
 O dinheiro é meio de troca. Devido ao cosmopolitismo, é identificado

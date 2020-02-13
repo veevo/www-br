@@ -5,14 +5,8 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### Quais expressões usamos para descrever o percurso de Cristo do
-pretório até o Calvário?
-Via-Sacra, Via Dolorosa e Via-Crúcis.
+Via-crúcis é uma das expressões usadas para descrever o percurso de Cristo do
+pretório até o Calvário. As outras são: Via-Sacra, Via Dolorosa e Via-Crúcis.
 
 ### Há diferença entre elas?
 Sim. A Via-Crúcis e a Via Dolorosa dizem respeito ao caminho percorrido
@@ -49,11 +43,6 @@ Editorial Enciclopédia, \[s.d. p.\].
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/via-crúcis)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

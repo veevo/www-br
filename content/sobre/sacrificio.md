@@ -1,16 +1,12 @@
 ---
-title: Sacrifício e espiritismo
+title: Sacrifício
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- sacrificio
+- mansidao
+- resignacao
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa a palavra sacrifício?
 Sacrifício – Do latim sacrificium significa o que está relacionado ao
 ato de fazer com que alguma coisa se torne sagrada. Sacrificar é
 converter em sagrado o objeto que será dado em oferta. É o ato principal

@@ -1,16 +1,11 @@
 ---
-title: Sono e o sonho-o
+title: Sono
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- sono
+- sonho
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é o sono?
 Difícil de se chegar a uma definição. Podemos entendê-lo como um estado
 fisiológico caracterizado por uma interrupção periódica e imediatamente
 reversível do nível de consciência.
@@ -79,31 +74,19 @@ No capítulo 38 de Os Mensageiros, capítulo 8 de os Missionários da
 Luz e capítulo 36 de Nosso Lar.
 
 ### Quais são as doenças do sono?
-### Insônia - Dificuldade de realizar o sono. No início, no meio e no
-fim.
-### Hipersonolência – Dormir de pé
-### Doença do ciclo – O ciclo tem que fazer 24 horas. Alguns têm um
-ciclo de 26 horas.
+* Insônia - Dificuldade de realizar o sono. No início, no meio e no fim.
+* Hipersonolência – Dormir de pé
+* Doença do ciclo – O ciclo tem que fazer 24 horas. Alguns têm um ciclo de 26 horas.
 
 ### Que recomendações são uteis para uma boa noite de sono?
-### Ao deitar, ler, em voz normal, o Evangelho Segundo o Espiritismo.
-### Evitar tensões graves no momento que antecede o sono.
-### Evitar comer em excesso.
-### No caso de insônia, fazer algum exercício de educação física.
-
-
-
-
-
+* Ao deitar, ler, em voz normal, o Evangelho Segundo o Espiritismo.
+* Evitar tensões graves no momento que antecede o sono.
+* Evitar comer em excesso.
+* No caso de insônia, fazer algum exercício de educação física.
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sono-e-o-sonho-o)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

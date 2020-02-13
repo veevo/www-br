@@ -5,8 +5,9 @@ topics:
 - espiritismo
 ---
 
-O trabalhador espírita pode ser analisado sob diversos ângulos.
-Geralmente, esta denominação refere-se ao trabalho de passes.
+Denomina-se trabalhar espírita a uma pessoa que se dedica a atividades no
+[Movimento Espírita](../movimento-espirita). O trabalhador espírita pode ser
+analisado sob diversos ângulos.
 
 ### Como se forma um trabalhador espírita?
 Em nossa Casa Espírita, que segue as linhas da Federação Espírita do

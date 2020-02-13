@@ -5,10 +5,10 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Segundo o platonismo, virtudes cardeais são cada uma das quatro qualidades
+básicas representantes do estado do espírito humano: a prudência, a justiça, a
+fortaleza e a temperança; b) Rel, Teol cada uma dessas virtudes, incorporadas na
+doutrina cristã como referência de comportamento aos seus seguidores.
 
 ### Qual o significado de virtude?
 Virtude é uma disposição estável em ordem a praticar o bem; revela
@@ -65,16 +65,9 @@ A justiça é considerada a principal delas. Isto porque se não houver
 justiça, a temperança, a coragem e a prudência podem encaminhar para os
 seus contrários, que são os vícios.
 
-
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/virtudes-cardeais)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

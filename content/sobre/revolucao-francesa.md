@@ -5,20 +5,14 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Denomina-se revolução francesa ao período entre 1789 e 1799 onde verifica-se o
+descontentamento da população ante os desmandos do poder absoluto dos reis.
 
 ### Qual o quadro político-econômico que antecede a Revolução Francesa?
 Após a queda do Império Romano no Ocidente, em 476, a atividade
 econômica se atrofia (séc. VIII ao séc. XII). A partir daí surge o
 absolutismo, ou seja, a concentração de poder sob a proteção do direito
 divino. Consequência: surgimento de reis despóticos e perdulários.
-
-### O que é a Revolução Francesa?
-É o período entre 1789 e 1799. Mostra o descontentamento da população
-ante os desmandos do poder absoluto dos reis.
 
 ### Como se explica na prática?
 É a incompatibilidade entre a classe despótica dominante e uma realidade

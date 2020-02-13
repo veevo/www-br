@@ -1,14 +1,9 @@
 ---
-title: Sede perfeitos
+title: Sede Perfeitos
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- auto-conhecimento
 ---
-
-## Definição
-
-
-## Perguntas Relacionadas
 
 ### O que significa perfeição?
 É o estado de um ser cujas virtualidades se encontram plenamente

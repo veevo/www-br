@@ -2,8 +2,9 @@
 title: Sessão espírita
 date: 2019-02-01 19:00:00
 topics:
-- sessao-espirita
 - espiritismo
+- sessao-espirita
+- centro-espirita
 ---
 
 ## Definição

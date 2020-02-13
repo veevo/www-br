@@ -1,20 +1,19 @@
 ---
-title: Romance mediúnico espírita
+title: Romance Espírita
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- livros
+- espiritismo
 ---
 
-## Definição
+Neste artigo, vamos compreender melhor o que são os romances espítiras.
 
-
-## Perguntas Relacionadas
-
-### O que se entende por romance?
-1. Narração verdadeira ou falsa, escrita em prosa ou verso. 2. Narrativa
-de fatos imaginários dispostos com verossimilhança, formando uma
-história fictícia. 3. Enredo de coisas falsas ou inacreditáveis. 4.
-Objeto imaginário; fantasia; urdidura fantástica do espírito.
+Entendemos por romance:
+1. Narração verdadeira ou falsa, escrita em prosa ou verso. 
+2. Narrativa de fatos imaginários dispostos com verossimilhança, formando uma
+   história fictícia. 
+3. Enredo de coisas falsas ou inacreditáveis. 
+4. Objeto imaginário; fantasia; urdidura fantástica do espírito.
 
 Há, ainda, o romance de costumes, o romance didático, o romance
 épicoromance familiar (Psicanálise). (1) e o

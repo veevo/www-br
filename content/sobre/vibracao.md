@@ -2,19 +2,9 @@
 title: Vibração
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- vibracao
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é uma oscilação?
-O pêndulo oscila quando se move de um lado para o outro num movimento
-repetido de vaivém sobre o mesmo ponto central.
-
-### O que é uma vibração?
 Uma vibração é uma oscilação, mas em geral refere-se a uma oscilação
 rápida em uma distância pequena. Quando tocada, a corda do violão
 vibra.

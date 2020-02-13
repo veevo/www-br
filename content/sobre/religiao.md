@@ -5,6 +5,10 @@ topics:
 - religiao
 ---
 
+Religião é sentimento divino que prende o ser humano ao Criador. É a
+ligação do crente com o seu objeto de adoração (pedras, árvores, Deus,
+Jeová etc.).
+
 Religião é a crença na existência de uma força superior considerada como
 criadora do Universo. Trata-se de uma experiência universal da
 humanidade, através da qual tenta-se compreender os mistérios que

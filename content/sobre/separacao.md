@@ -2,14 +2,11 @@
 title: Separação
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- matrimônio
 ---
 
-## Definição
 Partição, divisão, desunião. Afastamento, quebra de uma união íntima,
 ruptura do casamento.
-
-## Perguntas Relacionadas
 
 ### Quais são os sinônimos de separação?
 Desagregação, desanexação, desintegração, desmembração, desmembramento,

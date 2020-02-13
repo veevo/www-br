@@ -1,16 +1,11 @@
 ---
-title: Sagrado ante o espiritismo-o
+title: Sagrado
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- sagrado
+- religiao
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é o sagrado?
 Sagrado é a manifestação de uma realidade de ordem inteiramente
 diferente da das realidades “naturais”. Tem como contrapartida a noção
 de profano.

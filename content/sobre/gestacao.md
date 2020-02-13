@@ -1,14 +1,16 @@
 ---
-title: Situação do espírito durante-a-gestação
+title: Gestação
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- maternidade
+- mae
+- filho
+- familia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
+Gestação é o desenvolvimento do embrião a partir da concepção até o
+parto (no ser humano, dura aproximadamente 9 meses). Fala-se, também, da
+materialização da vida no plano físico.
 
 ### O que é o Espírito?
 O Espírito é o ser inteligente da criação que habita o espaço. Quando
@@ -20,11 +22,6 @@ perturbação. Na fase que antecede à nova existência, há os problemas com
 a escolha do corpo, as provas que lhe serão designadas, a família que
 vai lhe dar guarida. Registre-se, também, o medo de falhar em sua nova
 encarnação.
-
-### O que se entende por gestação?
-Gestação é o desenvolvimento do embrião a partir da concepção até o
-parto (no ser humano, dura aproximadamente 9 meses). Fala-se, também, da
-materialização da vida no plano físico.
 
 ### Em que momento a alma se une ao corpo?
 A união começa na concepção, mas só se completa no nascimento. Durante a

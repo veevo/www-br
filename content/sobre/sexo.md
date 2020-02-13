@@ -1,18 +1,14 @@
 ---
-title: Sexo amor e espiritismo
+title: Sexo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- sexo
+- sensualismo
+- sexualidade
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa a palavra sexo?
-Conformação particular que distingue o macho da fêmea, nos animais e nos
-vegetais, atribuindo-lhes um papel determinado na geração e
+Sexo significa conformação particular que distingue o macho da fêmea, nos
+animais e nos vegetais, atribuindo-lhes um papel determinado na geração e
 conferindo-lhes certas características distintivas. (1)
 
 ### O que significa sexualidade?
@@ -41,12 +37,12 @@ reprodução sexuada é fator de continuidade dos outros reinos da
 natureza. Neste reino adquire-se o pensamento contínuo, o
 livre-arbítrio, a razão.
 
-### Os Espíritos têm sexo? – Pergunta n.º 200 de O Livro dos Espíritos
-–
-
+### Os Espíritos têm sexo?
 Resposta. – Não como o entendeis, porque os sexos dependem da
 constituição orgânica. Há entre eles amor e simpatia, mas baseados na
 afinidade de sentimentos.
+
+Ler: Pergunta n.º 200 de O Livro dos Espíritos
 
 ### Onde se acha a sede real do sexo?
 A sede real do sexo não se acha no veículo físico, mas na estrutura mais

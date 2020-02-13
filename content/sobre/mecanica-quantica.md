@@ -1,14 +1,10 @@
 ---
-title: Mecânica e teoria quântica
+title: Mecânica Quântica
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- ciencia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
 
 ### O que é mecânica?
 É a ciência que estuda os efeitos das forças sobre corpos ou fluidos em

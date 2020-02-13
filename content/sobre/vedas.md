@@ -1,18 +1,16 @@
 ---
-title: Vedas os
+title: Vedas
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- bramanismo
+- hinduismo
+- budismo
 ---
 
-## Definição
 Vedas (sânscr., conhecimento, saber sagrado), ou Livros de Sabedoria,
 são a mais antiga literatura religiosa da Índia. É base para o
 bramanismo, hinduísmo e, indiretamente, o budismo.
 
-## Perguntas Relacionadas
-
-### Quando surgiu e o que representa?
 Os primeiros livros remontam a 1500 a.C. Os Vedas representam a fixação
 escrita de tradições orais repetidas durante séculos, sendo por isso
 também conhecido por Shruti (ensino oral).

@@ -5,19 +5,8 @@ topics:
 - 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é transição?
-É a passagem de um estado de coisas a outro. É a fase em que as forças
-do ciclo atual de evolução diminuem e abrem espaço para as novas que
-ainda não assumiram o seu papel.
-
-### O que se entende por transição planetária?
-É o ciclo de renovação onde os Espíritos menos evoluídos estão dando
-lugar aos mais evoluídos.
+Entende por transição planetária como o ciclo de renovação onde os Espíritos
+menos evoluídos estão dando lugar aos mais evoluídos.
 
 ### Quando começou a transição planetária?
 A transição sempre existiu. Numa determinada época, pode avançar mais

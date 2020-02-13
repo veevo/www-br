@@ -1,14 +1,9 @@
 ---
-title: Santíssima trindade e espiritismo
+title: Santíssima Trindade
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- religiao
 ---
-
-## Definição
-
-
-## Perguntas Relacionadas
 
 ### O quem significa santíssimo?
 Santíssimo vem de santo. Santo significa essencialmente puro, perfeito.

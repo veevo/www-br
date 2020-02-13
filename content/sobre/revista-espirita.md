@@ -2,34 +2,26 @@
 title: Revista espírita
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo
+- allan-kardec
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é a Revista Espírita?
-Coletânea de fatos e de explicações que complementam os princípios
-doutrinários desenvolvidos em O Livro dos Espíritos e O Livro dos
+Revista Espírita é uma coletânea de fatos e de explicações que complementam os
+princípios doutrinários desenvolvidos em O Livro dos Espíritos e O Livro dos
 Médiuns.
 
-### Quando Allan Kardec começou ruminar a ideia de publicar um jornal
-espírita?
-Em 15 de novembro de 1857, na casa do Sr. Dufaux, por intermédio da
-médium Sra. E. Dufaux. No item "Revista Espírita", do livro Obras
-Póstumas, de Allan Kardec, há o relato da consulta feita aos
-benfeitores espirituais sobre a criação dessa revista.
-
-### Quantos são os volumes?
 A Revista Espírita é composta de 12 volumes; oferece-nos o registro
 minucioso das pesquisas realizadas na Sociedade Parisiense de Estudos
 Espíritas.
 
-### O que representa a Revista Espírita?
-No conjunto da Codificação, é um verdadeiro documentário, um valioso
+A Revista Espírita representa um verdadeiro documentário e um valioso
 relatório científico e histórico.
+
+### Quando Allan Kardec começou ruminar a ideia de publicar um jornal espírita?
+Em 15 de novembro de 1857, na casa do Sr. Dufaux, por intermédio da
+médium Sra. E. Dufaux. No item "Revista Espírita", do livro Obras
+Póstumas, de Allan Kardec, há o relato da consulta feita aos
+benfeitores espirituais sobre a criação dessa revista.
 
 ### A Revista Espírita foi o seu principal instrumento de pesquisa?
 Sim. Através dela, captou as reações do público. Além disso,

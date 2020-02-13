@@ -2,19 +2,12 @@
 title: Senso crítico
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- auto-conhecimento
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O Que é senso crítico?
-É a busca da verdade pelo questionamento do “eu” do “outro” e do
+Senso crítico é a busca da verdade pelo questionamento do “eu” do “outro” e do
 “mundo”.
 
-### Qual a diferença entre espírito crítico e espírito de crítica?
 O espírito crítico pondera razões, confronta motivos, tranquiliza as
 exigências da razão, dissipa as trevas da ignorância e promove o
 progresso da mente. O espírito de crítica é o indício de uma

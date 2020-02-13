@@ -2,24 +2,18 @@
 title: Socialismo e espiritismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- socialismo
+- politica
+- sociedade
 ---
 
-## Definição
+Socialismo é uma concepção política e econômica, de fundo ideológico, em que o
+bem geral prevalece sobre o interesse pessoal.
 
+Se fundamenta na oposição ao individualismo e ao liberalismo econômico
+(capitalismo) por sua recusa da propriedade privada dos meios de produção e da
+livre concorrência.
 
-## Perguntas Relacionadas
-
-### O que é o Socialismo?
-Concepção política e econômica, de fundo ideológico, em que o bem geral
-prevalece sobre o interesse pessoal.
-
-### Em que se fundamenta?
-Na oposição ao individualismo e ao liberalismo econômico (capitalismo)
-por sua recusa da propriedade privada dos meios de produção e da livre
-concorrência.
-
-### Quando surgiu?
 O termo era empregado anteriormente, mas como doutrina política e
 econômica surgiu na década de 1830, quando o termo entrou em uso
 corrente.

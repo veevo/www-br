@@ -8,12 +8,9 @@ topics:
 - mundo-espiritual
 ---
 
-## Definição
+Podemos descrever trevas como:
 * Escuridão absoluta. 
 * Conforme informa o Espírito André Luiz, as regiões mais inferiores conhecidas no Mundo Espiritual.
-
-
-## Perguntas Relacionadas
 
 ### O que são as trevas?
 Escuridão, privação ou ausência de luz.

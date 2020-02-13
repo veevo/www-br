@@ -2,7 +2,7 @@
 title: Preto velho
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- umbanda
 ---
 
 Os pretos-velhos são espíritos de antigos escravos africanos que se

@@ -1,14 +1,13 @@
 ---
-title: Origem da filosofia
+title: Pensamento Racional
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia 
 ---
 
 Filosofia é pensar, refletir sobre nós, os outros e o mundo que nos
 rodeia.
 
-### Como nasceu o pensamento racional?
 O pensamento racional nasceu da necessidade de explicar a realidade não
 através do mito, mas pela própria ideia pela própria observação.
 

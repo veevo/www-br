@@ -5,10 +5,6 @@ topics:
 - espiritismo
 ---
 
-## Definição
-
-
-### Qual o caráter da revelação espírita?
 O que caracteriza a revelação espírita é o ser divina a sua origem e da
 iniciativa dos Espíritos, sendo a sua elaboração fruto do trabalho do
 homem. Assim, por sua natureza, ela participa ao mesmo tempo da

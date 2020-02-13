@@ -2,16 +2,10 @@
 title: Teosofia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- teosofia
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que é teosofia?
-Etimologicamente, significa "conhecimento de Deus". Foi usada em
+Etimologicamente Teosofia significa "conhecimento de Deus". Foi usada em
 diversos sentidos: na cabala e no neoplatonismo. O mais comum é remontar
 aos ensinamentos da Sociedade Teosófica Mundial.
 

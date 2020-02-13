@@ -1,12 +1,11 @@
 ---
 title: Universo
 date: 2019-02-01 19:00:00
-todo: true
 topics:
 - universo
 ---
 
-## Definição
+Pode-se definir Universo como:
 * Conjunto ilimitado de todo o espaço existente e o seu conteúdo. 
 * O espaço, a matéria, a energia e o tempo, incluindo as maiores estrelas e as menores partículas subatômicas.
 * Conjunto de todas as realidades criadas;
