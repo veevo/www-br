@@ -6,10 +6,14 @@ image: "images/contact.jpg"
 layout: single-full
 ---
 
-todo :: add contact form
+Estamos trabalhando nesta página. Volte em breve.
 
-## Páginas Relacionadas
-[Sobre nós](/help/about-us)  
-[Pilares](/ajuda/pilares)  
-[Aviso](/help/disclaimer)  
-[Contribuir](/contribuir)  
+Obrigado!
+
+
+## Veja também
+* [Compartilhando Conteúdo](../compartilhar)
+* [Traduzir Conteúdo](../traduzir)  
+* [Reportando Erros](../erros)
+* [Como Contribuir](../contribua)
+* [Sobre nós](../sobre-nos)

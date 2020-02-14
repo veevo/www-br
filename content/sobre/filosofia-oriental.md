@@ -2,7 +2,8 @@
 title: Filosofia oriental
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
+- oriente
 ---
 
 Em sentido amplo, podemos demoninar de filosofia oriental o "pensamento" de
@@ -32,17 +33,13 @@ orientais, os fatos são simples reflexos secundários da Realidade.
 Realidade primeira. Atman (alma) seria a manifestação dessa Realidade
 primeira. Maya é a ilusão, a matéria. Nirvana é o desapego de tudo.
 
-Acesse a
-
-deste tema
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-oriental)  
 Autor: Sérgio Biagi Gregório
 
-
-
 ## Veja Também
-TODO
-
+* [Filosofia](filosofia)
+* [Filosofia Cristã](filosofia-crista)
+* [Filosofia da Religião](filosofia-da-religiao)
+* [Filosofia Espírita](filosofia-espirita)
 

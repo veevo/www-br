@@ -34,8 +34,6 @@ Pode-se denominar tabmém como:
   determinar a história e explicar a natureza da religião como fenômeno humano
   universal.
 
-## Perguntas Relacionadas
-
 ### Qual é a origem da religião?
 Em linhas gerais, a origem das religiões pode ser encontrada nas
 cosmogonias, no sincretismo, na criação do mundo etc.
@@ -81,6 +79,9 @@ constituída, pois não tem culto, nem rito e nem templo.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/religião-e-espiritismo), Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
-
+* [Filosofia Cristã](filosofia-crista)
+* [Filosofia da Religião](filosofia-da-religiao)
+* [Filosofia Espírita](filosofia-espirita)
+* [Filosofia Oriental](filosofia-oriental)
+* [Filosofia](filosofia)
 

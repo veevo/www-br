@@ -2,12 +2,13 @@
 title: Filosofia espírita
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
+- espiritismo
 ---
 
-
-
-## Perguntas Relacionadas
+A filosofia espírita é uma síntese de tudo o que outros filósofos
+argumentaram, mas tendo as suas interpretações próprias, alicerçadas nos
+princípios doutrinários.
 
 ### O que se entende por filosofia?
 Filosofia é a junção das palavras gregas philos e sophia, que
@@ -29,11 +30,6 @@ Funda-se na dúvida, na crítica, na reflexão e na contradição.
 ### O que é a filosofia espírita?
 Segundo Gonzales Soriano, "é a síntese essencial dos conhecimentos
 humanos aplicados à investigação da verdade".
-
-### Como se apresenta a filosofia espírita?
-A filosofia espírita é uma síntese de tudo o que outros filósofos
-argumentaram, mas tendo as suas interpretações próprias, alicerçadas nos
-princípios doutrinários.
 
 ### Onde está a força do Espiritismo?
 Não está no fenômeno, mas na sua filosofia, na sua maneira de
@@ -72,9 +68,9 @@ Paideia, l983.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-espírita)  
 Autor: Sérgio Biagi Gregório
 
-
-
 ## Veja Também
-TODO
-
+* [Filosofia](filosofia)
+* [Filosofia Cristã](filosofia-crista)
+* [Filosofia Oriental](filosofia-oriental)
+* [Filosofia da Religião](filosofia-da-religiao)
 

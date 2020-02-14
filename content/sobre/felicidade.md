@@ -2,14 +2,9 @@
 title: Felicidade
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- felicidade
 ---
 
-
-
-## Perguntas Relacionadas
-
-### O que significa a palavra felicidade?
 A felicidade pode ser entendida de diversas formas: como bem-estar, como
 atividade contemplativa, como prazer etc.
 
@@ -20,7 +15,7 @@ beatitude a qual é o ideal de uma satisfação independente da relação
 do homem com o mundo e por isso limitada à esfera contemplativa ou
 religiosa.
 
-### Como vê-la historicamente?
+## Um pouco de história sobre a Felicidade
 Na Antiguidade, Sócrates referia-se ao "conhece-te a ti mesmo"
 como sendo a chave para a conquista da felicidade. Platão dizia que
 a felicidade é relativa aos deveres que o homem tem no mundo. Para

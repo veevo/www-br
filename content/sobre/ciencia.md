@@ -6,25 +6,24 @@ topics:
 - espiritismo
 ---
 
-Conhecimento sistematizado como campo de estudo. Observação e classificação dos
-fatos inerentes a um determinado grupo de fenômenos e formulação das leis gerais
-que o regem.
+Pode se denominar Ciência como o conhecimento sistematizado como campo de
+estudo. Observação e classificação dos fatos inerentes a um determinado grupo de
+fenômenos e formulação das leis gerais que o regem.
 
-## Perguntas Relacionadas
-
-### O que se entende por Ciência?
 Ciência é o conjunto de conhecimentos organizados relativos a uma
 determinada matéria, comprovados empiricamente. Formulam-se hipóteses e
 tenta-se prová-las através de coleta de dados e testes estatísticos.
 
 ### Quais são as características da Ciência?
-### Conhecimento pelas causas; 2) profundidade e generalidade de suas
-condições; 3) objeto formal; 4) controle dos fatos. A Ciência,
-principalmente depois que começou a utilizar o método
-teórico-experimental, precisou comprovar os fatos. O homem vulgar, ao
-olhar para o céu escuro, poderá dizer que irá chover. O cientista tem
-que apresentar provas, ou seja, fornecer as informações baseadas nos
-estudos de causa e efeito.
+* 1) Conhecimento pelas causas; 
+* 2) profundidade e generalidade de suas condições; 
+* 3) objeto formal; 
+* 4) controle dos fatos. 
+
+A Ciência, principalmente depois que começou a utilizar o método
+teórico-experimental, precisou comprovar os fatos. O homem vulgar, ao olhar para
+o céu escuro, poderá dizer que irá chover. O cientista tem que apresentar
+provas, ou seja, fornecer as informações baseadas nos estudos de causa e efeito.
 
 ### Há relação entre Ciência e Religião? Entre Ciência e Espiritismo?
 A Religião, principalmente na Idade Média, era detentora do poder e,
@@ -156,8 +155,9 @@ Contemporânea). 2 ed., Rio de Janeiro, FEB, 1955, p. 95.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ciências-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
-
 ## Veja Também
-TODO
-
+* [Filosofia](filosofia)
+* [Filosofia Cristã](filosofia-crista)
+* [Filosofia da Religião](filosofia-da-religiao)
+* [Filosofia Espírita](filosofia-espirita)
 

@@ -5,36 +5,38 @@ date: 2019-02-13 14:00:00
 image: "images/contact.jpg"
 ---
 
-Somos uma organização independente, extremamente zeloza pela sua privacidade,
-desenvolvendo este trabalho independente apenas com voluntários. Não
-hospedamos anúncios, não armazenamos cookies nem recebemos nenhum benefício
-financeiro vindo deste site. Nós acreditamos que por sermos uma [organização sem fins
-lucrativos](/pilares/sem-fins-lucrativos) fornece uma base sólida para que
-alcancemos nossos objetivos respeitando a sua privacidade.
+Somos uma organização independente que desenvolve este trabalho independente
+apenas com o auxílio de dedicados voluntários. Não hospedamos anúncios, não
+armazenamos informações pessoais, não utilizamos cookies e não recebemos nenhum
+benefício financeiro deste site. Acreditamos que por sermos uma [organização
+lucro zero](/pilares/sem-fins-lucrativos) possuimos uma base sólida para
+alcançarmos nossos objetivos respeitando a sua privacidade.
 
+## Código Fonte
 Por favor, observe também que, devido à sua simplicidade, nosso site restringe
-ao máximo, as dependências a fornecedores de software. Além disso, nossa base
-de código aberta, garante que o que aqui afirmamos seja auditado sempre
-que necessário.
+ao máximo, as dependências a fornecedores de software. Além disso, nossa [base
+de código aberta](//github.com/veevo), garante que o que aqui afirmamos seja
+auditado sempre que necessário.
 
+## Informações Pessoais
 Não armazenamos nenhuma informação sua em bancos de dados. Toda a
 interação neste site é privada, anônima e não é armazenada em nenhuma mídia.
 
-## Fornecedores
+## Fornecedores de Software
 A fim de minimizar nossos custos, contamos com generosos serviços de
 empresas como [GitHub](//github.com), [Microsoft Azure] (//azure.com),
 [Twitter](//twitter.com) e [Google] (//google.com). Por favor, note que essas
 empresas podem ter políticas diferentes das nossas. 
 
 ## Bloqueadores de Anúncio
-Se você se preocupa com sua privacidade, fique à vontade para usar um
-[software para bloquear anúncios](https://en.wikipedia.org/wiki/Ad_blocking) de
-sua preferência.
+Se você utiliza algum [software para bloquear anúncios](https://en.wikipedia.org/wiki/Ad_blocking),
+fique à vontade para continuar usando em nosso site.
 
-
-## Related Topics
-[Sobre Nós](../sobre-nos)  
-[Entre em Contato](../contato)  
-[Aviso Legal](../aviso-legal)  
-[Contribua](../contribua)  
+## Veja também
+* [Sobre nós](../sobre-nos)
+* [Compartilhando Conteúdo](../compartilhar)
+* [Traduzir Conteúdo](../traduzir)  
+* [Reportando Erros](../erros)
+* [Como Contribuir](../contribua)
+* [Política de Privacidade](../privacidade)
 

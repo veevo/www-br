@@ -11,7 +11,7 @@ tenham períodos de depressão nervosa, mas quando ela é muito acentuada
 ou quando tende a se manter por períodos muito longos, pode-se tratar de
 uma perturbação mental.
 
-### Como a psiquiatria vê a depressão?
+## Depressão sob a ótica de Psiquiatria
 A psiquiatria trata a depressão como uma doença. Nesse caso, pode-se
 buscar a cura. Sugerir passeios, idas ao cinema e conversação com amigos
 ao depressivo pode parecer lógico, mas é possível que estejamos mais

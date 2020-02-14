@@ -10,8 +10,6 @@ Filosofia da religião – por analogia com a filosofia da ciência,
 filosofia da arte etc. – nada mais é do que a reflexão filosófica sobre
 a religião.
 
-## Perguntas Relacionadas
-
 ### O que é filosofia?
 A filosofia pode ser entendida como: reflexão sobre tudo o que se nos
 oferece ao intelecto; busca compartilhada da verdade; busca do
@@ -86,9 +84,9 @@ TEMÁTICA BARSA - FILOSOFIA. Rio de Janeiro, Barsa Planeta, 2005.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-da-religião)  
 Autor: Sérgio Biagi Gregório
 
-
-
 ## Veja Também
-TODO
-
+* [Filosofia](filosofia)
+* [Filosofia Cristã](filosofia-crista)
+* [Filosofia Espírita](filosofia-espirita)
+* [Filosofia Oriental](filosofia-oriental)
 
