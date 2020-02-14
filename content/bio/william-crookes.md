@@ -472,24 +472,11 @@ pessoal. (3)
 
 
 ## Referências Bibliográficas
-(1) PELLEGRINI, Luís. Dicionário do Inexplicado. São Paulo: Edições
-Planeta.
-
-(2) DRURY, Nevill. Dicionário de Magia e Esoterismo: Mais de 3000
-Verbetes sobre Tradições Místicas e Ocultas. Tradução de Denise de C.
-Rocha Delela. São Paulo: Pensamento, 2011.
-
-(3) Mistérios do Desconhecido: Evocação de Espíritos. Rio de Janeiro:
-Editora Abril, 1993.
+* (1) PELLEGRINI, Luís. Dicionário do Inexplicado. São Paulo: Edições Planeta.
+* (2) DRURY, Nevill. Dicionário de Magia e Esoterismo: Mais de 3000 Verbetes sobre Tradições Místicas e Ocultas. Tradução de Denise de C.  Rocha Delela. São Paulo: Pensamento, 2011.
+* (3) Mistérios do Desconhecido: Evocação de Espíritos. Rio de Janeiro: Editora Abril, 1993.
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/crookes-william)  
 Autor: Sérgio Biagi Gregório
-
-## Relacionado
-todo
-
-## Veja Também
-TODO
-
 

@@ -10,10 +10,9 @@ Estamos trabalhando nesta página. Volte em breve.
 
 Obrigado!
 
-
 ## Veja também
-* [Compartilhando Conteúdo](../compartilhar)
-* [Traduzir Conteúdo](../traduzir)  
-* [Reportando Erros](../erros)
-* [Como Contribuir](../contribua)
-* [Sobre nós](../sobre-nos)
+* [Compartilhando Conteúdo](/ajuda/compartilhar)
+* [Traduzir Conteúdo](/ajuda/traduzir)  
+* [Reportando Erros](/ajuda/erros)
+* [Como Contribuir](/ajuda/contribua)
+* [Sobre nós](/ajuda/sobre-nos)

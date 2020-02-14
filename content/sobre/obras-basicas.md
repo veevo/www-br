@@ -15,8 +15,5 @@ Espíritos:
 * "O Céu e o Inferno" (1865) 
 * "A Gênese" (1868)
 
-## Veja Também
-todo
-
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

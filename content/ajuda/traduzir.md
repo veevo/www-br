@@ -36,11 +36,11 @@ erros direto do site.
 
 ### Consertando traduções
 Encontrou um problema em um artigo? Por favor, [entre em contato
-conosco](../contato).
+conosco](/contato).
 
 ### Traduzindo textos
 Gostaria de ajudar nos qualquer em alguma de nossas línguas? Por favor
-[entre em contato conosco](../contato).
+[entre em contato conosco](/contato).
 
 ## Outras línguas
 Mas e as outras línguas? Claro que não queremos parar por aí! Nosso objetivo é
@@ -57,7 +57,7 @@ As línguas que gostaríamos de traduzir num futuro próximo são:
 * Russo
 
 Você é nativo em alguma destas línguas? Se você gostaria de se voluntariar, por favor
-[entre em contato](../contato). Vamos adorar ouvir de você.
+[entre em contato](/contato). Vamos adorar ouvir de você.
 
 ## Veja também
 [Como você pode ajudar](.. /)  

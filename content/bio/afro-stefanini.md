@@ -7,18 +7,16 @@ topics:
 - espiritizar
 ---
 
-todo
-
-
-## Fonte
-todo
+Afro Stefanini II trabalha junto à Federação Espírita do Estado do Mato Grosso,
+e é o [médium](/sobre/medium) responsável pela [psicografia](/sobre/psicografia)
+de vários livros do [Mentor Honório](../honorio) junto ao [Projeto
+Espiritizar](/sobre/projeto-espiritizar).
 
 ## Perfis Relacionados
-[Divaldo Franco](../divaldo-franco)  
-[Afro Stefanini II](../afro-stefanini) 
-[Espírito Honório](../honorio)  
-[Espírito Joanna de Angelis](../joanna-de-angelis)  
+* [Alírio de Cerqueira Filho](../alirio-de-cerqueira-filho)
+* [Espírito Honório](../honorio)  
+* [Espírito Joanna de Angelis](../joanna-de-angelis)  
 
 ## Veja Também
-[Espiritismo](/espiritismo)  
-[Projeto Espiritizar](/sobre/espiritizar)  
+* [Espiritismo](/espiritismo)  
+* [Projeto Espiritizar](/sobre/espiritizar)  

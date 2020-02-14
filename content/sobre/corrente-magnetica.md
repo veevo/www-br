@@ -6,7 +6,9 @@ topics:
 - magnetismo
 ---
 
-todo
+Corrente magnética é uma transmissão de entergias a partir do magnetismo
+fluídico.
+
 
 ## Perguntas Relacionadas
 
@@ -46,8 +48,7 @@ cadeia magnética.
 Aumentar as forças vindas do coração em prol das criaturas que precisam
 passar por um tratamento espiritual.
 
-### Na formação de uma corrente mento-magnética, o número de pessoas é
-importante?
+### Na formação de uma corrente mento-magnética, o número de pessoas é importante?
 Mais do que o número de pessoas, o objetivo comum que os cerca pesa
 mais. Observe a frase: "Porque, onde estiverem dois ou três reunidos em
 meu nome, aí estou eu no meio deles". (Mateus 18:20)
@@ -56,8 +57,6 @@ meu nome, aí estou eu no meio deles". (Mateus 18:20)
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/correntes-mento-magnéticas)  
 Autor: Sérgio Biagi Gregório
-
-
 
 ## Veja Também
 TODO

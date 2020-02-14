@@ -32,11 +32,11 @@ Dentre seus vários livros, podemos citar:
 * Psicoterapia à luz do Evangelho de Jesus
 
 ## Perfis Relacionados
-[Divaldo Franco](../divaldo-franco)  
-[Afro Stefanini II](../afro-stefanini) 
-[Espírito Honório](../honorio)  
-[Espírito Joanna de Angelis](../joanna-de-angelis)  
+* [Divaldo Franco](../divaldo-franco)  
+* [Afro Stefanini II](../afro-stefanini) 
+* [Espírito Honório](../honorio)  
+* [Espírito Joanna de Angelis](../joanna-de-angelis)  
 
 ## Veja Também
-[Espiritismo](/espiritismo)  
-[Projeto Espiritizar](/sobre/espiritizar)  
+* [Espiritismo](/espiritismo)  
+* [Projeto Espiritizar](/sobre/espiritizar)  

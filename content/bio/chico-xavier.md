@@ -455,4 +455,7 @@ no Centro Espírita Caminho da Redenção, em Salvador, Bahia).
 ## Fonte
 [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/chicoxavier.html)
 
+## Veja Também
+* [Emmanuel](/bio/emmanuel)
+* [André Luiz](/bio/andre-luis)
 

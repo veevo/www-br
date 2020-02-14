@@ -22,19 +22,22 @@ Há também um livro homônimo de Chico Xavier que leva a assinatura de Emmanuel
 publicado em 1938.
 
 ## Obra Mediunica
-A obra mediúnica atribuída a Emmanuel é composta por dezenas de livros, muitos deles 
-traduzidos para diversos idiomas. São romances históricos, livros de aconselhamento espiritual, 
-obras de exegese bíblica, etc.
+A obra mediúnica atribuída a Emmanuel é composta por dezenas de livros, muitos
+deles traduzidos para diversos idiomas. São romances históricos, livros de
+aconselhamento espiritual, obras de exegese bíblica, etc.
 
-Queridos Amigos, é com muita alegria que disponibilizamos uma tabela com as reencarnações de Emmanuel, 
-descritas ao longo do livro Chico, Diálogos e Recordações. A trajetória deste Benfeitor, ao lado de Chico, 
-que trabalha incessantemente para nossa evolução, muito nos inspira e motiva a igualmente 
-procurarmos cumprir com nossos deveres de discípulos do Cristo. Cada degrau a seu tempo, angariando 
-luz divina e cobrindo nossa multidão de pecados, chegaremos ao Pai! Muita Paz!!
+Queridos Amigos, é com muita alegria que disponibilizamos uma tabela com as
+reencarnações de Emmanuel, descritas ao longo do livro Chico, Diálogos e
+Recordações. A trajetória deste Benfeitor, ao lado de Chico, que trabalha
+incessantemente para nossa evolução, muito nos inspira e motiva a igualmente
+procurarmos cumprir com nossos deveres de discípulos do Cristo. Cada degrau a
+seu tempo, angariando luz divina e cobrindo nossa multidão de pecados,
+chegaremos ao Pai! Muita Paz!!
 
-“Emmanuel, exatamente assim, com dois “m” se encontra grafado o nome do espírito, no original 
-francês “L’ Évangile Selon le Spiritisme”, em mensagem datada de Paris, em 1861 e inserida no cap. XI, 
-item 11 da citada obra, intitulada “O Egoísmo”.
+“Emmanuel, exatamente assim, com dois “m” se encontra grafado o nome do
+espírito, no original francês “L’ Évangile Selon le Spiritisme”, em mensagem
+datada de Paris, em 1861 e inserida no cap. XI, item 11 da citada obra,
+intitulada “O Egoísmo”.
 
 O nome ficou mais conhecido, entre os espíritas brasileiros, pela psicografia do
 médium mineiro Francisco Cândido Xavier. Segundo ele, foi no ano de 1931 que,
@@ -171,8 +174,7 @@ estreitos e masculinos. A pintura original se encontra na sede do Grupo Espírit
 Luiz Gonzaga, em Pedro Leopoldo, numa sala de preces, feita no quarto onde Chico
 nasceu, em 1910.
 
-## Fonte
-[Personagens Do Espiritismo | Emmanuel](https://personagensdoespiritismo.blogspot.com/2013/12/emmanuel.html)
+
 
 
 ## Perguntas Relacionadas
@@ -209,32 +211,21 @@ Sua esposa, Lívia, estivera nas pregações de Jesus. Em virtude da doença
 de sua filha, e incentivada pela esposa, busca esse encontro em que mais
 ouve do que fala.
 
-### Qual a importância de Emmanuel no desenvolvimento das ideias
-espíritas no Brasil?
+### Qual a importância de Emmanuel no desenvolvimento das ideias espíritas no Brasil?
 Emmanuel dissecou enumeráveis assuntos, mas a tônica do Evangelho lhe dá
 um realce especial, principalmente nos comentários acerca das citações
 do Novo Testamento.
 
 ### Bibliografia
-CAMPOS, Pedro de. Lentulus: Encarnações de Emmanuel. São Paulo: Lúmen,
-2009.
-
-TAVARES, Clóvis. Amor e Sabedoria de Emmanuel. Araras/SP: Ide, 2009.
-
-Acesse a
-
-deste tema.
+* CAMPOS, Pedro de. Lentulus: Encarnações de Emmanuel. São Paulo: Lúmen, 2009.
+* TAVARES, Clóvis. Amor e Sabedoria de Emmanuel. Araras/SP: Ide, 2009.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/emmanuel-espírito)  
-Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
+* Biografia: [Personagens Do Espiritismo | Emmanuel](https://personagensdoespiritismo.blogspot.com/2013/12/emmanuel.html)
+* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/emmanuel-espírito), Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
+* [Chico Xavier](/bio/chico-xavier)
+* [André Luiz](/bio/andre-luis)
 
 

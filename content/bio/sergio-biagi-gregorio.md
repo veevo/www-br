@@ -6,11 +6,15 @@ topics:
 - escritores
 ---
 
-todo
+Sérgio Biagi Gregório é escritor, espírita e publica conteúdo sobre diversos
+assutos incluindo Administração, Economia, Política, Espiritismo e Filosofia.
+
+Seu site é:
+[sergiobiagigregorio.com.br/](http://www.sergiobiagigregorio.com.br/).
 
 ## Fonte
-todo
+[sergiobiagigregorio.com.br/](http://www.sergiobiagigregorio.com.br/).
 
 ## Veja Também
-[Espiritismo](/espiritismo)  
-[Projeto Espiritizar](/sobre/espiritizar)  
+* [Espiritismo](/espiritismo)  
+* [Projeto Espiritizar](/sobre/espiritizar)  

@@ -78,5 +78,5 @@ felizes em retornar para você.
 
 ## Tópicos relacionados
 [Ajuda - Pilares](../pilares)  
-[Ajuda - Contato](../contato)
+[Ajuda - Contato](/contato)
 [Ajuda - Contribuir](/contribua)  

@@ -77,7 +77,7 @@ publicado na Língua Portuguesa e encontra-se disponível exatamente como
 originalmente digitalizado. Entretanto, também traduzimos conteúdo de outras
 línguas e os publicamos após revisão criteriosa de nossos voluntários. 
 
-Caso você encontre algum erro, por favor reporte [clicando aqui](../contato).
+Caso você encontre algum erro, por favor reporte [clicando aqui](/contato).
 
 ## Busca
 Não encontrou o que está procurando? Nosso site fornece uma [ferramenta de

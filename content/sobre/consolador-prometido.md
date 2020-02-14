@@ -9,6 +9,3 @@ topics:
 ---
 
 Ver: [O Consolador](../consolador).
-
-## Veja Também
-todo

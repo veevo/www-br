@@ -5,17 +5,10 @@ topics:
 - virtude
 ---
 
-Qualidade do sentimento e do comportamento de acordo com uma moral. A virtude
+* Qualidade do sentimento e do comportamento de acordo com uma moral. A virtude
 pratica-se mais do que se define.
 
-## Origem
-Do latim virtus= coragem, força de alma
-
-## Relacionado
-todo
-
-## Veja Também
-Vidência
+* Do latim virtus= coragem, força de alma
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

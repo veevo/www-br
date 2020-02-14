@@ -46,12 +46,7 @@ Espiritismo. 3. Ed. São Paulo: Edicel, 1979.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/espírito-e-tempo-o-livro)  
 Autor: Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
-
 ## Veja Também
-TODO
+* [José Herculano Pires](/bio/herculano-pires)
 
 

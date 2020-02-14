@@ -2,10 +2,10 @@
 title: Cristianismo Primitivo
 date: 2019-02-01 19:00:00
 topics:
-- cristianismo
 - jesus
 - biblia
 - evangelho
+- cristianismo-primitivo
 ---
 
 Cristianismo primitivo é o nome dado a uma etapa da história do cristianismo de

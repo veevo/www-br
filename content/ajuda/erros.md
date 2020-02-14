@@ -28,7 +28,7 @@ Dentre as possíveis razões encontramos:
 ### Erros Ortográficos
 Erros ortográficos e de digitação são muito comuns e simples de corrigir. 
 Caso encontre erros ortográficos, por favor reporte usando o 
-[formulário de contato](../contato).
+[formulário de contato](/contato).
 
 ### Erros de Tradução
 Erros de tradução também são comuns mas afetam pouco os leitores da Língua
@@ -38,7 +38,7 @@ duro para traduzir a enorme quantidade de conteúdo que servimos. Entretanto,
 devido à quantidade de conteúdo que disponibilizamos e dado que alguns de nossos
 tradutores não são nativos, é possível que existam erros.
 
-Para reportar e corriger erros de tradução, [entre em contato conosco](../contato).
+Para reportar e corriger erros de tradução, [entre em contato conosco](/contato).
 
 ### Fonte ausente ou inválida
 Sempre que possível, expomos a fonte original e, se necessário, o responsável
@@ -51,19 +51,19 @@ Normalmente, caso a fonte não apareça, é porque foi redigido por nós ou, em
 Portuguesa](https://michaelis.uol.com.br/)
 
 Caso você encontre conteúdo sem as informações mínimas (Nome do livro, Url do
-autor e/ou da fonte), por favor [entre em contato conosco](../contato).
+autor e/ou da fonte), por favor [entre em contato conosco](/contato).
 
 ## Erros de conteúdo
 Nós só importamos conteúdo de autores e fontes confiáveis. Caso você
-detecte um erro com relação à obra original, não hesite [entrar em contato](../contato).
+detecte um erro com relação à obra original, não hesite [entrar em contato](/contato).
 
 ## Remoção de Conteúdo
 Caso algum conteúdo aqui disponível violar alguma lei autoral, por favor 
-[entre em contato conosco](../contato).
+[entre em contato conosco](/contato).
 
 ### Outros erros e Sugestões
 Para qualquer outro tipo de erro ou sugestão, [entre em contato
-conosco](../contato).
+conosco](/contato).
 
 ## Veja também
 * [Sobre nós](../sobre-nos)

@@ -7,6 +7,7 @@ topics:
 - paulo-de-tarso
 - espirito-superior
 - emmanuel
+- cristianismo-primitivo
 ---
 
 Nascido em Tarso, na Cilícia da Ásia Menor (15 km do mar Mediterrâneo), seu
@@ -86,15 +87,13 @@ verdadeira reforma interior, sendo recebido em sua passagem para a vida
 espiritual por Estêvão, Abigail, Ananias entre outros amigos.
 
 ## Fonte
-[Alianca Espirita Evangelica](http://alianca.org.br/biografia-de-paulo-de-tarso/)
+* [Alianca Espirita Evangelica](http://alianca.org.br/biografia-de-paulo-de-tarso/)
 
 ## Biografias Recomendadas
-[Estevão](../estevao)  
-[Abigail](../abigail)
-
+* [Estevão](../estevao)
+* [Abigail](../abigail)
 
 ## Bibliografia Recomendada
-[Paulo e Estêvão](/livros/paulo-e-estevao)
-
-
+* [Paulo e Estevao](/livros/paulo-e-estevao)
+* [Há 2000 anos](/livros/ha-2000-anos)
 

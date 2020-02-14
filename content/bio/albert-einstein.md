@@ -52,6 +52,7 @@ fundamentalmente infeliz, pois não tem motivo algum para viver.
 ### Como julgar um ser humano?
 Einstein determinava o autêntico valor de um homem com uma única
 pergunta: em que grau e com que finalidade o homem se liberta de seu Eu?
+
 ### Quais são as crenças de Einstein?
 Acha que construir o pensamento somente pela reflexão pode nos levar à
 ilusão e ao preconceito. A experimentação também nos fornece informações
@@ -64,7 +65,6 @@ particular aqueles dos padres, subsiste uma doutrina capaz de curar a
 humanidade de todas as moléstias sociais.
 
 ### Cite alguns pensamentos de Einstein.
-
 "Aprendo a tolerar aquilo que me faz sofrer". "A violência fascina os
 seres moralmente mais fracos". "Estou em Princeton apenas para a
 pesquisa científica e não para a pedagogia". "Recuso-me a permanecer em
@@ -75,24 +75,14 @@ mas poucos professores prudentes". "Não basta ensinar ao homem uma
 especialidade. Porque se tornará assim uma máquina utilizável, mas não
 uma personalidade".
 
-
 ### Bibliografia
-EINSTEIN, Albert. Como Vejo o Mundo.
-
-JAPIASSÚ, Hilton e MARCONDES, Danilo. Dicionário Básico de Filosofia.
-
-TEMÁTICA BARSA - FILOSOFIA.
+* EINSTEIN, Albert. Como Vejo o Mundo.
+* JAPIASSÚ, Hilton e MARCONDES, Danilo. Dicionário Básico de Filosofia.
+* TEMÁTICA BARSA - FILOSOFIA.
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/einstein-albert)  
 Autor: Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
-
-## Veja Também
-TODO
-
-
+## Bibliografias Relacionadas
+* [Johann Pestalozzi](/bio/johann-pestalozzi)

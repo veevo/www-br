@@ -1,5 +1,5 @@
 ---
-title: O-que é o espiritismo-livro
+title: O que é o Espiritismo
 date: 2019-01-11 13:00:00
 topics: 
 - livros
@@ -7,7 +7,22 @@ topics:
 - allan-kardec
 ---
 
-## Definição
+Publicado pela primeira vez em 1859, este livro é uma espécie de introdução ao
+estudo da Doutrina Espírita, um manual que discorre sobre os pontos fundamentais
+do Espiritismo, em linguagem fácil e acessível a todas as inteligências.
+Divide-se em três capítulos.
+
+O primeiro, sob a forma de diálogos com um crítico,
+um cético e um padre, traz respostas àqueles que desconhecem os princípios
+básicos da Doutrina, bem como apropriadas refutações aos seus contraditores.
+
+O segundo capítulo expõe partes da ciência prática e experimental
+caracterizando-se como um resumo de O livro dos médiuns. 
+
+O terceiro capítulo é uma síntese de O livro dos espíritos, com a solução,
+apontada pela Doutrina Espírita, de problemas de ordem psicológica, moral e
+filosófica com que se debatia a humanidade.
+
 
 
 ## Perguntas Relacionadas
@@ -58,12 +73,8 @@ das reuniões frívolas? Como se dá a comunicação com os Espíritos?...
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/o-que-é-o-espiritismo-livro)  
 Autor: Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
-
 ## Veja Também
-TODO
+* [O Evangelho segundo o Espiritismo](/livros/ese)
+* [Allan Kardec](bio/allan-kardec)
 
 

@@ -7,6 +7,19 @@ topics:
 - emmanuel
 ---
 
+A coleção A vida no mundo espiritual inclui:
+* Nosso Lar
+* Os mensageiros
+* Missionários da luz
+* Obreiros da vida eterna
+* No mundo maior
+* Libertação
+* Entre a Terra e o Céu Nos domínios da mediunidade
+* Ação e reação
+* Evolução em dois mundos Mecanismos da mediunidade
+* Sexo e destino
+* E a vida continua...
+
 ## Definição
 
 
@@ -67,12 +80,9 @@ Pelo Espírito André Luiz. Rio de Janeiro: FEB, 1977.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mecanismos-da-mediunidade-livro)  
 Autor: Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
-
 ## Veja Também
-TODO
+* [André Luiz](/bio/andre-luis)
+* [Emmanuel](/bio/emmanuel)
+* [Chico Xavier](/bio/chico-xavier)
 
 

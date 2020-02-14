@@ -50,7 +50,12 @@ desde os primeiros tempos do "Modern Spiritualism" - por exemplo, as que foram
 registradas por Andrew Jackson Davis (nasc. 1826 - desenc. 1910) - mas tinham
 caido no esquecimento.
 
-
 ## Fonte
 [SGNY.org](//sgny.org)
+Traduzido por Veevo.org
+
+## Veja Também
+* [Emmanuel](/bio/emmanuel)
+* [Chico Xavier](/bio/chico-xavier)
+
 

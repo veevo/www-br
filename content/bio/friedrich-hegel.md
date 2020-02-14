@@ -62,23 +62,14 @@ criados simples e ignorantes e, em cada reino da natureza, vão
 potencializando virtudes, até atingirem o estado de Espíritos puros,
 quando, então, não terão necessidade de reencarnar novamente.
 
-BUNGE, M. Dicionário de Filosofia. Tradução de Gita K. Guinsburg.
-São Paulo: Perspectivas, 2002. (Coleção Big Bang)
 
-Temática Barsa - Filosofia
-
-Acesse a
-
-deste tema
+## Bibliografia
+* BUNGE, M. Dicionário de Filosofia. Tradução de Gita K. Guinsburg.  São Paulo: Perspectivas, 2002. (Coleção Big Bang)
+* Temática Barsa - Filosofia
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/hegel-e-a-dialética)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

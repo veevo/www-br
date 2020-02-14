@@ -1,20 +1,16 @@
 ---
-title: Contradições e mistificações
+title: Contradições e Mistificações no Espiritismo
 date: 2019-01-11 13:00:00
 topics: 
 - espiritismo 
+- filosofia
 ---
 
 Quais são as causas de tantas contradições e misitificações quando ao
 [Espiritismo](/espiritismo)? Leia e compreenda.
 
-
-### O que se entende por contradição?
-Dizer uma coisa e sua negação.
-
-### Há contradição acerca do real?
-A contradição está no discurso, nunca no real. "Círculo quadrado" é uma
-contradição.
+Primeiro, vamos definir o que se entende por contradição: dizer uma coisa e sua
+negação.
 
 ### Como se explica a contradição na teoria das ações?
 Duas ações são tidas mutuamente contraditórias se não puderem ser
@@ -31,6 +27,7 @@ conjuntamente uma tensão instável num sistema político ou social.
 
 ### Como a contradição é posta na Doutrina Espírita?
 Refere-se à divergência de opiniões em torno dos fenômenos espirituais.
+
 ### Como se explicam as contradições espíritas?
 Temos que nos identificar com a natureza do mundo invisível. Os
 Espíritos não pensam da mesma maneira em virtude da infinidade de graus
@@ -46,8 +43,7 @@ Não, mas a mensagem pode ser diferente conforme as pessoas e os lugares;
 a contradição é frequentemente apenas aparente, sendo mais nas palavras
 do que no pensamento.
 
-### Por que os Espíritos superiores empregam linguagem diferente para o
-mesmo tema?
+### Por que os Espíritos superiores empregam linguagem diferente para o mesmo tema?
 Não é conveniente atacar muito bruscamente os preconceitos, pois
 perde-se o ouvinte. por isso, falam frequentemente de acordo com a
 opinião dos que os escutam, procurando levá-los pouco a pouco à verdade.
@@ -75,18 +71,15 @@ validade às suas palavras. Desconfiar das teorias empregadas.
 Principalmente, desconfiar de tudo o que se afaste do objetivo moral das
 manifestações.
 
-KARDEC, Allan. O Livro dos Médiuns, cap. XXVII.
+## Bibliografia
+* KARDEC, Allan. O Livro dos Médiuns, cap. XXVII.
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/contradições-e-mistificações)  
 Autor: Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
-
 ## Veja Também
-TODO
-
+* [Espiritismo](/espiritismo)
+* [Espiritismo - Perguntas Frequentes](/espiritismo/faq)
+* [O que não é Espiritismo](/espiritismo/nao-e)
 

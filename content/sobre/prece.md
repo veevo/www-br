@@ -21,8 +21,18 @@ está mais em relação com as idéias que conservaram de sua existência corpor
 A razão, em conformidade com o que dizem os próprios Espíritos, diz-nos que a
 prece de lábios é uma fórmula vã quando dela o coração não toma parte.
 
-## AS CONDIÇÕES DA PRECE
-Encontram-se nos Livros de Mateus, VI, 5 a 8, Marcos, XI, 25, 26, e Lucas, XVIII, 9 a 14, as condições em que a prece deve ser realizada. Ensina O Evangelho Segundo o Espiritismo o que definiu Jesus: "Quando orar, não se colocar em evidência, mas orar em segredo. Não fingir orar em demasia, porque não é pelas muitas palavras que virá o atendimento, mas pela sinceridade do coração. Antes de orar, se tiver algo contra outrem, perdoá-lo, porque a prece não pode ser agradável a Deus, se não partir de um coração caridoso. Orar, enfim, com humildade e não com orgulho. Examinar os próprios defeitos e não fazer sobressair as qualidades apenas. E, ao comparar-se a outros,, procurar o que existe de mau em si próprio". A prece não se coaduna com orgulho, vaidade e hipocrisia.
+## As condições da prece
+Encontram-se nos Livros de Mateus, VI, 5 a 8, Marcos, XI, 25, 26, e Lucas,
+XVIII, 9 a 14, as condições em que a prece deve ser realizada. Ensina O
+Evangelho Segundo o Espiritismo o que definiu Jesus: "Quando orar, não se
+colocar em evidência, mas orar em segredo. Não fingir orar em demasia, porque
+não é pelas muitas palavras que virá o atendimento, mas pela sinceridade do
+coração. Antes de orar, se tiver algo contra outrem, perdoá-lo, porque a prece
+não pode ser agradável a Deus, se não partir de um coração caridoso. Orar,
+enfim, com humildade e não com orgulho. Examinar os próprios defeitos e não
+fazer sobressair as qualidades apenas. E, ao comparar-se a outros,, procurar o
+que existe de mau em si próprio". A prece não se coaduna com orgulho, vaidade e
+hipocrisia.
 
 ## Ao que se propõe a prece
 A prece é uma invocação pensada e sentida. Ela se propõe a que cada ser humano

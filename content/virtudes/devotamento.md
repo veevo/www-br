@@ -6,8 +6,5 @@ topics:
 - devotamento
 ---
 
-Ato ou efeito de devotar-se.
-Dedicação, devotação.
-
-## Virtudes Relacionadas
-todo
+* Ato ou efeito de devotar-se.
+* Dedicação, devotação.

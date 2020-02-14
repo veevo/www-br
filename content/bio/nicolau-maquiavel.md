@@ -4,6 +4,8 @@ date: 2019-01-11 13:00:00
 topics: 
 - maquiavel
 - italia
+- filosofia
+- ciencia
 ---
 
 Nicolau Maquiavel, Nicollò Machiavelli, (1469-1527) foi político,
@@ -89,19 +91,7 @@ mantê-la".
 é dada pelos homens que o cercam".
 
 
-
-
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/maquiavel)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
-
-## Veja Também
-TODO
-
 

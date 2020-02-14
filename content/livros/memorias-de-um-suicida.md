@@ -7,6 +7,21 @@ topics:
 - camilo-castelo-branco
 ---
 
+Com orientação do Espírito Léon Denis, o autor espiritual Camilo Castelo Branco,
+sob o pseudônimo Camilo Cândido Botelho, descreve à médium Yvonne Pereira sua
+dolorosa experiência após a desencarnação pelo suicídio. Com valiosos
+ensinamentos, o livro mostra a grandeza da Misericórdia divina para com os
+suicidas arrependidos, trazendo-lhes a oportunidade de conhecer o Universo e a
+vida em sua integral dimensão. A gênese planetária, a evolução do ser, a
+imortalidade da alma, a moral cristã e outros temas relevantes são estudados
+para a compreensão de que "nenhuma tentativa para o reerguimento moral será
+eficiente se continuarmos presos à ignorância de nós mesmos". A leitura completa
+da obra mostra que há um caminho de reconstrução para os arrependidos. Há sempre
+esperança, porquanto a reabilitação é possível.
+
+## Informações do Livro
+Psicografado por [Yvonne A. Pereira](/bio/yvonne-pereira)  
+Editora: FEB; Edição: 27ª (4 de julho de 2014)
 
 
 ## Perguntas Relacionadas
@@ -72,22 +87,16 @@ causa de sua cegueira no século XIX?
 ### Para refletir: a grande surpresa dos que cometem suicídio é que
 continuam vivos.
 
-
-Mais informações, acesse:
-
-PEREIRA, Yvonne A. Memórias de um Suicida (Obra Mediúnica). Rio de
-Janeiro: Feb, 1980.
+## Bibliografia
+* PEREIRA, Yvonne A. Memórias de um Suicida (Obra Mediúnica). Rio de Janeiro: Feb, 1980.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/memórias-de-um-suicida)  
-Autor: Sérgio Biagi Gregório
+* Perguntas relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/memórias-de-um-suicida), Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
 
 ## Veja Também
-TODO
+* [Camilo Castelo Branco](/bio/camilo-castelo-branco)
+* [Yvonne A. Pereira](/bio/yvonne-pereira)
+* [Léon Denis](/bio/leon-denis)
 
 

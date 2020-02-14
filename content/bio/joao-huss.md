@@ -46,22 +46,17 @@ A sua luta não foi em vão. Depois disso, houve mais tolerância entre os credo
 religiosos.
 
 ## Referências
-CANTU, C. , SEIFERT, J. L. Os Titãs da Religião.
-VERBO ENCICLOPEDIA LUSO-BRASILEIRA DE CULTURA. Lisboa, Editorial Verbo, 1976.
+* CANTU, C. , SEIFERT, J. L. Os Titãs da Religião.
+* VERBO ENCICLOPEDIA LUSO-BRASILEIRA DE CULTURA. Lisboa, Editorial Verbo, 1976.
 
 ## Fonte
-[CEIsmael](http://www.ceismael.com.br/bio/biografia-joao-huss.htm)
-
+* [CEIsmael](http://www.ceismael.com.br/bio/biografia-joao-huss.htm)
 
 ## Bibliografias Relacionaas
-[Divaldo Franco](../divaldo-franco)  
-[Alírio de Cerqueira Filho](../alirio-de-cerqueira-filho)  
-[Espírito Honório](../honorio)  
-[Espírito Joanna de Angelis](../joanna-de-angelis)  
+* [Allan Kardec](/bio/allan-kardec)
+* [Espírito de Verdade](/sobre/espirito-de-verdade)
+* [Espírito Joanna de Angelis](../joanna-de-angelis)  
 
 ## Veja Também
 [Espiritismo](/espiritismo)  
 [Projeto Espiritizar](/sobre/espiritizar)  
-
-## Fonte
-todo

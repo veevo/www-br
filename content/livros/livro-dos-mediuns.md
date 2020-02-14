@@ -7,6 +7,22 @@ topics:
 - allan-kardec
 ---
 
+Médium é toda pessoa que sente, num grau qualquer, a influência dos Espíritos.
+[...] Pode-se, pois, dizer que todos são mais ou menos médiuns.”
+
+Publicado pela primeira vez em 1861, O livro dos médiuns é a segunda obra da
+Codificação Espírita compilada por Allan Kardec. Indicado para todos os
+interessados em fenômenos mediúnicos, o livro é considerado o mais completo
+manual explicativo das atividades de comunicação com o mundo espiritual,
+apresentando gêneros e formas de manifestações, além de excelente vocabulário de
+termos relacionados ao Espiritismo.
+
+A obra apresenta o desenvolvimento da mediunidade e as dificuldades e os
+obstáculos que podem acompanhar o trabalho e a prática do Espiritismo. Uma vez
+que somos, quando encarnados, canais entre os planos material e espiritual, é
+essencial que conheçamos profundamente todos os aspectos deste relacionamento,
+para atingir, com sucesso, os objetivos desejados.
+
 
 
 ## Perguntas Relacionadas
@@ -74,22 +90,17 @@ mediunidade.
 
 
 ### Bibliografia
-(1) KARDEC, A. O Livro dos Médiuns ou Guia dos Médiuns e dos
-Doutrinadores. São Paulo:Lake, \[s.d.p.\]
-
-(2) BARBOSA, P. F. Espiritismo Básico. 3. ed. Rio de Janeiro: FEB,
-1987.
+* (1) KARDEC, A. O Livro dos Médiuns ou Guia dos Médiuns e dos Doutrinadores. São Paulo:Lake, [s.d.p.]
+* (2) BARBOSA, P. F. Espiritismo Básico. 3. ed. Rio de Janeiro: FEB, 1987.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/livro-dos-médiuns-o)  
-Autor: Sérgio Biagi Gregório
+* Perguntas relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/livro-dos-médiuns-o), Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
 
 ## Veja Também
-TODO
+* [O Livro dos Espíritos](/livros/lds)
+* [O Evangelho segundo o Espiritismo](/livros/ese)
+* [Allan Kardec](/bio/allan-kardec)
+* [Federação Espírita Brasileira](/sobre/feb)
 
 

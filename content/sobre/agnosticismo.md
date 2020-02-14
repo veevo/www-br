@@ -12,14 +12,7 @@ consideradas doutrinas agnósticas.
 exprimir positivamente algo sobre Deus.
 * Doutrina que declara impossível, inacessível ao entendimento humano toda a
 noção de absoluto, reduzindo a ciência ao conhecimento do fenomenal e relativo.
-
-## Origem
-Do grego: ágnostos= ignorado + -ismo] - 
-
-todo
-
-## Veja Também
-TODO
+* Do grego: ágnostos= ignorado + -ismo] - 
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

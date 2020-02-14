@@ -6,6 +6,7 @@ topics:
 - jesus
 - paulo-de-tarso
 - espirito-superior
+- cristianismo-primitivo
 ---
 
 Jeziel era um judeu helenista, nascido na cidade de Corinto, província de Acaia,
@@ -22,7 +23,6 @@ assassinato de Jochedeb, prisão e encaminhamento de Jeziel a trabalho forçado
 nas galeras (galés) romanas. Abigail fugiu para Jerusalém, mantida sob a
 proteção do casal Zacarias e Ruth, que a adotou como filha.  (Ref: XAVIER, F.C.
 Paulo e Estêvão. Pelo Espírito Emmanuel. Primeira parte. Cap. 2)
-
 
 Libertado do serviço forçado pelo generoso romano Sérgio Paulo, Jeziel chega
 extremamente enfermo a Jerusalém onde é acolhido por Simão Pedro na “Casa do
@@ -72,7 +72,7 @@ por apedrejamento, homicídio aprovado por Saulo. (Atos dos Apóstolos, 7:55-60)
 Mesmo sendo acusado de blasfemador, caluniador e feiticeiro Estêvão manteve-se
 firme até o final, quando entregou sua alma a Deus.
 
-Estêvão, o primeiro mártir do Cristianismo Antes de emitir o último suspiro,
+Estêvão, o primeiro mártir do Cristianismo antes de emitir o último suspiro,
 Estêvão perdoa Saulo e os demais perseguidores, adentrando vitorioso no mundo
 espiritual.
 
@@ -83,17 +83,18 @@ do irmão de Abigail, o seu amor adorado.
 Compreendeu, assim, que os seus sonhos conjugais e familiares estavam
 definitivamente comprometidos. 
 
-XAVIER, F.C. Paulo e Estêvão. Pelo Espírito Emmanuel.  Primeira parte. Cap. 8.
+## Bibliografia
+* XAVIER, F.C. Paulo e Estêvão. Pelo Espírito Emmanuel.  Primeira parte. Cap. 8.
+* FEDERAÇÃO ESPÍRITA BRASILEIRA - Estudo Aprofundado da Doutrina Espírita  
 
 ## Fonte
-[Estêvão, o primeiro mártir do Cristianismo](https://www.febnet.org.br/wp-content/uploads/2012/06/Mod-2-Rot-11-Estevao-o-primeiro-martir-do-Cristianismo.pdf)  
-FEDERAÇÃO ESPÍRITA BRASILEIRA - Estudo Aprofundado da Doutrina Espírita  
-Livro I – Cristianismo e Espiritismo - Módulo II – O Cristianismo   
+* [Estêvão, o primeiro mártir do Cristianismo](https://www.febnet.org.br/wp-content/uploads/2012/06/Mod-2-Rot-11-Estevao-o-primeiro-martir-do-Cristianismo.pdf), Livro I – Cristianismo e Espiritismo - Módulo II – O Cristianismo   
 
 ## Biografias Recomendadas
-[Paulo de Tarso](../paulo-de-tarso)  
-[Abigail](../abigail)
+* [Paulo de Tarso](../paulo-de-tarso)  
+* [Abigail](../abigail)
 
 ## Bibliografia Recomendada
-[Paulo e Estevao](/livros/paulo-e-estevao)
+* [Paulo e Estevao](/livros/paulo-e-estevao)
+* [Há 2000 anos](/livros/ha-2000-anos)
 

@@ -8,6 +8,32 @@ topics:
 - chico-xavier
 ---
 
+Psicografado por Francisco Cândido Xavier e Waldo Vieira, Evolução em dois
+mundos divide-se em duas partes. A primeira relaciona as palavras do Cristo a
+conceitos como a existência do perispírito e corpo espiritual, fluido cósmico,
+hereditariedade, evolução e sexo, alimentação no plano espiritual e mecanismos
+da mente, entre outros. 
+
+Já a segunda parte reúne perguntas e respostas sobre
+temas vinculados a matrimônio, divórcio, gestação e aborto. Aliando conceitos
+científicos e evangélicos, o Espírito André Luiz promove um estudo do processo
+evolutivo do ser e da alma nos dois planos de nossa existência — o mundo
+material e o mundo espiritual —, estabelecendo um desafio intelectual a todos
+que praticam e desejam conhecer a Doutrina Espírita.
+
+A coleção A vida no mundo espiritual inclui:
+* Nosso Lar
+* Os mensageiros
+* Missionários da luz
+* Obreiros da vida eterna
+* No mundo maior
+* Libertação
+* Entre a Terra e o Céu Nos domínios da mediunidade
+* Ação e reação
+* Evolução em dois mundos Mecanismos da mediunidade
+* Sexo e destino
+* E a vida continua...
+
 ## Definição
 
 
@@ -52,12 +78,9 @@ sugamento de nossas forças pelos espíritos das trevas.
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/evolução-em-dois-mundos-livro)  
 Autor: Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
-
 ## Veja Também
-TODO
+* [André Luiz](/bio/andre-luis)
+* [Emmanuel](/bio/emmanuel)
+* [Chico Xavier](/bio/chico-xavier)
 
 

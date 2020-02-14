@@ -14,6 +14,9 @@ Esta evocação provoca a emancipação da alma, ou do Espírito encarnado, que 
 se manifestar e pode comunicar seu pensamento pela escrita ou por qualquer outro
 meio.
 
+
+## Perguntas Frequentes
+
 ### Como se capta o pensamento dos outros?
 Ao criarmos imagens fluídicas, o nosso pensamento se reflete em nosso
 envoltório perispirítico como num espelho. Isso toma um corpo, podendo
@@ -55,19 +58,11 @@ penetrar mais ou menos nas questões do futuro.
 
 
 ### Bibliografia
-KARDEC, Allan. A Gênese - Os Milagres e as Predições Segundo o
-Espiritismo. Tradução de Guillon Ribeiro. 17. ed., Rio de Janeiro: FEB,
-1975.
-
-KARDEC, A. Obras Póstumas. Tradução de Guillon Ribeiro. 15.ed., Rio de
-Janeiro: FEB, 1975.
+* KARDEC, Allan. A Gênese - Os Milagres e as Predições Segundo o Espiritismo. Tradução de Guillon Ribeiro. 17. ed., Rio de Janeiro: FEB, 1975.
+* KARDEC, A. Obras Póstumas. Tradução de Guillon Ribeiro. 15.ed., Rio de Janeiro: FEB, 1975.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fotografia-e-telegrafia-do-pensamento)  
-Autor: Sérgio Biagi Gregório
-
-## Veja Também
-todo
+* Vocábulo: [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+* Perguntas frequentes: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fotografia-e-telegrafia-do-pensamento), Sérgio Biagi Gregório
 
 ## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

@@ -35,7 +35,7 @@ a rede social em questão usando a sua própria conta.
 Contamos atualmente com as seguintes ferramentas de compartilhamento: e-mail,
 Twitter, Facebook, Reddit e Pocket. 
 
-Caso tenha alguma sugestão, não hesite em [entrar em contato conosco](../contato).
+Caso tenha alguma sugestão, não hesite em [entrar em contato conosco](/contato).
 
 ## Veja também
 * [Como Contribuir](../contribua)

@@ -1,5 +1,5 @@
 ---
-title: Mensageiros os livro
+title: Os Mensageiros
 date: 2019-01-11 13:00:00
 topics: 
 - livros
@@ -8,6 +8,31 @@ topics:
 - chico-xavier
 ---
 
+Em Os mensageiros, o Espírito André Luiz relata experiências de Espíritos que
+reencarnaram com instruções específicas para atingir o aprimoramento pessoal,
+mas que nem sempre foram bem-sucedidos em suas tarefas. Escalado para prestar
+atendimento fraterno na Terra, ele aprende que o trabalho é fonte de renovação
+mental e grande passo rumo à construção do bem. 
+
+Apresentando a morte física como apenas uma passagem rumo à vida espiritual em
+contínua evolução, os 51 capítulos, psicografados por Francisco Cândido Xavier
+neste segundo volume da coleção A vida no mundo espiritual, mostram a
+necessidade do estudo, da prática e do trabalho aplicados na esfera íntima de
+cada um, para que o retorno à pátria espiritual aconteça com a certeza do
+cumprimento dos compromissos assumidos antes de renascer.
+
+A coleção A vida no mundo espiritual inclui:
+* Nosso Lar
+* Os mensageiros
+* Missionários da luz
+* Obreiros da vida eterna
+* No mundo maior
+* Libertação
+* Entre a Terra e o Céu Nos domínios da mediunidade
+* Ação e reação
+* Evolução em dois mundos Mecanismos da mediunidade
+* Sexo e destino
+* E a vida continua...
 
 
 ## Perguntas Relacionadas
@@ -79,8 +104,7 @@ mal, e a mente reta, interessada em auxiliar".
 ### Qual a causa dos pesadelos (cap. 23)?
 Os pesadelos decorrem daqueles que dormem em desequilíbrio.
 
-### No culto do evangelho, quais as instruções da mãe para com os filhos
-(cap. 36)?
+### No culto do evangelho, quais as instruções da mãe para com os filhos (cap. 36)?
 Isabel, a mãe, responde amorosamente sobre a pobreza e mais
 energicamente com o filho que expressou dura contradição.
 
@@ -88,17 +112,12 @@ energicamente com o filho que expressou dura contradição.
 Por que o desprendimento no sono físico vulgar é fragmentário; a visão e
 a audição, peculiares ao encarnado, se encontram nele também restritas.
 
-
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mensageiros-os-livro)  
-Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
+* Perguntas relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mensageiros-os-livro), Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
+* [André Luiz](/bio/andre-luis)
+* [Emmanuel](/bio/emmanuel)
+* [Chico Xavier](/bio/chico-xavier)
 
 
