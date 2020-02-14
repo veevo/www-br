@@ -6,7 +6,10 @@ topics:
 - docura
 ---
 
-todo
+Qualidade ou virtude do que é meigo; meiguice, ternura.
+fig Aquilo que apresenta suavidade; brandura.
 
-## Sinônimos
-	todo
+## Virtudes Relacionadas
+Amor
+Compaixao
+Mansidao

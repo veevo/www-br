@@ -1,6 +1,5 @@
 ---
 title: Caridade
-description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
 topics: 
 - virtudes
@@ -79,18 +78,9 @@ Recolhia até detritos da rua para não prejudicar os transeuntes.
 Desencarnou. Estava com medo dos juizes, mas foi aureolado com um
 diadema.
 
-
-
-
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/formas-de-caridade)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

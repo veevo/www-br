@@ -1,23 +1,32 @@
 ---
 title: Simpatia
-description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
 topics: 
 - virtudes
 - simpatia
 ---
 
-Sentimentos de piedade e tristeza pelo infortúnio de outra pessoa.
-	- "Os assassinatos desencadearam uma onda global de simpatia com a maior parte do dinheiro distribuído às pessoas diretamente afetadas pela tragédia."
+Afinidade entre duas ou mais pessoas pela semelhança e proximidade de sentimentos e pensamentos.
+Relação estabelecida entre duas pessoas que, por sentimentos afins, sentem atração mútua e espontânea.
+Inclinação amorosa; afetividade bem próxima ao amor.
+Boa disposição e gentileza em atender às solicitações de alguém.
+Pessoa que geralmente é gentil, disposta, agradável.
 
-Compreensão entre as pessoas; sentimento comum.
-	- "Talvez ela tenha, em geral, mais simpatia com os homens do que com as mulheres?"
-
-## Sinônimos
-	- acordo, favor, aprovação, aprovação, apoio, incentivo, parcialidade, alinhamento
-	- relacionamento, sentimento companheiro, afinidade, empatia, harmonia, acordo, compatibilidade, comunhão, camaradagem
-	- compaixão, carinho, preocupação, solicitude, empatia, comiseração
-	- piedade, condolências, conforto, consolo, apoio, encorajamento, consideração, bondade
-	- compreensão
-	- sentimento companheiro
+## Virtudes Relacionadas
+Afinidade
+Empatia
+Harmonia
+Compatibilidade
+Comunhão
+Compaixão
+Carinho
+Preocupação
+Solicitude
+Piedade
+Consolo
+Apoio
+Encorajamento
+Consideração
+Bondade
+Compreensão
 

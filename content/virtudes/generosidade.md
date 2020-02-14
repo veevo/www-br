@@ -1,6 +1,5 @@
 ---
 title: Generosidade
-description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
 topics: 
 - virtudes
@@ -8,12 +7,13 @@ topics:
 ---
 
 A qualidade de ser gentil e generoso.
-	"Ficamos verdadeiramente surpresos com sua generosidade esmagadora."
+Grandeza de alma.
+Atitude de altruísta.
 
-## Sinônimos
-	- liberalidade, prodigalidade, magnanimidade, munificência, abertura, desmão livre, 
-	- altruísmo, bondade, benevolência
-	- caridade, grande coração, bondade
-	- abundância, abundante, copiosidade, prodigalidade, grandeza
-	- generosidade
-
+## Virtudes Relacionadas
+Prodigalidade
+Abertura
+Altruísmo
+Bondade
+Benevolência
+Caridade

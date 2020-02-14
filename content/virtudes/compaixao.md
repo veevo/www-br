@@ -1,6 +1,5 @@
 ---
 title: Compaixão
-description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
 topics: 
 - virtudes
@@ -8,10 +7,23 @@ topics:
 ---
 
 Piedade simpática e preocupação com os sofrimentos ou infortúnios dos outros.
-	- "Depois de supping seu preenchimento de horrores, sua capacidade de sentir compaixão foi profundamente afetada."
+Participação da dor alheia com o intuito de dividi-la com o sofredor.
 
-## Sinônimos
-	- piedade, simpatia, empatia, sentimento de companheiro, cuidado, preocupação, solicitude, 
-	- sensibilidade, calor, amor, ternura, misericórdia, clemência, tolerância, bondade, humanidade, caridade
-	- piedade
+## Virtudes Relacionadas
+Piedade
+Simpatia
+Empatia
+Sentimento de companheirismo
+Cuidado
+Preocupação
+Solicitude
+Sensibilidade
+Amor
+Ternura
+Misericórdia
+Clemência
+Tolerância
+Bondade
+Humanidade
+Caridade
 

@@ -6,7 +6,9 @@ topics:
 - esperanca
 ---
 
-todo
+Ato de esperar aquilo que se deseja obter.
+Expectativa na aquisição de um bem que se deseja.
 
-## Sinônimos
-	todo
+## Virtudes Relacionadas
+Paciencia
+Perseveranca

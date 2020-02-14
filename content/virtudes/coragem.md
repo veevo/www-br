@@ -1,16 +1,16 @@
 ---
 title: Coragem
-description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
 topics: 
 - virtudes
 - coragem
 ---
 
-A capacidade de fazer algo que assuste um.
-	- "O diretor artístico de uma empresa verdadeiramente grande precisa de coragem, inteligência e unidade."
+Força ou energia moral diante do perigo.
+Sentimento de segurança para enfrentar situações de dificuldade moral.
 
-## Sinônimos
-	- bravura, coragem, coragem, arrancar, 
-	- destemor, intrepidez, ousadia, heroísmo
-
+## Virtudes Relacionadas
+Bravura
+Intrepidez
+Ousadia
+Heroísmo

@@ -1,19 +1,17 @@
 ---
 title: Esforço
-description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
 topics: 
 - virtudes
 - esforco
 ---
 
-Uma tentativa vigorosa ou determinada.
-	"Um exame post-mortem estava sendo realizado ontem em um esforço para determinar a causa exata da morte."
+Força moral para enfrentar situações de perigo ou adversas; coragem, valentia, intrepidez.
+Intenso emprego de forças e energias (física, moral, intelectual etc.) para dar conta de um determinado empreendimento, satisfazer um desejo, realizar um sonho ou ideal, cumprir um dever etc.; conato.
+Ação penosa, difícil, que exige empenho e diligência; obra, trabalho, atividade.
+Recrudescimento de ânimo e vigor em face de determinada atividade ou objetivo, buscando superar obstáculos que se interpõem à sua realização; animação, estimulação; zelo exacerbado para vencer dificuldades.
 
-## Sinônimos
-	- esforço, energia, trabalho, esforço, aplicação, trabalho, poder, músculo, suor
-	- tentativa, tentativa, esforço, rachadura, tiro, facada, ensaio
-	- realização, realização, realização, resultado, feat, empresa, empresa, trabalho, triunfo, sucesso, golpe
-	- tentativa, esforço, tentar
-	- campanha, causa, cruzada, unidade, movimento
-
+## Virtudes Relacionadas
+Trabalho
+Realização
+Disciplina

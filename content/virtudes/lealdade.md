@@ -1,18 +1,24 @@
 ---
 title: Lealdade
-description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
 topics: 
 - virtudes
 - lealdade
 ---
 
-A qualidade de ser leal a alguém ou algo assim.
-	- "O ingrediente final é essencial para a lealdade dos funcionários e a natureza da marca."
+Conformidade com os preceitos que regem a honra, o dever e a probidade; dignidade, honradez, integridade
+Cumprimento da palavra dada; fidelidade, respeito, responsabilidade
+Qualidade de quem se expressa ou se comporta sem artifício ou intenção de enganar; lisura, retidão, sinceridade.
 
-## Sinônimos
-	- fidelidade, fidelidade, obediência, adesão, homenagem, devoção
-	- firmeza, confiabilidade, confiabilidade, confiabilidade, dever
-	- dedicação, compromisso, patriotismo, fidelidade
-	- fidelidade, compromisso
+## Virtudes Relacionadas
+Fidelidade
+Obediência
+Adesão
+Devoção
+Firmeza
+Confiabilidade
+Dever
+Dedicação
+Compromisso
+Fidelidade
 

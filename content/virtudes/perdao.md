@@ -1,6 +1,5 @@
 ---
 title: Perdão
-description: Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est.
 date: 2019-02-01 19:00:00
 topics: 
 - virtudes
@@ -11,10 +10,16 @@ topics:
 ---
 
 A ação ou processo de perdoar ou ser perdoado.
-	- "De que maneira sua perspectiva sobre o pecado e o perdão estão sendo desafiados?"
+Desobrigação do cumprimento de um dever.
+Disposição para perdoar.
 
-## Sinônimos
-	- perdão, absolvição, exoneração, 
-	- remissão, dispensação, indulgência
-	- clemência, misericórdia, indulto
+## Virtudes Relacionadas
+Absolvição
+Exoneração
+Remissão
+Dispensação
+Indulgência
+Clemência
+Misericórdia
+Indulto
 
