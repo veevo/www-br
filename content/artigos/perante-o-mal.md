@@ -100,7 +100,7 @@ E é dEle o convite que ressoa através dos séculos:
 Se alguém quiser vir após mim, negue-se a si mesmo, tome a sua cruz e siga-me!
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 13,
 do livro A mensagem do amor imortal, pelo Espírito
 Amélia Rodrigues, psicografia de Divaldo Pereira Franco,
@@ -108,4 +108,4 @@ ed. LEAL.
 Em 25.5.2015.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4477)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4477)

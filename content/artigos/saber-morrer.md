@@ -103,11 +103,11 @@ estou pronto para a minha jornada.
 
 Não perguntem o que levo comigo: Sigo de mãos vazias e coração confiante.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 17 e
 no livro Momento Espírita, v. 7, ed. FEP.
 Em 15.2.2017. 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5028)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5028)
 

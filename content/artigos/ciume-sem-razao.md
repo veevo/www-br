@@ -99,11 +99,11 @@ interiormente.
 
 Pense nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 texto de Elisha M. Webster, traduzido
 por Sergio Barros.
 
 Em 13.01.2009.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=830)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=830)

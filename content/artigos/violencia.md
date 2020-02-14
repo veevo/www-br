@@ -87,10 +87,10 @@ da Vida.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 6.1.2014.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4030)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4030)

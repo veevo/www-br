@@ -87,11 +87,11 @@ oportunidades, que nos farão mais esclarecidos e realizados.
 Abençoadas sejam as declarações de amor e amizade que colorirem nossos
 caminhos.
 
-## Source
+## Fonte
 Benditos os dias que pudermos tropeçar, cair e nos erguermos, abraçados à
 poesia da vida, desejosos de emocionar até o último ato.
 
 Redação do Momento Espírita.
 Em 14.9.2016.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4895)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4895)

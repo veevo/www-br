@@ -103,11 +103,11 @@ E se, de repente, seu coração acelerar, seus olhos ficarem úmidos e uma
 indescritível sensação de felicidade tomar conta de você, não tenha dúvida: são
 os efeitos contagiantes e deliciosos do amor.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita v. 29, ed. FEP.
 
 Em 23.3.2016.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1823)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1823)

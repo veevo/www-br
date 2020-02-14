@@ -87,11 +87,11 @@ Respeitemos esse talento bendito que o Criador nos ofertou na Terra.
 Vivamos o nosso dia-a-dia com a visão de que somos os grandes responsáveis pelo
 estado geral de doença ou de saúde do nosso corpo físico.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. 29
 do livro Para uso diário, pelo Espírito Joanes,
 psicografia de Raul Teixeira, ed. Fráter.
 
 Em 28.06.2010.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=632)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=632)

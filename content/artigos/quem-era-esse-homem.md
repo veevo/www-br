@@ -87,10 +87,10 @@ mais intensamente e até hoje enche o infinito das nossas necessidades.
 
 Seu nome é... Jesus.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no cd Momento Espírita, v. 21, ed. Fep.
 
 Em 09.04.2012.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3266)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3266)

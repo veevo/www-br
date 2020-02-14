@@ -85,7 +85,7 @@ Descansar não está em não fazer nada, mas sim em mudar de atividade.
 Inutilidade, nunca!
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 7, do livro
 Leis morais da vida, pelo Espírito Joanna de Ângelis,
 psicografia  de Divaldo Pereira Franco,  ed. LEAL.
@@ -95,4 +95,4 @@ Em 11.4.2016.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4762)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4762)

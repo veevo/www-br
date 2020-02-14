@@ -99,11 +99,11 @@ Já não é somente de desenvolver a inteligência o de que os homens necessitam
 mas de elevar o sentimento e, para isso, faz-se preciso destruir tudo o que
 superexcite neles o egoísmo e o orgulho.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com pensamento final do cap. XVIII,
 item 5 do livro A gênese, de Allan Kardec, ed. Feb.
 
 Em 20.03.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2151)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2151)

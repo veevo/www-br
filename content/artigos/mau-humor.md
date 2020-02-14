@@ -90,7 +90,7 @@ passada.
 Notaremos então que nosso estado íntimo se renovará e tudo tomará uma cor
 agradável ao nosso redor.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no artigo Mau humor? Nem pensar,
 publicado no Boletim SEI nº 1678, de 27.05.2000 e no cap. Mau humor
 do livro Calma, pelo Espírito Emmanuel, psicografia de
@@ -98,4 +98,4 @@ Francisco Cândido Xavier, ed. Geem.
 
 Em 16.02.2009.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2115)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2115)

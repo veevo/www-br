@@ -104,11 +104,11 @@ perde a força.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 10, ed. FEP.
 
 Em 18.9.2018. 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5543)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5543)

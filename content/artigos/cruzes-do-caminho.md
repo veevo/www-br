@@ -89,7 +89,7 @@ Pensemos nisso! Confiemos!
 
 Escute o áudio deste texto
 
-# Source
+# Fonte
 Redação do Momento Espírita, com citações do
 Evangelho de Lucas, cap.9, versículo 23 e da
 Epístola aos Efésios, cap. V, vers. 22 a 24.
@@ -99,4 +99,4 @@ Disponível no CD Momento Espírita, v. 31, ed. FEP.
 Em 22.3.2017. 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4900)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4900)

@@ -60,10 +60,10 @@ Pensemos em como tem sido o nosso proceder na relação com Deus, no uso do noss
 
 Em benefício da nossa própria evolução moral e espiritual, mantenhamos viva a chama da fé e a sintonia com a Espiritualidade maior, para que consigamos seguir com fidelidade as leis morais da vida.k
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 10.1.2019.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5634)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5634)
 

@@ -98,9 +98,9 @@ Empenhe-se em ser equilibrado, bondoso e solidário.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 13.1.2018.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5310)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5310)
 

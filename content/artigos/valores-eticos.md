@@ -108,10 +108,10 @@ Pense nisso, mas pense agora!
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no item 640 de
 O livro dos Espíritos, de Allan Kardec, ed. Feb.
 
 Em 19.04.2011.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=704)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=704)

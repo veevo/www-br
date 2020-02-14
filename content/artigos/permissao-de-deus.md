@@ -83,7 +83,7 @@ Autoridade é chance de crescimento. Quanto maior e mais abrangente, maior
 também se faz a responsabilidade de quem dela está investido.
 
                                                                                
-## Source
+## Fonte
 Redação do Momento Espírita, com base nos
 caps. 180 e 181, do livro Jesus Nazareno, de
 Huberto Rohden, ed. Vozes e no cap. XIX do
@@ -92,4 +92,4 @@ Evangelho de João, versículos 19 a 21.
 Em 21.4.2014. 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4109)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4109)

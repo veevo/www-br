@@ -92,7 +92,7 @@ Não se iluda nem embote sua consciência.
 Viva de forma nobre a sua liberdade.
 
 
-## Source
+## Fonte
 Texto da Equipe de Redação do Momento Espírita.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1262)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1262)

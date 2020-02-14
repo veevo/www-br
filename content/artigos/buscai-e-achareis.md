@@ -97,11 +97,11 @@ O resultado será uma dignidade espiritual que o acompanhará para sempre.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 30.7.2019.
 
  
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5807)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5807)

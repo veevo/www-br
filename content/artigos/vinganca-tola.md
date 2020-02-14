@@ -100,7 +100,7 @@ aperfeiçoarmos armas para matar e mutilar, nos empenhássemos em arquitetar
 planos para debelar a fome, o analfabetismo e a miséria?
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base no
 artigo De cara com o inimigo, da revista
 Veja, de 21.08.1996.
@@ -108,4 +108,4 @@ Veja, de 21.08.1996.
 Em 19.11.2012.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3669)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3669)

@@ -97,10 +97,10 @@ O resultado dessa opção pelo bem será uma formosa luz que revestirá todo o s
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 30.10.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2349)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2349)

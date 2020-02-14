@@ -114,8 +114,8 @@ renascer, em um mundo justo e fraterno.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1660)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1660)

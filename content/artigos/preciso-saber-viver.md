@@ -94,9 +94,9 @@ Pai.
 
 Em síntese, vivamos bem para vivermos mais tranquilos e mais felizes.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 21.8.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5509)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5509)

@@ -72,7 +72,7 @@ obrigatório, e de que amanhã o dia voltará, renovando todas as coisas.
 Lembre-se, ainda, que a esperança sempre surge com os primeiros raios da
 aurora.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base na mensagem
 Esperança, pelo Espírito Vianna de Carvalho, psicografia
 de Divaldo Pereira Franco e no cap. Reflexões, do livro
@@ -81,4 +81,4 @@ de Francisco Cândido Xavier, ed. Feb.
 
 Em 03.11.2008.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2023)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2023)

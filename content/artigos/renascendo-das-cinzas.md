@@ -80,10 +80,10 @@ nós mesmos.
 
                                                                 Pensemos nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base
 em dados biográficos de Cristiana Guerra.
 
 Em 2.6.2017.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5120)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5120)

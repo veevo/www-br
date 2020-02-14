@@ -75,8 +75,8 @@ caminho para a construção da felicidade em nossa intimidade, quando sentimento
 de baixa conta cederão espaço para luz e paz na nossa estrutura emocional.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 13.11.2009
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2420)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2420)

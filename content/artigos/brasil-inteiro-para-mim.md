@@ -88,11 +88,11 @@ E vencer.
 Eu sou do sul e tenho um orgulho imenso disso mas, por Deus, quero você, meu
 Brasil, inteirinho para mim.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 texto escrito por Luciana Goldschmidt Costa.
 Disponível no CD Momento Espírita v. 33, ed. FEP.
 
 Em 4.9.2018.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5277)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5277)

@@ -91,9 +91,9 @@ sorriso.
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita  
 Em 24.10.2017.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5245)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5245)

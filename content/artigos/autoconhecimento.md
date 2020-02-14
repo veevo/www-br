@@ -60,9 +60,9 @@ A cada noite ele fazia uma análise de como fora o seu dia. Questionava-se se fi
 
 E sempre buscava corrigir o que precisava ser corrigido, buscando ser a cada dia melhor que no dia anterior.  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no item 919 de O livro dos Espíritos, de Allan Kardec, ed. Feb.
 Disponível no CD Momento Espírita, v. 1, ed. Fep.
 Em 11.01.2010.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1463)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1463)

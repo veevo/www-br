@@ -77,7 +77,7 @@ No futuro, crise será uma palavra restrita ao dicionário. Mas para que isso
 aconteça uma longa e silenciosa batalha deve ser travada no íntimo do ser
 humano, em busca do equilíbrio e do amor!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 11, do livro
 A mensagem do Amor Imortal, de Divaldo Pereira Franco,
 pelo Espírito Amélia Rodrigues, ed. LEAL.
@@ -85,4 +85,4 @@ pelo Espírito Amélia Rodrigues, ed. LEAL.
 Em 21.7.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5491)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5491)

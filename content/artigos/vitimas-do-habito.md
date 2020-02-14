@@ -86,7 +86,7 @@ rosto fechado não a garante.
 Pense nisso, e considere que a criança que habita em você pode lhe ajudar a
 encontrar a felicidade que há muito você vem procurando.
 
-## Source
+## Fonte
 Texto da Equipe de Redação do Momento Espírita.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1309)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1309)

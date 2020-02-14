@@ -117,8 +117,8 @@ Harmoniza-se com sua consciência e vive em estado de plenitude.
 Acerta-se com o passado e descobre a alegria que é trazer uma larga faixa de
 céu no coração.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 28.5.2018.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5435)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5435)

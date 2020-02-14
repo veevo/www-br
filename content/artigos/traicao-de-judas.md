@@ -94,7 +94,7 @@ No lugar de Judas, para compor os doze, os apóstolos escolheram Matias.
 O teu ofensor merece tua compaixão, nunca a tua vingança.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com
 base no cap. 178, do livro Jesus Nazareno, v.2, de
 Huberto Rohden, ed. União Cultural.
@@ -102,4 +102,4 @@ Huberto Rohden, ed. União Cultural.
 Em 19.12.2013.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4015
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4015

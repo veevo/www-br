@@ -92,11 +92,11 @@ Assim sendo, até por uma questão de economia, é mais vantajoso sorrir.
 
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 mensagem de autoria ignorada.
 Disponível no CD Momento Espírita, v.4, ed. FEP.
 
 Em  17.6.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=658)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=658)

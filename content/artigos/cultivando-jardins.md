@@ -94,11 +94,11 @@ Quais sementes desejamos lançar à terra? Quais frutos desejamos colher?
 
 Pensemos nisso e escolhamos sempre as melhores opções.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com
 base em biografia de Francisco Toda.
 
 Em 6.3.2018. 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5362)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5362)

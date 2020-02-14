@@ -96,9 +96,9 @@ o bom humor e a tolerância.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 23.7.2013.
 
  
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3853)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3853)

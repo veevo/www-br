@@ -78,11 +78,11 @@ isto é, reencarnado, deve constituir motivo de alegria, pelas excelentes
 ocasiões de que dispõe o Espírito para ser plenamente feliz.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base em lenda de autoria
 ignorada e no cap. 4, do livro Perfis da vida, pelo Espírito Guaracy
 Paraná Vieira, psicografia de Divaldo Pereira Franco, ed. Leal.
 
 Em 4.5.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1686)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1686)

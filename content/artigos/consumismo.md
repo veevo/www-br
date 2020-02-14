@@ -91,12 +91,12 @@ que aprisionam e caminharemos em direção à pureza e à alegria permanentes.
 
 Pense nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 7, ed. Fep.
 Em 19.05.2008.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1693)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1693)
 
 

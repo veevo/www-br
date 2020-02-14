@@ -112,10 +112,10 @@ A genuína felicidade surge quando se aprende a compartilhar.
 
 Quem experimenta a ventura da solidariedade jamais volta atrás.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 21.11.2008.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1368)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1368)

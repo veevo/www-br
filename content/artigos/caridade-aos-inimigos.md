@@ -93,7 +93,7 @@ Dessa forma, estaremos seguindo rumo a essa nuance de amor  tão diferente e
 rara ainda na Terra.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. XII, item 3,
 do livro O Evangelho segundo o Espiritismo, de Allan Kardec,
 ed. FEB.
@@ -101,4 +101,4 @@ ed. FEB.
 Em 22.8.2019.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5827)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5827)

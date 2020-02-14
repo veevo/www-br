@@ -103,7 +103,7 @@ Pense a respeito.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 38 do
 livro Caminho, Verdade e Vida, pelo Espírito Emmanuel,
 psicografia de Francisco Cândido Xavier, ed. Feb.
@@ -111,4 +111,4 @@ psicografia de Francisco Cândido Xavier, ed. Feb.
 Em 27.07.2012.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3518)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3518)

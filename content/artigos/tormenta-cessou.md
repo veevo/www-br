@@ -97,10 +97,10 @@ digna.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 3, do livro A mensagem do
 Amor Imortal, pelo Espírito Amélia Rodrigues, psicografia de
 Divaldo Pereira Franco, ed. Leal.
 Em 24.12.2009.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2470)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2470)

@@ -102,9 +102,9 @@ se fez orgulhoso e ressentido.
 
 Pense nisso.
 
-# Source
+# Fonte
 Redação do Momento Espírita.
 
 Em 16.8.2016.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4871)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4871)

@@ -81,11 +81,11 @@ facilitar o progresso, pelos milênios afora.
 
 Amar o corpo, respeitá-lo, usá-lo com sabedoria é o que nos compete.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 19, do
 Livro  Sendas luminosas, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
 Em 18.7.2016.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4846)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4846)

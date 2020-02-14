@@ -82,11 +82,11 @@ nosso ferramental precioso para construir essa tão importante obra.
 
 Somos a nossa maior obra. Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 3,
 do livro Boa Nova, pelo Espírito Humberto de Campos,
 psicografia de Francisco Cândido Xavier, ed. FEB.
 
 Em 15.5.2017.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5103)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5103)

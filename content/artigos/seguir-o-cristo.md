@@ -98,10 +98,10 @@ convidando-nos à verdadeira vida.
 Compete-nos a decisão de levantar e segui-lo, mediante profunda e definitiva
 transformação de nosso ser.
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita, com base no capítulo I do livro
 Segue-me!..., do Espírito Emmanuel, psicografado por Francisco Cândido Xavier.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1154)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1154)

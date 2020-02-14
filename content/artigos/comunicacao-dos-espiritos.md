@@ -95,7 +95,7 @@ vida, preciso repetir as lições e provas em que fali... Por agora, não devo e
 nem posso ter outro objetivo que reencarnar, lutar, sofrer e reaprender.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 1,
 do livro Estante da vida, pelo Espírito Irmão X, psicografia de
 Francisco Cândido Xavier, ed. FEB e no cap. 2, pt. 4, de
@@ -104,4 +104,4 @@ O livro dos Espíritos, de Allan Kardec, ed. FEB.
 Em 7.11.2013.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3959
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3959

@@ -89,7 +89,7 @@ Que eu tenha a simplicidade da gota d'água que, embora unicamente anônima gota
 d'água, se sente tranquila e feliz porque se vê capaz de refletir-Te a luz no
 brilho eterno da Criação.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.
 Oração por humildade,  do livro Amizade, pelo Espírito
 Meimei, psicografia de Francisco Cândido Xavier,
@@ -98,4 +98,4 @@ ed. IDEAL.
 Em 18.5.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5432)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5432)

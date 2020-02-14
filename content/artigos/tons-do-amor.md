@@ -91,11 +91,11 @@ sábios, fortificamos o Espírito em marcha, tornamo-nos irmãos.
 O amor é tinta que nunca seca. Quanto mais praticado, mais colorida torna-se a
 nossa vida. Saiamos das sombras, do cinza, do monocromático: amemos!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base na
 biografia de Ekaterina Yulia Borodulkina.
 
 Em 17.9.2018 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5542)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5542)

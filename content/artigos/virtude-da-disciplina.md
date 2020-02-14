@@ -119,8 +119,8 @@ espontaneidade.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 15.02.2008.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1764)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1764)

@@ -81,7 +81,7 @@ A fé tem a função essencial de oferecer forças para solucionar problemas ao
 invés de afastá-los ou liberar o crente dos testemunhos necessários para a sua
 evolução. 
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no artigo Por que os médicos hoje
 acreditam que a fé cura?,  de Seleções Reader’s Digest de agosto/2001 e no
 verbete Fé, do livro Repositório de sabedoria, v. 1, pelo Espírito Joanna de
@@ -89,4 +89,4 @@ verbete Fé, do livro Repositório de sabedoria, v. 1, pelo Espírito Joanna de
 
 Em 28.02.2011.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2927)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2927)

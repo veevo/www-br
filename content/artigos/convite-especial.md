@@ -100,9 +100,9 @@ Por isso, encontra forças para fazer as renúncias necessárias.
 
 Pense a respeito.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 03.05.2012.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3423)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3423)

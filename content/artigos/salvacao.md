@@ -123,11 +123,11 @@ Esse é o significado da salvação.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base na questão 225,
 do livro O consolador, do Espírito Emmanuel,
 psicografia de Francisco Cândido Xavier,
 
 ed. Feb. Em 08.04.2008.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1813)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1813)

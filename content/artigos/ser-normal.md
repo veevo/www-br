@@ -118,7 +118,7 @@ Pode ser que sua presença seja menos requisitada.
 Mas sem dúvida você será mais feliz e terá paz em seu coração.
 
 
-## Source
+## Fonte
 Texto da Equipe de Redação do Momento Espírita.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1394)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1394)

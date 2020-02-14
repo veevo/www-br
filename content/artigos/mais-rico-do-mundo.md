@@ -94,10 +94,10 @@ Oferece a água para aplacar a sede de alguém embora também se ache sedento.
 
 Essa é a verdadeiramente rica.
 
-## Source
+## Fonte
 Redação do Momento Espírita, a partir de
 nota que circula pelas redes sociais.
 
 Em 28.11.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5897)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5897)

@@ -109,11 +109,11 @@ o que dela fizermos.
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. LI, do livro
 Justiça Divina, pelo Espírito Emmanuel, psicografia de
 Francisco Cândido Xavier, ed. FEB.
 
 Em 27.12.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=

@@ -118,8 +118,8 @@ Deixará de ser fim para ser um excelente meio de progresso.
 Pense nisso!
 
 
-## Source
+## Fonte
 Texto da equipe de Redação do Momento Espírita.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1125)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1125)

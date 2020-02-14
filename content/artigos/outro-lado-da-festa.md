@@ -98,9 +98,9 @@ Assim, é importante que busquemos sintonizar com as esferas mais altas, onde
 vivem espíritos benfeitores que têm por objetivo nos ajudar a vencer a difícil
 jornada no corpo físico.
 
-## Source
+## Fonte
 Equipe de redação do Momento Espírita, baseado nos capítulos 6 e 23 do livro
 “Nas Fronteiras da Loucura”, ed. Leal.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=435)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=435)

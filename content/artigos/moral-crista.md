@@ -82,7 +82,7 @@ O cristão está convocado para o ministério enobrecido de edificar o bem em to
 parte, consolidando as possibilidades de serviço relevante, como passo inicial
 para a elaboração de melhores dias.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. Instrução e educação, do livro
 Em torno do Mestre, pelo Espírito Vinícius, de Pedro de Camargo, ed. Feb e
  no verbete Cristão, do livro Repositório de sabedoria, v.1, pelo Espírito
@@ -90,4 +90,4 @@ Joanna de Ângelis, psicografia de Divaldo Pereira Franco, ed. Leal.
 Em 26.10.2009.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=360)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=360)

@@ -101,9 +101,9 @@ imediato, sem aguardar o amanhã.
 Sejamos nós a dar o primeiro passo, a estender a mão, a sorrir, a viver bem.
                                                                                
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 27.8.2014.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4227)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4227)

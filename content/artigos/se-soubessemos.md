@@ -85,7 +85,7 @@ Já sabemos. Nossa consciência nos grita, diariamente, algo que nos incomoda e
 nos pede para que mudemos nossa vida urgentemente. São chegados os dias da
 transformação moral da Humanidade, da nossa transformação íntima.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no
 cap. 38, da obra Fonte Viva, pelo Espírito Emmanuel,
 psicografia de Francisco Cândido Xavier, ed. FEB.
@@ -93,4 +93,4 @@ psicografia de Francisco Cândido Xavier, ed. FEB.
 Em 23.10.2017.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5244)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5244)

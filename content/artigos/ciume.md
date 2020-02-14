@@ -74,7 +74,7 @@ O amor não precisa do sal do ciúme para temperar as relações. O sabor de tod
 relacionamento sadio virá da confiança irrestrita e do altruísmo, que pensa
 sempre no bem do outro.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. Ciúme, do livro
 O ser consciente, pelo Espírito Joanna de Ângelis, psicografia
 de Divaldo Pereira Franco, ed. LEAL.
@@ -83,4 +83,4 @@ Em 24.10.2016.
 
  
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4929)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4929)

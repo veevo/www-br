@@ -98,11 +98,11 @@ Dos opositores, amigos.
 
 E retirar, de todas as circunstâncias, lições para ser feliz.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 10, ed. Fep.
 
 Em 11.05.2009.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1203)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1203)

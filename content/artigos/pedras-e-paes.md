@@ -92,10 +92,10 @@ mim o fizestes.
 E sintetizando a lição, recomendou: Amai-vos uns aos outros. Praticai o bem sem
 ostentação. Fazei aos outros o que quereríeis que vos fizessem.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com transcrição do
 Evangelho de Mateus, cap. 25, versículos 34 a 36 e 40.
 Em 1º.5.2017.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5092)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5092)

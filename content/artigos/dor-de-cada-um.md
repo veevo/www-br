@@ -91,11 +91,11 @@ Aprendei de mim que sou manso e humilde de coração e encontrareis refrigério
 para vossas almas.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.
 Inveja, do livro Por um fio, de Dráuzio Varella,
 ed. Companhia das Letras.
 
 Em 18.4.2017.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5080)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5080)

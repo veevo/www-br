@@ -56,11 +56,11 @@ Em silêncio desabrocham as flores, desenvolve-se o embrião, a paisagem modific
 
 No silêncio da alma desenvolvamos qualidades superiores e desabrochemos para a felicidade.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com pensamentos finais
 dos caps. 2 e 15, do livro Iluminação interior, pelo Espírito
 Joanna de Ângelis, psicografia de Divaldo Pereira Franco, ed. Leal.
 Em 4.8.2012.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3527)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3527)
 

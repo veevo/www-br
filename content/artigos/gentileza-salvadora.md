@@ -89,7 +89,7 @@ pesquisa da verdade e na prática da virtude.
 Pense nisso.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. Gentilezas
 salvadoras, do livro Glossário espírita-cristão, pelo Espírito
 Marco Prisco, psicografia de Divaldo Pereira Franco, ed. Leal
@@ -100,4 +100,4 @@ ed. O clarim.
 Em 21.6.2013. 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3855)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3855)

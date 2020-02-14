@@ -100,7 +100,7 @@ espontâneo desse corrosivo odiento, no entanto, muito requerido e bem aceito.
 Quando sentirmos, sem motivos reais, moleza e necessidade de repouso demorado,
 despertemos e produzamos.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 36, do livro
 Alvorada cristã, pelo Espírito Néio Lúcio, psicografia de
 Francisco Cândido Xavier, ed. FEB e no cap. 8, do livro
@@ -108,4 +108,4 @@ Espírito e Vida, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. FEB.
 Em 23.8.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5517)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5517)

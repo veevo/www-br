@@ -87,11 +87,11 @@ Pensemos nisso e deixemos que siga em paz quem nos agride ou envenena os dias.
 De nossa parte, vibremos no bem, pelo bem e usufruamos de saúde e felicidade.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.9, do livro Mensagem
 de uma mãe chinesa desconhecida, de Xinran, ed. Companhia das letras.
 
 Em 29.06.2012.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3482)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3482)

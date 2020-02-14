@@ -96,7 +96,7 @@ Saber utilizá-la é desafio para a criatura que aspira por novas realizações.
 Pense nisso, mas pense agora!
 
 
-## Source
+## Fonte
 Redação do Momento Espírita com base nos caps. 1 e 6 do livro
 Momentos de consciência, pelo Espírito Joanna de Ângelis, psicografia de
 Divaldo
@@ -104,6 +104,6 @@ Pereira Franco, ed. Leal.
 Em 29.08.2011.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=810)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=810)
 
 

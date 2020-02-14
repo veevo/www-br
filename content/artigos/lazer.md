@@ -98,11 +98,11 @@ progresso e a evolução do ser.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 25, do livro
 Seara do Bem, por Espíritos diversos, psicografia de Divaldo Pereira
 Franco, ed. Leal.
 Em  27.8.2012.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1086)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1086)

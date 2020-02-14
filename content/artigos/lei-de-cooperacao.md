@@ -94,11 +94,11 @@ Ocorre que, quando várias mãos se juntam, o bem se multiplica e expande.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v.10, ed. FEP.
 
 Em 18.6.2018.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5454)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5454)

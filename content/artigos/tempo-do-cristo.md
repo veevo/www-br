@@ -87,7 +87,7 @@ tempos do mundo ou com os tempos do Cristo.
 Pensemos a respeito e abracemos o tempo do Cristo, para nossa própria
 felicidade.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 9,
 do livro O tempo de Deus, pelo Espírito Camilo,
 psicografia de Raul Teixeira, ed. FRÁTER.
@@ -96,6 +96,6 @@ Em 30.9.2019.
  
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5858)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5858)
 
 

@@ -82,9 +82,9 @@ acompanha.
 
 Pensemos nesses detalhes.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 11.9.2015.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4570)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4570)

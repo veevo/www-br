@@ -80,11 +80,11 @@ verdadeiramente. Esses lhe querem ver bem, e não adoecido.
 poucos.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.
 Da vingança, do livro Ensaios, de Francis Bacon,
 ed. Vozes.
 
 Em 20.5.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4473)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4473)

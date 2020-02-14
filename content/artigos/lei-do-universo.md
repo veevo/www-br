@@ -83,8 +83,8 @@ uma Humanidade melhorada, comecemos por nós.
 
 O progresso da nossa Terra é a soma do progresso individual de todos nós.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 19.11.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5596)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5596)

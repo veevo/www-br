@@ -107,12 +107,12 @@ Prossigamos com alegria íntima pelo roteiro que elegemos e não olhemos para
 trás.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 4, do livro
 Desperte e seja feliz, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
 Em 23.2.2018.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5352)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5352)
 
 

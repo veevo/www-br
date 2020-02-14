@@ -90,7 +90,7 @@ estesias mais felizes.
 O nome de Deus, seja falado, escrito ou pensado, logo que é também sentido,
 imprime em nós imensas alegrias, profundos enlevos e sublime registro da paz.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.
 A paz do nome de Deus, do livro Em nome de Deus, do
 Espírito José Lopes Neto, psicografado por Raul Teixeira,
@@ -98,4 +98,4 @@ ed. Fráter.
 
 Em 12.9.2017.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5210)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5210)

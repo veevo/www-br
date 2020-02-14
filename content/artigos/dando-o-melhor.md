@@ -75,7 +75,7 @@ Ouve, vê, acompanha e conversa com nobreza, sendo fiel à confiança que em ti
 depositem.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. O dom de Beethoven,
 de Philip Yancey, do livro Histórias para o coração 2, de Alice Gray, ed.
 United Press e pensamentos do cap. CXXXVIII do livro Vida feliz,
@@ -84,4 +84,4 @@ Pereira Franco, ed. LEAL.
 
 Em 22.1.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4362)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4362)

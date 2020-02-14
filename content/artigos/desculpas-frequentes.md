@@ -110,8 +110,8 @@ Evite desculpas vãs.
 
 Busque o trabalho, realize e cresça.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no Boletim Al-non - Informativo Nacional
 nº 80, p. 7.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1055)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1055)

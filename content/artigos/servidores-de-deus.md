@@ -97,11 +97,11 @@ Aprendamos a reconhecê-los e agradeçamos a Deus pelas suas existências.
 
 Escute o áudio deste texto
 
-# Source
+# Fonte
 Redação do Momento Espírita, com base no cap. 38,
 do livro Muito além do amor, de Dominique Lapierre,
 ed. Salamandra.
 
 Em 15.3.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5370)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5370)

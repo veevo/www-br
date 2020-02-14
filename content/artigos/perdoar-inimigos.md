@@ -114,11 +114,11 @@ mais sublime aplicação desse princípio.
 A posse de tal virtude representa uma das maiores vitórias alcançadas contra o
 egoísmo e o orgulho.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com transcrições do cap. XII,
 item 3, do livro O Evangelho segundo o Espiritismo,
 de Allan Kardec, ed. FEB.
 Em 3.11.2018. 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5573)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5573)

@@ -88,11 +88,11 @@ Jesus nos aguarda.
 
                                                                                
 
-# Source
+# Fonte
 Redação do Momento Espírita, com base no cap. V,
 do livro Primícias do reino, pelo Espírito Amélia Rodrigues,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
 
 Em 15.9.2014.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4274)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4274)

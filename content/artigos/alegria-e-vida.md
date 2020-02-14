@@ -65,13 +65,13 @@ Alegremo-nos com a vida que desfrutamos, e agradeçamos sempre a glória de sabe
 
 A vida com alegria é, em si mesma, um hino de louvor a Deus.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base na mensagem
 Viver com alegria, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, na manhã de 29.5.2009,
 no G-19, em Zurique, Suíça.
 Em 17.10.2015.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4602)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4602)
 
 

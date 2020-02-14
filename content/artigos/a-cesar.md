@@ -71,7 +71,7 @@ meio termo.
 
 Pensemos nisso.           
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no item 5,
 do cap. XI, do livro O Evangelho Segundo o Espiritismo, de
 Allan Kardec, ed. Feb.
@@ -79,4 +79,4 @@ Allan Kardec, ed. Feb.
 Em 14.11.2012.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3657)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3657)

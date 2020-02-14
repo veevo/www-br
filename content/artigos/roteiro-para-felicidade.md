@@ -120,11 +120,11 @@ Eis uma boa razão para travar conhecimento com esse roteiro infalível de
 felicidade, conhecido como Evangelho de Jesus.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base no item 3, do cap. XV,
 do livro O Evangelho segundo o Espiritismo, de Allan Kardec, ed. Feb.
 
 Em  27.08.2012.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1040)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1040)

@@ -98,12 +98,12 @@ acreditar que a paz mundial está bem próxima.
 
 Porque, na verdade, a paz do mundo começa no íntimo de cada um de nós.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 mensagem do livro Urgência, pelo Espírito Emmanuel, psicografia de
 Francisco Cândido Xavier, ed. GEEM.
 Em 17.6.2013.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4602)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4602)
 
 

@@ -96,13 +96,13 @@ Ao optar pela simplicidade, talvez redescubra a alegria de viver.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 8, ed. FEP.
 Em 24.3.2014.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/imprimir.php?id=2473)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/imprimir.php?id=2473)
 
 

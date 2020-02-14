@@ -90,7 +90,7 @@ perfeição e de amor.
 
 Pense nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 15 do
 livro O primado do Espírito, de Rubens Romanelli,
 ed. Lachâtre.
@@ -98,4 +98,4 @@ ed. Lachâtre.
 Em 4.12.2017.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=950)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=950)

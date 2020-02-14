@@ -95,9 +95,9 @@ Amá-Lo simplesmente, sentir-Lhe a presença benéfica, a afeição incomparáve
 Este é o objetivo final da nossa existência: ver a Deus, estar com Ele,
 cumprindo-Lhe as Leis perfeitas. Isto é amor.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 13.10.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1559)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1559)

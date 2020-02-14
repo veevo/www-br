@@ -94,9 +94,9 @@ amizades se desfazem.
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 30.5.2015.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4487)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4487)

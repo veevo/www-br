@@ -65,7 +65,7 @@ Na morte natural os laços que unem o Espírito ao corpo são desatados lentamen
 
 Por esse motivo, não nos deixemos tentar pelo convite ao suicídio. Nunca valerá a pena. Antes, roguemos a Deus forças para suportar o fardo que carregamos.
 
-## Source
+## Fonte
 [Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=590)
 11.10.2010
 

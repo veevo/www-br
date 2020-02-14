@@ -89,7 +89,7 @@ Esforço, perseverança, vontade.
 Aprendamos com essas criaturas. Elas conseguiram. Também nós conseguiremos.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base na introdução do livro
 O pensamento vivo de Gandhi, coordenação editorial da editora
 Martin Claret e no livro Paulo e Estêvão, pelo Espírito Emmanuel,
@@ -97,4 +97,4 @@ psicografia de Francisco Cândido Xavier, ed. FEB.
 
 Em 28.8.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4557)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4557)

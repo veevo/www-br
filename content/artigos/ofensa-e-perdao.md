@@ -97,10 +97,10 @@ E, ante as tormentas que o ultraje possa nos causar, lembremo-nos de que Jesus,
 incomparável na Sua pureza, manteve-se sereno e calado, diante dos mais vis
 insultos que os homens puderam engendrar, a seu tempo.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 25.7.2015.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4527)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4527)
 
 

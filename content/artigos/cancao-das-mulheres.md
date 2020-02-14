@@ -85,9 +85,9 @@ fundamental para que cresçamos e nos entendamos em níveis mais profundos.
 A proposta do Cristo, de fazermos aos outros o que queiramos que os outros nos
 façam, é a mais bela e completa lição de empatia até hoje existente.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em cap.
 do livro Pensar é transgredir, de Lya Luft, ed. RCB.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1654)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1654)

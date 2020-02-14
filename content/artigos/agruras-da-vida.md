@@ -96,10 +96,10 @@ O papel de quem as vive é fazer o seu melhor e confiar em Deus.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 10, ed. FEP.
 Em 19.10.2016.
 
  
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4927)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4927)

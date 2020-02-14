@@ -101,11 +101,11 @@ da nossa administração.
 Pense nisso!
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base no livro Os Dez
 Mandamentos de Deus e os pecados organizacionais, e em matéria
 publicada no jornal Gazeta do Povo em 20.1.2002, no caderno de Economia.
 
 Em 27.6.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3085)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3085)

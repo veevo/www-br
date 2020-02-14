@@ -93,11 +93,11 @@ receber os primeiros raios do sol das almas, Jesus, mudam a paisagem ressecada,
 para se tornarem campos floridos, espalhando bênçãos por onde passem.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base na palestra A esperança, proferida por
 Raul Teixeira em Guaraniaçu - Pr.
 Em 6.2.2012.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1680)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1680)

@@ -95,7 +95,7 @@ falam à acústica da alma, dizendo-lhes do seu amor.
 Mães que recebem filhos deficientes de toda ordem e que a eles se dedicam,
 heroínas anônimas, com desprendimento e amor.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. Sem braços e sem pernas, do livro
 Reencarnação e vida, de Amália Domingo Soler, ed. Ide e nos itens 258 e 264 de 
 O livro dos Espíritos, de Allan Kardec, ed. Feb.
@@ -103,4 +103,4 @@ O livro dos Espíritos, de Allan Kardec, ed. Feb.
 Em 15.08.2011.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1656)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1656)

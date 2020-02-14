@@ -104,7 +104,7 @@ estamos a muitas questões e vaidades pessoais.
 É bom analisar o que vale mais: a alegria efêmera do mundo ou a felicidade
 perene que tanto anelamos. Depois, é só optar.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. O mancebo rico, do livro
 Primícias do Reino, pelo Espírito Amélia Rodrigues, psicografia de
 Divaldo Pereira Franco, ed. Sabedoria.
@@ -112,4 +112,4 @@ Disponível no CD Momento Espírita, v. 12, ed. FEP.
 
 Em 29.11.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5898
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5898

@@ -90,10 +90,10 @@ nosso amigo, nosso amor – mas, nunca nossa propriedade.
 
 Pensemos nisso...
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 27, ed. FEP.
 
 Em 30.3.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3744)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3744)

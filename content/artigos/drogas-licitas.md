@@ -85,9 +85,9 @@ perguntarão: O que fizestes dos filhos confiados à vossa guarda?
 Preparemo-nos para responder o melhor: Fizemos tudo o que estava ao nosso
 alcance.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 6.1.2014.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1801)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1801)

@@ -99,11 +99,11 @@ mental. Comece agora mesmo.
 
 
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v.13, ed. Fep.
 
 Em 13.07.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1682)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1682)

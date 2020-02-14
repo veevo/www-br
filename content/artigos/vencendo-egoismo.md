@@ -77,11 +77,11 @@ lar do orgulho.
 
 O melhor antídoto para o mal do egoísmo é o conhecimento da vida espiritual.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. O pãozinho,
 de O livro das virtudes, v. II, de William J. Bennett,
 ed. Nova Fronteira.
 
 Em 28.11.2008.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=650)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=650)

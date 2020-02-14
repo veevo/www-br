@@ -112,11 +112,11 @@ Jamais se permita servir-se dela para aparecer.
 
 Mas principalmente nunca a prejudique por radicalismo e imaturidade.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 22.7.2019.
 
  
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5800
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5800

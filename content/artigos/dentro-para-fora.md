@@ -95,10 +95,10 @@ Cuide-se e cuide de sua saúde, começando sempre de dentro para fora...
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 08.10.2010.
 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1347)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1347)

@@ -85,7 +85,7 @@ semelhante, dedicação ao bem e trabalho incessante pelo próximo.
 cultivado, passando a aromatizar o ar com a semeadura abundante de flores
 coloridas e árvores frutíferas.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com frases extraídas  do cap. 6, pt. 3,
 do livro Do abismo às estrelas, pelo Espírito Victor Hugo,
 psicografia de Divaldo Pereira Franco, ed. Leal
@@ -94,4 +94,4 @@ Disponível no CD Momento Espírita v.
 
 Em 26.12.2008.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=21)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=21)

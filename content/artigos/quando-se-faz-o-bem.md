@@ -102,11 +102,11 @@ Ou poderemos simplesmente usufruir do ar de bênçãos que nos envolverá.
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no
 http://www.sonoticiaboa.com.br/2016/05/15/o-bem-volta-para-o-maqueiro-que-acalentou-idosa-recompensa/
 
 Em 18.5.2019.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5744)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5744)

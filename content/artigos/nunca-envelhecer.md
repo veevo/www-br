@@ -96,8 +96,8 @@ envelhecimento da alma e da mente é opção de cada um de nós.
 Todo aquele que carrega sonhos, ideais nobres, objetivos a alcançar, não
 importa a idade, será sempre jovem, ludibriando o tempo com sabedoria.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 5.8.2015.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4537)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4537)

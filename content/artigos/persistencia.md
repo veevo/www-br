@@ -88,11 +88,11 @@ Motivo algum deve servir de apoio para o desânimo.
 Tudo na vida constitui convite para o avanço e a conquista de valores, na
 harmonia e na glória do bem. 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em texto de autoria
 ignorada e no cap. 10, do livro Episódios diários, pelo Espírito Joanna de
 Ângelis, psicografia de Divaldo Pereira Franco, ed. LEAL.
 
 Em 26.11.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3977)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3977)

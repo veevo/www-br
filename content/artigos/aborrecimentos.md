@@ -77,7 +77,7 @@ forte.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. 13 do livro
 Para uso diário, pelo Espírito Joanes, psicografia de Raul Teixeira,
 ed. Fráter.
@@ -85,4 +85,4 @@ Em 06.12.2010.
 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=57)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=57)

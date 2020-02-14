@@ -78,10 +78,10 @@ homem?
 O maior mérito para o homem é fazer o bem aos outros.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 17.12.2012.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3701)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3701)

@@ -88,7 +88,7 @@ Celeste?
 Pensemos nisso!
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no item 24,
 do cap. V do livro O Evangelho segundo o Espiritismo,
 de Allan Kardec, ed. Feb.
@@ -96,4 +96,4 @@ de Allan Kardec, ed. Feb.
 Em 12.09.2008.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1956)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1956)

@@ -84,11 +84,11 @@ Aproveitemos, pois, estes momentos delicados para nosso próprio aprendizado e,
 ao invés de medo e preocupação, tenhamos a certeza de que estamos sempre
 amparados.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 26.08.2009.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2332)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2332)
 
 

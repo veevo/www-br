@@ -90,7 +90,7 @@ Pense nisso, e não contribua para turvar o lago da esperança com os
 detritos da desonestidade.
 
 
-## Source
+## Fonte
 Texto da Equipe de Redação do Momento Espírita
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1329)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1329)

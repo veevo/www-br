@@ -80,11 +80,11 @@ conseguiremos vencer.
 
 Pensemos nisso e sigamos os exemplos de superação.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no artigo
 Do desafio à superação, de Willian Bressan,
 do Jornal Gazeta do Povo, de 20.9.2015.
 
 Em 14.12.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4656)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4656)

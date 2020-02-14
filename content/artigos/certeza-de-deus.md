@@ -87,11 +87,11 @@ manifesta. No dia abençoado, na noite escura.
 No rosto das pessoas que passam, nas sementes que brotam - em tudo Deus está.
 Permitamo-nos descobri-lO.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 10,
 do livro O futuro da Humanidade – a saga de Marco Polo,
 de Augusto Cury, ed. Sextante.
 
 Em 19.4.2017.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5081)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5081)

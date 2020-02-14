@@ -83,11 +83,11 @@ Assim sendo, se você que fuma se importa com os filhos e outros afetos,
 não os faça passar pela dor provocada pelo suicídio voluntário e lento que é o
 hábito de fumar.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em artigo publicado
 pela Revista Seleções do Reader’s Digest, de dezembro de 1973.
 Disponível no livro Momento Espírita, v. 1, ed. Fep.
 
 Em 05.01.2009.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=

@@ -86,8 +86,8 @@ nossa boa conduta e correto agir.
 Mantenhamos como nosso roteiro seguro o Evangelho do Mestre, e permaneçamos
 firmes, no reto proceder.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 16.5.2015.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4468)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4468)

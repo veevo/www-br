@@ -98,7 +98,7 @@ A hora da provação é momento de resgate libertador.
 
 Pensemos nisso e aproveitemos todos os momentos como dádivas de Deus.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 44,do livro Justiça Divina,
 pelo Espírito Emmanuel, psicografia de Francisco Cândido Xavier,
 ed. FEB e no prefácio do livro Momentos enriquecedores, pelo Espírito
@@ -106,4 +106,4 @@ Joanna de Angelis , psicografia de Divaldo Pereira Franco, ed. LEAL.
 
 Em 29.3.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5383)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5383)

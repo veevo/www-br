@@ -58,8 +58,8 @@ Dessa forma, jamais nos equivocaremos, uma vez que todos queremos o melhor para 
 Pensemos nisso!
 
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 22.04.2009.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2185)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2185)

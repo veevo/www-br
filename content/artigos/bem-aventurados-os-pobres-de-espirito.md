@@ -115,7 +115,7 @@ Pense nisso.
 
                                         
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. Pobres de Espírito e Espíritos
 pobres, do livro Parábolas e Ensinos de Jesus, de Cairbar Schutel, ed. O
 Clarim.
@@ -123,4 +123,4 @@ Em 29.12.2009.
 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1237)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1237)

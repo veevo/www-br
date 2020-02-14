@@ -110,7 +110,7 @@ Uma vida honrada é a melhor resposta a provocações.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base
 no cap. XVII, do livro Jesus e vida, pelo
 Espírito Joanna de Angelis, psicografia
@@ -119,4 +119,4 @@ de Divaldo Pereira Franco, ed. Leal.
 Em 12.02.2008.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1761)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1761)

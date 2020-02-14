@@ -82,7 +82,7 @@ possam acercar, de alguma forma.
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 108,
 do livro Fonte Viva, pelo Espírito Emmanuel, psicografia
 de Francisco Cândido Xavier, ed. FEB e na
@@ -90,4 +90,4 @@ de Francisco Cândido Xavier, ed. FEB e na
 
 Em 19.2.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5349)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5349)

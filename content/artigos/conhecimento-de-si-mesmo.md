@@ -107,10 +107,10 @@ Pensemos nisso!
 
                                                                                
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no item 919 de  O livro dos Espíritos, de
 Allan Kardec, ed. Feb.
 Em 27.12.2010.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1435)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1435)

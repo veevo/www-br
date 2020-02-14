@@ -87,7 +87,7 @@ Nem retruques: É maior do que as minhas forças.
 Para aquele que crê, o impossível é tarefa que somente demora um pouco para ser
 realizada, já que o possível se pode realizar imediatamente.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 39, do
 livro Convites da vida, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
@@ -95,4 +95,4 @@ psicografia de Divaldo Pereira Franco, ed. LEAL.
 Em 14.2.2017.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5027)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5027)

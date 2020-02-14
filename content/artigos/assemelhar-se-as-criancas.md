@@ -97,7 +97,7 @@ Quero ser menino contigo e viajar pela Terra mais uma vez, como se fosse a
 primeira, pois as crianças sempre assistem o que gostam diversas vezes, com a
 alegria e a emoção da primeira vez.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no
  Evangelho de Marcos, cap. 10, versículos 13 a 16
 e no poema Quero ser menino contigo, de Andrey Cechelero.
@@ -106,6 +106,6 @@ Em 20.10.2014.
  
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4278)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4278)
 
 

@@ -89,10 +89,10 @@ quem amamos, esses sim são eternos...
 
 Pensemos nisso... Mas pensemos agora!
 
-## Source
+## Fonte
 Redação do Momento Espírita,
 com base em conto de autoria ignorada.
 Em 10.9.2014.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4239)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4239)

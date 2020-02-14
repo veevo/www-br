@@ -80,11 +80,11 @@ Dessa forma nos ensinou que a vida é um poema de júbilos em nome do amor.
 
 Pensemos nisso.
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 17,
 do livro Momentos de Esperança, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
 
 Em 16.11.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3952)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3952)

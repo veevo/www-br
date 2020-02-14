@@ -92,10 +92,10 @@ Compreenderemos, enfim, que o mundo melhor depende apenas de cada um de nós. E
 algumas crianças nos recordam disso, com seus exemplos.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com relato
 de fato da vida de Ronnie Hazlie.
 
 Em 27.7.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=

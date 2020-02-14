@@ -109,7 +109,7 @@ Desse modo, apenas Espíritos enobrecidos terão acesso ao seu lar.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1638)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1638)

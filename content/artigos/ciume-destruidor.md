@@ -92,7 +92,7 @@ Se o outro estiver, verdadeiramente, permitindo que a relação esfrie, que o
 amor amorne, providenciemos o melhor para o estreitamento dos laços afetivos,
 guardando a certeza de que é nos pequenos gestos que a relação se fortalece.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 48,
 do livro Para que minha vida se transforme, v. 1, de
 Maria Salete e Wilma Ruggeri, ed. Verus.
@@ -100,4 +100,4 @@ Maria Salete e Wilma Ruggeri, ed. Verus.
 Em 24.10.2014.
 
  
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4281)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4281)

@@ -92,9 +92,9 @@ esse amor para com esses difíceis de amar.
 
 Exercitemos o amor.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 17.8.2013.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3887)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3887)

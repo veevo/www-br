@@ -81,11 +81,11 @@ lembremo-nos da orientação de Emmanuel:
 na direção dos outros, com o equilíbrio e a tolerância com que desejamos que
 elas venham até nós.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com citação do cap. 24, do Livro
 da esperança, pelo Espírito Emmanuel, psicografia de
 Francisco Cândido Xavier, ed. CEC.
 
 Em 8.6.2016.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4809)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4809)

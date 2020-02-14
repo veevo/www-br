@@ -92,10 +92,10 @@ beleza, o justo.
 Pensemos nisso. Façamos isso porque todos os filhos de Deus fomos criados para
 a luz e para o amor.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base
 em fábula, de autoria desconhecida.
 
 Em 5.2.2016.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4698)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4698)

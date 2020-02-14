@@ -95,13 +95,13 @@ Pense nisso.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 29, do livro Caminho,
 Verdade e Vida, pelo Espírito Emmanuel, psicografia de
 Francisco Cândido Xavier, ed. Feb.
 Em 18.04.2012.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3406)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3406)
 
 

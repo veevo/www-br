@@ -89,7 +89,7 @@ E agora, você já sabe responder qual é a sua real estatura?
 
 Lembre-se de que você é do tamanho do que vê e não do tamanho da sua altura...
 
-## Source
+## Fonte
 [Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1422)
 Em 17.07.2009.
 

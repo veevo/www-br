@@ -100,7 +100,7 @@ de caráter.
 Afinal, sendo uma energia sublime, o amor não pode provocar a queda moral do
 ser amado.
 
-## Source
+## Fonte
 Texto da Equipe de Redação do Momento Espírita.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1266)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1266)

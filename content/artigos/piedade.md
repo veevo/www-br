@@ -85,7 +85,7 @@ abnegação em favor dos desgraçados, é a virtude por excelência, a que em to
 sua vida praticou o Divino Messias e ensinou na Sua doutrina tão santa e tão
 sublime.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. A compaixão, do livro Pequeno
 tratado das grandes virtudes, de André Comte Spoville, ed. Martins Fontes e
 no item 17, do cap. XIII, do livro O Evangelho segundo o Espiritismo, de
@@ -94,4 +94,4 @@ Allan Kardec, ed.  Feb.
 Em 25.11.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2434)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2434)

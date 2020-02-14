@@ -113,7 +113,7 @@ dedicado que jamais nos abandona: o meigo Rabi da Galiléia.
 
 Pense nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 mensagem volante sem menção ao autor.
 Disponível no CD Momento Espírita, v. 6, ed. Fep.
@@ -121,4 +121,4 @@ Disponível no CD Momento Espírita, v. 6, ed. Fep.
 Em 29.09.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=385)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=385)

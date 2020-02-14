@@ -110,11 +110,11 @@ Pense nisso.
 
 Escute o áudio deste texto
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v.13, ed. FEP.
 
 Em 13.7.2019. 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5793)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5793)

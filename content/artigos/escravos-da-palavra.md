@@ -63,11 +63,11 @@ Cultivemos o verbo elegante, a palavra de consolo, os temas edificantes para
 que nossa boca não seja quem nos condene, fazendo-nos escravos daquilo que, de
 forma invigilante, expressamos com a palavra não refletida.
 
-## Source
+## Fonte
 Redação do Momento Espírita, a partir de seminário ministrado por
 Divaldo Pereira Franco, no Encontro fraterno, na praia de
 Guarajuba, Bahia, em data de 05.09.09.
 
 Em 03.12.2009.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2443)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2443)

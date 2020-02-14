@@ -87,7 +87,7 @@ salvo!
 
 Perseveremos no bem, conservando a honra inigualável de filhos de Deus.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em fato narrado
 por Sandra Della Pola, em palestra proferida no Teatro da
 Federação Espírita do Paraná, no dia 11 de julho de 2010.
@@ -95,4 +95,4 @@ Disponível no livro Momento Espírita, v. 10, ed. FEP.
 
 Em 22.1.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5645)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5645)

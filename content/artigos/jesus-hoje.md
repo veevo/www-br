@@ -91,7 +91,7 @@ nos preenchem a alma.
 Busquemos o Bom Pastor, que está sempre pronto a nos amparar, nós, as ovelhas de
 seu rebanho.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 22.12.2015.
 

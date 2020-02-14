@@ -118,10 +118,10 @@ A melhor forma de ser feliz é cuidar da felicidade do próximo.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 6.4.2015.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1561)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1561)

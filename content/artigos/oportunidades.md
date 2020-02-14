@@ -97,10 +97,10 @@ Ademais, lembremo-nos sempre de que Jesus, o Sábio dos sábios, alertou que é
 preferível entrar na vida sem alguns membros, do que cair novamente por causa
 deles.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no artigo As
 duas faces da campanha, da Associação Médico-Espírita do Paraná.
 
 Em 18.10.2010.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=434)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=434)

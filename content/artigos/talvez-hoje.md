@@ -88,7 +88,7 @@ Mas, em vez de reconhecermos isso, achamos mais simples, menos humilhante para
 a nossa vaidade acusar a sorte, a Providência, a má fortuna, a má estrela, 
 quando a má estrela é apenas o nosso desleixo.
 
-# Source
+# Fonte
 Redação do Momento Espírita, com base no cap. V, item 4,
 de O Evangelho segundo o Espiritismo, de Allan Kardec, ed.
 FEB e no cap. 25, do livro Respostas da vida, pelo Espírito
@@ -97,4 +97,4 @@ ed. IDEAL.
 
 Em 21.3.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5375)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5375)

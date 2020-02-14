@@ -86,9 +86,9 @@ emocional. Todos estamos sujeitos a essas dificuldades.
 Finalmente, lembre que a oportunidade da encarnação é o maior tesouro que
 podemos ter recebido. Aproveite cada instante.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 27.9.2019. 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5856)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5856)

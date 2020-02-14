@@ -97,8 +97,8 @@ Pensemos nisso e nos amemos. Amemos nosso corpo, nosso instrumento de trabalho.
 Amemos nossa vida, talento divino que nos foi concedido para a realização do
 melhor.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 15.4.2019.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5716)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5716)

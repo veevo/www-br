@@ -72,11 +72,11 @@ O tabagismo é um dos maiores problemas da saúde pública.
 A mulher fumante que engravida e abandona o vício, para preservar a integridade
 física do bebê em formação, afirma com sua atitude sua capacidade de amar.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em informações do volant
 e Mãe, não fume durante a gravidez, impresso e distribuído
 pelo Ministério da Saúde.
 
 Em 24.11.2009.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2433)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2433)

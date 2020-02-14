@@ -123,10 +123,10 @@ realizações.
 Pense nisso.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 17.6.2013.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1771)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1771)
 
 

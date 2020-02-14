@@ -95,10 +95,10 @@ mar, seria uma ilha. E certamente estaria isolado.
 
 Pense nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 07.02.2011.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2898)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2898)

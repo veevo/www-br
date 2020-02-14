@@ -94,6 +94,6 @@ Assim, não é relevante lembrar o passado.
 O importante é viver bem o presente.
 
 
-## Source
+## Fonte
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1302)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1302)

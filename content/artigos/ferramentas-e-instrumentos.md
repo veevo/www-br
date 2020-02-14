@@ -81,7 +81,7 @@ nos permitiu criar, inventar, obter.
 E busquemos deles nos servir somente para o bem, para coisas grandiosas,
 próprias dos que fomos criados por um Deus de amor e paz.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 O livro das invenções, de Marcelo Duarte, ed.
 Companhia das Letras.
@@ -89,4 +89,4 @@ Companhia das Letras.
 Em 15.3.2019.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5688)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5688)

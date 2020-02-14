@@ -129,8 +129,8 @@ Só depende de você.
 
                                                                                
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 19.6.2014.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4167)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4167)

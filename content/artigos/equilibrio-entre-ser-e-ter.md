@@ -79,7 +79,7 @@ simplicidade.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap.
 Propriedade, do livro Jesus e o Evangelho à luz da
 psicologia profunda, pelo Espírito Joanna de Ângelis,
@@ -87,4 +87,4 @@ psicologia profunda, pelo Espírito Joanna de Ângelis,
 Em 01.04.2010.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2572)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2572)

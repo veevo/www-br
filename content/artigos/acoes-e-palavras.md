@@ -91,9 +91,9 @@ O que você faz fala tão alto, que não consigo ouvir o que você diz.
 
 Escute o áudio deste texto
 
-# Source
+# Fonte
 Redação do Momento Espírita.
 
 Em 10.4.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5712)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5712)

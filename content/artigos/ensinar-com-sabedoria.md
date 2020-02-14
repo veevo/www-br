@@ -81,9 +81,9 @@ e sem traumas.
 
         Pensemos nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. O morro, de Laura E. Richards,
 de O livro das virtudes, v. 2, de William J. Bennett, ed. Nova Fronteira.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=227)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=227)

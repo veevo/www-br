@@ -101,11 +101,11 @@ Pense nisso, mas, pense agora!
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em texto de autoria ignorada.
 Disponível no livro Momento Espírita v. 2, ed. Fep.
 
 Em 18.10.2010.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=422)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=422)

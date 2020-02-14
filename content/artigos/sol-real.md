@@ -87,11 +87,11 @@ Pense nisso, e, se guardar algum tipo de medo, que seja o de perder a própria
 luz.
 
  
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita, com base no cap. 6, pt. 1, do livro Pais
 brilhantes, professores fascinantes, de Augusto Cury, ed. Sextante.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1271)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1271)
 
 

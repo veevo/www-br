@@ -95,7 +95,7 @@ Os que assim agem, provam sua real modéstia e se enquadram exatamente no ensino
 evangélico: Não saber a mão esquerda o que dá a mão direita.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. O benfeitor secreto,
 do livro Histórias para aquecer o coração dos pais, de Jack Canfield,
 Mark Victor Hansen, Jeff Aubery, Mark & Chrissy Donnelly, ed. Sextante
@@ -104,4 +104,4 @@ de Allan Kardec, ed. FEB.
 
 Em 5.10.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4592)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4592)

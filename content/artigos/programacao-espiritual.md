@@ -109,9 +109,9 @@ conduzir os Espíritos à felicidade.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 17.1.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5319)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5319)

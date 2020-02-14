@@ -91,9 +91,9 @@ Um dia, um Sábio de Nazaré disse: Quem tem olhos de ver, veja.
 
 Pense nisso, ajuste suas lentes, e seja um garimpeiro de virtudes! 
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 22.12.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1217)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1217)

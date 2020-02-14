@@ -91,11 +91,11 @@ sentirmos magoados e feridos.
 
 É compreender e ajudar.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. XII,
 itens 7 e 8  de O Evangelho segundo o Espiritismo, de
 Allan Kardec, ed. FEB.
 
 Em 5.2.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5337)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5337)

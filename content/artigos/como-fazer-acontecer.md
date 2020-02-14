@@ -87,11 +87,11 @@ nada bem-vindos, e logo os espantemos para longe de nós.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, a partir do texto Como
 fazer acontecer, distribuído gratuitamente pela empresa Tilibra.
 
 Em 18.11.2013.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=766)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=766)

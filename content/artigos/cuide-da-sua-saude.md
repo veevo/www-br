@@ -85,11 +85,11 @@ daquela.
 Desatender as necessidades que a própria natureza indica, é desatender a lei de
 Deus.
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita, com base no cap. 29 do livro Para uso
 diário, Espírito Joanes, psicografia de J. Raul Teixeira, Ed. Fráter.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1172)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1172)
 
 

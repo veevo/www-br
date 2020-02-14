@@ -88,8 +88,8 @@ Permita-se renovar: é preciso um minuto, não mais do que um minuto.
 
 Pense nisso. Aproveite o próximo minuto.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 15.5.2014.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4137)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4137)

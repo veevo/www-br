@@ -84,7 +84,7 @@ Se não respeitamos os demais, como desejamos invocar justiça para nós?
 Pensemos nisso e acolhamos a proposta de amor e justiça de Jesus. Então, a nossa
 avaliação de justiça será correta e precisa.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com ideias extraídas do programa televisivo
 Vida e Valores, gravado por Raul Teixeira, em abril de 2008, no Teatro
 da FEP, disponível em http://www.feparana.com.br/topico/?topico=2183
@@ -92,4 +92,4 @@ e citação do Evangelho de Mateus, cap. 5, versículo 20.
 
 Em 2.3.2015.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4402)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4402)

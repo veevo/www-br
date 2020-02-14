@@ -83,11 +83,11 @@ Nada igual à coragem de Jesus que a todos amou, entendeu e perdoou, mesmo nos
 momentos de maior sofrimento!
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base nos cap. 6 e 9 do livro
 Iluminação interior, pelo Espírito Joanna de Ângelis, psicografia
 de Divaldo Pereira Franco, ed. LEAL.
 
 Em 18.9.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2298)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2298)

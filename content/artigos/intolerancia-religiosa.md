@@ -91,9 +91,9 @@ nos faz bem.
 tateando, dando os primeiros passos, na busca de entender a Sua grandiosidade e
                                                                        bondade.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 6.6.2015.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4484)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4484)

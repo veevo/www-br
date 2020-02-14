@@ -75,11 +75,11 @@ consequência da transgressão da Lei Divina.
 
 A riqueza da pedra, realmente, nunca será rica...
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no poema A riqueza da pedra,
 de Andrey Cechelero, do livro No castelo do Espírito e na questão 714 de
 O livro dos Espíritos, de Allan Kardec, ed. FEB.
 Em 1º.7.2019.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5782)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5782)

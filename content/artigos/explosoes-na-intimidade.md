@@ -81,7 +81,7 @@ identificação com o Espírito do Cristo.
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.30,
 do livro Cintilação das estrelas, pelo Espírito Camilo,
 psicografia de Raul Teixeira, ed. Fráter.
@@ -89,4 +89,4 @@ psicografia de Raul Teixeira, ed. Fráter.
 Em 05.07.2010.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=212)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=212)

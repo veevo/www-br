@@ -98,12 +98,12 @@ Veja a beleza de livros e canções. Quem disse que não há prazer nas coisas
 pequeninas que Deus pôs ao nosso alcance?
  
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 6, ed. FEP.
 Em 6.6.2014.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4152)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4152)
 
 

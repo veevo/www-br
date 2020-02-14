@@ -87,10 +87,10 @@ ruas ou cultivando jardins, todos somos peças importantes dessa grande nave que
 chamamos Terra, e cujo administrador é Deus.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em artigo
 publicado na revista Crescer, de mai/1999.
 
 Em 13.09.2010.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=498)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=498)

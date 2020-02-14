@@ -93,7 +93,7 @@ A alteração do comportamento se dá, mesmo quando usado em pequenas doses.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no artigo Alerta máximo
 – para onde caminha  a juventude, publicado no Hora H de 20 a 26/05/1996
 e no artigo Alcoolismo destruidor de vidas, publicado no Correio Fraterno do
@@ -102,4 +102,4 @@ Em 10.07.2009.
 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2278)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2278)

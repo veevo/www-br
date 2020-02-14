@@ -113,7 +113,7 @@ Assim, a prática do bem é e sempre será nossa melhor atitude.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base na mensagem Três atitudes,
 do livro Seara dos médiuns, pelo Espírito Emmanuel, psicografia de Francisco
 Cândido Xavier, ed. Feb.
@@ -122,4 +122,4 @@ Em 08.11.2010.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=634)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=634)

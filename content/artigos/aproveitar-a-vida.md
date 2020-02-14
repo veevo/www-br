@@ -100,7 +100,7 @@ embeleza e alcança os altos planos da realidade feliz.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com pensamentos finais extraídos do item Alegria
 de viver, do cap. 6, do livro Vida: desafios e soluções, pelo Espírito Joanna
 de Ângelis, psicografia de Divaldo Pereira Franco, ed. Leal.
@@ -108,4 +108,4 @@ Disponível no CD Momento Espírita v.6, ed. Fep.
 Em 29.11.2010.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2502)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2502)

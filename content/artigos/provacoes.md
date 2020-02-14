@@ -78,11 +78,11 @@ sempre em mente que, dos braços da cruz em que nos encontramos atados,
 conseguiremos alçar mais rapidamente às elevadas esferas da libertação.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 13, do livro Momentos de
 felicidade, pelo Espírito Joanna de Ângelis, psicografia de Divaldo Pereira
 Franco, ed. Leal.
 Em 05.11.2011.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3221)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3221)

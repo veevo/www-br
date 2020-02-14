@@ -88,7 +88,7 @@ misericórdia, que haveria de preceder a do amor real.
 Ele mesmo viveu durante todo o Seu ministério a Lei do amor e por ela deu a
 vida.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 4 do livro Luz do mundo e
 no cap. 8 do livro Pelos caminhos de Jesus, ambos pelo Espírito
 Amélia Rodrigues, psicografia de Divaldo Pereira Franco, ed. Leal.
@@ -96,4 +96,4 @@ Amélia Rodrigues, psicografia de Divaldo Pereira Franco, ed. Leal.
 Em 08.12.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2452)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2452)

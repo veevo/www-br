@@ -79,12 +79,12 @@ Pensemos a respeito e alicercemos nossos valores nessas certezas maiores. Isso
 nos dará sentido à existência, isso nos apontará a felicidade.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. II, item 100,
 do livro O que é o Espiritismo, de Allan Kardec, ed. FEB.
 Em 29.11.2018.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5600)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5600)
 
 

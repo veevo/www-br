@@ -93,13 +93,13 @@ a vitória sobre nós mesmos e nossas imperfeições morais?
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. 6, do livro A mensagem do
 Amor Imortal, pelo Espírito Amélia Rodrigues, psicografia de Divaldo Pereira Franco, ed.
 Leal.
 Em 17.04.2009.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2181)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2181)
 
 

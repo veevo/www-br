@@ -99,11 +99,11 @@ Sirva sempre ao bem. Vibre no bem. Espalhe o bem e contagie a muitos, com a sua
 disposição de acertar, de ser melhor, em plena consciência de seus pensamentos
 e atos.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 12 e no
 livro Momento Espírita, v. 6, ed. FEP.
 
 Em 14.1.2014.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1465)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1465)

@@ -92,8 +92,8 @@ alma qualquer sentimento de ordem inferior.
 Pensemos nisso e procuremos agir no sentido de não guardarmos o que nos possa
 fazer mal ou albergarmos na alma sentimentos menos nobres.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 10.12.2016.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4966)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4966)

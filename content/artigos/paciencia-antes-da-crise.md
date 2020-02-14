@@ -88,12 +88,12 @@ deste trabalho está em começar já, imediatamente.
 Quem antes inicia, antes colhe os benefícios.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 10,
 do livro Alegria de viver, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
 Em 16.7.2015.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4518)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4518)
 
 

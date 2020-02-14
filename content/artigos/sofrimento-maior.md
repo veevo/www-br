@@ -81,7 +81,7 @@ Vivamos cada dia no bem, aplicando a caridade plena que é benevolência para co
 todos, indulgência para as imperfeições dos outros e perdão das ofensas.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no artigo O
 holocausto maior, de Rogério Coelho, da revista
 Reformador, de março de 2001, ed. FEB e  citação do
@@ -90,4 +90,4 @@ item 886, de O livro dos Espíritos, de Allan Kardec,ed. FEB.
 Em 8.6.2013.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=611)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=611)

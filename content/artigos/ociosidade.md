@@ -103,10 +103,10 @@ positivas, para que a lucidez não nos abandone jamais.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 15.8.2012.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3539)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3539)

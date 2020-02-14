@@ -103,10 +103,10 @@ vencermos a fraqueza cruel.
 Sigamos nossa caminhada, pacificados, deixando a irritabilidade simplesmente
 como uma experiência no nosso passado.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com pensamentos do cap. CXLVI,
 do livro Vida Feliz, pelo Espírito Joanna de Ângelis, psicografia
 de Divaldo Pereira Franco, ed. LEAL.
 Em 7.1.2019.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5631)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5631)

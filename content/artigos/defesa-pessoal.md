@@ -91,13 +91,13 @@ A tranquilidade do agredido infunde paz no violento, que se desarma do ódio e
 se dá conta da sua hostilidade sem justificativa.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 17, do livro Pelos
 caminhos de Jesus, pelo Espírito Amélia Rodrigues, psicografia de Divaldo
 Pereira Franco, ed. Leal.
 Em 19.11.2012.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3670)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3670)
 
 

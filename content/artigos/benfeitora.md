@@ -100,7 +100,7 @@ Utilizemos a fé como remédio certo para o sofrimento. Ela aponta sempre os
 horizontes do infinito, ante os quais se esvaem os poucos dias de sombra do
 presente.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.4, Do livro Momentos
 de felicidade, pelo Espírito Joanna de Ângelis, psicografia de Divaldo
 Pereira Franco, ed. LEAL; no cap. 5, de O Evangelho segundo
@@ -110,4 +110,4 @@ O problema do ser, do destino e da dor, de Léon Denis, ed. FEB.
 Em 21.9.2016. 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4901)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4901)

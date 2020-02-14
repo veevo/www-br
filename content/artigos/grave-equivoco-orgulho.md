@@ -89,7 +89,7 @@ grandes diretrizes da vida.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. Orgulho também é um erro, do livro
 Reencarnação e vida, de Amália Domingo Soler, ed. Ide e no verbete Humildade, do
 livro Repositório de sabedoria, v. 1, pelo Espírito Joanna de Ângelis,
@@ -97,4 +97,4 @@ psicografia de Divaldo Pereira Franco, ed. LEAL.
 
 Em 16.5.2014. 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4144)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4144)

@@ -94,10 +94,10 @@ Paciência é a atitude inteligente de quem compreende que as pessoas nem sempre
 são como os outros desejariam que fossem.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 25.7.2012.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3511)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3511)

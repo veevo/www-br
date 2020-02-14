@@ -94,9 +94,9 @@ aquele que enfrenta a vida de “cara limpa”.
 
 Você que ainda é jovem e tem saúde física e mental, pense nisso!
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita, com base em matéria publicada pela
 BBC-Brasil em 24 de agosto, 2004 13h06 Gmt (10h06 Brasília).
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1146)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1146)

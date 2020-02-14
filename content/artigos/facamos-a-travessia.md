@@ -96,8 +96,8 @@ Envoltos pela luz do Mestre, que nosso caminhar nos conduza ao amor, ao perdão,
 Jesus é a ponte, o caminho e o guia. Tenhamos coragem! Façamos a travessia da
 nossa pobre condição humana para a angelitude!
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 21.4.2018.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5402)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5402)

@@ -110,10 +110,10 @@ Caso não ache seu comportamento muito nobre, dedique-se a alterá-lo.
 Não porque outros o forcem a isso, mas porque você quer ser alguém equilibrado
 e digno em todos os instantes de sua vida.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 22.04.2008.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1831)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1831)

@@ -102,7 +102,7 @@ Tempo de abraçar e de se afastar.
 Há tempo de calar e de falar. Há o tempo de guerra e o tempo de paz. Mas sempre
 é tempo de amar.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no texto História de amor, de autoria
 desconhecida e no cap. 3, versículos 1 a 8 do livro Eclesiastes, da Bíblia, ed.
 Paulinas.  
@@ -112,4 +112,4 @@ Disponível no CD Momento Espírita, v. 5, ed. Fep.
 Em 09.03.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=630)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=630)

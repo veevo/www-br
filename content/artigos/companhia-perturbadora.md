@@ -81,7 +81,7 @@ medida que os homens de boa vontade se multiplicarem.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em texto da Revista Espírita, de Allan
 Kardec, de julho de 1858  e no cap. 5 da obra O ser consciente, pelo Espírito
 Joanna de Ângelis, psicografia de Divaldo Pereira Franco, ed. Leal.
@@ -89,4 +89,4 @@ Em 02.03.2011.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2920)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2920)

@@ -82,9 +82,9 @@ pulmonares?
 E que os filhos de mulheres fumantes pesam, ao nascer, até quatrocentos e vinte
 gramas menos que os filhos de não fumantes? 
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 20.11.2013.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=254)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=254)

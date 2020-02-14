@@ -86,8 +86,8 @@ lágrimas.
 
 Estavam diante da pessoa mais simples e também a mais rica do mundo!
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 18.3.2016.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4737)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4737)

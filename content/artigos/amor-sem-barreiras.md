@@ -88,10 +88,10 @@ si próprio.
 
 Em síntese, o bem faz bem a quem o pratica.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em dados colhidos
 em notícias a respeito do casal Mike e Camille Gerardi.
 
 Em 14.9.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5849)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5849)

@@ -93,11 +93,11 @@ violência.
 O verdadeiro ensinamento do amor é forte: ele mata o mal antes que o mal possa
 crescer e tornar-se poderoso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 trechos do livro Pensamentos para uma vida feliz,
 de Léon Tolstói, ed. Prestígio.
 
 Em 10.1.2017.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4996)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4996)

@@ -104,13 +104,13 @@ Por ser o álcool uma droga socialmente aceita, os pais não se dão conta de qu
 estão permitindo que seus filhos adentrem por caminhos de difícil volta.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 dados extraídos de nota publicada no Jornal
 Gazeta do Povo, em 26/09/96.
 Em 13.09.2010.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2746)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2746)
 
 

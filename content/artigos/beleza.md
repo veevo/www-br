@@ -103,10 +103,10 @@ que importa é a do Espírito que vive para o bem.
 
 Pense nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 26.9.2013.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1620
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1620

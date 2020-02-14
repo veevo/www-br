@@ -83,7 +83,7 @@ cheios de tranqüilidade e de sol.
         Cabe-nos aprender a servir sob a noite tormentosa, e ao longo das
 sendas repletas de dores e dificuldades de toda sorte.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 42, do livro  Vozes do grande
 além, por Espíritos diversos, psicografia de Francisco Cândido Xavier, ed. Feb,
 e no verbete Servir, do livro Dicionário da alma, por Espíritos diversos,
@@ -92,4 +92,4 @@ psicografia de Francisco Cândido Xavier, ed. Feb.
 Em 22.07.2008.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1906)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1906)

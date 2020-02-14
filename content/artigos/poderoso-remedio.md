@@ -97,12 +97,12 @@ desenvolvimento das faculdades humanas.
 
  
 
-## Source
+## Fonte
 Fonte:  
 Revista Seleções do Reader's Digest, março/2000, pág. 69  
 O Evangelho segundo o Espiritismo, cap. XIX, item 12.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=483)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=483)
 
 

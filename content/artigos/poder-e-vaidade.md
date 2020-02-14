@@ -102,7 +102,7 @@ Deixemos a vaidade de lado e ofertemos o nosso coração livre de dores.
 Ofereçamo-lo a Deus como homens, de pé, e não como escravos, de joelhos.
 Lembremo-nos de Deus também nas horas de alegria e felicidade.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. V, pt.1, do livro Há 2000 anos,
 pelo Espírito Emmanuel, psicografia de Francisco Cândido Xavier, ed. Feb.
 Disponível no CD Momento Espírita, v. 2, ed. Fep.
@@ -110,4 +110,4 @@ Disponível no CD Momento Espírita, v. 2, ed. Fep.
 Em 18.01.2010.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=476
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=476

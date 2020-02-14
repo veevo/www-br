@@ -110,7 +110,7 @@ voltar ao topo topo
 © Copyright - Momento Espírita - 2019 - Todos os direitos reservados - No ar
 desde 28/03/1998
 
-## Source
+## Fonte
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5264)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5264)

@@ -108,11 +108,11 @@ maravilhosa.
 
 Eis uma meta pela qual vale a pena lutar.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 12, ed. FEP.
 
 Em 26.7.2019.
 
  
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5804)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5804)

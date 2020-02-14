@@ -96,7 +96,7 @@ aflições e ficará inatingido, portanto, feliz.”
 Perdoar sempre. Lembremos disso. Perdoar sempre.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.20,
 do livro Pelos caminhos de Jesus, pelo Espírito
 Amélia Rodrigues, psicografia de Divaldo Pereira Franco,
@@ -105,6 +105,6 @@ Em 16.11.2015.
 
  
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4629)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4629)
 
 

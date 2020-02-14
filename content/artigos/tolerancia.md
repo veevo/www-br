@@ -81,7 +81,7 @@ Contribua sempre com um pouco de amor para vencer o mal do mundo.
 Tolerância é caridade em começo. Exercitando-a, em regime de continuidade, você
 defrontará com os excelentes resultados do bem onde esteja, com quem conviva.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. 14
 do livro Sinal verde, pelo Espírito André Luiz, psicografia de Francisco
 Cândido Xavier e no cap. 56 do livro Convites da vida, pelo Espírito
@@ -89,4 +89,4 @@ Joanna de Ângelis, psicografia de Divaldo Pereira Franco, ed. Leal.
 
 Em 25.04.2011.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=640)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=640)

@@ -91,7 +91,7 @@ abnegação, conquistaremos de todos eles a bênção da simpatia. 
 
 Trabalhemos em nós essa virtude, a partir de agora. Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. Tolerância, do livro
 Pequeno tratado das grandes virtudes, de Andre Compte Sponville, ed. Martins
 Fontes e no texto Tolerância, do livro Plantão de paz, pelo Espírito Emmanuel,
@@ -99,4 +99,4 @@ psicografia de Francisco Cândido Xavier, ed. IDE.
 Em 19.9.2013.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3910)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3910)

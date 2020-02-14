@@ -83,7 +83,7 @@ juventude.
 Este o verdadeiro sentido do mandamento do Decálogo.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no item 3 do cap. XIV do livro O
 Evangelho segundo o Espiritismo, de Allan Kardec, ed. Feb e na lenda romana 
 Appius, recontada por H. Twitchell, de O livro das virtudes, v. II, de William
@@ -94,4 +94,4 @@ Disponível no cd Momento Espírita, v. 19, ed. Fep.
 Em 12.08.2011.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3105)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3105)

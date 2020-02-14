@@ -87,7 +87,7 @@ todos nós, e que possamos fazer algo positivo para ajudar nossos jovens a não
 seguirem pelo mesmo caminho.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em texto do jornal interno da Itaipu
 Binacional.
 Disponível no livro Momento Espírita v. 2, ed. Fep.
@@ -95,4 +95,4 @@ Disponível no livro Momento Espírita v. 2, ed. Fep.
 Em 03.11.2010.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=201)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=201)

@@ -98,9 +98,9 @@ Amando-nos e amando ao próximo, perto estaremos de amar a Deus!
 
 Escute o áudio deste texto
 
-# Source
+# Fonte
 Redação do Momento Espírita.
 
 Em 14.11.2015. 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4627)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4627)

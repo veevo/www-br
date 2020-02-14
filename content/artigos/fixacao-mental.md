@@ -81,10 +81,10 @@ atormentados.
 E a oração, na busca de inspirações nobres vindas do Alto.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita com base no artigo Fixação mental, de Orson Peter
 Carrara, da Revista Reformador, de setembro de 1996, ed. Feb.
 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1571)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1571)

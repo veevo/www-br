@@ -101,11 +101,11 @@ não tenham tido a felicidade de ter um pai como você...
 
 E peço a Deus por você, papai, meu grande amigo.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, Coletânea v. 8 e 9
 e livro Momento Espírita, v. 4,  ed. FEP.
 
 Em 20.11.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=773)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=773)

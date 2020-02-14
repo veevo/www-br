@@ -78,11 +78,11 @@ mundo, que o ser se abastece de energias, vigor, valores reais que são, em
 verdade, as únicas heranças autênticas que os pais legam aos filhos.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, a partir do texto Pai,
 que circula pela Internet, sem menção a autor.
 Disponível no CD Momento Espírita, v.19, ed. FEP.
 
 Em 10.8.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5817)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5817)

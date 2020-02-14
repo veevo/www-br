@@ -91,7 +91,7 @@ vida.
 
 Sendo assim, relaxemos e sejamos felizes.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 5,
 do livro Para uso diário, pelo Espírito Joanes, psicografia
 de Raul Teixeira, ed. FRÁTER.
@@ -99,4 +99,4 @@ de Raul Teixeira, ed. FRÁTER.
 Em 9.6.2018.
 
  
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5446)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5446)

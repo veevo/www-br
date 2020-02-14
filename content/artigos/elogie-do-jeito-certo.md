@@ -77,9 +77,9 @@ melhores soluções para a educação de seus rebentos.
 Aprendamos, assim, a elogiar corretamente, reforçando comportamentos positivos,
 contribuindo na formação de homens e mulheres de bem.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no artigo Elogie do jeito certo, de Marcos
 Meier, do site www.marcosmeier.com.br .
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3240)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3240)

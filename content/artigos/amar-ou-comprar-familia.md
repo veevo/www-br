@@ -90,10 +90,10 @@ Quão felizes seriam com visitas e conversas mais longas.
 Por tudo isso, reflita hoje: estou amando ou comprando minha família?
 
  
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 7, ed. FEP.
 Em 25.1.2017. 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5010)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5010)
 

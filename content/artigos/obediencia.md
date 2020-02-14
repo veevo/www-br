@@ -109,11 +109,11 @@ Pensemos nisso e nos disponhamos a segui-lO, nosso Modelo e Guia.
 
 Escute o áudio deste texto
 
-# Source
+# Fonte
 Redação do Momento Espírita, com base no cap. 16, do
 livro Pão nosso, pelo Espírito Emmanuel, psicografia
 de Francisco Cândido Xavier, ed. FEB.
 
 Em 18.1.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5641)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5641)

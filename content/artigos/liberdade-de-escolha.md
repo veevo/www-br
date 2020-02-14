@@ -103,12 +103,8 @@ que estaremos obrigatória e inafastavelmente vinculados à colheita de seus
 frutos.
 
  
-
-## Source
-Redação do Momento Espírita com base no livro
-Momentos de alegria, pelo Espírito Joanna de Ângelis,
-psicografia de Divaldo Pereira Franco, ed. Leal.
-Em 26.01.2011.
-
-
-[Original Article (pt-BR)](
+## Fonte
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2888)
+Com base no livro Momentos de alegria, pelo Espírito Joanna de Ângelis,  
+psicografia de Divaldo Pereira Franco, ed. Leal.  
+Em 26.01.2011.  

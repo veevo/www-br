@@ -83,7 +83,7 @@ se fará, com constância e persistência.
 
 Prossigamos para o Alto.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 167,
 do livro Fonte Viva, pelo Espírito Emmanuel, psicografia
 de Francisco Cândido Xavier, ed. FEB.
@@ -91,4 +91,4 @@ de Francisco Cândido Xavier, ed. FEB.
 Em 6.10.2018. 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5553)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5553)

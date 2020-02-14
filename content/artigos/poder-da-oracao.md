@@ -91,11 +91,11 @@ Importante que entendamos bem os mecanismos da oração: pedir, saber pedir e,
 acima de tudo, merecer.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em artigo
 da revista Seleções Reader’s Digest, de abril de 1951.
 Em 18.01.2010.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=479)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=479)

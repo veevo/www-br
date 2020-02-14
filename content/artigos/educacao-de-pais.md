@@ -85,7 +85,7 @@ Assim, a educação exige que se estabeleçam normas claras para as crianças
 seguirem. Normas ditadas pelas boas maneiras, respeito aos semelhantes,
 modéstia e justiça.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no artigo
 Como criar filhos educados em um mundo rude, da
 Revista Seleções Reader’s Digest, outubro/1997.
@@ -93,4 +93,4 @@ Revista Seleções Reader’s Digest, outubro/1997.
 Em 29.12.2017.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5298)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5298)

@@ -91,11 +91,11 @@ Não permitamos que o desânimo nos impeça de viver, de agir e de sonhar. Sempr
 que o percebamos por perto, coloquemo-nos em oração, afirmando: Minha alma é
 maior e mais forte do que você.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 22,
 do livro Alvorada Cristã, pelo Espírito Néio Lúcio,
 psicografia de Francisco Cândido Xavier, ed. FEB.
 
 Em 19.3.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5373)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5373)

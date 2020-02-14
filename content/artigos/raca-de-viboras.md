@@ -81,11 +81,11 @@ Aproveite para conhecê-lo, neste ano em que completa cento e cinquenta e seis
 anos de esclarecimento e consolo.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no item 932 de O livro
 dos Espíritos, de Allan Kardec, ed. FEB e no Evangelho de Mateus
 12:34.
 
 Em 24.5.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=540)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=540)

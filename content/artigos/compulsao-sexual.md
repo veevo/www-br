@@ -191,7 +191,7 @@ e que o Bondoso Deus zela por todos os seus filhos e proporciona-lhes a
 bendita oportunidade de serem vitoriosos no mundo interior das lutas, das
 atribulações, da reeducação e do aperfeiçoamento.
 
-## Source
-Author: Américo Domingos Nunes Filho   
-Artigo do Jornal: Jornal Maio 2017  
-[Original Article (pt-BR)](http://www.correioespirita.org.br/categorias/ciencia-e-espiritismo/2437-compulsao-sexual-e-o-espiritismo)
+## Fonte
+[Compulsão Sexual e o Espiritismo | Correio Espírita](http://www.correioespirita.org.br/categorias/ciencia-e-espiritismo/2437-compulsao-sexual-e-o-espiritismo)
+Américo Domingos Nunes Filho   
+Jornal Maio 2017  

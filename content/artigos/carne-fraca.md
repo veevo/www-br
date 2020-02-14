@@ -82,7 +82,7 @@ sois deuses, podereis fazer o que eu faço, e muito mais.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. VII do livro
 O céu e o inferno, de Allan Kardec, ed. FEB e no livro Hahnemann,
 o apóstolo da medicina espiritual, de Hermínio C. Miranda, ed. CELD.
@@ -90,4 +90,4 @@ Disponível no CD Momento Espírita, v. 3, ed. FEP.
 
 Em 16.4.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5397)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5397)

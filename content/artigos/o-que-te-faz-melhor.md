@@ -87,7 +87,7 @@ Espíritos imortais que somos.
 Transmitamos às nossas crianças, desde cedo, esta importância de manter contato
 com o Criador, e de praticar o bem, acima de tudo.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base nos itens 302 e 838, de
 O livro dos Espíritos, ambos de Allan Kardec, ed. FEB e no livro
 Espiritualidade, um caminho de transformação, de Leonardo Boff,
@@ -96,4 +96,4 @@ ed. Sextante.
 Em 29.9.2017.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5224)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5224)

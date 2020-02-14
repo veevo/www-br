@@ -87,8 +87,8 @@ Deixar que cresçam e alegrar-se mesmo com o crescimento delas.
 No momento certo, saber tornar-se obscuro, a fim de que uma luz maior brilhe,
 em benefício de todos.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 29.05.2009.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2227)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2227)

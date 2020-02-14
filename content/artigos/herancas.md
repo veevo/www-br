@@ -94,7 +94,7 @@ para tal.
 
 (*)Jo. 3:8
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1380)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1380)

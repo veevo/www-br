@@ -85,9 +85,9 @@ termina a montagem de um quebra-cabeças.
 E levaremos conosco a lição da concentração, da perseverança, da tranquilidade,
 pelo êxito alcançado, pela dificuldade vencida.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 8.3.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5364)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5364)

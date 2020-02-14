@@ -85,8 +85,8 @@ Façamos parte desta transformação de alegria que tomará conta do orbe. Amemo
 mais. Participemos mais. Sorriamos mais.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita com citação do item 932 de O livro dos Espíritos,
 de Allan Kardec, ed. Feb.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3215)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3215)

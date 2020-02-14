@@ -103,8 +103,8 @@ Simplifique sua vida, valorize os outros, admita os próprios equívocos.
 
 Ao abrir mão da vaidade, seu viver se tornará muito mais leve e prazeroso.
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1342
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1342

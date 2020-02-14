@@ -103,13 +103,13 @@ a um futuro mais saudável e feliz.
 
 Pensemos nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no artigo
 O poder do perdão, de Lisa Collier Cool, de
 Seleções Reader’s Digest, de junho/2004.
 
 Em 12.9.2016.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=4893)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=4893)
 
 

@@ -82,9 +82,9 @@ minimizá-las, tomados de compaixão.
 Dessa forma, a pouco e pouco, avançaremos, no grande desafio que nos propõe
 Jesus, de amar ao próximo como a nós mesmos.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 4.5.2017.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5095)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5095)

@@ -98,7 +98,7 @@ Sorrindo,trabalhemos e aprendamos, auxiliando e amando sempre.
 Lembremos de que o sorriso é o orvalho da caridade e que em cada manhã, o dia
 renascente no céu é um sorriso de Deus.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 27,
 do livro Ações corajosas para viver em paz, pelo Espírito
 Benedita Maria, psicografia de Raul Teixeira, ed. Fráter e no
@@ -107,4 +107,4 @@ psicografia de Francisco Cândido Xavier, ed. IDEAL.
 
 Em 5.8.2016.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4861)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4861)

@@ -69,11 +69,11 @@ A sabedoria está, exatamente, em chegar ao equilíbrio que nos possibilite exce
 
 Pensemos nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base nos itens
 682 e 683 de O livro dos Espíritos, de Allan Kardec,
 ed. FEB.
 Em 8.9.2018.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5530)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5530)
 

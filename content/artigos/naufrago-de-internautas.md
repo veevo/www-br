@@ -89,7 +89,7 @@ uma caminhada que ninguém pode fazer em nosso lugar.
 
                                                                                
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no texto O naufrágio de
 muitos internautas, do livro Não nascemos prontos – provocações
 filosóficas, de Mario Sergio Cortella, ed Vozes.
@@ -97,4 +97,4 @@ filosóficas, de Mario Sergio Cortella, ed Vozes.
 Em 20.8.2013. 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1640)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1640)

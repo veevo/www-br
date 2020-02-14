@@ -82,11 +82,11 @@ a descobrir as belezas das flores, o segredo das matas, o encanto das fontes.
 
 Pensemos nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base na
 canção Tocando em Frente, de Almir Sater.
 Disponível no CD Momento Espírita, v. 32, ed. FEP.
 
 Em 26.3.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5099)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5099)

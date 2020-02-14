@@ -74,8 +74,8 @@ E criou-se a moda da argola na orelha.
 Por conhecer as origens desses modismos, é que vale a pena refletir até que
 ponto os enfeites trazem benefícios ou nos prejudicam a saúde.
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita, com base em palestra proferida por Raul
 Teixeira, em Natal-RN, no dia 31/05/03.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=941)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=941)

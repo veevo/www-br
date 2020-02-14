@@ -85,9 +85,9 @@ analisemos com cuidado suas origens e busquemos, com tranquilidade,
 substituí-los, a fim de que a saúde se faça em nós, no corpo, na mente e no
 coração.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 17.07.2010.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2671)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2671)

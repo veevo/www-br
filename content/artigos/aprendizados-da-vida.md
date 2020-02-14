@@ -78,9 +78,9 @@ Nesse entendimento, agradeçamos à bondade Divina por tudo que nos sucede.
 Amparados pela fé, busquemos aproveitar todo momento de nossa existência para
 que as lições sejam apreendidas, pela mente e pelo coração.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 17.12.2014.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4330)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4330)

@@ -93,7 +93,7 @@ Pense nisso!
 
                                                                                
 
-## Source
+## Fonte
 Redação do Momento Espírita com pensamentos extraídos
 do verbete Perdão, do livro Repositório de sabedoria,  v. II,
 pelo Espírito Joanna de Ângelis, psicografia de
@@ -102,4 +102,4 @@ Divaldo Pereira Franco, ed. Leal
 Em 03.09.2010
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=844
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=844

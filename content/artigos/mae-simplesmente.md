@@ -80,9 +80,9 @@ delas manjedoura para o Cristo Jesus, a fim de que Ele nasça no Espírito de
 cada filho deste nosso chão.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 22.6.2015.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4503)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4503)

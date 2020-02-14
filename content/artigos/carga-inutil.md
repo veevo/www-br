@@ -86,7 +86,7 @@ renovação de propósitos, não valorizando ofensas nem considerando ofensores.
                                                                                
 
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em história de autoria desconhecida e no
 verbete Mágoa, do livro Repositório de sabedoria, v. 2, pelo Espírito Joanna de
 Ângelis, psicografia de Divaldo Pereira Franco, ed. Leal.
@@ -94,4 +94,4 @@ verbete Mágoa, do livro Repositório de sabedoria, v. 2, pelo Espírito Joanna 
 Em 16.11.2011.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=769)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=769)

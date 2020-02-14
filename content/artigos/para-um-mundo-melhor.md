@@ -107,9 +107,9 @@ invioláveis leis de Deus.
 
 Pense nisso, mas pense agora!
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita, tendo por base a mensagem do Espírito
 Clélia Rocha, psicografada pelo médium Raul Teixeira, em 03.3.2003, na Fazenda 
 Recreio, Pedreira-SP.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1145)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1145)

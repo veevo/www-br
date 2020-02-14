@@ -89,8 +89,8 @@ Meditemos a respeito e procedamos aos ajustes dos nossos sentimentos e emoções
 amoldando-nos à lei de amor, para nossa própria saúde e felicidade.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 16.3.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3777)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3777)

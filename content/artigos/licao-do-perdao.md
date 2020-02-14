@@ -96,7 +96,7 @@ alcançou as alturas do bem e da solidariedade.
 Quando entendermos que perdoar é conquistar enobrecimento, nos faremos fortes
 pelas concessões de amor e compreensão que sejamos capazes de distribuir.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em texto de autoria
 desconhecida e no cap. 18 do livro Trigo de Deus,
 pelo Espírito Amélia Rodrigues, psicografia de
@@ -104,4 +104,4 @@ Divaldo Pereira Franco, ed. LEAL.
 
 Em 3.7.2017.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5147)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5147)

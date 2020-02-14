@@ -114,10 +114,10 @@ experiências mais felizes.
 
 Em face dos equívocos alheios, é preciso perdoar, silenciar e esperar o tempo.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 6, ed. FEP.
 
 Em 9.1.2014.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1497)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1497)

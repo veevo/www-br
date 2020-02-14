@@ -83,8 +83,8 @@ lembrando que o perdão é sempre mais útil a quem o concede.
  
 
 
-## Source
+## Fonte
 (Automedicação preventiva – texto de Rubens R. Pereira, publicado no GEAE)
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=365)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=365)

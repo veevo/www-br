@@ -108,7 +108,7 @@ Depois de tomar todas estas precauções, siga em frente e boa viagem.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em texto veiculado pela Internet,
 atribuído a Aurélio Nicoladeli.
 Disponível no CD Momento Espírita, v. 5 e nos livros Momento Espírita v. 2 e 
@@ -117,4 +117,4 @@ Disponível no CD Momento Espírita, v. 5 e nos livros Momento Espírita v. 2 e�
 Em 11.10.2010.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=50)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=50)

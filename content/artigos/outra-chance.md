@@ -71,11 +71,11 @@ Se você se sente à beira do abismo, recorde que os que seguem o Cristo, caem d
 pé, dispostos ainda à retomada dos bons propósitos e das lutas nobres, no
 sincero desejo de acertar.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 15 do livro
 Pelos caminhos de Jesus, pelo Espírito Amélia Rodrigues,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
 
 Em 17.7.2009.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2287)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2287)

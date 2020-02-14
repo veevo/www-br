@@ -115,7 +115,7 @@ repetição incessante.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no capítulo XLIV
 do livro Segue-me!..., pelo Espírito Emmanuel, psicografia
 de Francisco Cândido Xavier, ed. FEB.
@@ -123,4 +123,4 @@ Disponível no CD Momento Espírita, v. 15, ed. FEP.
 
 Em 26.12.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5623)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5623)

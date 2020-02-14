@@ -83,10 +83,10 @@ Não feito luz de lua, refletida,
 
 Mas como a luz de estrela, conquistada e merecida.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 30, ed. FEP.
 
 Em 6.9.2016.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4772)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4772)

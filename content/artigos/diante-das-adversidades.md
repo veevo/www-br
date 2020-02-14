@@ -83,7 +83,7 @@ senda verdadeira.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em artigo publicado na revista Vida
 simples, de Janeiro de 2008; no cap. XXVI do livro O problema do ser, do
 destino e da dor, de Léon Denis, ed. Feb e no cap. 31 do livro Jesus no
@@ -92,4 +92,4 @@ Feb.
 
 Em 10.04.2008.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1818)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1818)

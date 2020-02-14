@@ -100,11 +100,11 @@ reincidentes no erro.
 Somente a efetiva compreensão e aplicação dos ensinamentos do Mestre Nazareno
 nos possibilitarão alcançar a felicidade verdadeira.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 7,  do livro Primícias do Reino,
 pelo Espírito  Amélia Rodrigues, psicografia de  Divaldo Pereira Franco,
 ed. LEAL.
 
 Em 20.6.2016.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4820)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4820)

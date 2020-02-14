@@ -90,12 +90,11 @@ Abrace e transmita bem-estar, paz.
 Pense nisso! Abrace mais você também.
 
  
-## Source
-Redação do Momento Espírita, com base em palestras
-de Alberto Almeida, nos dias 29, 30 e 31 de março
-de 2002, em Matinhos, PR e no texto Um abraço, de
-autoria ignorada.
+## Fonte
+Redação do Momento Espírita, com base em palestras de Alberto Almeida, nos dias
+29, 30 e 31 de março de 2002, em Matinhos, PR e no texto Um abraço, de autoria
+ignorada.
 
 Em 18.4.2014.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4107)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4107)

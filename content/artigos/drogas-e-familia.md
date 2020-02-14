@@ -82,8 +82,8 @@ exatamente assim.
 Reflitamos, portanto: se abraçamos ou desejamos abraçar a tarefa de educar um
 filho, será que não há nada a mudar, para melhor, em nossas atitudes?
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 09.02.2010.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2519)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2519)

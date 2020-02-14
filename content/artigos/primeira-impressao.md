@@ -107,7 +107,7 @@ A razão iluminada pelo amor é que deve conduzir nossos atos.
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 22,
 do livro Para uso diário, pelo Espírito Joanes,
 psicografia de Raul Teixeira,
@@ -116,4 +116,4 @@ ed. FRÁTER.
 Em 13.7.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5476)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5476)

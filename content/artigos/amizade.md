@@ -110,7 +110,7 @@ Ame-os, com pureza e desinteressadamente.
 Afinal, amigos leais e calorosos são um dos maiores tesouros que se pode
 conquistar.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. VII, do livro
 Leis morais da vida, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
@@ -118,4 +118,4 @@ psicografia de Divaldo Pereira Franco, ed. LEAL.
 Em 2.6.2018. 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5452)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5452)

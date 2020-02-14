@@ -92,10 +92,10 @@ E precisa da nossa compaixão, sobretudo, de uma segunda chance.
 
 Pensemos a respeito.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base
 em narrativa de autoria ignorada.
 
 Em 18.11.2019. 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5891)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5891)

@@ -95,11 +95,11 @@ nós, ter tônus vital, energia.
 Isso nos leva a perceber que junto de nossas forças íntimas está sempre Deus,
 nos impulsionando para frente.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em trecho
 do livro As palavras de Gandhi, de Richard
 Attenborough, ed. Record.
 
 Em 27.5.2014. 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4147)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4147)

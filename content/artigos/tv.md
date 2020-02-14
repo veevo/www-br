@@ -96,8 +96,8 @@ A criança é a coluna viva do porvir. Avançará com as características que lh
 impomos. Crescerá com a retidão ou com as sinuosidades que lhe traçamos ao
 desenvolvimento. Devolverá depois o que estiver recebendo agora. 
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 19.11.2012.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3663)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3663)

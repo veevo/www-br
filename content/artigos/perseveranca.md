@@ -77,7 +77,7 @@ Recorde, finalmente, que você está no mundo para realizar uma obra de arte: a
 sua vida. E não meça esforços, nem se importe com as repetições. São os
 rascunhos que conferem perfeição à obra final.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.
 Por trás de um desenho rápido, de Joni Eareckson
 Tada, do livro Histórias para o coração da mulher,
@@ -86,4 +86,4 @@ de Alice Gray, ed. United Press.
 Em 12.8.2014.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4214)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4214)

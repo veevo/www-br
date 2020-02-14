@@ -91,9 +91,9 @@ Falta amar para podermos declará-lo sem medo de pieguismos empobrecedores.
 
 Falta apenas amar, nada mais.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 15.5.2019.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5739)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5739)

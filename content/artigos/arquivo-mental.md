@@ -95,10 +95,10 @@ escolhendo sempre a parte boa de tudo o que o rodeia.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita inspirado em palestra proferida por Maurício Silva,
 na Sociedade Espírita Renovação, Curitiba/PR.
 
 Em 10.03.2011.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=85)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=85)

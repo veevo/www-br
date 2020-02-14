@@ -85,11 +85,11 @@ Que desejamos encontrar, em nosso retorno?
 
 Pensemos nisso, agora! 
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 8, ed. FEP.
 
 Em 9.6.2014.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4158)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4158)

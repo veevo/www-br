@@ -107,10 +107,10 @@ Mas participemos também, sinceramente, das suas alegrias.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. VII, do
 livro Leis morais da vida, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
 Em 5.6.2017. 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5122)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5122)

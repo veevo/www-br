@@ -97,9 +97,9 @@ de etapa vencida.
 
 Pensemos nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 31.03.2008.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1553)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1553)

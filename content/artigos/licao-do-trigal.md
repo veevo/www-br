@@ -86,7 +86,7 @@ totalmente da Providência e da Misericórdia Divinas.
 
 Pensemos nisso e sejamos menos orgulhosos.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.  
 
 As espigas de trigo, do livro Lendas do céu e da Terra, de Malba Tahan, ed.
@@ -97,4 +97,4 @@ Em 12.3.2019.
  
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5686)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5686)

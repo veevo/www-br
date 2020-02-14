@@ -87,10 +87,10 @@ somos uma família divina cujo destino é a verdade, a felicidade, o bem e a paz
 
 Pensemos nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em
 biografia de  Reinaldo Bispo dos Santos.
 
 Em 13.3.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5687)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5687)

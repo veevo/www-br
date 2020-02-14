@@ -113,7 +113,7 @@ trevas...
 
 E onde o mais desnudo dentre vós será talvez o mais resplandecente.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no item 6, do cap. VI do livro O
 Evangelho segundo o Espiritismo, de Allan Kardec, ed. Feb.
 Disponível no cd Coletânea 8/9 do Momento Espírita e no livro Momento
@@ -121,4 +121,4 @@ Espírita, v. 5, ed. Fep.
 
 Em 25.06.2012.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=992)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=992)

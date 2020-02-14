@@ -66,9 +66,9 @@ Lembre-se, ainda, que o seu direito termina onde começa o direito do outro.
 Respeitar esse direito é o mínimo que se espera de uma sociedade civilizada.
 Pense nisso, e tenha uma boa diversão!
 
-## Source
+## Fonte
 Equipe de redação do Momento Espírita, sob inspiração de conferência de J. Raul
 Teixeira, no dia 12/12/2004, no Clube Morgenau, Curitiba-PR.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1188)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1188)

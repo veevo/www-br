@@ -77,9 +77,9 @@ Você pode imaginar a emoção de uma mãe, uma esposa, a namorada, irmãos
 recebendo uma mensagem de Natal, escrita de próprio punho, por seu amor, de uma
 frente de batalha?
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 14.12.2016.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4974)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4974)

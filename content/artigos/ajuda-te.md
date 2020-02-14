@@ -66,10 +66,10 @@ sustentará as nossas forças para que possamos triunfar.
 
 Pensemos nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 3, ed. Fep.
 
 Em 22.04.2009.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=70)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=70)

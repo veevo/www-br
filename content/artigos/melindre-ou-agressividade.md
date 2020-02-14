@@ -99,10 +99,10 @@ Mas quem provoca o melindre não pode se esquecer da lei de caridade, da
 afabilidade e da doçura preconizados por Jesus: Bem-aventurados os mansos e
 pacíficos.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em fato narrado no artigo O problema do
 melindre, de André Marcílio Carvalho de Azevedo, da Revista Presença Espírita
 nº 261, ed. Leal.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1624)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1624)

@@ -104,7 +104,7 @@ espiritual.
 Pensemos nisso!
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 27,
 do livro Luz Viva, pelos Espíritos Joanna de Ângelis e
 Marco Prisco, psicografia de Divaldo Pereira Franco,
@@ -113,4 +113,4 @@ ed. LEAL.
 Em 10.11.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5584)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5584)

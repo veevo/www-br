@@ -94,11 +94,11 @@ sombrias, porque todo aquele que ama irradia luz e calor. Permanece feliz em
 qualquer circunstância.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em reportagem da Revista Isto é nº 1444,
 de 4.6.97, pág. 112 e no verbete Amor, do livro Repositório de sabedoria, do
 Espírito Joanna de Ângelis, psicografado por Divaldo Pereira Franco, v. 1, ed.
 Leal.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1572)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1572)

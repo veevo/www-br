@@ -90,11 +90,11 @@ abertos...
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 20,
 do livro Boa Nova, pelo Espírito Humberto de Campos,
 psicografia de Francisco Cândido Xavier, ed. FEB.
 
 Em  15.2.2014.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4050)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4050)

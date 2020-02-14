@@ -94,7 +94,7 @@ Pensemos nisso.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no seminário Encontro
 de gerações, desenvolvido por Sandra Borba Pereira, em
 Curitiba, PR, em data de 18.09.2011.
@@ -103,4 +103,4 @@ Em 07.04.2012.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3395)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3395)

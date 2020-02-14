@@ -104,7 +104,7 @@ paz, para a harmonia doméstica de todos os dias.
 Aprenda a viver contente em toda e qualquer situação.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no texto A serpente e o vaga-lume, de
 autor desconhecido e do cap. 26 do livro Para uso diário, pelo Espírito Joanes,
 psicografia de Raul Teixeira, ed. Fráter.
@@ -112,4 +112,4 @@ Em 07.07.2011.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=3061)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=3061)

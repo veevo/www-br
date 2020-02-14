@@ -81,9 +81,9 @@ que nos cerca.
 Pensemos nisso porque, afinal, trata-se da sobrevivência de toda espécie de
 vida, sobre a Terra.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 10.12.2018.
 
  
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5603)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5603)

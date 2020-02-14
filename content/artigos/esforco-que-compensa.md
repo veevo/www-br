@@ -91,8 +91,8 @@ estágios mais primários da evolução.
 
 Pense nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 18.03.2009.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2149)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2149)

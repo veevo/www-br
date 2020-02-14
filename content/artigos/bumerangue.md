@@ -85,8 +85,8 @@ Tudo isso para nosso próprio bem, nossa alegria, nosso conforto espiritual.
 
 Pensemos nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 14.3.2016.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4736)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4736)

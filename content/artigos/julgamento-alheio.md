@@ -83,7 +83,7 @@ A base da Justiça Divina se assenta na misericórdia de nosso Pai Criador.
 de reparação de nossas faltas, ao tempo que nos faculta crescer e produzir no
 bem.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1556)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1556)

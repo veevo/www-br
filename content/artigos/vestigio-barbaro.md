@@ -80,11 +80,11 @@ A Justiça Divina jamais falta. Mesmo que não seja percebida, ela realiza o seu
 ministério superior, alcançando todos quantos desrespeitem os estatutos que
 regem a vida.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. IX de O evangelho segundo o
 espiritismo, de Allan Kardec, ed. Feb.
 
 Em 07.01.2008.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1722)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1722)

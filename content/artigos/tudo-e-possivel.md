@@ -81,7 +81,7 @@ Ninguém a pode dispensar.
 Onde quer que apareça, a esperança altera a paisagem, inspirando
 coragem, tudo embelezando com cor, perfume e beleza.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em história de autoria ignorada e no cap.
 19 do livro Perfis da vida, pelo Espírito Guaracy Paraná Vieira,
 psicografia de Divaldo Pereira Franco, ed. Leal.
@@ -89,4 +89,4 @@ psicografia de Divaldo Pereira Franco, ed. Leal.
 Em 05.01.2009.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2078)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2078)

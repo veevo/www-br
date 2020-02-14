@@ -88,7 +88,7 @@ demais também felizes.
 Não nos esqueçamos de que a gentileza e o respeito no trato pessoal também
 significam caridade.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em artigo de Robert Fulghum, da
 Revista Presença Espírita, nº 222, ed. LEAL; pensamentos do cap. 28, do livro
 Sinal verde, pelo Espírito André Luiz, psicografia de Francisco Cândido Xavier,
@@ -101,4 +101,4 @@ Em 17.8.2019.
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5828)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5828)

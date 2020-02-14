@@ -108,10 +108,10 @@ Ou seja, amar sem exigir nada em troca.
 
  
 
-## Source
+## Fonte
  Redação do Momento Espírita.
 Disponível no livro Momento Espírita, v. 6, ed. Fep.
 Em 30.7.2013.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1520)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1520)
 

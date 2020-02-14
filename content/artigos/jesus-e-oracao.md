@@ -92,6 +92,6 @@ Perante qualquer dificuldade que venhamos a enfrentar, lembremos da lição do
 jejum e da oração. Lembremos deste medicamento poderoso de que todos nós
 dispomos.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 26.03.2009.

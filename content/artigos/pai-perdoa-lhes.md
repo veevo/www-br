@@ -82,7 +82,7 @@ injusta, mas uma nova chance de repararem seus erros.
 Se assim não fosse, Ele não teria afirmado, em outro momento, que cada um
 receberia conforme as suas obras.
 
-## Source
+## Fonte
 Redação do Momento Espírita , com base no
 cap. 13, do livro Quem é o Cristo?, pelo Espírito Francisco
 de Paula Vitor, psicografia de Raul Teixeira, ed. Fráter.
@@ -90,4 +90,4 @@ de Paula Vitor, psicografia de Raul Teixeira, ed. Fráter.
 Em 20.10.2011.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3185)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3185)

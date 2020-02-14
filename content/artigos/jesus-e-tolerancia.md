@@ -78,9 +78,9 @@ A tolerância que utilizares para com os infelizes se transformará na medida
 emocional de compaixão que receberás, quando chegar a tua vez, já que ninguém é
 perfeito.
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita, adaptação do cap. 
 Jesus e tolerância do livro Jesus e atualidade, de Divaldo Franco, 
 Ed. Pensamento.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1167)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1167)

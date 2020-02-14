@@ -80,7 +80,7 @@ do outro, apertando a mão, trocando abraços.
 
 A magia do convívio.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no artigo
 E a magia se fez, de Martha Rios Guimarães,
 da Revista Internacional de Espiritismo, de
@@ -88,4 +88,4 @@ dezembro de 2018, ed. O CLARIM.
 
 Em 15.2.2019.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5663)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5663)

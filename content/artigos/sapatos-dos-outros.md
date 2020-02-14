@@ -79,11 +79,11 @@ de vista do outro. Saiamos do egocentrismo destruidor ainda hoje.
 
 Empatia... Sempre. 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com citação do cap. 18, do
 livro A carta magna da paz, pelo Espírito
 Camilo, psicografia de José Raul Teixeira, ed. Fráter.
 
 Em 24.9.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3913)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3913)

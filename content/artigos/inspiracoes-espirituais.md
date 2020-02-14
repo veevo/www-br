@@ -96,7 +96,7 @@ valermos apenas das orientações que nos possam levar ao caminho do bem e da
 verdade.
 
  
-## Source
+## Fonte
 [Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3980)
 com base no cap.13, do livro Lições para a felicidade, 
 pelo Espírito Joanna de Ângelis,

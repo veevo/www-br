@@ -83,7 +83,7 @@ Antes de cedermos ao impulso de passar adiante qualquer comentário, lembremos
 sempre das penas soltas ao vento, como se fossem as nossas palavras que, de
 nenhuma forma, podemos tornar a recolher.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. As penas,
 do livro E, para o resto da vida, de Wallace Leal V. Rodrigues,
 ed. O Clarim e no item 18, cap. X, do livro O Evangelho
@@ -92,4 +92,4 @@ segundo o Espiritismo, de Allan Kardec, ed. FEB.
 Em 28.11.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5598)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5598)

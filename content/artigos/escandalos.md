@@ -99,9 +99,9 @@ Ele desafia as Leis Divinas e desencadeia graves consequências na própria vida
 
 Quanto a você, perdoe e siga adiante.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 3.2.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5334)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5334)

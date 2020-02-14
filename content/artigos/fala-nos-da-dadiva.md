@@ -87,7 +87,7 @@ Pois, na verdade, é a vida que dá a vida, enquanto vós, que vos julgais
 doadores, sois simples testemunhas.”
 
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap.
 A dádiva, do livro O profeta, de Gibran Khalil Gibran,
 ed. ACIGI.
@@ -95,4 +95,4 @@ ed. ACIGI.
 Em 5.6.2014.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4187)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4187)

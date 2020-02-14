@@ -94,9 +94,9 @@ Ante o vozerio dos agressivos, sejamos a voz da serenidade.
 No tumulto, nos asserenemos e convoquemos os demais à pacificação, cujos
 efeitos mais imediatos são a tranquilidade, a harmonia, em fomento da paz.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 14.2.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4386)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4386)

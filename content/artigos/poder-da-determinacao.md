@@ -84,7 +84,7 @@ vontade quanto gostaria.
 
 Trata-se de querer, trabalhar pela conquista, perseverando até o fim.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.
 O poder da determinação, de Burt Dubin, do livro Histórias
 para aquecer o coração – edição de ouro, de Jack Canfield e
@@ -93,4 +93,4 @@ Mark Victor Hansen, ed. Sextante.
 Em 7.6.2017. 
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5124)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5124)

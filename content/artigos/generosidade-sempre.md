@@ -80,9 +80,9 @@ Generosos foram Madre Teresa de Calcutá, Francisco Cândido Xavier, Gandhi,
 Albert Schweitzer e tantos outros que esqueceram de si, a fim de perfumar a
 vida daqueles que estavam ao seu redor.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 30.7.2016.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4855)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4855)

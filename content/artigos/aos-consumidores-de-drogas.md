@@ -100,8 +100,8 @@ agora sobre tudo isso e mude o rumo dos seus passos.
 
 Temos certeza de que você conseguirá.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 5.7.2013.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=800)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=800)

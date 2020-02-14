@@ -92,11 +92,11 @@ Poderá alguém, em sã consciência, afirmar que o amor dessa mulher não foi d
 verdadeira mãe?
 
  
-## Source
+## Fonte
 Redação do Momento Espírita, com base em dados colhidos no livro História do
 Brasil, v. II, Bloch editores.
 
 Em 18.06.2011.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3040)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3040)

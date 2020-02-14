@@ -92,9 +92,9 @@ cama, quase imóveis.
 Mas que podem, durante o sono físico, gozar das liberdades conferidas ao
 Espírito sempre livre.
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 30.3.2019.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5703)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5703)

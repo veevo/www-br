@@ -79,10 +79,10 @@ A vida é curta para os vilões. Longa para os heróis.
 
 A vida pode ser curta ou longa. Cabe a você escolher.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no livro Momento Espírita,
 v. 11, ed. FEP.
 Em 14.8.2019.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=5825)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=5825)

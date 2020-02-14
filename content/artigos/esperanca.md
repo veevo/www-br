@@ -106,7 +106,7 @@ E sorrindo, pôs-se a meditar.
 
 Desesperar, nunca!
 
-## Source
+## Fonte
 Redação do Momento Espírita com base na introdução do
 livro Momentos de esperança, pelo Espírito Joanna de Angelis,
 psicografia de Divaldo Pereira Franco, ed. Leal.
@@ -115,4 +115,4 @@ Disponível no CD Momento Espírita, v. 1, ed. Fep.
 Em 11.01.2010.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=802)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=802)

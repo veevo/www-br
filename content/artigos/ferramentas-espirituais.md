@@ -102,7 +102,7 @@ Por tudo isso, não deixemos para amanhã a nossa tomada de decisão.
 
 Comecemos hoje a construção do dia melhor do amanhã.
 
-## Source
+## Fonte
 Texto da Redação do Momento Espírita, a partir do cap. 9 do livro eu me amo. Eu
 não tenho vícios. Ferramentas espirituais contra os vícios, de Divaldo Pereira
 Franco, ed Leal e do cap. 9 do livro Iluminação interior, do Espírito Joanna de
@@ -110,4 +110,4 @@ Franco, ed Leal e do cap. 9 do livro Iluminação interior, do Espírito Joanna 
 
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1370)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1370)

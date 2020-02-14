@@ -102,7 +102,7 @@ sublimes.
 
 Pense nisso.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap.
 CIX, do livro Pão nosso, pelo Espírito Emmanuel,
 psicografia de Francisco Cândido Xavier, ed. FEB.
@@ -110,4 +110,4 @@ psicografia de Francisco Cândido Xavier, ed. FEB.
 Em 25.4.2018.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5405)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5405)

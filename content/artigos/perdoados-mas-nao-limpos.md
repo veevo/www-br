@@ -103,11 +103,11 @@ Para evitar viver algo semelhante, basta eleger o bem como padrão de conduta.
 Pense nisso.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 47, do livro Justiça Divina, pelo
 Espírito Emmanuel, psicografia de Francisco Cândido Xavier, ed. Feb.
 
 Em 07.11.2011.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3223)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3223)

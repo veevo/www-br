@@ -90,7 +90,7 @@ Orando, chegarás ao Senhor, que te deu, na prece, um meio seguro de comunicaç�
 com a infinita bondade de Deus, em cujo seio dessedentarás o Espírito aflito...
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base em história de autor desconhecido, e
 pensamentos extraídos do verbete Oração, do livro Dicionário da alma, por
 Espíritos diversos, psicografia de Francisco Cândido Xavier, ed. Feb e do
@@ -100,4 +100,4 @@ verbete Oração, do livro Repositório de sabedoria, v. 2, do Espírito Joanna 
 Disponível no cd Momento Espírita, v. 3, ed. Fep.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3177)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3177)

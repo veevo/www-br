@@ -87,9 +87,9 @@ próximo.
 A partir disso, mais fácil será seguir o conselho de Jesus, de amar ao próximo
 como a nós mesmos.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 
 Em 22.2.2018.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5350)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5350)

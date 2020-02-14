@@ -74,11 +74,11 @@ na viagem de retorno à pátria espiritual.
 
  
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no cap. Presença invisível,
 do livro Uma razão para viver, de Richard Simonetti,
 ed. Gráfica São João.
 
 Em 12.08.2010.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2712)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2712)

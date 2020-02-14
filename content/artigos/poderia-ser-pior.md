@@ -89,9 +89,9 @@ E, por fim, lembremos a derradeira frase que proferiu do alto da cruz
 infamante: Pai, perdoa-lhes, porque não sabem o que fazem. 
 
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 18.01.2010.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=456)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=456)

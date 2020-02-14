@@ -129,9 +129,9 @@ felicidade.
 Pense nisso.
 
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1552)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1552)
 
 

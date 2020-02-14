@@ -89,7 +89,7 @@ instante, fechemos os olhos e O sintamos: lá Ele está, dando rima aos versos d
 nossas vidas...
 
  
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 25, ed. FEP.
 Em 9.9.2013.
@@ -97,4 +97,4 @@ Em 9.9.2013.
  
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3839)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3839)

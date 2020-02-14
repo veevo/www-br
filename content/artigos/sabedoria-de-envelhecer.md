@@ -109,11 +109,11 @@ idade, raça, cor, nível social.
 Aprendamos com quem sabe envelhecer!
 
 
-## Source
+## Fonte
 Redação do Momento Espírita,em homenagem a Antonio Savaris.
 Disponível no CD Momento Espírita, v. 13 e no
 livro Momento Espírita, v. 6, ed. FEP.
 
 Em 14.1.2014.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1519)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1519)

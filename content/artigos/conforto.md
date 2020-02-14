@@ -91,7 +91,7 @@ Cuidar para que as horas de folga sejam momentos de paz e aprimoramento.
 Pense nisso.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 5, do livro Os
 mensageiros, pelo Espírito André Luiz, psicografia de
 Francisco Cândido Xavier, ed. Feb.
@@ -99,4 +99,4 @@ Francisco Cândido Xavier, ed. Feb.
 Em 23.03.2012.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3381)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3381)

@@ -96,8 +96,8 @@ Trata-se do livre-arbítrio a moldar o futuro, em todas as suas perspectivas.
 Pense nisso.
 
  
-## Source
+## Fonte
 Redação do Momento Espírita.
 Em 01.10.2010.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2764)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2764)

@@ -76,11 +76,11 @@ mesmos.
 
 As verdades estão conosco. É tempo de instituí-las em nossos dias.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no livro Maktub, de
 Paulo Coelho, ed. Planeta e no item II, do cap. XI, de O Evangelho
 segundo o Espiritismo, de Allan Kardec, ed. FEB.
 
 Em 18.6.2013.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=239)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=239)

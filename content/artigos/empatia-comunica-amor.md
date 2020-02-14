@@ -84,7 +84,7 @@ sentir amparados.
 Isso é ser companheiro de uma vida! Isso é amar! a empatia comunica o amor.
 
 
-## Source
+## Fonte
 Redação do Momento Espírita,com base no cap.12, do
 livro Autoestima de seu filho,de Dorothy Corkille Briggs, ed.
 Martins Fontes.
@@ -92,4 +92,4 @@ Martins Fontes.
 Em 14.10.2013.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=3930)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3930)

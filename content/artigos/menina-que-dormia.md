@@ -100,7 +100,7 @@ E também nunca se permita considerar seus semelhantes como perdidos!
 
 Um a um, todos despertarão para a sublime beleza do amor pujante e imortal.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 2 do livro
 A mensagem do Amor Imortal, pelo Espírito Amélia Rodrigues,
 psicografia de Divaldo Pereira Franco, ed. LEAL.
@@ -108,4 +108,4 @@ psicografia de Divaldo Pereira Franco, ed. LEAL.
 Em 30.5.2019.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=5755)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=5755)

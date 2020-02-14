@@ -78,8 +78,8 @@ Como estamos? Melhor que ontem? Preparados para a Nova Era? Dispostos a ser
 homens de bem?
 
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 27.11.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4635)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4635)

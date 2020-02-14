@@ -105,10 +105,10 @@ Mas saiba que está diariamente lançando as sementes de seu futuro.
 
 Pense nisso.
 
-## Source
+## Fonte
 Equipe de Redação do Momento Espírita, com base no capítulo I do livro O
 Espiritismo na sua expressão mais simples e outros opúsculos de Kardec, ed.
 FEB.
 
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1405)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1405)

@@ -92,11 +92,11 @@ poderá se manter por muito tempo sobre bases falsas.
 Seja essencialmente gentil e sua gentileza se exteriorizará naturalmente, tão
 natural como o ato de respirar.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no cap. 20 de
 O livro das virtudes de sempre, de Ramiro Marques,
 ed. Landy e no Evangelho de Mateus, cap. 23, vv 27 e 28.
 
 Em 29.03.2010.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=1130)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1130)

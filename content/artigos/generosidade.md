@@ -73,8 +73,8 @@ Semeadores generosos, anônimos, perseverantes. Servidores de Jesus.
 
 Que tal aderirmos à generosidade nós também? 
 
-## Source
+## Fonte
 Redação do Momento Espírita.  
 Em 29.04.2011.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=2982)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=2982)

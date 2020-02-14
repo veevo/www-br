@@ -85,11 +85,11 @@ fantástica. E tudo mudou a partir de um ato de generosidade.
 
 Depois foi superação, autoestima elevada e vontade de retribuir o bem recebido.
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base no texto
 Recontador de histórias, de Jaqueline Li, da
 revista Sorria, de dez 2013/jan.2014, ed. MOL.
 
 Em 29.9.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4586)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4586)

@@ -68,11 +68,11 @@ Diz-nos o Espírito Joanna de Ângelis:
 
 A experiência do autodescobrimento faculta à criatura identificar os limites e as dependências, as aspirações verdadeiras e as falsas, os embustes do ego e as imposturas da ilusão.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no livro Alcibíades,
  de Platão, Lisboa, Inquérito, 1985 e na Introdução do livro
 Autodescobrimento, pelo Espírito Joanna de Ângelis,
 psicografia de Divaldo Pereira Franco, ed. Leal.
 Em 21.11.2008.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=2039)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=2039)

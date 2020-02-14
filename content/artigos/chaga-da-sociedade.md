@@ -84,11 +84,11 @@ Não da educação que faz homens instruídos, mas daquela que forma homens de b
 
 Pense nisso!
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base nos itens 913 e 914 de O livro dos
 Espíritos, de Allan Kardec, ed. Feb.
 
 Em 13.01.2009.
 
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=964)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=964)

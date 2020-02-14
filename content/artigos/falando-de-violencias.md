@@ -105,11 +105,11 @@ bons sentimentos.
 E veremos, exatamente como no solo crestado pela invernia, rebentar em flores e
 verdura a primavera da paz, em nossos corações.
 
-## Source
+## Fonte
 Redação do Momento Espírita.
 Disponível no CD Momento Espírita, v. 12 e no
 livro Momento Espírita, v. 6, ed. FEP.
 Em 14.1.2014.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=1578)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=1578)
 

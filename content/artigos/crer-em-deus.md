@@ -82,7 +82,7 @@ Na Sua magnanimidade, enche de luzes o espaço infinito e, com a mesma grandeza,
 veste a singela flor do campo das cores mais suaves aos tons mais vibrantes.
  
 
-## Source
+## Fonte
 Redação do Momento Espírita, com base em palestra de
 Divaldo Pereira Franco, Porque creio em Deus e no cap. 6,
 do livro Lições para a felicidade, pelo Espírito Joanna de Ângelis,
@@ -90,4 +90,4 @@ psicografia de Divaldo Pereira Franco, ed. LEAL.
 
 Em 25.2.2015.
 
-[Original Article (pt-BR)](http://momento.com.br/pt/ler_texto.php?id=4396)
+[Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=4396)

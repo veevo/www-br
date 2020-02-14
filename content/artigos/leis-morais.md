@@ -81,7 +81,7 @@ em O livro dos Espíritos, de Allan Kardec.
 É um livro de fácil leitura, pois está disposto em forma de perguntas e
 respostas, todas encadeadas didaticamente.
 
-## Source
+## Fonte
 Redação do Momento Espírita com base no
 Evangelho de Lucas, cap 16, versículos 14 a 17;
 no Evangelho de  Mateus, cap.16, versículo 27
@@ -90,5 +90,5 @@ Allan Kardec, ed. Feb.
 
 Em 19.07.2010.
 
-[Original Article (pt-BR)](http://www.momento.com.br/pt/ler_texto.php?id=349)
+[Redação do Momento Espírita](http://www.momento.com.br/pt/ler_texto.php?id=349)
 
