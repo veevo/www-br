@@ -1,6 +1,5 @@
 ---
 title: Prazeres
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 date: 2019-02-01 19:00:00
 image: "images/masonary-post/post-2.jpg"
 topics: 
@@ -20,7 +19,8 @@ topics:
 
 O homem naturalmente busca o prazer e o bem-estar.
 
-Trata-se de reflexo do instinto de conservação, cujo objetivo é assegurar a existência física pelo máximo de tempo possível.
+Trata-se de reflexo do instinto de conservação, cujo objetivo é assegurar a
+existência física pelo máximo de tempo possível.
 
 A vida terrena é imprescindível à evolução intelectual e moral dos Espíritos.
 
@@ -30,43 +30,55 @@ Assim, o gosto pelo prazer atende naturais imperativos de evolução.
 
 O sexo é prazeroso e mediante ele a espécie se perpetua.
 
-Caso não houvesse alguma satisfação envolvida nos atos procriativos, a Humanidade estaria extinta há longa data.
+Caso não houvesse alguma satisfação envolvida nos atos procriativos, a
+Humanidade estaria extinta há longa data.
 
 A alimentação também envolve prazer.
 
 O corpo físico necessita receber combustíveis adequados a sua estrutura.
 
-O atendimento dessa necessidade não se dá apenas por força do apelo da fome, mas também envolve satisfação.
+O atendimento dessa necessidade não se dá apenas por força do apelo da fome, mas
+também envolve satisfação.
 
 O descanso igualmente traz uma certa volúpia.
 
-O atendimento de todas as necessidades naturais, sejam físicas ou emocionais, engloba determinada dose de prazer.
+O atendimento de todas as necessidades naturais, sejam físicas ou emocionais,
+engloba determinada dose de prazer.
 
-Como o ser humano não foi feito para viver sozinho, ele se regozija no contato com seus amigos e amores.
+Como o ser humano não foi feito para viver sozinho, ele se regozija no contato
+com seus amigos e amores.
 
-A necessidade de contato e de reconhecimento pelos semelhantes, quando é atendida, produz doces sensações.
+A necessidade de contato e de reconhecimento pelos semelhantes, quando é
+atendida, produz doces sensações.
 
 Evidentemente, a sabedoria reside no equilíbrio.
 
-Negar-se os prazeres comuns à existência, sem qualquer objetivo nobre, nada tem de elogiável.
+Negar-se os prazeres comuns à existência, sem qualquer objetivo nobre, nada tem
+de elogiável.
 
-A mãe que se priva de pão para alimentar os filhos dá mostra de abnegação e nobreza.
+A mãe que se priva de pão para alimentar os filhos dá mostra de abnegação e
+nobreza.
 
-Mas se alimentar menos do que o necessário à manutenção da saúde apenas para autoflagelo não é recomendável.
+Mas se alimentar menos do que o necessário à manutenção da saúde apenas para
+autoflagelo não é recomendável.
 
-Os objetivos superiores da existência não são incompatíveis com as pequenas alegrias terrenas.
+Os objetivos superiores da existência não são incompatíveis com as pequenas
+alegrias terrenas.
 
-Jesus sinalizou essa verdade, ao afirmar que não é o que entra, mas o que sai da boca do homem que o contamina.
+Jesus sinalizou essa verdade, ao afirmar que não é o que entra, mas o que sai da
+boca do homem que o contamina.
 
 Se a voluntária privação dos bens da vida não é boa, o mesmo se dá com o abuso.
 
 A glutonaria provoca doenças e diminui o tempo de vida.
 
-O uso desvirtuado das forças genésicas produz desequilíbrios físicos e emocionais.
+O uso desvirtuado das forças genésicas produz desequilíbrios físicos e
+emocionais.
 
 Dormir demais ou descansar em excesso constituem desperdício de tempo.
 
-Assim, o relevante é guardar equilíbrio perante os gostos e os prazeres terrestres.
+Assim, o relevante é guardar equilíbrio perante os gostos e os prazeres
+terrestres.
 
 Se eles não são condenáveis, também não constituem o objetivo da existência.
 
@@ -74,23 +86,30 @@ Ninguém nasce para comer, beber, dormir e procriar.
 
 Entender o prazer em seu real valor ajuda a não demonizá-lo ou endeusá-lo.
 
-Viver corretamente não pressupõe abster-se das alegrias e satisfações comuns à condição humana.
+Viver corretamente não pressupõe abster-se das alegrias e satisfações comuns à
+condição humana.
 
-A pureza não reside na abstenção dos dons da vida, mas em utilizá-los com equilíbrio e discernimento, sem prejudicar a si e ao próximo.
+A pureza não reside na abstenção dos dons da vida, mas em utilizá-los com
+equilíbrio e discernimento, sem prejudicar a si e ao próximo.
 
-A sabedoria reside em tudo utilizar com moderação, sem se tornar escravo de hábitos, coisas ou sensações.
+A sabedoria reside em tudo utilizar com moderação, sem se tornar escravo de
+hábitos, coisas ou sensações.
 
-A finalidade da existência terrena é propiciar a evolução intelectual e moral dos Espíritos.
+A finalidade da existência terrena é propiciar a evolução intelectual e moral
+dos Espíritos.
 
-Todos renascem para vencer antigos vícios, para abandonar o egoísmo e viver o amor.
+Todos renascem para vencer antigos vícios, para abandonar o egoísmo e viver o
+amor.
 
-Não se trata de pieguismo sentimental, mas da vivência da fraternidade e da compaixão.
+Não se trata de pieguismo sentimental, mas da vivência da fraternidade e da
+compaixão.
 
 Não se desvie dessa meta por uma compreensão equivocada da vida.
 
 No contexto de sua existência imortal, pouco lhe adiantará tornar-se um asceta.
 
-Também será indigno de sua condição de Espírito imortal viver como um animal irracional, na busca incessante de prazeres.
+Também será indigno de sua condição de Espírito imortal viver como um animal
+irracional, na busca incessante de prazeres.
 
 Empenhe-se em ser equilibrado, bondoso e solidário.
 

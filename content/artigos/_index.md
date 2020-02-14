@@ -1,21 +1,16 @@
 ---
 title: Artigos
-date: 2019-05-14T14:46:10+06:00
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
+description: Leia mais sobre o conteúdo que procura nesta seção, de nossa lista de artigos de fácil compreensão e profundo conhecimento.
 image: "images/masonary-post/post-2.jpg"
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? 
+Artigos são muito importantes para consolidarmos o conhecimento que vamos
+agregando ao longo do tempo.
 
-Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. 
+Nós pré-selecionamos alguns de uma vasta e excelente coleção de autores
+renomados e revistas conceituadas para que você possa ler, aqui mesmo, sobre o
+conteúdo que está estudando no momento.
 
-Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. 
+Estaremos sempre atualizado a lista de artigos. Por favor, volte sempre.
 
-Non at sequi, natus dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. 
-
-Reprehenderit quod totam nostrum nihil.
+Para iniciar, escolha um da lista abaixo, ou [procure por tópico](/topicos).
