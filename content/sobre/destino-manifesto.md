@@ -2,12 +2,12 @@
 title: Destino manifesto
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
+- mundo
+- espiritismo
 ---
 
 
-
-## Perguntas Relacionadas
 
 ### Qual a origem do destino?
 O termo latino factum significa o conjunto das coisas ditas por um

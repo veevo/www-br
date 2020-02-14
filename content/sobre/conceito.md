@@ -2,24 +2,18 @@
 title: Conceito
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- percepcao
+- intuicao
+- mente
 ---
 
 Conceito é a apreensão ou representação intelectual e abstrata da quidade
 (essência) de um objeto. (1)
 
-
-## Perguntas Relacionadas
-
-### Que é uma concepção?
-Em sentido genérico, designa um conjunto de conceitos ou ideias
-abstratas organizado logicamente num corpo doutrinal (concepção de
-mundo, vida, espaço). Em sentido restrito, operação abstrativa onde se
-elaboram os conceitos. (1)
-
-### Em regra geral, o que é um conceito?
-É um particular, como uma mesa e uma cadeira, com a diferença de que
-ele é mental. (1)
+Em sentido genérico, concepção designa um conjunto de conceitos ou ideias
+abstratas organizado logicamente num corpo doutrinal (concepção de mundo, vida,
+espaço). Em sentido restrito, operação abstrativa onde se elaboram os conceitos.
+(1)
 
 ### Percepção e intuição são sinônimos de conceito?
 Não. Pelo seu caráter representativo e abstrato, o conceito se opõe à

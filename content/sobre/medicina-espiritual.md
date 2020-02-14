@@ -2,7 +2,10 @@
 title: Medicina espiritual
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- medicina
+- espiritismo
+- doenca
+- fe
 ---
 
 Medicina espiritual é a junção entre os recursos do conhecimento científico da
@@ -42,14 +45,9 @@ publicações mensais sobre a religiosidade.
 Os Centros Espíritas contribuem substancialmente com a Medicina. Passes,
 palestras, cursos e proposição de mudança comportamental não têm preço.
 
-
-style="color: #000066;">http://www.amebrasil.org.br/html/outras\_medi.htm
-
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/medicina-espiritual)  
 Autor: Sérgio Biagi Gregório
-
-
 
 ## Veja Também
 TODO

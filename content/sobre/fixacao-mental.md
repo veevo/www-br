@@ -2,7 +2,7 @@
 title: Fixação-mental
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- obsessao
 ---
 
 Fixação mental refere-se ao fato de se estar obsecado por alguém ou alguma

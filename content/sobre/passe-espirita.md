@@ -2,15 +2,10 @@
 title: Passe espírita
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo
 ---
 
-
-
-## Perguntas Relacionadas
-
-### O que é o passe?
-No plural, ato de passar as mãos repetidamente sobre uma pessoa (ou
+No plural, o passe é o ato de passar as mãos repetidamente sobre uma pessoa (ou
 parte doente dela) para magnetizá-la ou curá-la.
 
 ### Como se explica o fenômeno da magnetização?

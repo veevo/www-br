@@ -2,7 +2,10 @@
 title: Desigualdade (de riquezas)
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- desigualdades
+- riqueza
+- pobreza
+- dinheiro
 ---
 
 * Atributo de pessoas ou coisas distintas; dessemelhança, diferença.

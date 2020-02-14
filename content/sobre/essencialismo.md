@@ -2,7 +2,8 @@
 title: Essencialismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- essencialismo
+- filosofia
 ---
 
 Essencialismo é uma doutrina filosófica em que a essência sobrepõe à

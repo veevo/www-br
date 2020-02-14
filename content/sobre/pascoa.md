@@ -2,22 +2,18 @@
 title: Páscoa
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- biblia
+- jesus
+- evangelho
 ---
 
-
-
-## Perguntas Relacionadas
-
-### Qual a etimologia da palavra "páscoa"?
-O seu significado etimológico é incerto. Alguns procuram-no na raiz
+O significado etimológico de Páscoa é incerto. Alguns procuram-no na raiz
 egípcia e, nesse caso, significaria "golpe", "ferida". Há quem prefira
 ligar a palavra ao siríaco e então significaria "ser feliz", "estar
 alegre".
 
-### Qual o significado da páscoa judaica?
-Libertação dos hebreus, o "povo escolhido" de Deus, que foram
-escravizados no Egito.
+O significado da páscoa judaica seria libertação dos hebreus, o "povo escolhido"
+de Deus, que foram escravizados no Egito.
 
 ### Quando se deu a saída dos hebreus do Egito?
 A saída do povo do Egito, chamada de Êxodo, foi em 1250 a.C., depois do

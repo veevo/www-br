@@ -2,18 +2,13 @@
 title: Fenomenologia do ethos
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia 
 ---
 
 
-
-## Perguntas Relacionadas
-
-### O que se entende por fenomenologia?
 Fenomenologia é definida como "um estado puramente descritivo dos
 fatos vividos de pensamento e de conhecimento".
 
-### O que significa ethos?
 Ethos, e sua tradução mores, em latim, não tem um único
 significado. Ele toma sentidos diversos: na retórica, na moral, na
 política, na música etc. Pode ser interpretado como caráter,

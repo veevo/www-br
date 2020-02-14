@@ -2,7 +2,9 @@
 title: Leis de deus
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- deus
+- leis-divinas
+- consciencia
 ---
 
 As leis de Deus não são dogmas, rituais, regras, mas leis naturais.

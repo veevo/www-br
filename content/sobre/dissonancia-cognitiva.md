@@ -2,7 +2,8 @@
 title: Dissonância cognitiva
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- pensamento
+- sentimento
 ---
 
 Incoerência entre certas experiências, ideias, atitudes ou sentimentos.

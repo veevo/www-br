@@ -2,18 +2,14 @@
 title: Útil e inútil
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- progresso
+- espiritismo
 ---
 
 
-
-## Perguntas Relacionadas
-
-### Qual o conceito de útil?
 “Útil” significa tudo aquilo que tem um fim noutro e não em si mesmo. É
 um instrumento, meio, intermediário. Não vale por si.
 
-### Qual o conceito de inútil?
 “Inútil” significa o que não tem um fim noutro. Pode ser: “não tem um
 fim noutro” porque não possui finalidade alguma; “não tem fim noutro”
 porque possui um fim em si mesmo.

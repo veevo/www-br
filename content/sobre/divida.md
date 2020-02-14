@@ -2,7 +2,7 @@
 title: Dívida
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
 ---
 
 Do latim debitum, “aquilo que é devido”, do verbo debere, “dever”.

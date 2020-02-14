@@ -2,7 +2,8 @@
 title: Essênios
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- historia
+- filosofia
 ---
 
 Membro de uma seita religiosa judaica, surgida no século II a.C.,

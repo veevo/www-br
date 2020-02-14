@@ -2,14 +2,13 @@
 title: Indiferença
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- indiferenca
 ---
 
 Indiferença deriva da palavra "Adiáfora" em grego. Para os cínicos e os
 estoicos, indiferentes são todas as coisas que não contribuem para a virtude nem
 para a maldade.
 
-### O que é indiferença para a teologia?
 Para a teologia, o termo "indiferença" – aparentado aos de abandono e
 abnegação, mas não seu sinônimo – designa a atitude de disponibilidade
 total perante a vontade divina. Não é apatia ou desinteresse.

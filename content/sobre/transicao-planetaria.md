@@ -2,7 +2,10 @@
 title: Transição planetária
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
+- ciencia
+- religiao
+- espiritismo
 ---
 
 Entende por transição planetária como o ciclo de renovação onde os Espíritos

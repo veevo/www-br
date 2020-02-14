@@ -2,12 +2,14 @@
 title: Virtudes cardeais
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- virtudes
+- platao
+- cristianismo
 ---
 
 Segundo o platonismo, virtudes cardeais são cada uma das quatro qualidades
 básicas representantes do estado do espírito humano: a prudência, a justiça, a
-fortaleza e a temperança; b) Rel, Teol cada uma dessas virtudes, incorporadas na
+fortaleza e a temperança. Cada uma dessas virtudes, incorporadas na
 doutrina cristã como referência de comportamento aos seus seguidores.
 
 ### Qual o significado de virtude?

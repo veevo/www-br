@@ -1,16 +1,10 @@
 ---
-title: Teoria e prática no-espiritismo
+title: Teoria e prática no Espiritismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo 
 ---
 
-## Definição
-
-
-## Perguntas Relacionadas
-
-### O que significa a palavra teoria?
 O termo teoria – do grego theoria – é usado em várias acepções. Na
 Origem, designava o ato de ver e de ser visto em locais abertos a todos,
 tais como o templo, o circo, a ágora e em espetáculos e cerimônias
@@ -86,8 +80,8 @@ Neste texto, o amor não precisa do perdão. O amor basta a si mesmo. O
 amor não é renúncia, não é sacrifício, porque quem ama faz tudo
 desinteressadamente.
 
-
-(1) KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo:
+## Bibliografia
+* (1) KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo:
 IDE, 1984, capítulo XI, item 8 (Instruções do Espíritos: A Lei do
 Amor).
 
@@ -95,12 +89,6 @@ Amor).
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/teoria-e-prática-no-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
-
-
-## Relacionado
-todo
-
 ## Veja Também
 TODO
-
 

@@ -2,7 +2,11 @@
 title: Vícios
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- vicios
+- drogas
+- fumo
+- moral
+- biblia
 ---
 
 Vício é o defeituoso, o que se desvia do bom caminho. Na ética, é a

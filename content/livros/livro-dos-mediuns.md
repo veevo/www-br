@@ -1,11 +1,12 @@
 ---
-title: Livro dos médiuns o
+title: O Livro dos médiuns
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- livros
+- espiritismo
+- allan-kardec
 ---
 
-## Definição
 
 
 ## Perguntas Relacionadas

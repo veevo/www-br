@@ -2,7 +2,7 @@
 title: Filantropia
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filantropia
 ---
 
 Filantropia - do grego philos, "amigo", e anthropos, "homem",

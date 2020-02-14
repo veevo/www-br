@@ -2,10 +2,13 @@
 title: Parábola
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- jesus
+- biblia
+- evangelho
 ---
 
-
+Narrativa alegórica que tem por objetivo transmitir uma mensagem de maneira
+indireta, usando como recurso a analogia ou a comparação.
 
 ## Perguntas Relacionadas
 
@@ -26,8 +29,7 @@ Exemplo: considera-se Deus e Israel como a figura do dono da vinha.
 Chama-se "corpo" da parábola a narrativa expressa, e "alma" a lição
 moral que a narrativa sugere ou o sentido místico que ela comporta.
 
-### Para que serve o enigma, o símbolo e o apocalipse carregados nas
-parábolas?
+### Para que serve o enigma, o símbolo e o apocalipse carregados nas parábolas?
 O enigma era para espicaçar a curiosidade, incitar à busca.
 
 Os símbolos eram para apresentar as imagens tomadas da realidade
@@ -47,8 +49,7 @@ parábolas. Estas são de difíceis explicações. Há necessidade de um
 O esquema tripartido é o seguinte: símbolo – pedido de explicação –
 aplicação do símbolo à realidade. (Léon-Dufour, 1972)
 
-### Há diferença entre parábola e parábola evangélica? O que são
-parábolas evangélicas?
+### Há diferença entre parábola e parábola evangélica? O que são parábolas evangélicas?
 Parábola é uma forma de transmissão de conhecimento, muito utilizada na
 antiguidade. Baseava-se em histórias, cujo conteúdo revelava um
 ensinamento moral e ético. As parábolas evangélicas, por sua vez, dizem
@@ -89,8 +90,7 @@ meio de parábolas, que se destinavam a despertar a curiosidade dos
 ouvintes e o desejo de ulterior explicação, que os discípulos e os bem
 intencionados pediam. (Kardec, 1984, cap. 24)
 
-### Dentre as parábolas contadas por Jesus, qual a parábola das
-parábolas? Por quê?
+### Dentre as parábolas contadas por Jesus, qual a parábola das parábolas? Por quê?
 É a "Parábola do Semeador". Ela sintetiza os caracteres predominantes em
 todas as almas. Ela representa as diferenças que existem na maneira de
 aproveitar os ensinamentos do Evangelho. Refletindo sobre os vários
@@ -105,21 +105,13 @@ dizer, há sempre uma maneira nova de ver a mesma citação, a mesma
 história, a mesma parábola. (Léon-Dufour, 1972)
 
 
-
-
 ## Bibliografia
-
-KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE,
-1984.
-
-LÉON-DUFOUR, X. et al. Vocabulário de Teologia Bíblica. Rio de
-Janeiro: Vozes, 1972.
+* KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE, 1984.
+* LÉON-DUFOUR, X. et al. Vocabulário de Teologia Bíblica. Rio de Janeiro: Vozes, 1972.
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/parábola)  
 Autor: Sérgio Biagi Gregório
-
-
 
 ## Veja Também
 TODO

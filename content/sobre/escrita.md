@@ -2,7 +2,8 @@
 title: Escrita
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- historia
+- filosofia
 ---
 
 Ação ou efeito de escrever, de representar algo por sinais gráficos.

@@ -2,7 +2,7 @@
 title: Divindade
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- deus
 ---
 
 Filosoficamente, divindade designa, em abstrato, a natureza ou essência

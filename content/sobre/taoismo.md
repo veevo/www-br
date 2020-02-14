@@ -2,7 +2,9 @@
 title: Taoísmo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- taoismo
+- filosofia
+- historia
 ---
 
 Taoísmo é uma doutrina filosófica e religiosa fundada por Lao-Tse,

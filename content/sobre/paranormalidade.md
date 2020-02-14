@@ -2,14 +2,10 @@
 title: Paranormalidade
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- mediunidade
+- poltergeist
 ---
 
-
-
-## Perguntas Relacionadas
-
-### O que se entende por normalidade? E paranormalidade?
 A normalidade é definida em função dos cinco sentidos físicos: paladar,
 tato, audição, visão e olfato. Os acontecimentos, que escapam a esses
 cinco sentidos, são catalogados como fenômenos paranormais. Entendamos a
@@ -19,6 +15,11 @@ normal. Suponha que uma pessoa, que não tenha visto nem ouvido, mas teve
 acesso a essa informação por vias não comuns. Este é um paranormal. Há a
 possibilidade de alguém prever ou perceber este acontecimento de um
 lugar bem distante. Este também é classificado como paranormal. (1)
+
+Paranormalidade é a capacidade mental de interagir com o meio ambiente usando
+meios que não os sentidos (para a percepção) e membros do corpo (para mover
+objetos, por exemplo); é possível que esteja presente em todos os seres humanos,
+embora em alguns se manifeste com maior intensidade.
 
 ### Qual o limite entre o normal e o paranormal?
 Questão de grau nem sempre fácil de precisar. O fenômeno normal pertence

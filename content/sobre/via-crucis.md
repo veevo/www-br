@@ -2,7 +2,8 @@
 title: Via crúcis
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- jesus
+- biblia
 ---
 
 Via-crúcis é uma das expressões usadas para descrever o percurso de Cristo do
@@ -31,14 +32,9 @@ seu objeto a partir das narrações evangélicas e de alguns episódios
 apócrifos mais do gosto popular, como o encontro com a Verônica.
 
 ## Bibliografia
-
-DICIONÁRIO ENCICLOPÉDICO ILUSTRADO VEJA LAROUSSE. São Paulo: Abril,
-2006.
-
-ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
-
-GRANDE ENCICLOPÉDIA PORTUGUESA E BRASILEIRA. Lisboa/Rio de Janeiro:
-Editorial Enciclopédia, \[s.d. p.\].
+* DICIONÁRIO ENCICLOPÉDICO ILUSTRADO VEJA LAROUSSE. São Paulo: Abril, 2006.
+* ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
+* GRANDE ENCICLOPÉDIA PORTUGUESA E BRASILEIRA. Lisboa/Rio de Janeiro: Editorial Enciclopédia, \[s.d. p.\].
 
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/via-crúcis)  

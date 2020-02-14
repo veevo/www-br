@@ -2,19 +2,13 @@
 title: Paradoxo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
 ---
 
-
-
-## Perguntas Relacionadas
-
-### Qual a origem do termo “paradoxo”?
 Paradoxo vem do latim (paradoxum) e do grego (paradoxo). O prefixo
 “para” quer dizer contrário a, ou oposto de e o sufixo “doxa” quer dizer
 opinião.
 
-### O que se entende por paradoxo?
 O paradoxo é uma proposição contrária à opinião comum. É o oposto do
 que alguém pensa ser a verdade. Representa, também, a ausência de nexo
 ou lógica. Declaração que se faz sobre as coisas que aparentemente

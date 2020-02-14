@@ -2,26 +2,22 @@
 title: Evocação dos espíritos
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo
+- espiritos
+- mediunidade
 ---
 
-
-
-## Perguntas Relacionadas
-
-### O que é evocação?
 Evocar é trazer à lembrança; recordar. Evocação é o ato de
 evocar, de chamar. Em se tratando da mediunidade, é chamar, fazer
 aparecer os Espíritos. É a comunicação do Espírito feita mediante o
 chamamento do ser vivente (médium ou não).
 
-### A evocação é fenômeno somente de nossos dias?
-Não. Os deuses, na Grécia antiga, falavam com os mortais por intermédio
-dos oráculos. Na Inglaterra vitoriana, os “mortos” comungavam com os
-vivos através de médiuns. Há, ao longo do tempo, inúmeros casos de
-comunicação mediúnica: uns emprestavam seus corpos aos Espíritos
-manifestantes; outros procuravam conservar a sua identidade enquanto os
-Espíritos transmitiam as suas mensagens.
+A evocação não é fenômeno somente de nossos dias. Os deuses, na Grécia antiga,
+falavam com os mortais por intermédio dos oráculos. Na Inglaterra vitoriana, os
+“mortos” comungavam com os vivos através de médiuns. Há, ao longo do tempo,
+inúmeros casos de comunicação mediúnica: uns emprestavam seus corpos aos
+Espíritos manifestantes; outros procuravam conservar a sua identidade enquanto
+os Espíritos transmitiam as suas mensagens.
 
 ### Que nomes foram dados aos intermediários dos Espíritos?
 Hospedeiro, canal, canalizador e médium. Na década de 1980, por exemplo,
@@ -89,23 +85,13 @@ da humanidade e, por consequência, iniciar-nos melhor que os outros em
 certas coisas.
 
 
-
-Texto curto:
-
-
 ### Bibliografia
-KARDEC, A. O Livro dos Médiuns ou Guia dos Médiuns e dos
-Doutrinadores. São Paulo:Lake, \[s.d.p.\] (Capítulo 25 – Das
-Evocaçoes)
-
-Evocação dos Espíritos. Revista Mistérios do Desconhecido. Rio de
-Janeiro: abril livros.
+* KARDEC, A. O Livro dos Médiuns ou Guia dos Médiuns e dos Doutrinadores. São Paulo:Lake, \[s.d.p.\] (Capítulo 25 – Das Evocaçoes)
+* Evocação dos Espíritos. Revista Mistérios do Desconhecido. Rio de Janeiro: abril livros.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/evocação-dos-espíritos)  
+Adaptado de [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/evocação-dos-espíritos)  
 Autor: Sérgio Biagi Gregório
-
-
 
 ## Veja Também
 TODO

@@ -2,7 +2,8 @@
 title: Números
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- ciencia
+- apocalipse
 ---
 
 Todos sabemos o que é o número. Sua conceituação, porém, cria muitos
@@ -65,6 +66,7 @@ foram criados para os números.
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
+* [Numerologia](../numerologia)
+* [Apocalipse](../apocalipse)
 
 

@@ -2,9 +2,9 @@
 title: Desenvolvimento mediúnico
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo
+- mediunidade
 ---
-
 
 
 ## Perguntas Relacionadas

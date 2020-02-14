@@ -1,15 +1,11 @@
 ---
-title: Emoção e espiritismo
+title: Emoção
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- emocao
+- espiritismo
 ---
 
-
-
-## Perguntas Relacionadas
-
-### O que se entende por emoção?
 A emoção é um estado da mesma natureza que o sentimento, porém de
 maior complexidade, pois é excitada por um complexo ideológico.
 

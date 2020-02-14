@@ -2,7 +2,9 @@
 title: Desprendimento
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- abnegacao
+- desapego
+- dinheiro
 ---
 
 Ação ou efeito de desprender. Alheamento; abnegação, desapego: tem o

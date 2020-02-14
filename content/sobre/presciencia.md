@@ -2,7 +2,8 @@
 title: Presciência
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- futuro
+- filosofia
 ---
 
 Presciência é a previsão do futuro. Filos. 

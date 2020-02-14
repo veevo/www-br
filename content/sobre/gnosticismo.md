@@ -2,7 +2,8 @@
 title: Gnosticismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
+- platao
 ---
 
 Gnosticismo deriva de grego gnosis, e significa “conhecimento”,

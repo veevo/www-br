@@ -2,7 +2,7 @@
 title: Desertor
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo
 ---
 
 Desertor é aquele que abandona um partido, uma causa. Todas as grandes

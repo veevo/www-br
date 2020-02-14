@@ -2,19 +2,15 @@
 title: Fenômeno mediúnico
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- espiritismo
+- mediunidade
 ---
 
+No contexto do [Espiritismo](/espiritismo), fenômeno é qualquer manifestação de
+ordem psíquica.
 
-
-## Perguntas Relacionadas
-
-### O que se entende por fenômeno?
-Neste estudo, fenômeno é qualquer manifestação de ordem psíquica.
-
-### O que é um fenômeno psíquico?
-É um simples instrumento de revelação. Assemelha-se à claridade da
-lâmpada: sendo o mesmo, pode ser observado e interpretado de vários
+Um fenômeno psíquico é um simples instrumento de revelação. Assemelha-se à
+claridade da lâmpada: sendo o mesmo, pode ser observado e interpretado de vários
 modos, segundo a filtragem de cada médium.
 
 ### O que abrange o fenômeno psíquico?

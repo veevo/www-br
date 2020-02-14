@@ -2,7 +2,8 @@
 title: Dor e sofrimento
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- dor
+- sofrimento
 ---
 
 Dor. Em sentido geral é a sensação desagradável e penosa, resultante

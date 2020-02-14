@@ -2,7 +2,7 @@
 title: Infinito
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- filosofia
 ---
 
 Infinito é algo sem fim; eterno. Aquilo que não tem limites.

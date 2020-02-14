@@ -2,10 +2,10 @@
 title: Futuro do Espiritismo
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- futuro
+- espiritismo
 ---
 
-## Definição
 
 
 ## Perguntas Relacionadas
@@ -73,11 +73,6 @@ de seu crescimento, esperando o momento certo para colher os frutos.
 ## Fonte
 [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/futuro-do-Espiritismo)  
 Autor: Sérgio Biagi Gregório
-
-
-
-## Relacionado
-todo
 
 ## Veja Também
 TODO

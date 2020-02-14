@@ -2,7 +2,8 @@
 title: Nicolau Maquiavel
 date: 2019-01-11 13:00:00
 topics: 
-- 
+- maquiavel
+- italia
 ---
 
 Nicolau Maquiavel, Nicollò Machiavelli, (1469-1527) foi político,
