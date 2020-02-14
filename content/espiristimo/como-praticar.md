@@ -40,10 +40,10 @@ interessado em explorar seus ensinamentos para submetê-los ao teste da razão
 antes de aceitá-los.
 
 ## Centros Espíritas
-O lugar onde os espíritas se reúnem são referidos como [espírita
-Centros](Centro Espírita).  Lá, espíritas colaboram uns com os outros e
-com os [guias espirituais](/sobre/guia espiritual) da casa realizando
-atividades como estudar, praticar, orar e promover o Espiritismo. 
+O lugar onde os espíritas se reúnem são referidos como [Centro
+Espírita](../centro). Lá, espíritas colaboram uns com os outros e com os [guias
+espirituais](/sobre/guia-espiritual) da casa realizando atividades como estudar,
+praticar, orar e promover o Espiritismo. 
 
 Para saber mais sobre [Centros Espíritas, clique aqui](Centro Espírita).
 
@@ -60,10 +60,10 @@ sem a [moral](/sobre/moral) é perigoso e deve estar em todos casos evitados.
 To [learn more about Mediumship, please click here](../mediumship).
 
 ## Veja Também
-[Conheça o Espiritismo](../aprender)   
-[Espiritismo - FAQ](../faq)  
-[O que é Espiritismo](../sobre)  
-[Espiritismo - Como Estudar](../como estudar)  
-[Espiritismo - Ciência, Filosofia e Religião](../ciência-filosofia-religião)  
-[Centros Espíritas](../centros)  
+* [Sobre o Centro Espírita](../centros)  
+* [Conheça o Espiritismo](../aprender)   
+* [Espiritismo - FAQ](../faq)  
+* [O que é Espiritismo](../sobre)  
+* [Espiritismo - Como Estudar](../como-estudar)  
+* [Espiritismo - Ciência, Filosofia e Religião](../ciencia-filosofia-religiao)  
 

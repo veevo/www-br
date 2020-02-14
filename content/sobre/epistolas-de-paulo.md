@@ -1,5 +1,5 @@
 ---
-title: Epístolas de paulo as
+title: Epístolas de Paulo
 date: 2019-01-11 13:00:00
 topics: 
 - paulo-de-tarso

@@ -10,10 +10,10 @@ topics:
 * Sociedade civil legalmente constituída, com a finalidade de praticar o Espiritismo.
 
 Denominação dada às instituições que se prestam ao estudo e à prática do
-espiritismo em sua forma clássica, ou seja, a linha de estudo baseada nos
+Espiritismo em sua forma clássica, ou seja, a linha de estudo baseada nos
 postulados Kardequianos.É necessário dizer que essa denominação é usada ,
 infelizmente, de uma forma errônea por outras instituições que não praticam o
-espiritismo cristão, assim como ele foi concebido, refiro-me às casas de
+Espiritismo cristão, assim como ele foi concebido, refiro-me às casas de
 práticas de umbanda e demais ritos afro-brasileiros.Por erro conceitual ou
 propositalmente intitulados assim para angariar fiéis incautos oriundos de, ou
 que procuram, casas espíritas propriamente ditas. Em um centro espírita, em

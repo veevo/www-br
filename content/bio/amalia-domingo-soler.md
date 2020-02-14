@@ -74,12 +74,12 @@ foi capaz de escapar da cegueira completa. Foi também assim mesmo.  médico, qu
 a informa sobre o chamado "louco", seguidores de um novo doutrina, chamada
 Espiritismo. Ele emprestou-lhe uma cópia de um Periódico Espírita "Os
 Critérios". O aspecto mais curioso sobre este fato é que o médico era um
-materialista, mas ele mencionou espiritismo para ela, a fim de oferecer seu
+materialista, mas ele mencionou Espiritismo para ela, a fim de oferecer seu
 conforto para suas aflições.
 
 É através da leitura de um artigo deste periódico que ela se convence das
 verdades apresentadas pelo Espiritismo, buscando assim adicional Informações.
-Ela começou o estudo do espiritismo através de qualquer canal que estendeu as
+Ela começou o estudo do Espiritismo através de qualquer canal que estendeu as
 mãos, e ela começou a escrever alguns artigos para o espírita Resenhas, para que
 ela pudesse ter acesso a eles. Seu primeiro trabalho espírita, um poema que ela
 havia enviado para "Os Critérios", não foi publicado; mas o editor, Visconde de
@@ -101,7 +101,7 @@ de uma vez por todas as simpatias do Espíritas espanhóis.
 Fernandez Colavida, enviou-lhe, como presente, o acervo de livros de Allan
 Kardec. Os espiritistas de Alicante a convidaram para permanecer com eles, sua
 proteção para que ela pudesse se dedicar inteiramente à disseminação do
-espiritismo.
+Espiritismo.
 
 ## Referências
 [SGNY.org](//sgny.org)

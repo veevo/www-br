@@ -64,7 +64,7 @@ que já não são dos nossos dias, não são mais cultivados e, portanto, já es
 ao nosso conhecimento, o que torna sua interpretação, muitas vezes, totalmente
 obscura". (Curti, 1983, p. 151)
 
-## O apocalipse de joão e o espiritismo
+## O apocalipse de joão e o Espiritismo
 Emmanuel, comentando o apocalipse de João, em A Caminho da Luz, diz que "O
 Divino Mestre chama aos Espaços o Espírito João, que ainda se encontrava preso
 nos liames da Terra, e o Apóstolo, atônito e aflito, lê a linguagem simbólica

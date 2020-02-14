@@ -107,7 +107,7 @@ próximo a conquistar o dele.
 De acordo com o Espiritismo, a Lei Natural é a Lei de Deus, por isso se
 diz natural ou divina. Nela há o aspecto físico e o aspecto moral.
 
-### Que parte cabe à ciência? Que parte cabe ao espiritismo?
+### Que parte cabe à ciência? Que parte cabe ao Espiritismo?
 Cabe à ciência, com o seu método teórico-experimental, identificar e
 descobrir as leis da matéria. Para isso desenvolveu o método científico
 em que hipóteses são levantadas e testadas empiricamente. Ao Espiritismo

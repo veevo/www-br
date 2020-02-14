@@ -2,7 +2,7 @@
 title: Bittencourt Sampaio
 date: 2019-02-01 19:00:00
 topics:
-- espiritismo
+- Espiritismo
 - bezerra-de-menezes
 - brasil
 - mediunidade
@@ -119,31 +119,50 @@ e no Grupo Ismael. Mas, a atuação espírita de Bittencourt antecede a de Bezer
 em cerca de quinze anos.
 
 ### A divina epopeia 
-Na sua marcante obra – citada por literatos6–, Bittencourt comenta os objetivos do livro:
+Na sua marcante obra – citada por literatos6–, Bittencourt comenta os objetivos
+do livro:
 
-> [...] mostrar-lhes que não se vive tão somente do pão material levou-me nos dias santificados ao estudo dos Evangelhos, escrevendo ora o próprio texto em linguagem ao alcance de todos, ora traduzindo em verso o que mais me parecia adaptar-se à índole e ao ritmo do nosso endecasílabo.Trasladando para versos heroicos o Evangelho segundo S. João, não tive outro fim senão o de elevar a Deus o meu espírito [...]. 7 Escutai as palavras do Evangelho,
+> [...] mostrar-lhes que não se vive tão somente do pão material levou-me nos
+> dias santificados ao estudo dos Evangelhos, escrevendo ora o próprio texto em
+> linguagem ao alcance de todos, ora traduzindo em verso o que mais me parecia
+> adaptar-se à índole e ao ritmo do nosso endecasílabo.Trasladando para versos
+> heroicos o Evangelho segundo S. João, não tive outro fim senão o de elevar a
+> Deus o meu espírito [...]. 7 Escutai as palavras do Evangelho,
 
-[...]A boa nova, que o discípulo amado Por ordem de Jesus ditou aos homens.7
-Referência e obras espirituais Depois de sua desencarnação, Bittencourt Sampaio,através do médium Frederico Júnior, escreveu as obras Jesus perante a cristandade, De Jesus para as crianças e Do calvário ao apocalipse, editadas pela FEB. No livro Voltei,10 o Espírito Irmão Jacob, pela psicografia de Francisco Cândido Xavier, em conversação no mundo espiritual com Guillon Ribeiro, revela a missão de Bittencourt Sampaio:
-– Guillon – exclamei hesitante –, você sabe que sempre dediquei amor e veneração a Bittencourt Sampaio... Onde estará ele? Poderei encontrá-lo? Informou-me o companheiro que o nosso respeitável amigo colabora na supervisão do Espiritismo evangélico, em plano superior, adiantando, porém, que, provavelmente, seria Bittencourt o mensageiro de amizade que viria de mais alto trazer-me as boas-vindas, na noite de minha recepção no grande templo.10 Desde seus esforços – como um denodado pioneiro do Espiritismo no país – até nossos dias, Bittencourt Sampaio é um arauto da difusão do Evangelho à luz do Espiritismo!
+[...] A boa nova, que o discípulo amado Por ordem de Jesus ditou aos homens.7
+
+Referência e obras espirituais Depois de sua desencarnação, Bittencourt
+Sampaio,através do médium Frederico Júnior, escreveu as obras Jesus perante a
+cristandade, De Jesus para as crianças e Do calvário ao apocalipse, editadas
+pela FEB. No livro Voltei,10 o Espírito Irmão Jacob, pela psicografia de
+Francisco Cândido Xavier, em conversação no mundo espiritual com Guillon
+Ribeiro, revela a missão de Bittencourt Sampaio:
+
+– Guillon – exclamei hesitante –, você sabe que sempre dediquei amor e veneração
+a Bittencourt Sampaio... Onde estará ele? Poderei encontrá-lo? Informou-me o
+companheiro que o nosso respeitável amigo colabora na supervisão do Espiritismo
+evangélico, em plano superior, adiantando, porém, que, provavelmente, seria
+Bittencourt o mensageiro de amizade que viria de mais alto trazer-me as
+boas-vindas, na noite de minha recepção no grande templo.10 Desde seus esforços
+– como um denodado pioneiro do Espiritismo no país – até nossos dias,
+Bittencourt Sampaio é um arauto da difusão do Evangelho à luz do Espiritismo!
 
 ## Fonte
-[FEB](//www.febnet.org.br/ba/file/Pesquisa/Biografias/Bittencourt%20Sampaio.pdf)  
-[Personagens do Espiritismo](https://personagensdoespiritismo.blogspot.com/2014/02/bittencourt-sampaio_20.html)  
+* [FEB](//www.febnet.org.br/ba/file/Pesquisa/Biografias/Bittencourt%20Sampaio.pdf)  
+* [Personagens do Espiritismo](https://personagensdoEspiritismo.blogspot.com/2014/02/bittencourt-sampaio_20.html)  
 
 ## Referências 
-1 WANTUIL, Zêus. Grandes espíritas do Brasil. 4. ed. Rio de Janeiro: FEB, 2002. p. 244 a 253 e 143.
-2 Disponível em: <http://musicaclassica.folha.com.br/cds/20/biografia-3.html>. Acesso em: 6/12/2013.
-3 Disponível em: <http://www.youtube.com/watch?v=IoF9ZPA5aF8>. Acesso em: 6/12/2013.
-4 Disponível em: <http://www.youtube. com/watch?v=80Ktab8rkf4>. Acesso em:6/12/2013.
-5 SOARES, Sylvio Brito. Grandes vultos da humanidade e o espiritismo. 4. ed. 1. reimp. Rio de Janeiro: FEB, 2008. p. 46 e 47.
-6 BARRETO, Luiz Antonio. (Organizador.) Parnaso sergipano. Edição Comemorativa, de Sílvio Romero. Rio de Janeiro: Imago Editora; Aracaju: Universidade Federal de Sergipe, 2001. p. 516.
-7 SAMPAIO, F. L. Bittencourt. A divina epopeia. 5. ed. Rio de Janeiro: FEB, 2003. Advertência, p. 9; Introdução, p. 23.
-8 MINISTÉRIO DA EDUCAÇÃO E CULTURA. Sesquicentenário – 1810-1960. Guia da Biblioteca Nacional. Rio de Janeiro: Biblioteca Nacional do Ministério da Educação e Cultura. caps. Notícia Histórica e Relação dos Diretores. 1960. p. 13, 14 e 27, respectivamente.
-9 ABREU, Silvino Canuto. Bezerra de Menezes. Subsídios para a História do Espiritismo no Brasil até o ano de 1895. 6. ed. São Paulo: Editora Feesp, 2001. p. 55, 90.
-10 XAVIER, Francisco C. Voltei. Pelo Espírito Irmão Jacob. 28. ed. 7. imp. Brasília: FEB, 2013. cap. 12, Entre companheiros, it. Noite divina, p. 107.
+* 1 WANTUIL, Zêus. Grandes espíritas do Brasil. 4. ed. Rio de Janeiro: FEB, 2002. p. 244 a 253 e 143.
+* 2 Disponível em: <http://musicaclassica.folha.com.br/cds/20/biografia-3.html>. Acesso em: 6/12/2013.
+* 3 Disponível em: <http://www.youtube.com/watch?v=IoF9ZPA5aF8>. Acesso em: 6/12/2013.
+* 4 Disponível em: <http://www.youtube. com/watch?v=80Ktab8rkf4>. Acesso em:6/12/2013.
+* 5 SOARES, Sylvio Brito. Grandes vultos da humanidade e o Espiritismo. 4. ed. 1. reimp. Rio de Janeiro: FEB, 2008. p. 46 e 47.
+* 6 BARRETO, Luiz Antonio. (Organizador.) Parnaso sergipano. Edição Comemorativa, de Sílvio Romero. Rio de Janeiro: Imago Editora; Aracaju: Universidade Federal de Sergipe, 2001. p. 516.
+* 7 SAMPAIO, F. L. Bittencourt. A divina epopeia. 5. ed. Rio de Janeiro: FEB, 2003. Advertência, p. 9; Introdução, p. 23.
+* 8 MINISTÉRIO DA EDUCAÇÃO E CULTURA. Sesquicentenário – 1810-1960. Guia da Biblioteca Nacional. Rio de Janeiro: Biblioteca Nacional do Ministério da Educação e Cultura. caps. Notícia Histórica e Relação dos Diretores. 1960. p. 13, 14 e 27, respectivamente.
+* 9 ABREU, Silvino Canuto. Bezerra de Menezes. Subsídios para a História do Espiritismo no Brasil até o ano de 1895. 6. ed. São Paulo: Editora Feesp, 2001. p. 55, 90.
+* 10 XAVIER, Francisco C. Voltei. Pelo Espírito Irmão Jacob. 28. ed. 7. imp. Brasília: FEB, 2013. cap. 12, Entre companheiros, it. Noite divina, p. 107.
 
-
-## See Also
-[Bezerra de Menezes](../bezerra-de-menezes)  
-[Euripedes Barsanulfo](../euripedes-barsanulfo)  
+## Veja Também
+* [Bezerra de Menezes](../bezerra-de-menezes)  
+* [Euripedes Barsanulfo](../euripedes-barsanulfo)  

@@ -20,7 +20,7 @@ Ao crescer, ele passa a usar seu dom para psicografar cartas. Logo se torna um
 uma fraude, já que publica livros de pessoas famosas que já tinham morrido. 
 
 Já envelhecido, Chico participa do programa de TV "Pinga-Fogo", onde fala sobre
-sua trajetória de vida e questões do espiritismo.  Através dele conhece Orlando
+sua trajetória de vida e questões do Espiritismo.  Através dele conhece Orlando
 diretor de imagem do programa, que é ateu. 
 
 Ele e sua esposa Glória sofrem devido a perda do filho, Tomás, morto quando ele

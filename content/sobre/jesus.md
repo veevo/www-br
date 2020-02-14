@@ -205,7 +205,7 @@ Verbo, 1986.
 O Livro dos Espíritos, Pergunta 625
 
 ## Leitura recomendada
-* "O evangelho segundo o espiritismo" de Allan Kardec,
+* "O evangelho segundo o Espiritismo" de Allan Kardec,
 * "O evangelho á luz do cosmo" psicografado p/ Hercílio Maes e ditado p/ Ramatís
 * "O Novo Testamento"
 * "Jesus dos 13 aos 30 anos" de Francisco Klörs Werneck

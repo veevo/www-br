@@ -3,6 +3,8 @@ title: Forma-Pensamento
 date: 2019-02-01 19:00:00
 topics:
 - forma-pensamento
+- ideoplastia
+- materializacao
 ---
 
 São as idéias projetadas pela mente humana e materializadas no mundo espiritual,

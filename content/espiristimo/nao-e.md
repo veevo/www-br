@@ -1,6 +1,6 @@
 ---
 title: O que o Espiritismo não é
-description: Neste post, vamos entender o que espírita não é e o que você não vai encontrar no Espiritismo.
+description: Há muita mal-compreensão sobre o Espiritismo. Neste post, vamos entender o você não vai encontrar no Espiritismo.
 date: "2019-01-01"
 topics:
 - espiritismo
@@ -68,11 +68,11 @@ estudo das obras de [Allan Kardec](/bio/allan-kardec) e aqueles que o seguiram.
 ## Fonte
 [ExploreEspiritism.com - Spiritist Center Activities](http://www.explorespiritism.com/SPIRITIST%20CENTER%20ACTIVITIES.htm)
 
-## See Also
-[Spiritism - What is Espiritismo](../about)  
-[Spiritism - Foundations](../foundations)  
-[Spiritism - Teachings](../teachings)  
-[Spiritism - The Codification](../codification)  
-[Spiritism - What it is NOT](../not-spiritism)  
-[Spiritism - FAQ](../faq)
+## Veja Também
+* [Espiritismo - O que é espiritismo](../sobre)  
+* [Espiritismo - Fundações](../fundações)  
+* [Espiritismo - Ensinamentos](../ensinamentos)  
+* [Espiritismo - A Codificação](../codificação)  
+* [Espiritismo - O que é NÃO](../não-espiritismo)  
+* [Espiritismo - FAQ](. /faq)
 

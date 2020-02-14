@@ -14,7 +14,7 @@ nordestinos.
 
 ### O que é a umbanda?
 A umbanda é uma religião (popular) genuinamente brasileira, pois absorve
-elementos do catolicismo, do espiritismo das culturas indígenas e
+elementos do catolicismo, do Espiritismo das culturas indígenas e
 africanas. Costume de os escravos se reunirem após o trabalho.
 
 ### Em qual linhas da Umbanda os pretos-velhos atuam?

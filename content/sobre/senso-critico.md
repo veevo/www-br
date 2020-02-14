@@ -45,7 +45,7 @@ das intencionalidades globais, originárias e finais do movimento da
 existência. É o esforço de separar o que pode ser reconhecido como
 válido daquilo que não o é.
 
-### O senso crítico, segundo o espiritismo, é realizado pelo Espírito.
+### O senso crítico, segundo o Espiritismo, é realizado pelo Espírito.
 Como se explica?
 Há percepção sensorial e percepção extra-sensorial. Nossa mente capta as
 sensações e transmite-as ao perispírito. Este, por sua vez, envia-as ao

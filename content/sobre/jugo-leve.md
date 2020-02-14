@@ -145,7 +145,7 @@ ficou em baixo.
 
 o conhecimento da lei pertence a todos, mas cada um capta somente de acordo com
 o seu grau de percepção. por isso, há que se ter muita paciência e repetir a
-frase de jesus, quando formos vilipendiados: "pai, perdoa-lhes, porque não sabem
+frase de Jesus, quando formos vilipendiados: "pai, perdoa-lhes, porque não sabem
 o que fazem".
 
 não é uma grande felicidade saber que sofremos e porque sofremos. Imagina alguém

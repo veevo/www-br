@@ -107,7 +107,7 @@ Dificuldades no Estudo Doutrinário
 
 Era grande a dificuldade que o nosso Chico tinha para conciliar os ensinos
 Católicos, que lhe foram impostos, com as manifestações mediúnicas só explicadas
-pelo espiritismo. Contudo, resolveu se dedicar a ler sobre a Doutrina Espírita
+pelo Espiritismo. Contudo, resolveu se dedicar a ler sobre a Doutrina Espírita
 aos dezessete anos, justamente quando veio a perder sua segunda mãe Dona
 Cidália, que desencarnou no dia 19 de abril de 1931; resolvendo seu pai não mais
 se casar, até sua desencarnação ocorrida em 6 de setembro de 1960, na cidade de
@@ -131,7 +131,7 @@ Pedro Leopoldo aos 92 anos de idade.
  Benfeitor Emmanuel, seu inseparável mentor espiritual até o último dia de sua
  estada entre nós.  O conhecido Benfeitor Emmanuel, ao se apresentar ao médium,
  falou-lhe do trabalho que a espiritualidade tinha pré-estabelecido para eles, e
- se o Chico aceitasse a missão que era de divulgar o espiritismo, ele precisaria
+ se o Chico aceitasse a missão que era de divulgar o Espiritismo, ele precisaria
  seguir três requisitos fundamentais, sem os quais o trabalho não lograria
  êxito.  Então lhe fez a seguinte pergunta: − Está você realmente disposto a
  trabalhar na mediunidade com Jesus?  − Sim, se os bons Espíritos não me
@@ -248,7 +248,7 @@ declarações do sobrinho Amauri Xavier Pena; 1960 − Publica, em parceria com 
 também médium Waldo Vieira, o livro Mecanismos da Mediunidade; 1963 −
 Aposenta-se, após 30 anos de serviços prestados como auxiliar de serviço na
 antiga Inspetoria Regional do Serviço de Fomento da Produção Animal, por
-incapacidade; 1965 − Vai aos Estados Unidos a fim de difundir o espiritismo e
+incapacidade; 1965 − Vai aos Estados Unidos a fim de difundir o Espiritismo e
 para fazer um tratamento oftalmológico; 1969 − Viaja a São Paulo para se
 submeter a uma cirurgia na próstata; 3 janeiro 1972 − Concede uma entrevista de
 quatro horas na extinta TV Tupi, num programa chamado Pinga-Fogo, o que atrai
@@ -452,7 +452,7 @@ Joanna de Ângelis
 (Página psicografada pelo médium Divaldo P. Franco, no dia 2 de julho de 2002,
 no Centro Espírita Caminho da Redenção, em Salvador, Bahia). 
 
-## Referências
+## Fonte
 [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/chicoxavier.html)
 
 

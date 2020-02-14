@@ -10,7 +10,7 @@ topics:
 - dignidade
 ---
 
-Um dos postulados básicos do espiritismo é o da pluralidade das existências ou
+Um dos postulados básicos do Espiritismo é o da pluralidade das existências ou
 reencarnação.
 
 A evolução dos espíritos exige inúmeras existências para aperfeiçoar-se.
@@ -93,7 +93,5 @@ Assim, não é relevante lembrar o passado.
 
 O importante é viver bem o presente.
 
-
 ## Fonte
-
 [Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=1302)

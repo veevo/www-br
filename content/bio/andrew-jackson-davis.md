@@ -120,7 +120,7 @@ que literalmente sacudiu o mundo em olhar para a possibilidade muito real de
 comunicar-se com aqueles em Espírito estava mandamento. Na verdade, o bom trabalho tinha
 Começou.
 
-As contribuições feitas por Andrew Jackson Davis para a causa do espiritismo
+As contribuições feitas por Andrew Jackson Davis para a causa do Espiritismo
 simplesmente não pode ser enumerado. Este homem simples e sem educação, através de quem tanto
 muito foi dado, deve ser notado como o precursor principal do espiritualismo moderno.
 De 1845 a 1885, ele escreveu mais de 30 livros tratando de assuntos do cosmológico

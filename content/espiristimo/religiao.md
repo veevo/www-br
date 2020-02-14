@@ -1,14 +1,12 @@
 ---
 title: O aspecto religioso do Espiritismo
-description: No vestibulum massa quis arcu lobortis tempus. Nam pretium arcu em odio vulputate luctus.
+description: Conheça mais sobre o aspecto religioso do Espiritismo.
 date: "2019-01-01"
 topics:
 - religion
-categories:
-- espiritismo
 ---
 
-[Espiritismo] (/Espiritismo) não é realmente uma religião separada e distinta. Há
+O [Espiritismo] (/Espiritismo) não é realmente uma religião separada e distinta. Há
 sem igrejas, sem dogmas, mistérios, rituais ou iniciações, e não existe
 hierarquia sacerdosa ou ministerial.
 

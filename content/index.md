@@ -2,33 +2,40 @@
 ---
 
 
+## Bem-vindo ao Veevo.org
+Seu destino para a verdade eterna e imutável e sua fonte para
+[conhecer-te a ti mesmo](/sobre/auto-conhecimento).
 
-## Welcome to veevo.org
-Your destination for eternal and immutable truth
+### Sobre nós
+Veevo espera regenerar o ser humano, esclarecendo com frequência
+questões questionadas como: morte, depressão, suicídio, conflitos familiares,
+casamento, questões da sociedade, e mais
 
+Somos mais adequados para explicar essas perguntas porque nossos pensamentos são baseados
+sobre os ensinamentos imortais e imutáveis do Espiritismo, uma Doutrina baseada em
+Ciência, Filosofia e Religião.
 
-### About Us
-Veevo hopes to regenerate the human being by enlightening on frequently questioned issues such
-as: death, depression, suicide, family conflicts, marriage, society issues, and more
+## O que você vai aprender aqui
+Reunímos conteúdos profundos para lhe ajudar a:
+* conhecer-te a ti mesmo
+* conhecer sobre virtudes essenciais para seu desenvolvimento
+* compreender mais sobre os vícios da humanidade
+* aprender sobre o Espiritismo, essa doutrina consoladora que nos traz tanta
+  felicidade
 
-We are better suited to explain these questions because our thoughts are based on the immortal and immutable teachings of Spiritism, a Doctrine based on Science, Philosophy and Religion.
+## Começando 
+Como usar nosso conhecimento para seu próprio benefício e viver melhor? Verifique nossa get
+começou a seção para saber.
 
+## Base do Conhecimento 
+Procurando respostas? Procure um tópico específico, nossa busca por um específico
+artigo para ajuda.
 
-## What you can Learn on veevo.org
-TODO :: Add links from `Resources`
+## A Doutrina Espírita 
+Visite nossa seção Espiritismo para entender o que é Espiritismo, como ele pode ajudá-lo
+e outros recursos importantes.
 
-
-## Getting Started 
-How to use our knowledge for you own benefit and live better? Check our get started section to know.
-
-
-## Knowledge Base 
-Looking for answers? Look for a specific Topic, our search for a specific article for help.
-
-
-## The Spiritist Doctrine 
-Visit our Spiritism section to understand what is Spiritism, how it can help you and other important resources.
-
-## Resources 
-Explore our Resources section for Articles, Books, Movies and other material for studying the profound library available to the regeneration of the humanity.
+## Recursos 
+Explore nossa seção de Recursos para Artigos, Livros, Filmes e outros materiais para
+estudando a biblioteca profunda disponível para a regeneração da humanidade.
 

@@ -18,7 +18,7 @@ Resposta:
 > vai fornecer a resposta.
 
 Na abertura de seu capítulo sobre a "Profissão de um Racionalizado, Espírita
-Fé", no livro [Obras Póstumos](/livros/allan-kardec/posthomous-works),
+Fé", no livro [Obras Póstumos](/livros/obras-postumas),
 Kardec repete a definição dos Espíritos de Deus, como dito acima, eo axioma para
 que eles fizeram referência, adicionando os seguintes comentários. 
 

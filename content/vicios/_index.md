@@ -33,9 +33,9 @@ pouco moralmente desenvolvido, os [espíritos](/sobre/espírito imortal) que
 aqui habitam não possuem desenvolvimento moral.
 
 # Raiz dos vícios
-O [Espiritismo] (/espiritismo) vê vícios como tendências ruins resultantes de
+O [Espiritismo] (/Espiritismo) vê vícios como tendências ruins resultantes de
 experiências infelizes experimentadas pelos seres humanos, existência atual e
-passos passados. No entanto, o espiritismo ensina que vícios podem ser
+passos passados. No entanto, o Espiritismo ensina que vícios podem ser
 transformado e desenvolvido em virtudes ainda na vida atual.
 
 ## Vícios e Obsessão Espiritual

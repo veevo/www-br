@@ -70,7 +70,7 @@ Immanuel Kant (1724-1804) distingue a ação empreendida conforme o dever da fei
 “por dever”. Na ação feita conforme o dever não há esforço da criatura; na feita
 “por dever”, sim, pois aqui ela luta contra as suas próprias inclinações.
 
-## Dever e o evangelho segundo o espiritismo
+## Dever e o evangelho segundo o Espiritismo
 
 ### Lei da vida
 O dever é, primeiramente, a obrigação moral diante de si mesmo; depois, com

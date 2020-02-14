@@ -6,7 +6,7 @@ topics:
 ---
 
 Uso indevido da mediunidade, fora das regras de segurança aconselhadas pelo
-espiritismo. 
+Espiritismo. 
 
 ## Veja Também
 TODO

@@ -41,7 +41,7 @@ sectaristas. Exemplo: cobrança de indulgências.
 Renan, através das pesquisas históricas, e Kardec, através das
 comunicações mediúnicas, chegaram às conclusões de que os ensinos morais
 do mestre são os de real valor. A revelação, por exemplo, tem no
-espiritismo um caráter humano e divino.
+Espiritismo um caráter humano e divino.
 ### Por que fazer uma revisão do Cristianismo?
 Para aclarar o maior número de mentes acerca dos erros e das
 superstições mitológicas ocorridos ao longo do tempo. Jesus combateu a

@@ -31,7 +31,7 @@ entretanto, mais pervertidos, é porque o progresso completo requer tempo, é
 feito passo a passo. Mas, mesmo assim, ninguém pode deter a marcha do progresso,
 "porque é uma condição da natureza humana".
 
-## Povos degenerados, legislação humana e influência do espiritismo no progresso
+## Povos degenerados, legislação humana e influência do Espiritismo no progresso
 Os povos degenerados progredirão pela dor, pelo sofrimento e chegarão à
 perfeição, porque deus não desampara ninguém. A legislação humana progredirá com
 a elevação moral do homem. O Espiritismo, fazendo o homem conhecer-se a si
@@ -125,6 +125,6 @@ KARDEC, A. O Livro dos Espíritos. São Paulo: FEESP, 1999 (perguntas
 [O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
 
 ## Veja Também
-[Espiritismo](/espiritismo)
+[Espiritismo](/Espiritismo)
 [Livre Arbítrio](/sobre/livre-arbitrio)  
 [Deus](/sobre/deus)

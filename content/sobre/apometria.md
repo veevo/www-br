@@ -36,7 +36,7 @@ vividas em outras existências.
 
 ### Além das práticas espíritas, deveríamos acrescentar as da apometria?
 Definir é buscar o gênero próximo e a diferença específica; o gênero
-próximo do espiritismo é o espiritualismo; diferença específica está
+próximo do Espiritismo é o espiritualismo; diferença específica está
 assentada nos princípios codificados por Allan Kardec. Incluindo a
 terminologia da apometria, não estaríamos confundindo os conceitos
 espíritas?

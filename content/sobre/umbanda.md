@@ -6,7 +6,7 @@ topics:
 ---
 
 A umbanda é uma religião (popular) genuinamente brasileira, pois absorve
-elementos do catolicismo, do espiritismo das culturas indígenas e
+elementos do catolicismo, do Espiritismo das culturas indígenas e
 africanas. Costume de os escravos se reunirem após o trabalho.
 
 ### Qual é o ritual da umbanda?

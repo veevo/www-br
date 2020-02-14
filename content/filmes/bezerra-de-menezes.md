@@ -1,6 +1,6 @@
 ---
 title: Bezerra de Menezes
-description: Thou shalt love thy neighbour as thyself On these two commandments hang all the Law the prophet Carlos Vereza, Lúcio Mauro
+description: Você ama seu vizinho como ti mesmo. Nesses dois mandamentos penduram toda a Lei do profeta Carlos Vereza, Lúcio Mauro
 date: 2019-01-01
 image: "images/contact.jpg"
 topics: 

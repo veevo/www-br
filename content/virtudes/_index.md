@@ -1,47 +1,56 @@
 ---
 title: Virtudes
+description: Conhecer as virtudes é conhecer a si mesmo. Entenda o significado das virtudes no estudo reflexivo.
 date: 2019-01-01
-description: In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate luctus.
 layout: list-3col
 image: "images/masonary-post/post-2.jpg"
+topics:
+- virtudes
 ---
 
-The reflexive nature of [Spiritism](/spiritism) suggests that people develop
-good character traits, such as [kindness](kindness) and
-[generosity](generosity). These character traits will, in turn, allow a person
-to make the correct decisions later on in life. However, it's not only important
-to study virtues but also learn how to break bad habits of character, like
-[greed](/studies/vices/greed) or [anger](/studies/vices/anger).
+A natureza reflexiva do [Espiritismo](/espiritismo) nos esina que nos esforcemos
+para desenvolver nossa moral através de virtudes como [bondade](bondade),
+[mansidão](mansidao) e [generosidade] (generosidade). Esses traços de caráter
+lhe auxiliarão a tomar as decisões corretas nas várias provas da vida. 
 
-The oldest known type of ethical theory in western philosophy was discussed by
-[Plato](https://en.wikipedia.org/wiki/Plato) who four discussed four key
-virtues: [wisdom](wisdom), [courage](courage), [temperance](temperance) and
-[justice](justice). [Spiritism](/spiritism) however believe that there are way
-more virtues that human beings should develop. For that reason, we prepared this
-special section where we list studies on the **Essential Virtues** the human
-being should develop.
+No entanto, não é apenas importante estudar e conhecer as virtudes, mas também
+[senti-las e vivencia-las](/sobre/conhecer-sentir-vivenciar) como sugerido pelos
+[Espíritos Superiores](/sobre/espirito-superior) para que consigamos vencer
+nossos [vícios](/vicios) como [ganância] (/estudos/vícios/ganância) ou
+[raiva](/estudos/vícios/raiva) para que nos tornemos pessoas melhores.
 
-Virtue-based ethical theories focus on helping people develop good character
-traits, such as [kindness](kindness) and [generosity](generosity). These
-character traits will, in turn, allow a person to make the correct decisions
-later on in life. Virtue theorists also emphasize the need for people to learn
-how to break bad habits of character, like [greed](greed) or [anger](anger)
+## Origem da Teoria Ética
+Os primeiros registros de estudos sobre a teoria ética na filosofia ocidental
+apontam [Platão](/bio/platao) como sendo o precursor do estudo das virtudes
+[sabedoria](sabedoria](coragem](coragem](coragem),[temperança](temperança) e
+[justiça] (justiça). 
 
-Dates back to the ancient Greek thinkers and is thus the oldest type of ethical
-theory in Western philosophy. **Plato discussed four key virtues**:
-[wisdom](wisdom), [courage](courage), [temperance](temperance) and
-[justice](justice).
+O [Espiritismo] (/espiritismo) no entanto, nos ensina que há inúmeras outras 
+virtudes que nós precisamos desenvolver se quisermos alcançar a
+[felicidade](/sobre/felicidade). Por essa razão, preparamos esta
+seção especial onde listamos estudos sobre algumas das virtudes essenciais que 
+toda pessoa precisa.
 
-[Spiritism](/spiritism) teaches that a major part of a persons spiritual
-evolution comes about by changes in conduct. Virtues like [empathy](empathy),
-[charity](charity), [indulgence](indulgence) , [humility](humility), and
-[love](love) are vital to achieving a higher level of existence. Without these
-virtues (along with intellectual progress) a person can never achieve their true
-potential. 
+## Porque estudar virtudes
+As teorias éticas baseadas em estudos de virtudes comprovam que seu estudo
+auxilia a desenvolver um bom caráter e boa conduta moral. Já estes traços de caráter por sua vez,
+permitirão que você tome decisões acertadas ao longo da vida, reduzindo assim o
+sofrimento causado pela violação das [Leis Divinas](/leis) em nossa
+[consciência](/sobre/consciencia).
 
-## Supreme example of virtues
-Jesus was the most evolved Spirit who has ever embodied on this planet; the largest
-example of virtues, of the ability to love. And He left us the formula for
-"Loving God about all things and others as one
-even."
+Por fim, o [Espiritismo](/espiritismo) nos ensina que uma parte significante da
+evolução da humanidade vem por mudanças de conduta. Virtudes como [empatia](empatia),
+[caridade] (caridade), [indulgência],(indulgência) , [humildade](humildade), e
+[amor] (amor) são vitais para alcançar um nível de consiência mais elevado. São elas
+e o desenvolvimento intelectual que permitem que cada ser humano alcance seu
+verdadeiro potencial. 
 
+## Exemplo supremo de virtudes
+E quem na Terra representou e vivenciou as virtudes com mais perfeição?
+
+Jesus. [Jesus](/sobre/jesus) foi o Espírito mais evoluído que já pisou
+neste planeta e o maior exemplo de virtudes e amor. E ele nos
+deixou a fórmula para "Amar a Deus sobre todas as coisas e outros como um mesmo.
+
+Para continuar, selecione uma das virtudes abaixo ou [busque por
+tópico](/topicos).

@@ -18,7 +18,7 @@ Brasil. Pediu suas opiniões sobre o questão da vida após a morte, ele respond
 que ele considerava a vida como uma essência independente do corpo físico, e que
 após a morte corporal esta essência foi longe para reaparecer em outro ser vivo.
 Ouvindo isso, um amigo da família empurrou um cópia de Allan Kardec, O que é
-espiritismo, em sua mão e disse-lhe para ler ele, o que ele prontamente fez,
+Espiritismo, em sua mão e disse-lhe para ler ele, o que ele prontamente fez,
 encontrando que, como ele mais tarde me disse: "Eu tinha sido um Espírita o
 tempo todo sem saber.
 
@@ -27,7 +27,7 @@ ele descobriu como todos os vários fenômenos demonstrados poderiam ter sido
 produzidos por meios normais, repetindo o desempenho do suposto médium em cada
 detalhe.
 
-Mesmo assim, ele decidiu que os fenômenos associados ao espiritismo
+Mesmo assim, ele decidiu que os fenômenos associados ao Espiritismo
 valiam estudo sério, e em 1961 ele e um grupo de amigos de mente semelhante
 fundou o Instituto Brasileiro de Pesquisa Psicobiofísica (IBPP) com o objetivo:
 "O estudo de fatos paranormais e pesquisas sistemáticas sobre as leis,

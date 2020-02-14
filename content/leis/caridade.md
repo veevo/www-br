@@ -21,7 +21,7 @@ prática o lições aprendidas e merecendo as bênçãos que vêm com o progress
 (O Livro dos Espíritos, questão 886) — tem o sentido de "benevolência para com
 todos, indulgência para com as imperfeições alheias, perdão das ofensas". 
 
-"A caridade, segundo jesus, não se restringe à esmola, mas abrange todas as
+"A caridade, segundo Jesus, não se restringe à esmola, mas abrange todas as
 relações com os nossos semelhantes, quer se trate de nossos inferiores, iguais
 ou superiores. ela nos manda ser indulgentes porque temos necessidade de
 indulgência, e nos proíbe humilhar o infortúnio, ao contrário do que comumente

@@ -173,30 +173,28 @@ começar a estudar só a codificação aqui estão algumas sugestões:
   de estudo. Esses grupos de estudo estão abertos a todos e, claro,
   gratuitamente.
 
-If you are serious about the study of these books understand that even in
-study groups each book of the codification is studied more than once. Each time
-they are studies something new will be learned.
+Ainda com relação aos livros, é importante compreender que mesmo que seja o mesmo conteúdo, 
+em grupos de estudo, sempre algo novo será aprendido.
 
 ## Evangelho em Casa
-O [Evangelho em Casa](.. /gospel-em-casa) é outro essencial e muito importante
-ferramenta para praticar e estudar Espiritismo. É um momento para a família conseguir
-juntos, aprender e conectar com seu [espiritual
-guias](/sobre/guia espiritual).
+O [Evangelho no Lar](../evangelho-no-lar) é outra ferramenta essencial e muito importante
+para estudar e praticar o Espiritismo. É um momento para a família conseguir
+juntos, aprender e conectar com seu [guia espiritual](/sobre/guia-espiritual).
 
-Leia sobre o [Evangelho em Casa](.. /gospel-em-casa) para entender mais.
+Leia sobre o [Evangelho no Lar](../evangelho-no-lar) para entender mais.
 
 ## Pronto para começar?  
-Confira nossa [seção interativa sobre como começar](/começar).
+Confira nossa [seção interativa sobre como começar](/iniciando).
 
 ## Fonte
-Article adapted from [SGNY: Practices for improving the medium and their mediumship](https://www.sgny.org/spiritism-guide/mediumship/mediumship-improvement/)
+Artigo adaptado de [SGNY: Practices for improving the medium and their mediumship](https://www.sgny.org/spiritism-guide/mediumship/mediumship-improvement/)
 
 ## Veja Também
-[Conheça o Espiritismo](../learn)   
-[Espiritismo - FAQ](../faq)  
-[O que é o Espiritismo](../about)  
-[Como praticar](../como praticar)  
-[Espiritismo - Ciência, Filosofia e Religião](../ciência-filosofia-religião)  
-[Centros Espíritas](../centros)  
+* [Conheça o Espiritismo](../)   
+* [Espiritismo - FAQ](../faq)  
+* [O que é o Espiritismo](../sobre)  
+* [Como praticar](../como-praticar)  
+* [Espiritismo - Ciência, Filosofia e Religião](../ciencia-filosofia-religiao)  
+* [Centros Espíritas](../centros)  
 
 

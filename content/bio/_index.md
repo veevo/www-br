@@ -1,10 +1,10 @@
 ---
-title: "Biographies"
+title: Biografias
 date: 2019-05-14T14:46:10+06:00
-description: Want to learn more about personalities that changed Spiritism? Read to know more.
+descricao: Quer saber mais sobre personalidades que mudaram o Espiritismo? Leia para saber mais.
 image: "images/author.jpg"
 layout: list-description
 ---
 
-## Biographies
-Below we list biographies of important personalities to the Spiritist Doctrine.
+Abaixo listamos biografias de personalidades que contribuiram com a criação e
+divulgação da [Doutrina Espírita](/espiritismo)

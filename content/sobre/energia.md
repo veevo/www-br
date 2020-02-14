@@ -44,11 +44,11 @@ No início do século XX, quando os físicos estavam começando a dissecar o
 para documentar que a energia flui em pequenos pacotes e não como um
 contínuo.
 
-### Qual a relação entre física quântica e espiritismo?
+### Qual a relação entre física quântica e Espiritismo?
 São teorias distintas. De acordo com Alexandre Fontes da Fonseca,
 professor de física no Departamento de Física da Faculdade de Ciências
 da UNESP, em Bauru, a física quântica é uma teoria da matéria, o
-espiritismo é a ciência do espírito.
+Espiritismo é a ciência do espírito.
 
 ### Pode a física quântica justificar a existência do Espírito?
 Pelo fato de a física quântica estudar os fenômenos que estão fora do

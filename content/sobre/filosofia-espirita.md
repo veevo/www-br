@@ -45,7 +45,7 @@ conclusões morais.
 
 ### Como se explica ontologia espírita?
 O mistério do ser se aclara com a revelação e a cogitação. A
-revelação é divina, mas a cogitação é humana. Para o espiritismo, o
+revelação é divina, mas a cogitação é humana. Para o Espiritismo, o
 ser é espírito, corpo espiritual e corpo físico.
 
 ### Como se entende a teoria do conhecimento espírita?

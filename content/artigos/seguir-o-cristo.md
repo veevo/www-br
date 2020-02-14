@@ -22,7 +22,7 @@ Os paralíticos que retomaram a saúde se reergueram e andaram.
 
 Lázaro atendeu ao chamamento do Cristo e levantou-se do sepulcro.
 
-Entre dolorosas peregrinações e profundos esforços de vontade, Paulo de tarso
+Entre dolorosas peregrinações e profundos esforços de vontade, Paulo de Tarso
 procurou seguir o Jesus, entre açoites e sofrimentos, depois de se haver
 levantado, às portas de damasco.
 

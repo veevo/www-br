@@ -12,7 +12,6 @@ topics:
 - psicofonia
 - espirito-superior
 - livro-dos-espiritos
-- evangelho-segundo-espiritismo
 ---
 
 Emmanuel é o nome dado pelo médium espírita brasileiro Chico Xavier ao espírito

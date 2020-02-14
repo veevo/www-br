@@ -9,42 +9,43 @@ topics:
 * Agente, intermediário com o auxílio do qual e sobre o qual atua o Espírito.
 * Laço que prende o Espírito
 
-Generally speaking, matter is:
-* That which occupies space and has mass; physical substance.
-* A type of such substance.
-* Discharge or waste, such as pus or feces, from a living organism.
+De um modo geral, a matéria é:
+* Aquele que ocupa espaço e tem massa; substância física.
+* Um tipo de substância desse tipo.
+* Descarga ou resíduos, como pus ou fezes, de um organismo vivo.
 
-According to [Spiritism](/spiritism), matter derives from the universal fluid
-are in the solid, liquid, gaseous, and fluidic state itself, also called the
-spiritual fluid, so that while the first three can be manipulated by the hand
-of man, the latter is sensitive. 
+De acordo com [Espiritismo](/espiritismo), a matéria deriva do [fluido cósmico
+universal](/sobre/fluido-cosmico-universal) estão no estado sólido, líquido,
+gasoso e fluido em si, também chamado de fluido espiritual, de modo que enquanto
+os três primeiros podem ser manipulados pela mão do homem, este último é
+sensível. 
 
-In [material worlds](/about/material-world), matter is essentially everything
-that compose those worlds, including atoms, fluids (such as electric) and other
-subtle parcticles.
+Em [mundos materiais](/sobre/mundo-material), a matéria é essencialmente tudo
+que compõem esses mundos, incluindo átomos, fluidos (como elétricos) e outros
+parcticles sutis.
 
-## Advanced Concepts
-From the human point of view, matter is generally conceived of as something that
-occupies space, can be perceived by one or more senses, and is impenetrable.
-However matter exists in states unknown to us even if being too ethereal to
-make an impression on our senses.
+## Matéria Invisível
+Do ponto de vista humano, a matéria é geralmente concebida como algo que ocupa
+espaço, pode ser percebido por um ou mais sentidos, e é impenetrável.  No
+entanto, a matéria existe em estados desconhecidos para nós, mesmo que seja
+muito etéreo para causar uma impressão em nossos sentidos.
 
-The other key point to understand about matter is that it is formed of one
-basic element.  The elements that we regard as basic (such as hydrogen,
-oxygen, nitrogen, carbon, and their chemical/physical building blocks) are
-really transformations of a more fundamental matter: the cosmic fluid. 
+O outro ponto-chave a entender sobre a matéria é que ela é formada de um
+elemento básico.  Os elementos que consideramos básicos (como hidrogênio,
+oxigênio, nitrogênio, carbono e seus blocos de construção químicos/físicos) são
+realmente transformações de uma matéria mais fundamental: o fluido cósmico. 
 
-Basically, matter has only two essential properties: force and movement. All
-other properties conditioned by intensity, direction, and movement, are only
-secondary effects responding to different molecular arrangements.  These
-secondary effects, such as flavors, colors, sounds, poisonous vs. medicinal
-qualities, etc., occur when elementary molecules undergo changes due to the
-interaction and combination with other molecules, or in response to
-environmental pressure.
+Basicamente, a matéria tem apenas duas propriedades essenciais: força e movimento. Todos
+outras propriedades condicionadas por intensidade, direção e movimento, são apenas
+efeitos secundários respondendo a diferentes arranjos moleculares.  Estes
+efeitos secundários, como sabores, cores, sons, venenosos versus medicina
+qualidades, etc., ocorrem quando moléculas elementares sofrem alterações devido ao
+interação e combinação com outras moléculas, ou em resposta a
+pressão ambiental.
 
-Any of that is new and all of it has already been proven by science. However,
-what science has yet to prove is that the minimum particle already found is
-still very far from being the most elementary element.
+Tudo isso é novo e tudo isso já foi provado pela ciência. No entanto
+o que a ciência ainda tem que provar é que a partícula mínima já encontrada é
+ainda muito longe de ser o elemento mais elementar.
 
 ## Perguntas Relacionadas
 
@@ -136,37 +137,17 @@ meio; o fim é a evolução do Espírito. Não é a matéria que atrapalha a
 evolução do Espírito, mas os atrativos da matéria, ou seja, os prazeres,
 as guloseimas, as diversões etc.
 
-### Encontraram os filósofos solução para o problema da relação entre
-Espírito e matéria?
+### Encontraram os filósofos solução para o problema da relação entre Espírito e matéria?
 Não. A dualidade continua. Somente quando os filósofos incluírem o
 conceito de perispírito em suas análises, poderão dar uma solução
 satisfatória ao problema.
 
 
-
-
-
-
-
 ## Bibliografia
-
-DICIONÁRIO DE CIÊNCIAS FÍSICAS E BIOLÓGICAS. São Paulo: Meca, S.D.P.
-
-KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o
-Espiritismo. 17. ed., Rio de Janeiro: FEB, 1975.
-
-KARDEC, A. O Livro dos Espíritos. 8. ed., São Paulo: FEESP, 1995.
+* DICIONÁRIO DE CIÊNCIAS FÍSICAS E BIOLÓGICAS. São Paulo: Meca, S.D.P.
+* KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o Espiritismo. 17. ed., Rio de Janeiro: FEB, 1975.
+* KARDEC, A. O Livro dos Espíritos. 8. ed., São Paulo: FEESP, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/matéria)  
-Autor: Sérgio Biagi Gregório
-
-
-
-
-
-## Veja Também
-TODO
-
-## Fonte
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/matéria), Sérgio Biagi Gregório  
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

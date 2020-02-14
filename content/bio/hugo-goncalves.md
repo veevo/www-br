@@ -147,7 +147,7 @@ inteligente e dinâmico que era, a idealizar um negócio próprio, com seus
 colegas: abriram uma beneficiadora. Picinin sugeriu e todos os sócios aceitaram
 em destinar 20% dos lucros para obras assistenciais.
 
-Por influência dele, a maioria se tornou espírita. O espiritismo também em Cambé
+Por influência dele, a maioria se tornou espírita. O Espiritismo também em Cambé
 não era bem visto pela população, fato que atrapalhava o negócio. Mesmo assim,
 não houve desânimo. Ao contrário, Picinin e seus companheiros resolveram fundar
 um Centro e posteriormente um albergue noturno. Quando Picinin chegou a Cambé,

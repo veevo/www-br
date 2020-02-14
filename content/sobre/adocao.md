@@ -42,7 +42,7 @@ casal aventa a possibilidade de adotar uma criança, aí começa a gestação
 emocional, que é toda a preparação psicológica para trazer ao lar um ser
 de outro casal.
 
-### Como a adoção pode ser vista sob o ângulo do espiritismo?
+### Como a adoção pode ser vista sob o ângulo do Espiritismo?
 Em o Evangelho Segundo o Espiritismo, Allan Kardec discute a questão
 de que o corpo procede do corpo, mas o Espírito, não. Eis aí uma forte
 razão para que o espírita sincero possa exercitar o seu ato de amor
@@ -78,7 +78,7 @@ larga das drogas e do crime.
 * Enciclopédia Delta Universal.
 
 ## Fonte
-[Q&A - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/adoção-e-espiritismo)  
+[Q&A - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/adoção-e-Espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

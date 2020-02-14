@@ -1,5 +1,5 @@
 ---
-title: Futuro do espiritismo
+title: Futuro do Espiritismo
 date: 2019-01-11 13:00:00
 topics: 
 - 
@@ -36,7 +36,7 @@ queimados em praça pública. Não houve explicação para o período
 intermediário. O período de renovação social preconizava a mudança
 de hábitos e atitudes de toda a humanidade.
 
-### Por que o futuro do espiritismo está vinculado à renovação social?
+### Por que o futuro do Espiritismo está vinculado à renovação social?
 Porque o Espiritismo, sendo uma crença UNIVERSAL, conterá toda a
 verdade. Quer dizer, chegará um momento em que as instituições sociais
 (Direito, organizações estatais e empresas de um modo geral) receberão a
@@ -71,7 +71,7 @@ proceder como o semeador que, depois de jogar a semente na terra, cuida
 de seu crescimento, esperando o momento certo para colher os frutos.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/futuro-do-espiritismo)  
+[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/futuro-do-Espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

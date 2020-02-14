@@ -82,7 +82,7 @@ regem a vida.
 
 ## Fonte
 Redação do Momento Espírita com base no cap. IX de O evangelho segundo o
-espiritismo, de Allan Kardec, ed. Feb.
+Espiritismo, de Allan Kardec, ed. Feb.
 
 Em 07.01.2008.
 

@@ -45,7 +45,7 @@ Mediunidade ”. Foi recusado.
 
 Então, em 1881, um órgão com um título sem significado, "Rebus", foi fundado e
 amplamente subsidiado, depois que os fundos ficaram baixos, por Aksakof para
-popularizar os ensinamentos do espiritismo.
+popularizar os ensinamentos do Espiritismo.
 
 Ele experimentou Slade e Williams quando eles visitaram São Petersburgo e ele
 arranjos de arranjos para a Sra. Kate Fox-Jencken quando o czar quis consultá-la
@@ -76,7 +76,7 @@ a duplicação psíquica; os elementos da personalidade ultrapassam os limites d
 corpo até o ponto de completa externalização e objetivação. 
 
 ## Espiritismo
-Sob o nome espiritismo, incluímos fenômenos semelhantes à personalização e
+Sob o nome Espiritismo, incluímos fenômenos semelhantes à personalização e
 animismo, mas que atribuímos muito a alguns extra-mediúnicos e causa
 extra-terrene. Eles diferem dos fenômenos de personalização e animismo em seu
 conteúdo intelectual, que fornece evidências de um personalidade. "Espiritismo e

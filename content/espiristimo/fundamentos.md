@@ -265,7 +265,7 @@ ideia da existência do Criador é inata.
 ### Por que rezar?
 A oração torna os Seres Humanos melhores. Quem reza com fervor e confiança
 cresce mais forte contra tentações malignas, e Deus envia o [Bom
-Espíritos](/sobre/espírito superior) para ajudá-los. Esse tipo de assistência
+Espíritos](/sobre/espirito-superior) para ajudá-los. Esse tipo de assistência
 irá nunca ser negado quando solicitado com sinceridade.
 
 ## Encarnações
@@ -296,14 +296,13 @@ Espíritos encarnados vivem em mundos diferentes ao longo do universo.
 * Eles constituem uma sociedade invisível, mas ativa, que interage constantemente com a nossa.  
 
 ## Fonte
-"Conheça o Espiritismo, uma nova era para a Humanidade" pelo CEI (Conselho Espírita Internacional)
+* "Conheça o Espiritismo, uma nova era para a Humanidade" pelo CEI (Conselho Espírita Internacional)
 
 ## Veja Também
-[Conheça o Espiritismo](../aprender)  
-[Espiritismo - FAQ](../faq)  
-[Espiritismo - Ensinamentos](../ensinamentos)  
-[Espiritismo - História](../história)  
-[Espiritismo - A origem do Espiritismo](../origem)  
-[Espiritismo - As origens do Espiritismo](../origens)  
-[Espiritismo - Ciência, Filosofia ou Religião?](../ciência-filosofia-religião)  
+* [Conheça o Espiritismo](../aprender)  
+* [Espiritismo - FAQ](../faq)  
+* [Espiritismo - Ensinamentos](../ensinamentos)  
+* [Espiritismo - História](../historia)  
+* [Espiritismo - As origens do Espiritismo](../origens)  
+* [Espiritismo - Ciência, Filosofia ou Religião?](../ciencia-filosofia-religiao)  
 

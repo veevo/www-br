@@ -30,7 +30,7 @@ preferido era o cinema, era fascinado pelo Tarzan, sendo este o seu apelido.
 Enquanto sua saúde lhe permitiu, participou ativamente das excursões com os
 jovens de uma Mocidade Espírita, estava ele com dezesseis anos.
 
-Desde jovem já mostrava interesse pelo espiritismo, frequentando o Centro
+Desde jovem já mostrava interesse pelo Espiritismo, frequentando o Centro
 Espírita que tinha na cidade. E isso foi de grande auxílio para ele, pois aos 18
 anos de idade se defrontava com uma das primeiras grandes provações que tinha de
 vencer, passou a sofrer uma doença, não muito rara, a artrite reumatoide, que
@@ -70,7 +70,7 @@ certa vez, um repórter lhe perguntou o que é a felicidade. Ele respondeu assim
 seria poder virar de lado”. Em outra ocasião, ele disse: “Casei-me com a
 Doutrina Espírita no civil e com a dor no religioso”.
 
-Eis alguns casos da vida desse vulto do espiritismo:
+Eis alguns casos da vida desse vulto do Espiritismo:
 
 1- Por ocasião de um “enterro”, quando o cortejo seguia para o cemitério, sua
 Kombi estava logo atrás. Retirado o caixão, quando as pessoas se dirigiam para o

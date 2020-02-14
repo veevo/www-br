@@ -13,19 +13,16 @@ da alma. O esquecimento absoluto no momento do despertar é um dos sinais
 característicos do verdadeiro sonambulismo, visto que a independência da alma e
 do corpo é mais completa do que no sonho.
 
-Tipos de sonambulismo:
+Do latim somnus= sono e ambulare= marchar, passear
+
+## Tipos de sonambulismo
+O sonambulismo se apresenta de três formas:
 * Sonambulismo artificial: Sonambulismo provocado por emanação magnética ou passe.
 * Sonambulismo magnético: Aquele que é provocado pela ação de uma pessoa sobre outra por meio do fluido magnético que esta derrama sobre aquela.
 * Sonambulismo natural: Aquele que é espontâneo e se produz sem provocação e sem influência de nenhum agente exterior.
 
-## Origem
-Do latim somnus= sono e ambulare= marchar, passear
-
-## Leitura Recomendada
-[André Luis - Nos Domínios da Mediunidade](/books/andre-luis/in-the-realms-of-mediumship)
-
-## See Also
-TODO
+## Veja Também
+[André Luis - Nos Domínios da Mediunidade](/livros/dominios-da-mediunidade)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

@@ -93,20 +93,20 @@ sujeito que existe, vive, pensa e duvida.
 
 ### Instruções mediúnicas dadas por santo agostinho
 
-Em o evangelho segundo o espiritismo encontra-se algumas comunicações deste
+Em o evangelho segundo o Espiritismo encontra-se algumas comunicações deste
 insigne espírito. são elas: os mundos de expiações e de provas, mundos
 regeneradores e progressão dos mundos (cap. 3, 13 a 19), o mal e o remédio
 (cap. 4, 19), o duelo (cap. 12, 11 e 12), a ingratidão dos filhos e os laços de
 família (cap. 14, 9) e alegria da prece (cap. 27, 23).
 
-Em o livro dos médiuns há anotações sobre o espiritismo (cap. 31, 1) e sobre as
+Em o livro dos médiuns há anotações sobre o Espiritismo (cap. 31, 1) e sobre as
 sociedades espíritas (cap. 31, 16).
 
 ## O ponto de vista do Espírito Erasto
 O espírito erasto, discípulo de São Paulo, em uma de suas comunicações
 enfatiza:
 
-1) Santo Agostinho é um dos maiores divulgadores do espiritismo; ele se
+1) Santo Agostinho é um dos maiores divulgadores do Espiritismo; ele se
 manifesta quase que por toda parte.
 
 2) como muitos, ele também foi arrancado do paganismo.
@@ -143,17 +143,15 @@ pensando da mesma maneira, depois da sua experiência como católico? Não seria
 mais racional crer que ele tenha sido bafejado pelas luzes da verdade?
 
 ## Referências Bibliográficas
-RAEPER, W. e SMITH, L. Introdução ao Estudo das Idéias: Religião e Filosofia no
-Presente e no Passado. Tradução de Adail Ubirajara Sobral. São Paulo: Loyola,
-1997.
-
-REZENDE, A. (Org.). Curso de Filosofia: para Professores e Alunos dos Cursos de
-Segundo Grau e de Graduação. 6. ed. Rio de Janeiro: Zahar, 1996. 
-
-KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE, 1984. 
+* RAEPER, W. e SMITH, L. Introdução ao Estudo das Idéias: Religião e Filosofia
+  no Presente e no Passado. Tradução de Adail Ubirajara Sobral. São Paulo:
+  Loyola, 1997.
+* REZENDE, A. (Org.). Curso de Filosofia: para Professores e Alunos dos Cursos
+  de Segundo Grau e de Graduação. 6. ed. Rio de Janeiro: Zahar, 1996. 
+* KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE, 1984. 
 
 ## Fonte
-[Centro Espirita Ismael: Santo Agostinho e o Espiritismo](https://ceismael.com.br/filosofia/santo-agostinho-e-espiritismo.htm)  
+[Centro Espirita Ismael: Santo Agostinho e o Espiritismo](https://ceismael.com.br/filosofia/santo-agostinho-e-Espiritismo.htm)  
 Autor: Sérgio Biagi Gregório  
 São Paulo, agosto de 2005.   
 

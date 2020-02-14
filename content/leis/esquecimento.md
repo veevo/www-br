@@ -8,7 +8,7 @@ topics:
 - familia
 ---
 
-Um dos postulados básicos do espiritismo é o da pluralidade das existências ou
+Um dos postulados básicos do Espiritismo é o da pluralidade das existências ou
 reencarnação.
 
 A evolução dos espíritos exige inúmeras existências para aperfeiçoar-se pois

@@ -5,7 +5,6 @@ topics:
 - espiritismo
 - allan-kardec
 - livro-dos-espiritos
-- evangelho-segundo-espiritismo
 - espirito-superior
 ---
 

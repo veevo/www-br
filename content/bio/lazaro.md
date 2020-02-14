@@ -118,7 +118,7 @@ morrido; e quem em vida crê em mim não morrerá eternamente.”
 E o amigo de Betânia se dispõe a trabalhar com Jesus, no cortejo de espíritos da
 equipe do Espírito de Verdade. As suas páginas, A afabilidade e a doçura,
 Obediência e resignação, A lei de amor, O dever se encontram em O evangelho
-segundo o espiritismo, no capítulo IX, itens 6 e 8, capítulo XI, item 8 e no de
+segundo o Espiritismo, no capítulo IX, itens 6 e 8, capítulo XI, item 8 e no de
 número XVII, item 7, ditadas todas no período de 1861 a 1863 em Paris.
 
 Bem se revela Lázaro como aquele que muito amou a Jesus, elegendo-O à condição
@@ -130,16 +130,16 @@ excelência…”
 misérias sociais…Quando Jesus pronunciou a divina palavra _ amor, os povos
 sobressaltaram-se e os mártires, ébrios de esperança, desceram ao circo.”
 
-(O evangelho segundo o espiritismo, cap. XI, item 8)
+(O evangelho segundo o Espiritismo, cap. XI, item 8)
 
 ## Fonte 
 [Espirito.org.br - Lázaro](https://espirito.org.br/artigos/os-expoentes-da-codificacao-lazaro-4/)
 Jornal Mundo Espírita – Junho de 2001  
 
-### Fontes de consulta
-1.Franco, Divaldo P. As primícias do reino, Sabedoria, 1967. cap. 16.  
-2.Teixeira, J. Raul. Quem é o Cristo, Fráter, 1997. cap. 11.  
-3.Salgado, Plínio. Vida de Jesus, Voz do Oeste, 1978. cap. LVII e LVIII.  
-4.Van Den Born, A.Dicionário enciclopédico da bíblia, Vozes, 1985.  
+### Bibliografia
+* 1.Franco, Divaldo P. As primícias do reino, Sabedoria, 1967. cap. 16.  
+* 2.Teixeira, J. Raul. Quem é o Cristo, Fráter, 1997. cap. 11.  
+* 3.Salgado, Plínio. Vida de Jesus, Voz do Oeste, 1978. cap. LVII e LVIII.  
+* 4.Van Den Born, A.Dicionário enciclopédico da bíblia, Vozes, 1985.  
 
 
