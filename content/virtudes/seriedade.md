@@ -6,11 +6,15 @@ topics:
 - seriedade
 ---
 
-Integridade de caráter; retidão.
-Compostura na apresentação e maneiras.
-A qualidade ou o estado de ser sério.
+A virtude da Seriedade está diretamente relacionada à nossa integridade de
+caráter, retidão. 
+
+Requer compostura na apresentação e maneiras e exige dedicação e
+[disciplina](../disciplina) porém com [bomdade](../bomdade).
 
 ## Virtudes Relacionadas
-Sinceridade
-Seriedade
+* Trabalho
+* Disciplina
+* Sentimento de Aprendiz
+* Sinceridade
 

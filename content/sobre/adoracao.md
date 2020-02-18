@@ -5,12 +5,18 @@ topics:
 - adoracao
 ---
 
-Ato de adorar a Deus; respeito; submissão. Render culto a (divindade).
-Reverenciar, venerar, idolatrar, amar extremosamente. É a elevação do pensamento
-a Deus, pois que, pela adoração, a alma se aproxima Dele.
+Adoração é o ato de adorar a [Deus](../deus) e uma [das virtudes](/virtudes)
+essenciais que nos conecta com [nossa essência imortal](../espirito-imortal).
+
+Adoração é respeito e submissão à vontade bomdosa do Pai e de [suas
+Leis](/leis).
+
+Adorar é reverenciar, venerar, amar profundamente (mas conscimentemente). É a
+elevação do pensamento a Deus, pois que, pela adoração, [a alma](../alma) Dele
+se aproxima.
 
 Uma das dez leis morais.  
 
 ## Veja Também
-TODO
+* [Virtude Adoração](/virtudes/adoracao).
 

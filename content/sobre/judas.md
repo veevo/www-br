@@ -12,6 +12,20 @@ Judas é o nome de dois apóstolos: Judas Iscariotes, o que traiu Jesus;
 Judas Tadeu (São), autor da pergunta: "Senhor, como é que Te vais
 manifestar-se a nós e não ao mundo?"
 
+Quanto ao apóstolo, [Humberto de Campos](/bio/humberto-de-campos) narra em
+emocionante [psicografia](/sobre/psicografia) de [Chico
+Xavier](/bio/chico-xavier), entrevista que teve com Judas em pessoa no dia do
+calvário.
+
+O [Espiritismo](/espiritismo) também nos ensina que [o próprio
+Mestre](/sobre/jesus) antes de voltar a nós, foi resgatar [Judas](/sobre/judas) nas profundezas do
+[Umbral](/sobre/umbral).
+
+Acredita-se que [Joanna D'arc](/bio/joanna-darc) seria a [reencarnação](/sobre/reencarnacao) de Judas.
+
+
+## Perguntas Relacionadas
+
 ### Qual a atribuição dada a Judas Iscariotes?
 Tesoureiro. Judas Iscariotes, um dos apóstolos de Cristo, cuja tarefa
 era cuidar dos recursos financeiros do grupo, acompanhou Jesus durante
@@ -34,7 +48,7 @@ Observe que somos mais movidos pelos costumes do que pelo bom senso. Não
 percebemos a passagem do tempo e a mudança que pode já ter ocorrido
 nesse Espírito.
 
-### Como o Irmão X retrata o caso?
+### Como o Irmão X (Humberto de Campos) retrata o caso?
 Segundo o Irmão X, Judas, ao explicar o ocorrido, diz: "Jesus estava
 entre essas forças antagônicas com a sua pureza imaculada. Ora, eu era
 um dos apaixonados pelas ideias socialistas do Mestre, porém o meu
@@ -52,25 +66,20 @@ deixando trair, enalteceu esta nobre virtude: tanto um quanto o outro
 foi útil no processo.
 
 ## Bibliografia
-
-ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
-
-ENCICLOPÉDIA DELTA UNIVERSAL
-
-XAVIER, F. C. Crônicas de Além-Túmulo, pelo Espírito Irmão X. 8.ed.
-Rio de Janeiro: FEB, 1975. (Capítulo 5)
-
-Acesse a
-
-deste tema.
+* ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
+* ENCICLOPÉDIA DELTA UNIVERSAL XAVIER, F. C. Crônicas de Além-Túmulo, pelo
+  Espírito Irmão X. 8.ed.  Rio de Janeiro: FEB, 1975. (Capítulo 5)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/judas-iscariotes)  
-Autor: Sérgio Biagi Gregório
-
-
+* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/judas-iscariotes), Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
-
+* [Joanna D'arc](/bio/joanna-darc)
+* [Humberto de Campos](/bio/humberto-de-campos)
+* [O que é a psicografia?](/sobre/psicografia) 
+* [Biografia de Chico Xavier](/bio/chico-xavier)
+* [Espiritismo](/espiritismo) 
+* [O que sabemos sobre Jesus](/sobre/jesus) 
+* [O que sabemos sobre o Umbral](/sobre/umbral)
+* [O que é a reencarnação?](/sobre/reencarnacao)
 

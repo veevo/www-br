@@ -12,6 +12,13 @@ autenticidade, exatidão, veracidade.
 Do latim adaequatio intellectus et rei. Em sentido mais elevado, uma
 completa interpenetração de inteligência e ser.
 
+
+## Conhecereis a Verdade e a Verdade vos libertará
+todo
+
+
+## Perguntas Relacionadas
+
 ### Como se adquire o conhecimento verdadeiro?
 Conhecimento é o reflexo e a reprodução do objeto em nossa mente.  Conhecimento
 verdadeiro é aquele que reflete corretamente a realidade na mente.
@@ -82,8 +89,7 @@ Girão)
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-verdade)  
-Autor: Sérgio Biagi Gregório
+Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-verdade), Sérgio Biagi Gregório
 
 
 

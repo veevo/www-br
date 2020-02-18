@@ -6,10 +6,14 @@ topics:
 - abertura
 ---
 
-Sinceridade na maneira de opinar sobre algo; franqueza, lealdade, lisura.
-Ato ou efeito de abrir(-se); abrimento.
-Ato ou efeito de desobstruir; desimpedimento, desobstrução.
+A virtude da abertura está diretamente relacionada à nossa sinceridade na
+maneira de opinar sobre algo; franqueza, lealdade, lisura.
+
+Podem-se citar como sinônimos:
+* Ato ou efeito de abrir(-se); abrimento.
+* Ato ou efeito de desobstruir; desimpedimento, desobstrução.
 
 ## Virtudes Relacionadas
-Receptividade
-Doçura
+* Receptividade
+* Doçura
+* Mansidão

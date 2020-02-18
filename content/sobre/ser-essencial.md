@@ -1,9 +1,8 @@
 ---
-title: Estrada de Damasco
+title: Ser Essencial
 date: 2019-01-11 13:00:00
 topics: 
-- cristianismo-primitivo
-- paulo-de-tarso
+- auto-conhecimento
 ---
 
 todo

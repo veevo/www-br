@@ -4,7 +4,7 @@ date: 2019-02-01 19:00:00
 topics: 
 - virtudes
 - simplicidade
-- temperance
+- temperanca
 ---
 
 A qualidade ou condição de ser fácil de entender ou fazer.

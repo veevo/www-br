@@ -63,15 +63,16 @@ coração e as da inteligência.
 
 
 ## Leis Relacionadas
-[Lei Natural](../natural)  
-[Lei do Mérito](../merito)  
+* [Lei Natural](../natural)  
+* [Lei do Mérito](../merito)  
+* [Lei da Reparação](../reparacao)  
 
-## Expressões Relacionadas
-[Prece](/sobre/prece)
+## Veja Também
+* [Prece](/sobre/prece)
 
 ## Bibliografia Recomendada
-[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
-O Espírito e o Tempo, Herculano Pires
+* [O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+* O Espírito e o Tempo, Herculano Pires
 
 ## Fonte
 [CE Ismael | Lei do Trabalho](https://www.ceismael.com.br/download/apostila/apost1.htm#LEI%20DO%20TRABALHO)

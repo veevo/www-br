@@ -18,9 +18,9 @@ vez seminus, sendo obrigados a curvar-se para poderem passar. Esta cerimônia
 degradante era acompanhada de insultos – o que provocava o brio dos vencidos e
 era ocasião de carnificina.
 
-No pensamento hindu – A raiz indo-européia yug, de que deriva, é objeto de
-uma aplicação muito conhecida do sânscrito yoga, que tem efetivamente, o sentido
-de unir, juntar, por debaixo do jugo. É, por definição, uma disciplina de
+No pensamento hindu – A raiz indo-européia yug, de que deriva, é objeto de uma
+aplicação muito conhecida do sânscrito yoga, que tem efetivamente, o sentido de
+unir, juntar, por debaixo do jugo. É, por definição, uma disciplina de
 meditação, cujo objetivo é a harmonização, a unificação do ser, a tomada de
 consciência e, finalmente, a realização da única União verdadeira, a da alma com
 Deus, da manifestação com o Princípio.
@@ -36,15 +36,17 @@ Jesus, quando esteve encarnado, deixou-nos muitas máximas evangélicas, as quai
 foram anotadas e publicadas pelos Apóstolos, aproximadamente 70 depois de sua
 morte física. A sua missão foi a de nos trazer a Boa-Nova, um novo marco
 espiritual para a Humanidade, um edifício sólido em que as ventanias das trevas
-não iriam conseguir demoli-lo. Ensinou-nos através de parábolas, pois ainda não
-estávamos preparados para absorver todo o seu conteúdo doutrinal. Na época,
-disse que não podia nos ensinar tudo, mas que a seu tempo nos enviaria o
-Consolador Prometido, o Espírito de Verdade, que se incumbiria de nos lembrar do
-que tinha dito e nos revelaria novos conhecimentos. Sendo assim, convém, para o
-nosso próprio aprimoramento espiritual, buscarmos não só o seu sentido teórico
-como também a sua aplicação prática em nossa vivência. Penetremos, pois, no
-âmago desses preceitos não como um sábio, mas como uma criança, sem defesas e
-isenta de qualquer preconceito.
+não iriam conseguir demoli-lo. 
+
+Ensinou-nos através de parábolas, pois ainda não estávamos preparados para
+absorver todo o seu conteúdo doutrinal. Na época, disse que não podia nos
+ensinar tudo, mas que a seu tempo nos enviaria o Consolador Prometido, o
+Espírito de Verdade, que se incumbiria de nos lembrar do que tinha dito e nos
+revelaria novos conhecimentos. Sendo assim, convém, para o nosso próprio
+aprimoramento espiritual, buscarmos não só o seu sentido teórico como também a
+sua aplicação prática em nossa vivência. Penetremos, pois, no âmago desses
+preceitos não como um sábio, mas como uma criança, sem defesas e isenta de
+qualquer preconceito.
 
 ## Analisando a citação bíblica
 
