@@ -57,7 +57,7 @@ senso-comum isso não nos dá credencial para aplicá-la aos fenômenos
 espíritas (considerados fora do senso-comum).
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/física-quântica)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/física-quântica)  
 Autor: Sérgio Biagi Gregório
 
 

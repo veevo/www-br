@@ -129,7 +129,7 @@ prestar um grande auxílio para o tratamento da obsessão.
 ## Fontes
 * [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 * [Introdução à Doutrina Espírita | Obsessão](https://introducaodoutrinaespirita.blogspot.com/2009/01/obsesso.html)
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fascinação-e-subjugação), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fascinação-e-subjugação), Sérgio Biagi Gregório
 
 ## Veja Também
 TODO

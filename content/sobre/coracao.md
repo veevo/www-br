@@ -204,7 +204,7 @@ receberemos: esta é a lei Divina” (do livro: Jesus no Lar).
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/coração)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/coração)  
 Autor: Sérgio Biagi Gregório
 
 

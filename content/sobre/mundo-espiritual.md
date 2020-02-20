@@ -119,8 +119,8 @@ EQUIPE DA FEB. O Espiritismo de A a Z. Rio de Janeiro: FEB, 1995.
 KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995. (Capítulo IX, perguntas 456 a 557)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/relação-entre-o-mundo-material-e-o-mundo-espiritual), Sérgio Biagi Gregório
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mundos-superiores), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/relação-entre-o-mundo-material-e-o-mundo-espiritual), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mundos-superiores), Sérgio Biagi Gregório
 
 ## Veja Também
 Mundo Superior

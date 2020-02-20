@@ -166,7 +166,7 @@ Espírito Humberto de Campos. 11. ed. Rio de Janeiro: FEB, 1977.
 
 ## Fonte
 * Biografia: [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/gabrieldelanne.html)  
-* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
+* Perguntas Relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
 
 ## Veja Também
 * [Allan Kardec](../allan-kardec)

@@ -86,7 +86,7 @@ postas em nossas mãos. Elas foram nos oferecida para ajudar o progresso
 da humanidade e não para servir aos nossos prazeres mundanos.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dívida)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/dívida)  
 Autor: Sérgio Biagi Gregório
 
 

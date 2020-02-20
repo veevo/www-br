@@ -76,7 +76,7 @@ LEON-DUFOUR, X. et al. Vocabulário de Teologia Bíblica. Rio de
 Janeiro: Vozes, 1972.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mártir)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mártir)  
 Autor: Sérgio Biagi Gregório
 
 

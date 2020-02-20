@@ -80,7 +80,7 @@ grande com o fluido do vidente de se combinar com o do Espírito.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aparições-fantasmas-e-assombrações)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/aparições-fantasmas-e-assombrações)  
 Autor: Sérgio Biagi Gregório
 
 

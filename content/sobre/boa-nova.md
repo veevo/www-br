@@ -65,7 +65,7 @@ orientados pelo mestre Jesus, com certeza teríamos implantado o reino
 dos céus nos corações dos seres humanos.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/boa-nova)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/boa-nova)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

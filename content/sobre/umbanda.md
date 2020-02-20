@@ -28,7 +28,7 @@ GASPAR, Eneida D. (org.). Guia de Religiões Populares do Brasil. Rio
 de Janeiro: Pallas, 2002.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/preto-velho)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/preto-velho)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

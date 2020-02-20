@@ -54,7 +54,7 @@ limites da necessidade é uma violação da lei de Deus. Deverá prestar
 contas do abuso da liberdade que lhe foi concedida.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ecologia-e-meio-ambiente)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ecologia-e-meio-ambiente)  
 Autor: Sérgio Biagi Gregório
 
 ## Bibliografia Recomendada

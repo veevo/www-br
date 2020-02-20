@@ -62,7 +62,7 @@ fosse justa?
 * KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-justiça-amor-e-caridade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-justiça-amor-e-caridade)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

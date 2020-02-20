@@ -176,8 +176,8 @@ Girão)
 
 ## Fonte
 * [CE Ismael | Lei de Justiça](https://www.ceismael.com.br/download/apostila/apost1.htm)
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-verdade), Sérgio Biagi Gregório
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-justiça-amor-e-caridade)  
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-verdade), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-justiça-amor-e-caridade)  
 
 ## Leis Relacionadas
 [Lei Natural](../natural)

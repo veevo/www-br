@@ -85,7 +85,7 @@ Tradução de Daniel Vieira. São Paulo: Makron Books, 1999.
 (2) KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/anjos-da-guarda)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/anjos-da-guarda)  
 Autor: Sérgio Biagi Gregório
 ## Relacionado
 Benfeitor

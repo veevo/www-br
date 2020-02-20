@@ -115,7 +115,7 @@ Alegre, RS: L&PM, 2011. (Coleção L&PM POCKET Encyclopaedia, v. 985)
 Janeiro: FEB, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mecânica-e-teoria-quântica)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mecânica-e-teoria-quântica)  
 Autor: Sérgio Biagi Gregório
 
 

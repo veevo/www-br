@@ -58,7 +58,7 @@ herança. Nunca mais se viu o conferencista fazendo as suas pregações.
 gerações e nações." Henry Thoreau
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/herança)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/herança)  
 Autor: Sérgio Biagi Gregório
 
 

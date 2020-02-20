@@ -97,7 +97,7 @@ XAVIER, F. C. Vinha de Luz, pelo Espírito Emmanuel. 3. ed. Rio de
 Janeiro: FEB, 1971.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fraternidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fraternidade)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -71,7 +71,7 @@ de maior facilidade para o ataque mental, isto é, através das
 interferências em nossos mais secretos pensamentos.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/antagonismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/antagonismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

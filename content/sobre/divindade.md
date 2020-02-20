@@ -40,7 +40,7 @@ monoteísmo, a divindade é possuída só por Deus. Nesse caso, Deus e
 divindade coincidem.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/divindade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/divindade)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

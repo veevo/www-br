@@ -104,7 +104,7 @@ alheia e fornecer-lhe o alimento espiritual de que necessita.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/consolador-prometido)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/consolador-prometido)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

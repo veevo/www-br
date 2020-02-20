@@ -71,7 +71,7 @@ colaboradores e frequentadores, para que haja um perfeito fluxo nas
 dependências do Centro.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/organização-espiritual)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/organização-espiritual)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -63,7 +63,7 @@ para fortificar ou enfraquecer os laços de família?
 Capítulo IV de O Evangelho Segundo o Espiritismo, de Allan Kardec.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/laços-de-família)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/laços-de-família)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -118,7 +118,7 @@ separar o joio do trigo.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/centro-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/centro-espírita)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -74,7 +74,7 @@ São Paulo: Globo, 2012.
 (em 23/09/2015)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/transtornos-mentais)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/transtornos-mentais)  
 Autor: Sérgio Biagi Gregório
 
 

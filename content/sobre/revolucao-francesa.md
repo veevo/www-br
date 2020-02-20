@@ -56,7 +56,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/revolução-francesa)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/revolução-francesa)  
 Autor: Sérgio Biagi Gregório
 
 

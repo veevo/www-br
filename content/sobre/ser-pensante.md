@@ -70,7 +70,7 @@ chegar à essência das coisas? Qual a missão do homem inteligente na
 Terra?
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/homem-como-ser-pensante-o)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/homem-como-ser-pensante-o)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -46,7 +46,7 @@ contam um problema difícil, temos mil conselhos para dar. Mas quando o
 problema é nosso, não aplicamos o dito conselho a nós mesmos.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/real-e-ilusão)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/real-e-ilusão)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

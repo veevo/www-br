@@ -62,7 +62,7 @@ Poder dos melhores pressupõe que os governantes tenham dado uma direção
 moral às suas inteligências.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/poder)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/poder)  
 Autor: Sérgio Biagi Gregório
 
 

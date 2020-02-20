@@ -165,7 +165,7 @@ Algumas de suas obras espíritas são:
 
 ## Fonte
 [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/joseherculanopires.html)
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/pires-josé-herculano)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/pires-josé-herculano)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

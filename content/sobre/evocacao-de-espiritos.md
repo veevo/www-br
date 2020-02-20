@@ -90,7 +90,7 @@ certas coisas.
 * Evocação dos Espíritos. Revista Mistérios do Desconhecido. Rio de Janeiro: abril livros.
 
 ## Fonte
-Adaptado de [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/evocação-dos-espíritos)  
+Adaptado de [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/evocação-dos-espíritos)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

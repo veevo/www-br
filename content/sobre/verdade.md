@@ -89,7 +89,7 @@ Girão)
 
 
 ## Fonte
-Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-verdade), Sérgio Biagi Gregório
+Perguntas Relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-verdade), Sérgio Biagi Gregório
 
 
 

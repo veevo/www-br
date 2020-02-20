@@ -100,7 +100,7 @@ Filosofia Inventou nosso Mundo. Tradução de Petê Rissatti. Rio de
 Janeiro: Tinta Negra Bazar Editorial, 2011.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/gnosticismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/gnosticismo)  
 Autor: Sérgio Biagi Gregório
 
 

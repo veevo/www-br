@@ -74,7 +74,7 @@ quando, então, não terão necessidade de reencarnar novamente.
 * Temática Barsa - Filosofia
 
 ## Fonte
-* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/hegel-e-a-dialética), Sérgio Biagi Gregório
+* Perguntas Relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/hegel-e-a-dialética), Sérgio Biagi Gregório
 
 ## Veja Também
 * [Allan Kardec](../bio/allan-kardec)

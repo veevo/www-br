@@ -80,7 +80,7 @@ Janeiro: FEB, 1977.
 Janeiro: FEB, 1978.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/maternidade-de-paternidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/maternidade-de-paternidade)  
 Autor: Sérgio Biagi Gregório
 
 

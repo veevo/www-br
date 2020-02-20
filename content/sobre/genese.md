@@ -123,7 +123,7 @@ XAVIER, F. C. e VIEIRA, W. Evolução em Dois Mundos, pelo Espírito
 André Luiz, 4. ed., Rio de Janeiro, FEB, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/gênese-a)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/gênese-a)  
 Autor: Sérgio Biagi Gregório
 
 

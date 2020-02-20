@@ -64,7 +64,7 @@ entre outros.
 São Paulo: Parábola, 2013.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conceito)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/conceito)  
 Autor: Sérgio Biagi Gregório
 
 

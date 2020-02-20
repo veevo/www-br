@@ -87,7 +87,7 @@ Dicionário Bíblico. São Paulo, Edições Paulinas, 1984.
 Rio de Janeiro, FEB, 1977, p. 38.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/jesus-e-seus-discípulos)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/jesus-e-seus-discípulos)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -58,7 +58,7 @@ CONCHE, Marcel. O Fundamento da Moral. Tradução de Marina Appenzeller.
 São Paulo: Martins Fontes, 2006. (Coleção justiça e direito)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fundamento-da-moral)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fundamento-da-moral)  
 Autor: Sérgio Biagi Gregório
 
 

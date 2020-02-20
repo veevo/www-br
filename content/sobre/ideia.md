@@ -101,7 +101,7 @@ XAVIER, F. C. Mecanismos da Mediunidade, pelo Espírito André Luiz. 8.
 ed., Rio de Janeiro, FEB, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ideia-e-pensamento)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ideia-e-pensamento)  
 Autor: Sérgio Biagi Gregório
 
 

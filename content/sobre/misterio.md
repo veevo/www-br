@@ -65,7 +65,7 @@ explicar o que o Cristo disse somente por parábolas, pois fala sem
 figuras e sem alegorias.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mistério)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mistério)  
 Autor: Sérgio Biagi Gregório
 
 

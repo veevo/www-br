@@ -75,7 +75,7 @@ manifestações.
 * KARDEC, Allan. O Livro dos Médiuns, cap. XXVII.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/contradições-e-mistificações)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/contradições-e-mistificações)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

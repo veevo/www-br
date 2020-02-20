@@ -102,7 +102,7 @@ e Parapsicologia.
 (4) LUIZ, A. Mecanismos da Mediunidade, cap. XXII.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/passe-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/passe-espírita)  
 Autor: Sérgio Biagi Gregório
 
 

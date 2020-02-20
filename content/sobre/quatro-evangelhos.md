@@ -99,7 +99,7 @@ histórico-crítico. Tradução de Carlos A. de Costa Silva. Rio de Janeiro:
 Vozes, 1984.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/quatro-evangelhos-os)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/quatro-evangelhos-os)  
 Autor: Sérgio Biagi Gregório
 
 

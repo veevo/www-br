@@ -81,7 +81,7 @@ São Paulo: Perspectivas, 2002. (Coleção Big Bang)
 TEMÁTICA BARSA - FILOSOFIA. Rio de Janeiro, Barsa Planeta, 2005.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-da-religião)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-da-religião)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

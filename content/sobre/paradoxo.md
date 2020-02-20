@@ -111,7 +111,7 @@ edição brasileira, Danilo Marcondes. Tradução de Desidério Murcho ... et
 al. Rio de Janeiro: Zahar, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/paradoxo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/paradoxo)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -89,7 +89,7 @@ de Janeiro: M.E.C., 1967.
 1970.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/democracia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/democracia)  
 Autor: Sérgio Biagi Gregório
 
 

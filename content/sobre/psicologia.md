@@ -119,7 +119,7 @@ XAVIER, F. C. O Consolador, pelo Espírito Emmanuel. 7. ed. Rio de
 Janeiro: FEB, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/psicologia-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/psicologia-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

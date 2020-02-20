@@ -113,7 +113,7 @@ KARDEC, A. O Livro dos Espíritos. São Paulo: FEESP, 1999 (perguntas
 
 ## Fonte
 [CE Ismael | Lei do Progresso](https://www.ceismael.com.br/download/apostila/apost1.htm)
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-do-progresso), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/lei-do-progresso), Sérgio Biagi Gregório
 
 ## Leis Relacionadas
 [Lei Natural](../natural)

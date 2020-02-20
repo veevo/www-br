@@ -122,7 +122,7 @@ Espíritos e, conforme a triste experiência que temos feito, bem depressa
 chegam, de queda em queda, às mais críticas situações!"
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/desertores)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/desertores)  
 Autor: Sérgio Biagi Gregório
 
 

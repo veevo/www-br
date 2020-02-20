@@ -114,7 +114,7 @@ A cada virtude corresponde, segundo certos moralistas, um defeito, uma falta (ou
 um excesso) que se lhe opõe e cuja criação definiria um vício.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/vícios)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/vícios)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

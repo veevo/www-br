@@ -51,7 +51,7 @@ dissenções, das injustiças, da opressão do fraco pelo forte, da maior
 parte, afinal, das enfermidades.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/opressão)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/opressão)  
 Autor: Sérgio Biagi Gregório
 
 

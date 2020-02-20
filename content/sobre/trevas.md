@@ -54,7 +54,7 @@ justiça divina e o Poder do Bem podem erradicá-los de sua influência
 maléfica.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/trevas)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/trevas)  
 Autor: Sérgio Biagi Gregório
 ( Reunião de 28/04/2018)
 

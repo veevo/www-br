@@ -62,7 +62,7 @@ XAVIER, F. C. O Consolador, pelo Espírito Emmanuel. 7. ed. Rio de
 Janeiro: FEB, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fenômeno-mediúnico)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fenômeno-mediúnico)  
 Autor: Sérgio Biagi Gregório
 
 

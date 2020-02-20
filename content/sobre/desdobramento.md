@@ -101,7 +101,7 @@ Doutrinadores. Tradução de Eliseu Rigonatti. São Paulo: Lake,
 \[s.d.p.\], cap. VII 2ª Parte.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/desdobramento)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/desdobramento)  
 Autor: Sérgio Biagi Gregório
 
 

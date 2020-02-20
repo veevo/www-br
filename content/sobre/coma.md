@@ -63,7 +63,7 @@ Emmanuel. Promotor do Evento: Pinga Fogo (II). Digitado por: Lúcia
 Aydir.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/coma)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/coma)  
 Autor: Sérgio Biagi Gregório
 
 

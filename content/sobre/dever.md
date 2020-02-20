@@ -249,7 +249,7 @@ superior ao heroísmo”.
 Verbo, 1986.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dever)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/dever)  
 Autor: Sérgio Biagi Gregório
 
 

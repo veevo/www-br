@@ -58,7 +58,7 @@ ou a adesão a uma religião.
 geralmente impregnados de muito ódio e de muita mágoa.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/salvação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/salvação)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

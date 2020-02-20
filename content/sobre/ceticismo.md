@@ -78,7 +78,7 @@ al. Rio de Janeiro: Zahar, 1977.
 349.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ceticismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ceticismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

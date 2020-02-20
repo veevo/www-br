@@ -118,7 +118,7 @@ prestar um grande auxílio para o tratamento da obsessão.
 
 ## Fonte
 * [Introdução à Doutrina Espírita | Obsessão](https://introducaodoutrinaespirita.blogspot.com/2009/01/obsesso.html)
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fascinação-e-subjugação), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fascinação-e-subjugação), Sérgio Biagi Gregório
 
 ## Veja Também
 TODO

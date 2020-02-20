@@ -63,7 +63,7 @@ Xavier, Francisco Cândido. Sinal Verde, pelo Espírito André Luiz,
 lição 38.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/separação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/separação)  
 Autor: Sérgio Biagi Gregório
 
 

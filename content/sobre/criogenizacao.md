@@ -51,7 +51,7 @@ importância ao Espírito, que é o elemento imortal.
 http://mundoestranho.abril.com.br/ciencia/o-que-e-criogenia-humana/
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/criogenização)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/criogenização)  
 Autor: Sérgio Biagi Gregório
 
 

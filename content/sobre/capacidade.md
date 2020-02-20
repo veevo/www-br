@@ -65,7 +65,7 @@ pessoal, não alcançou, ainda, em verdade, a noção real do tempo. (1)
 (1) Xavier, Francisco Cândido. Vinha de Luz, lição 170 - "Amanhã".
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/capacidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/capacidade)  
 Autor: Sérgio Biagi Gregório
 
 

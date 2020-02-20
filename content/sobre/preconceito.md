@@ -85,7 +85,7 @@ precisamente desmascarar os preconceitos e revelar sua falsidade.
 Para mais informações:
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/preconceito)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/preconceito)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -81,7 +81,7 @@ XAVIER, F. C. Caminho, Verdade e Vida, pelo Espírito Emmanuel. 6. ed.
 Rio de Janeiro: FEB, 1973.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/estranha-moral)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/estranha-moral)  
 Autor: Sérgio Biagi Gregório
 
 

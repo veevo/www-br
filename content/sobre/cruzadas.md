@@ -66,7 +66,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/cruzadas)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/cruzadas)  
 Autor: Sérgio Biagi Gregório
 
 

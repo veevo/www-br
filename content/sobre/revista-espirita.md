@@ -70,7 +70,7 @@ KARDEC, Allan. Revista Espírita de 1858. Tradução de Júlio de Abreu
 Filho. São Paulo: Edicel, s.d.p.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/revista-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/revista-espírita)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -165,7 +165,7 @@ palavras).
 KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/espírito)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/espírito)  
 Autor: Sérgio Biagi Gregório
 
 

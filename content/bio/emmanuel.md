@@ -222,7 +222,7 @@ do Novo Testamento.
 
 ## Fonte
 * Biografia: [Personagens Do Espiritismo | Emmanuel](https://personagensdoespiritismo.blogspot.com/2013/12/emmanuel.html)
-* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/emmanuel-espírito), Sérgio Biagi Gregório
+* Perguntas Relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/emmanuel-espírito), Sérgio Biagi Gregório
 
 ## Veja Também
 * [Chico Xavier](/bio/chico-xavier)

@@ -58,7 +58,7 @@ PIRES, J. H. Introdução à Filosofia Espírita. São Paulo: Paidéia,
 1983.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/teoria-espírita-do-conhecimento)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/teoria-espírita-do-conhecimento)  
 Autor: Sérgio Biagi Gregório
 
 

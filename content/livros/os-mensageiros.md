@@ -113,7 +113,7 @@ Por que o desprendimento no sono físico vulgar é fragmentário; a visão e
 a audição, peculiares ao encarnado, se encontram nele também restritas.
 
 ## Fonte
-* Perguntas relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mensageiros-os-livro), Sérgio Biagi Gregório
+* Perguntas relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mensageiros-os-livro), Sérgio Biagi Gregório
 
 ## Veja Também
 * [André Luiz](/bio/andre-luis)

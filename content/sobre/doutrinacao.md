@@ -54,7 +54,7 @@ Doutrinação). 3. ed., Rio de Janeiro, FEB, 1982.
 
 ## Fonte
 * [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/doutrinação-dos-espíritos), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/doutrinação-dos-espíritos), Sérgio Biagi Gregório
 
 ## Veja Também
 TODO

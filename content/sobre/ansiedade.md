@@ -105,7 +105,7 @@ Paulo: Ágora, 2000. (Guias Ágora)
 Janeiro: FEB, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ansiedade-psicologia-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ansiedade-psicologia-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

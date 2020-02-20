@@ -61,7 +61,7 @@ KARDEC, A. Obras Póstumas. Tradução de Guillon Ribeiro. 15.ed., Rio de
 Janeiro: FEB, 1975.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/liberdade-igualdade-e-fraternidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/liberdade-igualdade-e-fraternidade)  
 Autor: Sérgio Biagi Gregório
 
 

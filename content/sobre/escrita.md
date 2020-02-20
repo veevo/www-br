@@ -56,7 +56,7 @@ ensino progressivo e gradual da verdade.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/escrita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/escrita)  
 Autor: Sérgio Biagi Gregório
 
 

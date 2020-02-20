@@ -127,7 +127,7 @@ costumes, gestos, formas, figuras, cores, números). 12. ed. Rio de
 Janeiro: José Olympio, 1998.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/símbolo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/símbolo)  
 Autor: Sérgio Biagi Gregório
 
 

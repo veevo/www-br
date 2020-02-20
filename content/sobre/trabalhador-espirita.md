@@ -59,7 +59,7 @@ mostrar-se austera, entendendo-se que o instante do encerramento é
 variável na pauta das circunstâncias.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/preparo-do-trabalhador-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/preparo-do-trabalhador-espírita)  
 Autor: Sérgio Biagi Gregório
 
 

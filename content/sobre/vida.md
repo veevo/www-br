@@ -136,7 +136,7 @@ está dentro de cada um de nós. Em outras palavras, deve haver
 concordância entre a nossa vontade e a do Criador.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/vida)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/vida)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

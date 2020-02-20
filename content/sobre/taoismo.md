@@ -60,7 +60,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/taoísmo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/taoísmo)  
 Autor: Sérgio Biagi Gregório
 
 

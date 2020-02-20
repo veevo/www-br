@@ -66,7 +66,7 @@ suaviza a expiação. Uma ação má é um desvio com relação à Lei Natural; 
 sua consequência é a dor e o sofrimento.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/remorso-e-arrependimento)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/remorso-e-arrependimento)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -69,7 +69,7 @@ médiuns, mas o material que podem formalizar as ideias a serem
 transmitidas.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ficção-científica)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ficção-científica)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

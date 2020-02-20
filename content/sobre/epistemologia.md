@@ -78,7 +78,7 @@ PIRES, José Herculano Pires. Curso Dinâmico de Espiritismo. Capítulo X
 (Epistemologia Espírita).
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/epistemologia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/epistemologia)  
 Autor: Sérgio Biagi Gregório
 
 

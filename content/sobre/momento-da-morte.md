@@ -69,7 +69,7 @@ André Luiz, cap. 2, p. 35.
 André Luiz, cap. 13, pp. 209 a 212.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/no-momento-da-morte)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/no-momento-da-morte)  
 Autor: Sérgio Biagi Gregório
 
 

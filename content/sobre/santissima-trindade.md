@@ -78,7 +78,7 @@ coisas.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/santíssima-trindade-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/santíssima-trindade-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

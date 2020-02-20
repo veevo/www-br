@@ -79,7 +79,7 @@ Desencarnou. Estava com medo dos juizes, mas foi aureolado com um
 diadema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/formas-de-caridade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/formas-de-caridade)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

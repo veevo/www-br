@@ -160,7 +160,7 @@ Cartas e crônicas (1966) e Estante da vida (1969).
 
 ## Fonte
 [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/humbertodecampos.html)
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/humberto-de-campos), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/humberto-de-campos), Sérgio Biagi Gregório
 
 ## Veja Também
 * [Manoel Philomeno de Miranda](../philomeno-de-miranda)

@@ -74,7 +74,7 @@ EDIPE - ENCICLOPÉDIA DIDÁTICA DE INFORMAÇÃO E PESQUISA EDUCACIONAL. 3.
 ed. São Paulo: Iracema, 1987.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/astrologia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/astrologia)  
 Autor: Sérgio Biagi Gregório
 
 

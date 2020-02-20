@@ -92,7 +92,7 @@ posterior pode lhe ser acrescentado, sem ruí-la, mas fortificando-a.
 O Livro dos Espíritos, de Allan Kardec
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/prolegômenos)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/prolegômenos)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -75,7 +75,7 @@ GRANDE ENCICLOPÉDIA PORTUGUESA E BRASILEIRA. Lisboa/Rio de Janeiro:
 Editorial Enciclopédia, \[s.d. p.\].
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/coação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/coação)  
 Autor: Sérgio Biagi Gregório
 
 

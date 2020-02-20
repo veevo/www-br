@@ -74,7 +74,7 @@ razão e ao bom-senso.
 Rio de Janeiro: Léon Denis, 1989.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sincretismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sincretismo)  
 Autor: Sérgio Biagi Gregório
 
 

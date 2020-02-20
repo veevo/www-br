@@ -64,7 +64,7 @@ KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE,
 1984. (capítulo 3)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mundos-de-regeneração)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mundos-de-regeneração)  
 Autor: Sérgio Biagi Gregório
 
 

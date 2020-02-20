@@ -143,7 +143,7 @@ KARDEC, A. O Livro dos Médiuns ou Guia dos Médiuns e dos
 Doutrinadores. São Paulo:Lake, \[s.d.p.\]
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/perispírito)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/perispírito)  
 Autor: Sérgio Biagi Gregório
 
 

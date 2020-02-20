@@ -80,7 +80,7 @@ homem toma consciência do mal e começa a ver que poderia agir de forma
 diferente, aí começa a crescer o “homem novo”.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/moral)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/moral)  
 Autor: Sérgio Biagi Gregório
 
 

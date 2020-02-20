@@ -58,7 +58,7 @@ viciosos? (Perg. 365 de "O Livro dos Espíritos")
 influência de outros Espíritos ainda piores.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/faculdades-morais-e-intelectuais)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/faculdades-morais-e-intelectuais)  
 Autor: Sérgio Biagi Gregório
 
 

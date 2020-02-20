@@ -78,7 +78,7 @@ lado, contesta o nascimento virginal de Jesus, afirmando que Jesus era
 um homem como outro qualquer, com a missão de regenerar a população.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/revisão-do-cristianismo-livro-de-férias)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/revisão-do-cristianismo-livro-de-férias)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

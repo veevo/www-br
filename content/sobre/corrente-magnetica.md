@@ -55,7 +55,7 @@ meu nome, aí estou eu no meio deles". (Mateus 18:20)
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/correntes-mento-magnéticas)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/correntes-mento-magnéticas)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

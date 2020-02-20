@@ -106,7 +106,7 @@ Tradução de Eduardo Brandão. São Paulo: Martins Fontes, 2003.
 IDE, 1984.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/angústia-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/angústia-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

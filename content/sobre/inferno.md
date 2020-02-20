@@ -63,7 +63,7 @@ telescópio, corrobora tal afirmação. A Ciência parecia ir contra a
 Bíblia; mas a Bíblia ensina como ir ao Céu, não como ele foi feito.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/céu-e-inferno)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/céu-e-inferno)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

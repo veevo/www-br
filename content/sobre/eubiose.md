@@ -53,7 +53,7 @@ os sete princípios estiverem integrados.
 ### Bibliografia
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/eubiose)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/eubiose)  
 Autor: Sérgio Biagi Gregório
 
 

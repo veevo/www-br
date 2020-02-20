@@ -78,7 +78,7 @@ larga das drogas e do crime.
 * Enciclopédia Delta Universal.
 
 ## Fonte
-[Q&A - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/adoção-e-Espiritismo)  
+[Q&A - Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/adoção-e-Espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

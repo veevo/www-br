@@ -23,7 +23,7 @@ Imperdíveis e um Impostor. Tradução de Mariza Cortazzio. Campinas, SP:
 VIDE Editorial, 2016.
 
 ## Fonte
-Adaptado de [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conservadorismo-e-liberalismo)  
+Adaptado de [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/conservadorismo-e-liberalismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

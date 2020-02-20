@@ -61,7 +61,7 @@ al. Rio de Janeiro: Zahar, 1997.
 Vera Barkow. 2. ed., São Paulo: Martins Fontes, 2003
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/vedas-os)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/vedas-os)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -100,7 +100,7 @@ Mundos, de André Luiz)
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/consciência-e-conhecimento)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/consciência-e-conhecimento)  
 Autor: Sérgio Biagi Gregório
 
 

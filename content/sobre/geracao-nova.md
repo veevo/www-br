@@ -96,7 +96,7 @@ POLIS - ENCICLOPÉDIA VERBO DA SOCIEDADE E DO ESTADO. São Paulo: Verbo,
 1986.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/geração-nova)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/geração-nova)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -54,7 +54,7 @@ Espiritismo aceita, somente, a primeira.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-cristã-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-cristã-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

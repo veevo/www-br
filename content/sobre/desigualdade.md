@@ -102,7 +102,7 @@ KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed., São Paulo, IDE,
 KARDEC, A. O Livro dos Espíritos. 8. ed., São Paulo, FEESP, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/desigualdade-das-riquezas)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/desigualdade-das-riquezas)  
 Autor: Sérgio Biagi Gregório
 
 

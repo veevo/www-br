@@ -63,7 +63,7 @@ malefícios feitos no passado. Que estão sempre ativos(elaborados no
 passado entre 2500 a 3000 anos antes de cristo, e sempre ativo).
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/apometria)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/apometria)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -85,7 +85,7 @@ VIEIRA, Waldo. Conduta Espírita. Pelo Espírito André Luiz. Rio de
 Janeiro: FEB, 1981.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conduta-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/conduta-espírita)  
 Autor: Sérgio Biagi Gregório
 
 

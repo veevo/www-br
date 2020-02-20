@@ -110,7 +110,7 @@ história, a mesma parábola. (Léon-Dufour, 1972)
 * LÉON-DUFOUR, X. et al. Vocabulário de Teologia Bíblica. Rio de Janeiro: Vozes, 1972.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/parábola)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/parábola)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

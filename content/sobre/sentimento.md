@@ -46,5 +46,5 @@ deveria ser emotivo-racional.
 ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sentimento-e-razão), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sentimento-e-razão), Sérgio Biagi Gregório
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

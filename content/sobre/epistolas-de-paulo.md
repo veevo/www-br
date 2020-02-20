@@ -137,7 +137,7 @@ MARITAIN, Jacques. O Pensamento Vivo de São Paulo. Tradução de Oscar
 Mendes. São Paulo: Martins/Edusp, 1975.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/epístolas-de-paulo-as)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/epístolas-de-paulo-as)  
 Autor: Sérgio Biagi Gregório
 
 

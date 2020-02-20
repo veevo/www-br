@@ -50,7 +50,7 @@ são as influências menos felizes dos Espíritos imperfeitos e propensos
 ao mal.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ondas-e-percepções)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ondas-e-percepções)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

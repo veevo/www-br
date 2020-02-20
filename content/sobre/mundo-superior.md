@@ -65,7 +65,7 @@ anos, data de existência dessa comuna, jamais ocorreu que um único
 habitante tivesse tido problema com a polícia.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mundos-superiores)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mundos-superiores)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

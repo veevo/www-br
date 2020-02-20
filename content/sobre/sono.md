@@ -85,7 +85,7 @@ Luz e capítulo 36 de Nosso Lar.
 * No caso de insônia, fazer algum exercício de educação física.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sono-e-o-sonho-o)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sono-e-o-sonho-o)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

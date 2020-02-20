@@ -216,7 +216,7 @@ TODO
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/jesus-cristo), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/jesus-cristo), Sérgio Biagi Gregório
 
 
 

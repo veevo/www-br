@@ -55,7 +55,7 @@ POLIS - ENCICLOPÉDIA VERBO DA SOCIEDADE E DO ESTADO. São Paulo: Verbo,
 1986.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/eugenia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/eugenia)  
 Autor: Sérgio Biagi Gregório
 
 

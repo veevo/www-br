@@ -31,7 +31,7 @@ Se um pai se vinga do filho levanta indignação, o que se dirá de Deus, o
 Criador do Universo?
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-vingança)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-vingança)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -80,7 +80,7 @@ https://www.significados.com.br/sublimacao/
 http://www.sistemas.febnet.org.br/site/az/AZ-Vocabulos-e-Conceitos.php?CodVoc=1944&L=19&busca=&CodLivro=&Pag=1
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sublimação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sublimação)  
 Autor: Sérgio Biagi Gregório
 
 

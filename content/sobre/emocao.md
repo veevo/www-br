@@ -71,7 +71,7 @@ tratamentos espirituais (passes) nos Centros Espíritas.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/emoção-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/emoção-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

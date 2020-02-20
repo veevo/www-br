@@ -68,7 +68,7 @@ Ocultismo, Paranormalidade e Ufologia. Rio de Janeiro: Record Nova Era,
 2002.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/premonição)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/premonição)  
 Autor: Sérgio Biagi Gregório
 
 

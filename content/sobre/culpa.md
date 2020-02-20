@@ -67,7 +67,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/culpa)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/culpa)  
 Autor: Sérgio Biagi Gregório
 
 

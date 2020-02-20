@@ -58,7 +58,7 @@ ego, a fim de que o "eu divino", o "eu cósmico" sobressaia e
 interpenetre tudo o que for de nosso usufruto.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/medo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/medo)  
 Autor: Sérgio Biagi Gregório
 
 

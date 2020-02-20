@@ -46,7 +46,7 @@ Os Centros Espíritas contribuem substancialmente com a Medicina. Passes,
 palestras, cursos e proposição de mudança comportamental não têm preço.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/medicina-espiritual)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/medicina-espiritual)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

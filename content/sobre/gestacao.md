@@ -77,7 +77,7 @@ imperfeitos.
 Espiritismo. 17. ed. Rio de Janeiro: FEB, 1975.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/situação-do-espírito-durante-a-gestação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/situação-do-espírito-durante-a-gestação)  
 Autor: Sérgio Biagi Gregório
 
 

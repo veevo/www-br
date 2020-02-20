@@ -77,7 +77,7 @@ XAVIER, Francisco Cândido e VIEIRA, Waldo. Mecanismos da Mediunidade.
 Pelo Espírito André Luiz. Rio de Janeiro: FEB, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mecanismos-da-mediunidade-livro)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mecanismos-da-mediunidade-livro)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -91,7 +91,7 @@ continuam vivos.
 * PEREIRA, Yvonne A. Memórias de um Suicida (Obra Mediúnica). Rio de Janeiro: Feb, 1980.
 
 ## Fonte
-* Perguntas relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/memórias-de-um-suicida), Sérgio Biagi Gregório
+* Perguntas relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/memórias-de-um-suicida), Sérgio Biagi Gregório
 
 
 ## Veja Também

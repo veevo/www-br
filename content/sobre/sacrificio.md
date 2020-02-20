@@ -117,7 +117,7 @@ MEES, L. e PIZZOLANTE, R. (org.). O Presente do Filósofo: Homenagem a
 Gilvan Fogel. Rio de Janeiro: Mauad X, 2008.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sacrifício-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sacrifício-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

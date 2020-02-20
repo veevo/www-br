@@ -203,7 +203,7 @@ Diversas Enciclopédias
 KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conceito-de-deus)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/conceito-de-deus)  
 Autor: Sérgio Biagi Gregório
 
 

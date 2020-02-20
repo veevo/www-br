@@ -71,7 +71,7 @@ foi útil no processo.
   Espírito Irmão X. 8.ed.  Rio de Janeiro: FEB, 1975. (Capítulo 5)
 
 ## Fonte
-* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/judas-iscariotes), Sérgio Biagi Gregório
+* Perguntas Relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/judas-iscariotes), Sérgio Biagi Gregório
 
 ## Veja Também
 * [Joanna D'arc](/bio/joanna-darc)

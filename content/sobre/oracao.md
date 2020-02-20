@@ -74,7 +74,7 @@ felicidade. Apenas a sintamos no íntimo de nosso ser.
 IDE, 1984, cap. 27, itens 22 e 23.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/maneira-de-orar)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/maneira-de-orar)  
 Autor: Sérgio Biagi Gregório
 
 

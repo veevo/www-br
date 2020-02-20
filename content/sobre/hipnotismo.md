@@ -76,7 +76,7 @@ pensamentos.
 * DICIONÁRIO DO INEXPLICADO. Edições Planeta.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/magnetismo-hipnotismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/magnetismo-hipnotismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -79,7 +79,7 @@ somente a desigualdade de mérito. (6)
 * (6) KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-igualdade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/justiça-e-igualdade)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

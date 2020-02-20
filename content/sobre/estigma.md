@@ -73,7 +73,7 @@ Deteriorada. Tradução de Márcia Bandeira de Mello Leite Nunes. 4.ed.
 Rio de Janeiro: Guanabara, 1988.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/estigma)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/estigma)  
 Autor: Sérgio Biagi Gregório
 
 

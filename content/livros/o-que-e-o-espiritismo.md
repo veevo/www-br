@@ -70,7 +70,7 @@ Espiritismo em vez de espiritualismo? Quem são os médiuns? O que falar
 das reuniões frívolas? Como se dá a comunicação com os Espíritos?...
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/o-que-é-o-espiritismo-livro)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/o-que-é-o-espiritismo-livro)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

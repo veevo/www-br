@@ -108,7 +108,7 @@ a sua consciência, banhada pelas luzes da lei natural gravada na mesma.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/depois-da-morte)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/depois-da-morte)  
 Autor: Sérgio Biagi Gregório
 
 

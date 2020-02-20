@@ -116,7 +116,7 @@ diante de uma simples dificuldade? O que estamos esperando além-túmulo?
 A vida futura é, para nós, uma realidade ou uma simples abstração?
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/vida-eterna)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/vida-eterna)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -43,7 +43,7 @@ foram à faculdade cometerem atrocidades no seio da sociedade.
 
 ## Fonte
 * [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/instinto-e-inteligência), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/instinto-e-inteligência), Sérgio Biagi Gregório
 
 ## Veja Também
 TODO

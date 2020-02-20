@@ -190,7 +190,7 @@ XAVIER, F. C. Vinha de Luz, pelo Espírito Emmanuel. Brasília: FEB,
 2012, capítulo 58 ("Crises").
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/crise)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/crise)  
 Autor: Sérgio Biagi Gregório
 
 

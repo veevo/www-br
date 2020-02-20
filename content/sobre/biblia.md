@@ -143,7 +143,7 @@ Acesse a
 deste assunto.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/bíblia-bíblia-e-filosofia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/bíblia-bíblia-e-filosofia)  
 Autor: Sérgio Biagi Gregório
 
 

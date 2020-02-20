@@ -65,7 +65,7 @@ Vivenciando diariamente os ensinamentos trazidos pelo mestre Jesus.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/páscoa)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/páscoa)  
 Autor: Sérgio Biagi Gregório
 
 

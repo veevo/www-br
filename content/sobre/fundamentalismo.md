@@ -81,7 +81,7 @@ DREHER, Martin Norberto. Fundamentalismo. São Leopoldo: Sinodal, 2006.
 (Série Para Entender)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fundamentalismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fundamentalismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

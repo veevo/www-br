@@ -47,7 +47,7 @@ vida, o que é essencial.
 L. E. - O Livro dos Espíritos, de Allan Kardec.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/leis-de-deus)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/leis-de-deus)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -126,7 +126,7 @@ STELLA, J. B. O Sermão da Montanha: A Religião de Cristo. São Paulo:
 Metodista, 1978.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sermão-do-monte)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sermão-do-monte)  
 Autor: Sérgio Biagi Gregório
 
 

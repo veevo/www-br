@@ -74,7 +74,7 @@ consciência? (Bérgson)
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/tempo-o)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/tempo-o)  
 Autor: Sérgio Biagi Gregório
 
 

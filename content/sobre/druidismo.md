@@ -116,7 +116,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/druidismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/druidismo)  
 Autor: Sérgio Biagi Gregório
 
 

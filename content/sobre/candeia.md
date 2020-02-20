@@ -72,7 +72,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/candeia-e-alqueire)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/candeia-e-alqueire)  
 Autor: Sérgio Biagi Gregório
 
 

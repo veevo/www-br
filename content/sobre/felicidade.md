@@ -111,7 +111,7 @@ LAYARD, Richard. Felicidade: Lições de uma Nova Ciência. Tradução de
 Maria Clara de Biase W. Fernandes. Rio de Janeiro: BestSeller, 2008.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/felicidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/felicidade)  
 Autor: Sérgio Biagi Gregório
 
 

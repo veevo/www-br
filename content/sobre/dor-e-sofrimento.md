@@ -118,7 +118,7 @@ pois implica determinação na mudança de atitude e comportamento.
 Paulo: Paulinas, 1983.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dor-e-sofrimento)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/dor-e-sofrimento)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -87,7 +87,7 @@ de mundo, mais de acordo com os padrões estabelecidos pelo mestre Jesus.
 ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/valor)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/valor)  
 Autor: Sérgio Biagi Gregório
 
 

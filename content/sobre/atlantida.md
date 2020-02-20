@@ -75,7 +75,7 @@ Leia, também, a
 deste assunto.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/atlântida)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/atlântida)  
 Autor: Sérgio Biagi Gregório
 
 

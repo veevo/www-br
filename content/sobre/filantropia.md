@@ -57,7 +57,7 @@ por Fátima Sá Correia et al. São Paulo: Martins Fontes, 1993.
 EDUCACIONAL. 3. ed. São Paulo: Iracema, 1987.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filantropia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/filantropia)  
 Autor: Sérgio Biagi Gregório
 
 

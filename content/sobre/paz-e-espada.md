@@ -107,7 +107,7 @@ KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed., São Paulo, IDE,
 1984.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/paz-e-a-espada-a)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/paz-e-a-espada-a)  
 Autor: Sérgio Biagi Gregório
 
 

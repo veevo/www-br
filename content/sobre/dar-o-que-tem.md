@@ -50,7 +50,7 @@ Para darmos efetivamente algo de nós, temos que plantar a boa semente,
 pois os ociosos e os inativos estão cultivando o joio da imprevidência.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dar-o-que-tem)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/dar-o-que-tem)  
 Autor: Sérgio Biagi Gregório
 
 

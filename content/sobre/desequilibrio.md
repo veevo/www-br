@@ -58,7 +58,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/desequilíbrio)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/desequilíbrio)  
 Autor: Sérgio Biagi Gregório
 
 

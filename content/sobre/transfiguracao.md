@@ -58,7 +58,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/transfiguração)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/transfiguração)  
 Autor: Sérgio Biagi Gregório
 
 

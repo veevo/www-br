@@ -52,7 +52,7 @@ adquirir esse sentido da vida, essa certeza da imortalidade da alma.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mentira)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mentira)  
 Autor: Sérgio Biagi Gregório
 
 

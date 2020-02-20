@@ -163,7 +163,7 @@ que uns são ricos e outros pobres?
 * STEVENSON, I. 20 Casos Sugestivos de Reencarnação. São Paulo, Difusora Cultural, 1971.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/reencarnação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/reencarnação)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

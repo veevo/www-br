@@ -58,7 +58,7 @@ ao escravo; a morte final do escravo-filósofo é a morte de Sócrates.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mito-da-caverna)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mito-da-caverna)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

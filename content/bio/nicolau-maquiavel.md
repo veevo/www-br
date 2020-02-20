@@ -92,6 +92,6 @@ mantê-la".
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/maquiavel)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/maquiavel)  
 Autor: Sérgio Biagi Gregório
 

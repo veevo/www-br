@@ -61,7 +61,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/destino-manifesto)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/destino-manifesto)  
 Autor: Sérgio Biagi Gregório
 
 

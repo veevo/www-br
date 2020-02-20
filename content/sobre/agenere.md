@@ -59,7 +59,7 @@ Ao negar a existência real e histórica de Jesus de Nazaré, os docetas
 obtêm farto material para a teoria do corpo fluídico de Jesus.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/agêneres)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/agêneres)  
 Autor: Sérgio Biagi Gregório
 
 

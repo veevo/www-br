@@ -70,7 +70,7 @@ KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o
 Espiritismo. 17. ed., Rio de Janeiro, FEB, 1976.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/vibração)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/vibração)  
 Autor: Sérgio Biagi Gregório
 
 

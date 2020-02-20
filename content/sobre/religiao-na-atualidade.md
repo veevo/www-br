@@ -74,7 +74,7 @@ Práticas Religiosas do Século XII aos nossos Dias. Tradução Carlos
 Noucué: Editora Folio, 2008.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/religião-na-atualidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/religião-na-atualidade)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -250,7 +250,7 @@ XAVIER, F. C. A Caminho da Luz - História da Civilização à Luz do
 Espiritismo, pelo Espírito Emmanuel. Rio de Janeiro, FEB, 1972.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/apocalipse-de-joão)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/apocalipse-de-joão)  
 Autor: Sérgio Biagi Gregório
 
 

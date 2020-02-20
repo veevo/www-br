@@ -218,7 +218,7 @@ Para reflexão: Como a incerteza religiosa coexiste com a certeza
 moral?
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dúvida)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/dúvida)  
 Autor: Sérgio Biagi Gregório
 
 

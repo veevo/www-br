@@ -82,7 +82,7 @@ DENIS, Léon. No Invisível: Espiritismo e Mediunidade. Tradução de
 Leopoldo Cirne. 12. ed., Rio de Janeiro: FEB, 1987.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/no-invisível)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/no-invisível)  
 Autor: Sérgio Biagi Gregório
 
 

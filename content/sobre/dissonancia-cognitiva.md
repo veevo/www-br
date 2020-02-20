@@ -82,7 +82,7 @@ São Paulo: Globo, 2012.
 Estudo baseado na Teoria da Dissonância Cognitiva de Festinger
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dissonância-cognitiva)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/dissonância-cognitiva)  
 Autor: Sérgio Biagi Gregório
 
 

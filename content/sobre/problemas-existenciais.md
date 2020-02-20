@@ -104,7 +104,7 @@ REALE, Giovanni. O Saber dos Antigos: Terapia para os Dias Atuais.
 Tradução de Silvana Cobucci Leite. São Paulo: Loyola, 1999.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-espírita-e-os-problemas-existenciais-a)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-espírita-e-os-problemas-existenciais-a)  
 Autor: Sérgio Biagi Gregório
 
 

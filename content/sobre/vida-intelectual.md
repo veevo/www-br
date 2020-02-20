@@ -56,7 +56,7 @@ seus Métodos. Tradução de Lilia Ledon da Silva. 3. ed., São Paulo: É
 Realizações, 2014.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/vida-intelectual)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/vida-intelectual)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

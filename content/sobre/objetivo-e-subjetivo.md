@@ -80,7 +80,7 @@ sujeito pode captá-la nele, e, onde delimita a sua singularidade. (2)
 Marina Appenzeller. Campinas, SP: Papirus, 1993.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/objetivo-e-subjetivo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/objetivo-e-subjetivo)  
 Autor: Sérgio Biagi Gregório
 
 

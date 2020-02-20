@@ -107,7 +107,7 @@ empirismo.
 * KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o Espiritismo. 17. ed. Rio de Janeiro: FEB, 1975.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/empirismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/empirismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

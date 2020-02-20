@@ -65,7 +65,7 @@ PIRES, J. H. Introdução à Filosofia Espírita. 1.ed., São Paulo,
 Paideia, l983.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-espírita)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

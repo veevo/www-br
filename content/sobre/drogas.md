@@ -114,7 +114,7 @@ et al. Rio de Janeiro: Redear’s Digest, 2010, p. 310-311.
 Brasília, Recanto, 1991, p. 42 e 43.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/drogas)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/drogas)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -61,7 +61,7 @@ criatura." (Marcos 16, 15)
 * (3) XAVIER, F. C. Pão Nosso, pelo Espírito Emmanuel. 5. ed. Rio de Janeiro: FEB, 1977, capítulo 3.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ir-e-pregar)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ir-e-pregar)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

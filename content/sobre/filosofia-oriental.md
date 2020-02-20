@@ -34,7 +34,7 @@ Realidade primeira. Atman (alma) seria a manifestação dessa Realidade
 primeira. Maya é a ilusão, a matéria. Nirvana é o desapego de tudo.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-oriental)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/filosofia-oriental)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

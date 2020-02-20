@@ -134,7 +134,7 @@ descobre um riacho. Se tem fé, agradecerá a inspiração dos bons
 Espíritos. Se não tem fé, dirá: "Que pensamento bom eu tive!".
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-eficácia-da-prece)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-eficácia-da-prece)  
 Autor: Sérgio Biagi Gregório
 
 
@@ -146,4 +146,4 @@ TODO
 ## Fontes
 [Artigo: CE Ismael | Prece](https://www.ceismael.com.br/download/apostila/apost1.htm#PRECE)  
 [Definição: O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
-[Perguntas: Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-eficácia-da-prece)  
+[Perguntas: Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-eficácia-da-prece)  

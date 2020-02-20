@@ -106,7 +106,7 @@ KARDEC, A. O Céu e o Inferno ou A Justiça Divina Segundo o
 Espiritismo. 22. ed. Rio de Janeiro: FEB, 1975.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/morte)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/morte)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -149,5 +149,5 @@ satisfatória ao problema.
 * KARDEC, A. O Livro dos Espíritos. 8. ed., São Paulo: FEESP, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/matéria), Sérgio Biagi Gregório  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/matéria), Sérgio Biagi Gregório  
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

@@ -77,7 +77,7 @@ XAVIER, F. C. Missionários da Luz, pelo Espírito André Luiz. 8. ed.
 Rio de Janeiro: FEB, 1970.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/exorcismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/exorcismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

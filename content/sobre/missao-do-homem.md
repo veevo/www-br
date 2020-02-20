@@ -75,7 +75,7 @@ Extraído de: "Missão do Homem Inteligente na Terra", item 13, do
 capítulo VII de O Evangelho Segundo o Espiritismo, de Allan Kardec.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/missão-do-homem-inteligente-na-terra)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/missão-do-homem-inteligente-na-terra)  
 Autor: Sérgio Biagi Gregório
 
 

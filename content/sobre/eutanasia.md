@@ -54,7 +54,7 @@ ed. São Paulo: Iracema, 1987.
 ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/eutanásia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/eutanásia)  
 Autor: Sérgio Biagi Gregório
 
 

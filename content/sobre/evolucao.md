@@ -88,7 +88,7 @@ quer estejam ligados ou não ao Planeta Terra.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/evolução-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/evolução-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -57,5 +57,5 @@ na Terra, ou fora dela, pode ser fecundo em obras de beleza, de
 aperfeiçoamento e de redenção.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/beleza)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/beleza)  
 Autor: Sérgio Biagi Gregório

@@ -47,7 +47,7 @@ mãos dos soldados romanos; em 70 d.C., reconquistam-no...
 ENCICLOPÉDIA DELTA UNIVERSAL
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/jerusalém)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/jerusalém)  
 Autor: Sérgio Biagi Gregório
 
 

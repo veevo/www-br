@@ -60,7 +60,7 @@ Revela a Data-Limite do Velho Mundo. 7. ed., São Paulo: FE Editora,
 2013.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/profecia-velho-e-novo-mundo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/profecia-velho-e-novo-mundo)  
 Autor: Sérgio Biagi Gregório
 
 

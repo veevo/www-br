@@ -34,7 +34,7 @@ promover o desenvolvimento da indústria e do comércio, propiciando
 melhores condições de vida para os habitantes de uma dada região.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/riqueza-e-pobreza)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/riqueza-e-pobreza)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

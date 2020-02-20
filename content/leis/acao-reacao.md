@@ -165,7 +165,7 @@ Divina. Assim, se soubermos viver sóbrios e sem muitos agravos à Lei,
 certamente faremos uma passagem tranquila ao outro plano de vida.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  
 Autor: Sérgio Biagi Gregório
 
 ## Leis Relacionadas
@@ -184,4 +184,4 @@ Autor: Sérgio Biagi Gregório
 ## Fontes
 * [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)  
 * [O Consolador | O Espiritismo responde](http://www.oconsolador.com.br/ano8/371/oespiritismoresponde.html)
-* [Perguntas Relacionadas: Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  
+* [Perguntas Relacionadas: Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ação-e-reação)  

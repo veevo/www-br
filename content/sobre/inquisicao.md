@@ -88,7 +88,7 @@ cura das plantas também receberam um tratamento violento e cruel.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/inquisição)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/inquisição)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -143,7 +143,7 @@ livre-arbítrio do Espírito encarnado. (Kardec, 1995)
 KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-liberdade), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-liberdade), Sérgio Biagi Gregório
 [CE Ismael | Lei de Liberdade](https://www.ceismael.com.br/download/apostila/apost1.htm)
 
 ## Leis Relacionadas

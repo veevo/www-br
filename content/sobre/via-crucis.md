@@ -37,7 +37,7 @@ apócrifos mais do gosto popular, como o encontro com a Verônica.
 * GRANDE ENCICLOPÉDIA PORTUGUESA E BRASILEIRA. Lisboa/Rio de Janeiro: Editorial Enciclopédia, \[s.d. p.\].
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/via-crúcis)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/via-crúcis)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

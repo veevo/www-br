@@ -62,7 +62,7 @@ socorro ímpar com os seus trabalhos de passes e evangelização dos seus
 frequentadores.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/doença-mental)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/doença-mental)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

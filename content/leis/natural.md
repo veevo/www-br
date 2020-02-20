@@ -185,7 +185,7 @@ KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
 [CE Ismael | Lei de Adoração](https://www.ceismael.com.br/download/apostila/apost1.htm#LEI%20DE%20ADORA%C3%87%C3%83O)
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-divina-ou-natural), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/lei-divina-ou-natural), Sérgio Biagi Gregório
 
 
 

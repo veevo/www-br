@@ -43,7 +43,7 @@ Espiritismo. 3. Ed. São Paulo: Edicel, 1979.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/espírito-e-tempo-o-livro)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/espírito-e-tempo-o-livro)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

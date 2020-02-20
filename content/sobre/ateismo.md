@@ -64,7 +64,7 @@ da Silva Braga. Porto Alegre, RS: L&PM, 2016. (Coleção L&PM POCKET, v.
 1221)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ateísmo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ateísmo)  
 Autor: Sérgio Biagi Gregório
 
 

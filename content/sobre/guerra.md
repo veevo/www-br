@@ -61,7 +61,7 @@ expiar todos os assassínios de que foi causa, porque responderá por cada
 homem cuja morte tenha causado para satisfazer a sua ambição.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/guerra-na-visão-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/guerra-na-visão-espírita)  
 Autor: Sérgio Biagi Gregório
 
 

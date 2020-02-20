@@ -76,8 +76,8 @@ valiosas sobre as influências negativas que podemos evitar através de
 uma prece, de uma meditação e da humildade ante uma desilusão.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mente-sã-em-corpo-são)  
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/doença-mental)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mente-sã-em-corpo-são)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/doença-mental)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

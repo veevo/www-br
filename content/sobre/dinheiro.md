@@ -109,7 +109,7 @@ XAVIER, F. C. Palavras de Vida Eterna, pelo Espírito Emmanuel. 8. ed.,
 Minas Gerais: CEC, 1986.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/dinheiro)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/dinheiro)  
 Autor: Sérgio Biagi Gregório
 
 

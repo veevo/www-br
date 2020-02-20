@@ -75,7 +75,7 @@ companheiros que os assistem; fluido C, energias tomadas da natureza
 (1).
 
 ## Fonte
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ectoplasma-e-materialização), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ectoplasma-e-materialização), Sérgio Biagi Gregório
 
 ## Leitura Recomendade
 * [O Livro dos Médiuns](/livros/livro-dos-mediuns)  

@@ -60,7 +60,7 @@ MENDONÇA, E. P. de. O Mundo Precisa de Filosofia. ### ed. Rio de
 Janeiro: Agir, 1970.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/útil-e-inútil)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/útil-e-inútil)  
 Autor: Sérgio Biagi Gregório
 
 

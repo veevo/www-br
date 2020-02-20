@@ -100,7 +100,7 @@ Doutrinadores. São Paulo:Lake, \[s.d.p.\], capítulo 23, item 239, p.
 228.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/romance-mediúnico-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/romance-mediúnico-espírita)  
 Autor: Sérgio Biagi Gregório
 
 

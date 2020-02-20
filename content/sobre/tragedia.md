@@ -63,7 +63,7 @@ KARDEC, A. O Livro dos Espíritos. Tradução de José Herculano Pires.
 14.ed., São Paulo: Feesp, 2010, perguntas 851 a 867.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/tragédia-e-fatalidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/tragédia-e-fatalidade)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

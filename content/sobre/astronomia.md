@@ -70,7 +70,7 @@ Acesse a
 deste tema
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/astronomia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/astronomia)  
 Autor: Sérgio Biagi Gregório
 
 

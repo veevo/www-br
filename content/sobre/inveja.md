@@ -67,7 +67,7 @@ um de seus filhos os meios necessários para a sua evolução espiritual.
 (3) São Luís, Revista Espírita, julho de 1858 - A inveja.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/inveja)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/inveja)  
 Autor: Sérgio Biagi Gregório
 
 

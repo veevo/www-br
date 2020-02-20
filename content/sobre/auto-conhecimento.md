@@ -119,7 +119,7 @@ perguntas 919 e 919A.
 SAUVAGE, M. Sócrates e a Consciência do Homem. São Paulo, Agir, 1959.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/conhecimento-de-si-mesmo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/conhecimento-de-si-mesmo)  
 Autor: Sérgio Biagi Gregório
 
 

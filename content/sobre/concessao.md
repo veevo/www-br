@@ -54,7 +54,7 @@ KARDEC, A. Obras Póstumas. Tradução de Guillon Ribeiro. 15.ed., Rio de
 Janeiro: FEB, 1975.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/concessão)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/concessão)  
 Autor: Sérgio Biagi Gregório
 
 

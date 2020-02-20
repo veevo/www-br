@@ -69,7 +69,7 @@ o ser divino (teologia). (1)
 * (3) PIRES, J. Herculano. Introdução à Filosofia Espírita. São Paulo: Paideia, 1983.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ontologia-e-ontoteologia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ontologia-e-ontoteologia)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

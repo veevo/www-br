@@ -60,7 +60,7 @@ reencarnada, dizem respeito a fixações que lhe antecederam a volta ao
 mundo.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/em-torno-da-fixação-mental)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/em-torno-da-fixação-mental)  
 Autor: Sérgio Biagi Gregório
 
 

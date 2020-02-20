@@ -47,7 +47,7 @@ assenhorear-se dos fundamentos para poder coibir os empréstimos, às
 vezes desnecessários, de outras correntes espiritualistas.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/doutrina-espírita)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/doutrina-espírita)  
 Autor: Sérgio Biagi Gregório
 
 

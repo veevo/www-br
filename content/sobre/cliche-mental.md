@@ -49,7 +49,7 @@ Sim. Há muitas pessoas com a mente infestada de clichês e associados a
 obsessores que são arrastadas para regiões que eles mesmos criaram.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/clichês-mentais)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/clichês-mentais)  
 Autor: Sérgio Biagi Gregório
 
 

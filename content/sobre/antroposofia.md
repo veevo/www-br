@@ -76,7 +76,7 @@ LANZ, Rudolf. Noções Básicas de Antroposofia. 4. ed., São Paulo:
 Antroposófica, 1997.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/antroposofia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/antroposofia)  
 Autor: Sérgio Biagi Gregório
 
 

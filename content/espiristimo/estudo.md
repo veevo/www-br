@@ -86,7 +86,7 @@ IDE, 1984, capítulo XI, item 8 (Instruções do Espíritos: A Lei do
 Amor).
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/teoria-e-prática-no-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/teoria-e-prática-no-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -216,7 +216,7 @@ querem ter filhos e a mulher não consegue engravidar?
 Autor: Sérgio Biagi Gregório 
 Junho de 2010. 
 
-[Perguntas e Respostas - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aborto-e-suas-consequências-o)  
+[Perguntas e Respostas - Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/aborto-e-suas-consequências-o)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -70,7 +70,7 @@ Platão. Apologia de Sócrates. Tradução de Edson Bini. São Paulo:
 Edipro, 2011. (Edipro de bolso)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/apologia-de-sócrates)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/apologia-de-sócrates)  
 Autor: Sérgio Biagi Gregório
 
 

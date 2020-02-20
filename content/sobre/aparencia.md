@@ -100,7 +100,7 @@ GRANDE ENCICLOPÉDIA PORTUGUESA E BRASILEIRA. Lisboa/Rio de Janeiro:
 Editorial Enciclopédia, \[s.d. p.\]
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aparência-e-realidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/aparência-e-realidade)  
 Autor: Sérgio Biagi Gregório
 
 

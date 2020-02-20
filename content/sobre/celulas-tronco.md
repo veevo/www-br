@@ -214,7 +214,7 @@ anteriormente. Revista Cell de maio de 2005.
 Ribeiro dos Santos, da Bahia.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/células-tronco)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/células-tronco)  
 Autor: Sérgio Biagi Gregório
 
 

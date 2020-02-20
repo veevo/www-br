@@ -140,7 +140,7 @@ recíprocos da vida em comum? (5)
 (5) Missionários da Luz, pelo Espírito André Luiz, capitulo 17 e 18.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/obsessão)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/obsessão)  
 Autor: Sérgio Biagi Gregório
 
 

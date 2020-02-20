@@ -97,7 +97,7 @@ KARDEC, A. Obras Póstumas. 15. ed. Rio de Janeiro: FEB, 1975, capítulo
 sobre Aristocracias, p. 239 a 245.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aristocracias)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/aristocracias)  
 Autor: Sérgio Biagi Gregório
 ## Veja Também
 TODO

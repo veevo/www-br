@@ -84,7 +84,7 @@ de nada serviria e a Fé não teria sentido.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fé-e-razão)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fé-e-razão)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

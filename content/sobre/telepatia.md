@@ -63,6 +63,6 @@ penetrar mais ou menos nas questões do futuro.
 
 ## Fonte
 * Vocábulo: [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
-* Perguntas frequentes: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fotografia-e-telegrafia-do-pensamento), Sérgio Biagi Gregório
+* Perguntas frequentes: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fotografia-e-telegrafia-do-pensamento), Sérgio Biagi Gregório
 
 ## Fonte

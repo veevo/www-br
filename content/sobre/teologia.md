@@ -78,7 +78,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/teologia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/teologia)  
 Autor: Sérgio Biagi Gregório
 
 

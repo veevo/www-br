@@ -73,7 +73,7 @@ Acesse a
 deste tema
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mitologia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mitologia)  
 Autor: Sérgio Biagi Gregório
 
 

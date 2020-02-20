@@ -74,7 +74,7 @@ respaldo metodológico para ser integrada na doutrina.
 Há um texto bastante elucidativo em:
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ovoides)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ovoides)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -102,7 +102,7 @@ Utilização. 17. ed. São Paulo: Aliança, 1977.
 Doutrinadores. São Paulo:Lake, \[s.d.p.\]
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/intuição-e-inspiração)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/intuição-e-inspiração)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -68,7 +68,7 @@ evangélica para, posteriormente, fazê-la frutificar cento por um.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fenomenologia-do-ethos)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fenomenologia-do-ethos)  
 Autor: Sérgio Biagi Gregório
 
 

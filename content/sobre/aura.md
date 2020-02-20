@@ -184,7 +184,7 @@ CAVENDISH, Ricardo (org.). Enciclopédia do Sobrenatural. Tradução de
 Alda Porto e Marcos Santarrita. Porto Alegre: L&PM, 1993.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/aura)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/aura)  
 Autor: Sérgio Biagi Gregório
 
 

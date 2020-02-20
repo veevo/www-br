@@ -140,7 +140,7 @@ POLIS - ENCICLOPÉDIA VERBO DA SOCIEDADE E DO ESTADO. São Paulo: Verbo,
 1986.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/marxismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/marxismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

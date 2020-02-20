@@ -81,7 +81,7 @@ LEXIKON, Herder. Dicionário de Símbolos. Trad. Erlon José Paschoal.
 São Paulo: Cultrix, 1997.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sangue-ritual-e-simbologia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sangue-ritual-e-simbologia)  
 Autor: Sérgio Biagi Gregório
 
 

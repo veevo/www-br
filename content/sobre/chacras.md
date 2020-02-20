@@ -100,7 +100,7 @@ ascendência em todo o sistema endocrínico. (2)
 (2) Luiz, A. Missionários da Luz, cap. III.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/centros-de-força)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/centros-de-força)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

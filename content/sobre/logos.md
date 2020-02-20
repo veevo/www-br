@@ -54,7 +54,7 @@ SANTOS, M. F. dos. Dicionário de Filosofia e Ciências Culturais. 3.
 ed. São Paulo: Matese, 1965.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mito-e-razão-logos)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mito-e-razão-logos)  
 Autor: Sérgio Biagi Gregório
 
 

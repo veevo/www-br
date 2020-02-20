@@ -81,7 +81,7 @@ uma personalidade".
 * TEMÁTICA BARSA - FILOSOFIA.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/einstein-albert)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/einstein-albert)  
 Autor: Sérgio Biagi Gregório
 
 ## Bibliografias Relacionadas

@@ -51,7 +51,7 @@ nos passam através da mediunidade. Sem eles, não conseguiríamos penetrar
 em muitas informações que hoje veiculamos com a máxima tranquilidade.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/imanência-e-transcendência)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/imanência-e-transcendência)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

@@ -75,7 +75,7 @@ por seus atos.
 sugamento de nossas forças pelos espíritos das trevas.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/evolução-em-dois-mundos-livro)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/evolução-em-dois-mundos-livro)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

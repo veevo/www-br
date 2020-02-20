@@ -85,7 +85,7 @@ Livros digitais do autor publicados na
 e na
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/desenvolvimento-mediúnico)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/desenvolvimento-mediúnico)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -76,7 +76,7 @@ XAVIER, F. C. Contos Desta e Doutra Vida, pelo Espírito Irmão X. 4.
 ed., Rio de Janeiro: FEB, 1978.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sede-perfeitos)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sede-perfeitos)  
 Autor: Sérgio Biagi Gregório
 
 

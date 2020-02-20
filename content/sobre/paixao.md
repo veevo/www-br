@@ -88,7 +88,7 @@ Sim, e às vezes com pouco esforço; o que lhe falta é a vontade.
 Abnegar-se.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/paixão)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/paixão)  
 Autor: Sérgio Biagi Gregório
 
 

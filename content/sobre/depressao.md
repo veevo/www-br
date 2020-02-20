@@ -104,7 +104,7 @@ Janeiro: FEB, 1977.
 (em 30/08/2010)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/depressão-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/depressão-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

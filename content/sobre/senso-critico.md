@@ -66,7 +66,7 @@ dificulta tal aquisição?
 Mais informação:
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/senso-crítico)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/senso-crítico)  
 Autor: Sérgio Biagi Gregório
 
 

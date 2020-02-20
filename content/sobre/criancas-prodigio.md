@@ -73,7 +73,7 @@ certos Espíritos vêm a este mundo com aptidões fora do comum.
 Janeiro: Esparsa, s.d.p.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/crianças-prodígio)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/crianças-prodígio)  
 Autor: Sérgio Biagi Gregório
 
 

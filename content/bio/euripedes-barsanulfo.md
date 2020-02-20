@@ -207,7 +207,7 @@ conhecimentos.
 
 ## Fonte
 * Biografia: [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/euripedesbarsanulfo.html)
-* Perguntas e Respostas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/barsanulfo-eurípedes), Sérgio Biagi Gregório
+* Perguntas e Respostas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/barsanulfo-eurípedes), Sérgio Biagi Gregório
 
 ## Veja Também
 * [Bezerra de Menezes](../bezerra-de-menezes)

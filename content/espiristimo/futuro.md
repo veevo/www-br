@@ -71,7 +71,7 @@ proceder como o semeador que, depois de jogar a semente na terra, cuida
 de seu crescimento, esperando o momento certo para colher os frutos.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/futuro-do-Espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/futuro-do-Espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

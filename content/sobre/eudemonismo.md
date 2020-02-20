@@ -66,7 +66,7 @@ Beatriz Rodrigues Barbosa. 2. ed. Lisboa: Fundação Calouse Gulbenkian,
 1983.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/eudaimonia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/eudaimonia)  
 Autor: Sérgio Biagi Gregório
 
 

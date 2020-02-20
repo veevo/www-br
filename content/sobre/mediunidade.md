@@ -74,7 +74,7 @@ ensinamentos para uma vivência plena e serena.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mediunidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mediunidade)  
 Autor: Sérgio Biagi Gregório
 
 

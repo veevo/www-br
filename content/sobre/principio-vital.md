@@ -38,7 +38,7 @@ Ele tem com fonte o fluido universal; é o que chamais fluido magnético,
 ou fluido elétrico animalizado.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/princípio-vital)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/princípio-vital)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -36,7 +36,7 @@ livre e aberta à mudança. Tradução de Marcelo Barbão. Porto Alegre, RS:
 L&PM, 2018.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mente-rígida-e-autocrítica)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mente-rígida-e-autocrítica)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

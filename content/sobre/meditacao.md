@@ -220,7 +220,7 @@ por Fátima Sá Correia et al. São Paulo: Martins Fontes, 1993.
 1970.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/meditação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/meditação)  
 Autor: Sérgio Biagi Gregório
 
 

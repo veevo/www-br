@@ -105,7 +105,7 @@ Marina Appenzeller. Campinas, SP: Papirus, 1993.
 (3) ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/prazer)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/prazer)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -94,7 +94,7 @@ Alegre, RS: L&PM, 2010 (Coleção L&PM POCKET; v. 780).
 Vera Barkow. 2. ed., São Paulo: Martins Fontes, 2003.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/cabala)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/cabala)  
 Autor: Sérgio Biagi Gregório
 
 

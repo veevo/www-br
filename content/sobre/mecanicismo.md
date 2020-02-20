@@ -85,7 +85,7 @@ ENCICLOPÉDIA MIRADOR INTERNACIONAL. São Paulo: Encyclopaedia Britannica,
 TEMÁTICA BARSA - FILOSOFIA. Rio de Janeiro, Barsa Planeta, 2005.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/mecanismo-e-relatividade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/mecanismo-e-relatividade)  
 Autor: Sérgio Biagi Gregório
 
 

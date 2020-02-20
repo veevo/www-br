@@ -81,7 +81,7 @@ XAVIER, F. C. Brasil, Coração do Mundo, Pátria do Evangelho (pelo
 Espírito Humberto de Campos). 11. ed., Rio de Janeiro, FEB, 1977.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/brasil-coração-do-mundo-pátria-do-evangelho-livro)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/brasil-coração-do-mundo-pátria-do-evangelho-livro)  
 Autor: Sérgio Biagi Gregório
 
 

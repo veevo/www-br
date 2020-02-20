@@ -65,7 +65,7 @@ de um altar". Extinguirá para sempre o ateísmo e o materialismo. (2)
 299.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/religiões-universais)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/religiões-universais)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -50,7 +50,7 @@ mundo espiritual.
 Espírito André Luiz. 10. ed., Rio de Janeiro, FEB, 1979, capítulo 28.
 
 ## Fonte
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ectoplasma-e-materialização), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ectoplasma-e-materialização), Sérgio Biagi Gregório
 * [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
 ## Veja Também

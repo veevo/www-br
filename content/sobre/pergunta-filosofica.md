@@ -73,7 +73,7 @@ limites de nossas respostas.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/pergunta-e-pergunta-filosófica)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/pergunta-e-pergunta-filosófica)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -62,7 +62,7 @@ PIRES, J. H. Introdução à Filosofia Espírita. São Paulo: Paidéia,
 1983, capítulo VI.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/essência-e-existência-a-interexistência)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/essência-e-existência-a-interexistência)  
 Autor: Sérgio Biagi Gregório
 
 

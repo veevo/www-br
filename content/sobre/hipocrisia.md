@@ -78,7 +78,7 @@ ardente e desinteressado, apesar de, quase sempre, querer, através dos
 conselhos que dá, satisfazer os seus interesses ou a sua glória”.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/hipocrisia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/hipocrisia)  
 Autor: Sérgio Biagi Gregório
 
 

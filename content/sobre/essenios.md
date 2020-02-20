@@ -49,7 +49,7 @@ GRANDE ENCICLOPÉDIA PORTUGUESA E BRASILEIRA. Lisboa/Rio de Janeiro:
 Editorial Enciclopédia, \[s.d. p.\].
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/essênios)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/essênios)  
 Autor: Sérgio Biagi Gregório
 
 

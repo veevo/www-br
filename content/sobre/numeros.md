@@ -62,7 +62,7 @@ do sábado para Cristo, foram feitos para os homens, porém, os homens não
 foram criados para os números.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/números)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/números)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

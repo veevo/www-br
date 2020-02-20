@@ -62,7 +62,7 @@ ponderabilidade.
 * EQUIPE DA FEB. O Espiritismo de A a Z. Rio de Janeiro: FEB, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fluidos-os)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fluidos-os)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

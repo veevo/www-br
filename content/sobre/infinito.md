@@ -80,7 +80,7 @@ KARDEC, A. A Gênese.
 (10/05/2016)
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/infinito)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/infinito)  
 Autor: Sérgio Biagi Gregório
 
 

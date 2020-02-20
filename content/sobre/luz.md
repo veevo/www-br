@@ -63,7 +63,7 @@ por si mesma.
 Para mais informações, leia o texto em em forma de
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/luz)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/luz)  
 Autor: Sérgio Biagi Gregório
 
 

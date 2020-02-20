@@ -87,7 +87,7 @@ fluido cósmico universa.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/pensamento-e-fisiologia-do-pensamento)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/pensamento-e-fisiologia-do-pensamento)  
 Autor: Sérgio Biagi Gregório
 
 

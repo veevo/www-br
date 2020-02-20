@@ -87,7 +87,7 @@ Mais informações:
 KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/homem-o)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/homem-o)  
 Autor: Sérgio Biagi Gregório
 
 

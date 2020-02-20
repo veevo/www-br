@@ -62,7 +62,7 @@ estaremos nos libertando dos pensamentos malsãos.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/consciência-cristalizada)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/consciência-cristalizada)  
 Autor: Sérgio Biagi Gregório
 
 

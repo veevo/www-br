@@ -477,5 +477,5 @@ pessoal. (3)
 * (3) Mistérios do Desconhecido: Evocação de Espíritos. Rio de Janeiro: Editora Abril, 1993.
 
 ## Fonte
-* [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/crookes-william), Sérgio Biagi Gregório
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/crookes-william), Sérgio Biagi Gregório
 

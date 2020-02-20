@@ -80,7 +80,7 @@ da comunicação com os Espíritos.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/iluminismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/iluminismo)  
 Autor: Sérgio Biagi Gregório
 
 

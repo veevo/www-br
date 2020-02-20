@@ -44,7 +44,7 @@ animalizada e nos tornarmos seres angélicos.
 Fonte: Dicionários e Enciclopédias
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/humanidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/humanidade)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

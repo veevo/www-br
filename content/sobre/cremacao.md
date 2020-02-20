@@ -76,7 +76,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/cremação)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/cremação)  
 Autor: Sérgio Biagi Gregório
 
 

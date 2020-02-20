@@ -70,7 +70,7 @@ OUTHWAITE. W. e BOTTOMORE, T. Dicionário do Pensamento Social do Século
 XX. Rio de Janeiro, Zahar, 1996.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/socialismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/socialismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

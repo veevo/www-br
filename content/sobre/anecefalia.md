@@ -47,7 +47,7 @@ Para mais informações, assista aos vídeos do programa do Centro Espírita
 Ismael, denominado "Minutos com a Doutrina":
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/anencefalia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/anencefalia)  
 Autor: Sérgio Biagi Gregório
 
 

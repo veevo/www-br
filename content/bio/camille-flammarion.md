@@ -136,7 +136,7 @@ dos mundos. (3)
 
 ## Fonte
 * Biografia: [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/camilleflammarion.html)
-* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
+* Perguntas Relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
 
 ## Veja Também
 * [Allan Kardec](../allan-kardec)

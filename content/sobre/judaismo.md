@@ -100,7 +100,7 @@ que é sintetizada pelos princípios codificados por Allan Kardec.
 EDUCACIONAL. 3. ed. São Paulo: Iracema, 1987.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/judaísmo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/judaísmo)  
 Autor: Sérgio Biagi Gregório
 
 

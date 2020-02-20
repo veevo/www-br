@@ -69,7 +69,7 @@ intoxicando a cromatina dentro da própria bolsa seminal".
 \ Adelino viria a ser o pai de Segismundo.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/fecundidade-fertilidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/fecundidade-fertilidade)  
 Autor: Sérgio Biagi Gregório
 
 

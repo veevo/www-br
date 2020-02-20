@@ -87,7 +87,7 @@ dele.
 (2) LUIZ, A. Mecanismos da Mediunidade, cap. XXIII.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/animismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/animismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

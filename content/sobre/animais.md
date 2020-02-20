@@ -85,7 +85,7 @@ Mediunidade e Análise Geral dos seus Problemas Atuais. 5. ed. São
 Paulo: Edicel, 1984.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/animais-os)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/animais-os)  
 Autor: Sérgio Biagi Gregório
 
 

@@ -226,7 +226,7 @@ estudado, mas para ser posto em prática, no dia-a-dia.
 * BATTAGLIA, 0scar. Introdução aos Evangelhos — Um Estudo Histórico-crítico. Rio de Janeiro: Vozes, 1984.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/evangelho)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/evangelho)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

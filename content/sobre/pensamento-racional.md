@@ -59,7 +59,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/origem-da-filosofia)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/origem-da-filosofia)  
 Autor: Sérgio Biagi Gregório
 
 

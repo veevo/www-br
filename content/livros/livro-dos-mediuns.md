@@ -94,7 +94,7 @@ mediunidade.
 * (2) BARBOSA, P. F. Espiritismo Básico. 3. ed. Rio de Janeiro: FEB, 1987.
 
 ## Fonte
-* Perguntas relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/livro-dos-médiuns-o), Sérgio Biagi Gregório
+* Perguntas relacionadas: [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/livro-dos-médiuns-o), Sérgio Biagi Gregório
 
 
 ## Veja Também

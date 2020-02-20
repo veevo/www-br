@@ -68,7 +68,7 @@ justiça, a temperança, a coragem e a prudência podem encaminhar para os
 seus contrários, que são os vícios.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/virtudes-cardeais)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/virtudes-cardeais)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

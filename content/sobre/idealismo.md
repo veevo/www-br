@@ -65,7 +65,7 @@ ajudar o próximo, ensinando-nos o desapego das coisas materiais.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/idealismo-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/idealismo-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

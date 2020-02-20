@@ -54,7 +54,7 @@ Textos em forma de palestra:
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/influências-em-nossas-vidas-e-suas-consequências-as)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/influências-em-nossas-vidas-e-suas-consequências-as)  
 Autor: Sérgio Biagi Gregório
 
 

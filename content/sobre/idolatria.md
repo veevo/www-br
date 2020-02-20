@@ -54,7 +54,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/idolatria)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/idolatria)  
 Autor: Sérgio Biagi Gregório
 
 

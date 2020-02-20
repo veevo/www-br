@@ -52,7 +52,7 @@ ECKHART, Meister. Sobre o Desprendimento e outros Textos. Tradução de
 Alfred J. Keller. São Paulo: Martins Fontes, 2004 (Breves encontros).
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/desprendimento)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/desprendimento)  
 Autor: Sérgio Biagi Gregório
 
 

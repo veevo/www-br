@@ -221,7 +221,7 @@ Acesse a
 deste tema.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/jugo-leve)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/jugo-leve)  
 Autor: Sérgio Biagi Gregório
 
 

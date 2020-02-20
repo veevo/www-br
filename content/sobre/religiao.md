@@ -76,7 +76,7 @@ constituída, pois não tem culto, nem rito e nem templo.
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/religião-e-espiritismo), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/religião-e-espiritismo), Sérgio Biagi Gregório
 
 ## Veja Também
 * [Filosofia Cristã](filosofia-crista)

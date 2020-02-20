@@ -62,7 +62,7 @@ Cristandade pelo símbolo do Concílio de Niceia, de que não fala nenhum
 dos Evangelhos canônicos".
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/evangelhos-apócrifos)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/evangelhos-apócrifos)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

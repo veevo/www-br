@@ -42,7 +42,7 @@ Quando nos tornamos culpado por aquilo que condenamos a nossa autoridade
 moral fica deteriorada.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/argueiro-e-a-trave-o)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/argueiro-e-a-trave-o)  
 Autor: Sérgio Biagi Gregório
 
 

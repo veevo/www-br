@@ -89,7 +89,7 @@ soberanamente justo e bom.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/metafísica)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/metafísica)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

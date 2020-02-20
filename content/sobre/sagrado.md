@@ -98,7 +98,7 @@ cantadas, vestir-se naturalmente e sem rituais, é um bom exercício.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sagrado-ante-o-espiritismo-o)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sagrado-ante-o-espiritismo-o)  
 Autor: Sérgio Biagi Gregório
 
 

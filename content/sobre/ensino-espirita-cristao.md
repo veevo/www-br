@@ -51,7 +51,7 @@ Espírita, Ciência Espírita, Entrevistador etc.
 A Candeia e o Alqueire, o ensino das Parábolas, o Jugo Leve etc.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ensino-espírita-cristão)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ensino-espírita-cristão)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

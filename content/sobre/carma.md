@@ -85,5 +85,5 @@ TODO
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
 
-[Perguntas e Respostas - Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/carma-karman)  
+[Perguntas e Respostas - Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/carma-karman)  
 Autor: Sérgio Biagi Gregório

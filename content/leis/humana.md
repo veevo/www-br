@@ -83,6 +83,6 @@ ficou sem punição? Não teríamos uma resposta mais aceitável?
 * (3) Kardec, Allan. O Evangelho Segundo o Espiritismo, capítulo I.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/lei-humana-e-lei-divina)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/lei-humana-e-lei-divina)  
 Autor: Sérgio Biagi Gregório
 

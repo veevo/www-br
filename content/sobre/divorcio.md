@@ -85,7 +85,7 @@ mulher se encontram para o entendimento indispensável”.
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/divórcio-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/divórcio-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

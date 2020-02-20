@@ -151,8 +151,8 @@ Espiritismo. 17. ed. Rio de Janeiro: FEB, 1975, cap.I, item 16.
 Contemporânea). 2 ed., Rio de Janeiro, FEB, 1955, p. 95.
 
 ## Fontes
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ciência-e-espiritismo)  
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/ciências-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ciência-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/ciências-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

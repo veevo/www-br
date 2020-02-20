@@ -119,7 +119,7 @@ XAVIER, F. C. Pão Nosso, pelo Espírito Emmanuel. 5. ed. Rio de
 Janeiro: FEB, 1977
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/bem-aventuranças-as)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/bem-aventuranças-as)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também

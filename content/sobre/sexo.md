@@ -81,7 +81,7 @@ André Luiz, 4. ed., Rio de Janeiro, FEB, 1977.
 KARDEC, A. O Livro dos Espíritos. 8. ed., São Paulo, FEESP, 1995.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/sexo-amor-e-espiritismo)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sexo-amor-e-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
 

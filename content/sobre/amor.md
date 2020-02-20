@@ -68,7 +68,7 @@ medíocre." (F. W. Nietzsche)
 
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/amor-e-ódio), Sérgio Biagi Gregório
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/amor-e-ódio), Sérgio Biagi Gregório
 (1) EQUIPE DA FEB. O Espiritismo de A a Z. Rio de Janeiro: FEB, 1995.
 
 ## Veja Também

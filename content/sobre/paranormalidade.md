@@ -99,7 +99,7 @@ Cultural, 1985. (Coleção Primeiros Passos, 27)
 Nova, 1976.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/paranormalidade)  
+[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/paranormalidade)  
 Autor: Sérgio Biagi Gregório
 
 
