@@ -78,5 +78,4 @@ Allan Kardec, ed. Feb.
 
 Em 14.11.2012.
 
-
 [Redação do Momento Espírita](http://momento.com.br/pt/ler_texto.php?id=3657)

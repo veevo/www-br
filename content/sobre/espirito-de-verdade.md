@@ -52,4 +52,10 @@ imortalidade. - O Espírito de Verdade. (Paris, 1861.)
 [Wikipedia | O Espírito da Verdade](https://pt.wikipedia.org/wiki/O_Esp%C3%ADrito_da_Verdade_(espiritismo))
 
 ## Veja Também
-TODO
+* [Jesus](../jesus)
+* [Ismael](/bio/ismael)
+* [Allan Kardec](/bio/allan-kardec)
+
+## Leitura Recomendada
+* [Quem é o Espírito de Verdade?](/artigos/espirito-de-verdade)
+* [O Evangelho segundo o Espiritismo](/livros/ese)
