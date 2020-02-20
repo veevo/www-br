@@ -65,7 +65,16 @@ fosse justa?
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/lei-de-justiça-amor-e-caridade)  
 Autor: Sérgio Biagi Gregório
 
+## Leis Relacionadas
+* [Lei Natural](../natural)  
+* [Lei de Amor](../amor)  
+* [Lei de Justiça](../justica)  
+* [Lei de Sociedade](../sociedade)  
+
 ## Veja Também
-TODO
+* [O que é o Espiritismo?](/espiritismo)
+* [O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+* [Livre Arbítrio](/sobre/livre-arbitrio)  
+* [Deus](/sobre/deus)
 
 

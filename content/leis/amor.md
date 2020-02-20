@@ -35,24 +35,19 @@ próximo como a si mesmo não é covardia nem fraqueza; estas vêm do orgulho,
 apenas. Quando vencemos o orgulho, o egoísmo e o preconceito, chegamos à lei do
 amor.
 
+## Fonte
+* [CE Ismael | Lei de Caridade](https://www.ceismael.com.br/download/apostila/apost1.htm)
 
 ## Leis Relacionadas
-[Lei Natural](../natural)  
-[Lei de Amor](../amor)  
-[Lei de Justiça](../justica)  
-[Lei de Sociedade](../sociedade)  
-
-## Expressões Relacionadas
-[Livre Arbítrio](/sobre/livre-arbitrio)  
-[Deus](/sobre/deus)
-
-## Bibliografia Recomendada
-[O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+* [Lei Natural](../natural)  
+* [Lei de Amor](../amor)  
+* [Lei de Justiça](../justica)  
+* [Lei de Sociedade](../sociedade)  
 
 ## Veja Também
-[Espiritismo](/espiritismo)
-
-## Fonte
-[CE Ismael | Lei de Caridade](https://www.ceismael.com.br/download/apostila/apost1.htm)
+* [O que é o Espiritismo?](/espiritismo)
+* [O Livro dos Espíritos](/livros/livro-dos-espiritos), Allan Kardec  
+* [Livre Arbítrio](/sobre/livre-arbitrio)  
+* [Deus](/sobre/deus)
 
 
