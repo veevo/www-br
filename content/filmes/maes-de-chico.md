@@ -23,7 +23,7 @@ procurar a ajuda do médium Chico Xavier
 ## Assistir ao Trailler
 <iframe width="1280" height="709" src="https://www.youtube.com/watch?v=GR3Q4n8g8rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Leia Também
+## Veja Também
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 
 ## Relacionado

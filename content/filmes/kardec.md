@@ -18,7 +18,7 @@ esposa Amélie-Gabrielle Boudet.
 ## Assistir o trailer
 <iframe width="1280" height="709" src="https://www.youtube.com/watch?v=S3Kz5btHNIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Leia Também
+## Veja Também
 [Biografia - Allan Kardec](/bio/allan-kardec)  
 [Amélie-Gabrielle Boudet](/bio/amelie-boudet)  
 

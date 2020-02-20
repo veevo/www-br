@@ -30,7 +30,7 @@ irá agir no processo que pode condenar o responsável pela morte de Tomás.
 ## Assistir o filme
 <iframe width="1280" height="704" src="https://www.youtube.com/embed/s3vXBBgwMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Leia Também
+## Veja Também
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 
 ## Relacionado

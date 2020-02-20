@@ -22,7 +22,7 @@ está machucada emocionalmente devido à infidelidade do marido.
 ## Assistir o trailer
 <iframe width="1280" height="704" src="https://www.youtube.com/watch?v=pgR6132okUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Leia Também
+## Veja Também
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 
 ## Relacionado

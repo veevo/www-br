@@ -30,7 +30,7 @@ sua obra.
 ## Assistir o filme
 <iframe width="1172" height="781" src="https://www.youtube.com/embed/MAK6pTBqdZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Leia Também
+## Veja Também
 [Biografia - Bezerra de Menezes](/bio/bezerra-de-menezes)
 
 ## Relacionado

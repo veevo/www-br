@@ -25,7 +25,7 @@ filhos, entre Chico e essas mães e seus filhos, entre o público e o filme.
 ## Assistir o trailer
 <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=3KjRtmOBk90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Leia Também
+## Veja Também
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 
 ## Relacionado

@@ -8,7 +8,6 @@ topics:
 - ciencia
 ---
 
-## Introdução
 Você já se fez algumas dessas perguntas antes:  A Terra é o único planeta
 habitado no Unverso?  Fantasmas existem? E alienígenas?  Atlantida era real?
 Como a ciência ainda não pode explicar mistérios no Egito e em outras

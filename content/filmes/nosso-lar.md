@@ -33,7 +33,7 @@ todos".
 ## Assistir o filme
 <iframe width="1280" height="709" src="https://www.youtube.com/embed/aWG3H4FWbjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Leia Também
+## Veja Também
 [Livro - Nosso Lar](/livros/nosso-lar)  
 [Biografia - André Luiz](/bio/andre-luiz)  
 [Biografia - Chico Xavier](/bio/chico-xavier)  

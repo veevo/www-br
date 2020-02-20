@@ -7,9 +7,8 @@ topics:
 - centro-espirita
 ---
 
-## Introdução
 Mesmo que a [Codificação Espírita](/spirism/codificação) tenha feito
-[Rivail] (/sobre/allan-kardec) uma casa deter nome em grande parte do continente, o Reino Unido
+[Allan Kardec] (/sobre/allan-kardec) uma casa deter nome em grande parte do continente, o Reino Unido
 e mais tarde na América e no Brasil, para ele pessoalmente colocando as revelações de
 os [Professores espirituais](/sobre/espíritos superiores) ao papel lhe custaram caro.
 

@@ -6,7 +6,6 @@ topics:
 - espiritismo
 ---
 
-### Introdução 
 A Codificação do Espiritismo é a cobrança de princípios e leis, 
 revelado pelo [EspíritoSuperior](/sobre/espírito superior)
 para [Allan Kardec](/bio/allan-kardec). O mentor espiritual e guia para 
