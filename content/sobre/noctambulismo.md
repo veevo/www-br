@@ -5,15 +5,14 @@ topics:
 - sonambulismo
 ---
 
-Ato de marchar ou passear durante a noite, dormindo; sinônimo de sonambulismo.
+Ato de marchar ou passear durante a noite, dormindo; sinônimo de [Sonambulismo](../sonambulismo).
 Esta última palavra é preferível, visto que noctambulismo não implica, de modo
 algum, a idéia de sono.
 
-## Origem
-Do latim nox, noctis= a noite + ambulare= marchar, passear + -ismo
+* Do latim nox, noctis= a noite + ambulare= marchar, passear + -ismo
 
 ## Veja Também
-TODO
+* [Sonambulismo](../sonambulismo)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

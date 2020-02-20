@@ -98,21 +98,15 @@ fazendo com que possamos ser "promotores da paz".
 
 
 ### Bibliografia
-BOULDING, K. E. Paz Estável. Rio de Janeiro, Zahar, 1978.
-
-Enciclopédia Mirador Internacional. São Paulo, Encyclopaedia
-Britannica, 1987.
-
-KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed., São Paulo, IDE,
-1984.
+* BOULDING, K. E. Paz Estável. Rio de Janeiro, Zahar, 1978.
+* Enciclopédia Mirador Internacional. São Paulo, Encyclopaedia Britannica, 1987.
+* KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed., São Paulo, IDE, 1984.
 
 ## Fonte
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/paz-e-a-espada-a)  
 Autor: Sérgio Biagi Gregório
 
-
-
 ## Veja Também
-TODO
-
-
+* [Guerra](../guerra)
+* [Paz](../paz)
+* [Espiritismo](/espiritismo)

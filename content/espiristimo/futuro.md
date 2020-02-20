@@ -4,8 +4,19 @@ date: 2019-01-11 13:00:00
 topics: 
 - futuro
 - espiritismo
+- religiao
 ---
 
+O que se imagina do futuro do [Espiritismo](../)? Como falou [Chico
+Xavier](/bio/chico-xavier): o Espiritismo não é a religião do futuro mas o
+futuro da religião.
+
+O Espiritismo irá auxiliar a humanidade durante a [transição
+planetária](/sobre/transicao-planetaria) de [mundo de provas e
+expiações](/sobre/provas-e-expiacoes) para [mundo de
+regeneração](/sobre/mundo-de-regeneracao) onde o bem superará o mal.
+
+Leia mais para compreender.
 
 
 ## Perguntas Relacionadas
@@ -17,6 +28,7 @@ Espíritos e na sua manifestação.
 ### Como foi codificada?
 Allan Kardec, com o auxílio de médiuns ao redor do mundo, catalogou e
 dispôs de forma racional as instruções dos benfeitores espirituais.
+
 ### Onde está a força do Espiritismo?
 A força do Espiritismo está em seus pressupostos básicos, tais como,
 reencarnação, pluralidade dos mundos habitados, Deus, Espírito etc.
@@ -75,6 +87,9 @@ de seu crescimento, esperando o momento certo para colher os frutos.
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
-
+* [Espiritismo](../)
+* [Chico Xavier](/bio/chico-xavier)
+* [Transição planetária](/sobre/transicao-planetaria)
+* [Mundo de provas e expiações](/sobre/provas-e-expiacoes)
+* [Mundo de regeneração](/sobre/mundo-de-regeneracao)
 

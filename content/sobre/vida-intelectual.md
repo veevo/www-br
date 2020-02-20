@@ -48,18 +48,15 @@ para evitar que o indivíduo descambe para os excessos.
 
 
 ### Bibliografia
-LOGOS – ENCICLOPÉDIA LUSO-BRASILEIRA DE FILOSOFIA. Rio de Janeiro:
-Verbo, 1990.
-
-SERTILLANGES, A.-D. A Vida Intelectual: seu Espírito, suas Condições,
-seus Métodos. Tradução de Lilia Ledon da Silva. 3. ed., São Paulo: É
-Realizações, 2014.
+* LOGOS – ENCICLOPÉDIA LUSO-BRASILEIRA DE FILOSOFIA. Rio de Janeiro: Verbo, 1990.
+* SERTILLANGES, A.-D. A Vida Intelectual: seu Espírito, suas Condições, seus Métodos. Tradução de Lilia Ledon da Silva. 3. ed., São Paulo: É Realizações, 2014.
 
 ## Fonte
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/vida-intelectual)  
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
+* [Inteligência](../inteligencia)
+* [Moral](../moral)
 
 

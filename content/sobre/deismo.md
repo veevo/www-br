@@ -14,7 +14,8 @@ influído na criação do universo.
 Do latim deus,i > de(i)- + -ismo
 
 ## Veja Também
-TODO
+* [Deus](../deus)
+* [Universo](../universo)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

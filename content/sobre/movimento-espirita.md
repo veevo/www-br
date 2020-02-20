@@ -2,7 +2,6 @@
 title: Movimento Espírita
 date: 2019-02-01 19:00:00
 topics:
-- movimento-espirita
 - espiritismo
 ---
 
@@ -11,7 +10,8 @@ Doutrina Espírita ao alcance e a serviço de toda a Humanidade, através do seu
 estudo, da sua prática e da sua divulgação.
 
 ## Veja Também
-TODO
+* [Espiritismo](/espiritismo)
+* [Humanidade](../humanidade)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

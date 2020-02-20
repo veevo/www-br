@@ -60,9 +60,3 @@ espíritas (considerados fora do senso-comum).
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/física-quântica)  
 Autor: Sérgio Biagi Gregório
 
-
-
-## Veja Também
-TODO
-
-

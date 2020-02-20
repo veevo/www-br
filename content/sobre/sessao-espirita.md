@@ -3,7 +3,6 @@ title: Sessão espírita
 date: 2019-02-01 19:00:00
 topics:
 - espiritismo
-- sessao-espirita
 - centro-espirita
 ---
 
@@ -15,7 +14,9 @@ mediúnicas de orientações dos Espíritos, de desobsessão ou de educação e
 desenvolvimento da mediunidade.
 
 ## Veja Também
-TODO
+* [Espiritismo](/espiritismo)
+* [Mediunidade](../mediunidade)
+* [Centro Espírita](/espiritismo/centro)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

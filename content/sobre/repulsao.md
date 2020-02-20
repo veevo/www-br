@@ -8,11 +8,11 @@ topics:
 Força em virtude da qual alguns corpos se repelem mutuamente. Ação ou efeito de
 repelir. 
 
-## Origem
 Do latim repulsione
 
 ## Veja Também
-TODO
+* [Ódio](/vicios/odio)
+* [Rancor](/vicios/rancor)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

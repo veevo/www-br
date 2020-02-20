@@ -69,23 +69,23 @@ maior é a sublimação do instinto sexual.
 
 
 ### Bibliografia
-MOUSSEAU, Jacques (org.). Dicionário do Inconsciente. Lisboa/SP:
-Verbo, 1984.
-
-DORON, Roland e PAROT, Françoise. Dicionário de Psicologia. Tradução
-de Odilon Soares Leme. São Paulo: Atica, 2001.
-
-https://www.significados.com.br/sublimacao/
-
-http://www.sistemas.febnet.org.br/site/az/AZ-Vocabulos-e-Conceitos.php?CodVoc=1944&L=19&busca=&CodLivro=&Pag=1
+* MOUSSEAU, Jacques (org.). Dicionário do Inconsciente. Lisboa/SP: Verbo, 1984.
+* DORON, Roland e PAROT, Françoise. Dicionário de Psicologia. Tradução de Odilon Soares Leme. São Paulo: Atica, 2001.
+* https://www.significados.com.br/sublimacao/
+* http://www.sistemas.febnet.org.br/site/az/AZ-Vocabulos-e-Conceitos.php?CodVoc=1944&L=19&busca=&CodLivro=&Pag=1
 
 ## Fonte
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/sublimação)  
 Autor: Sérgio Biagi Gregório
 
-
-
 ## Veja Também
-TODO
+* [Freud](/bio/freud)
+* [Andropomorfismo](../antropomorfismo)
+* [Sócrates](../socrates)
+* [Platão](../platao)
+* [Filosofia Cristã](filosofia-crista)
+* [Filosofia da Religião](filosofia-da-religiao)
+* [Filosofia Espírita](filosofia-espirita)
+* [Filosofia Oriental](filosofia-oriental)
 
 

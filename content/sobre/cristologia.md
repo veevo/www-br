@@ -12,7 +12,8 @@ Tratado em torno da pessoa de Jesus Cristo e de sua doutrina.
 Hierônimo => Cristo + -log(o) + -ia
 
 ## Veja Também
-TODO
+* [Jesus](../jesus)
+* [O Evangelho](/evangelho)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

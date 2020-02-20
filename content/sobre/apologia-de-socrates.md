@@ -73,7 +73,12 @@ Edipro, 2011. (Edipro de bolso)
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/apologia-de-sócrates)  
 Autor: Sérgio Biagi Gregório
 
-
 ## Veja Também
-TODO
+* [Sócrates](../socrates)
+* [Platão](../platao)
+* [Filosofia](../filosofia)
+* [Filosofia Cristã](filosofia-crista)
+* [Filosofia da Religião](filosofia-da-religiao)
+* [Filosofia Espírita](filosofia-espirita)
+* [Filosofia Oriental](filosofia-oriental)
 

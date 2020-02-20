@@ -9,8 +9,7 @@ topics:
 * Desenvolvimento gradual de um ser ou de uma atividade.
 * Adiantamento; melhoramento; aperfeiçoamento. 
 
-## Origem
-do latim progressu
+Do latim progressu
 
 ## Veja Também
 TODO

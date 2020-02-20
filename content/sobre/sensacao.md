@@ -14,7 +14,7 @@ topics:
 Do latim sensatione
 
 ## Veja Também
-TODO
+* [Virtudes](/virtudes)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

@@ -6,18 +6,17 @@ topics:
 - virtude
 ---
 
-Exercício prático que leva à efetiva realização da virtude, à plenitude da vida
+* Exercício prático que leva à efetiva realização da virtude, à plenitude da vida
 moral.
 
-## Origem
-Do grego áskesis
+* Do grego áskesis
+
+## Relacionados
+* Asceta [do grego asketes] - Pessoa que se consagra à ascese.  
+* Ascetismo - [do grego áskesis + -ismo] - Doutrina que considera a ascese como o essencial da vida moral  
 
 ## Veja Também
-Asceta [do grego asketes] - Pessoa que se consagra à ascese.  
-Ascetismo - [do grego áskesis + -ismo] - Doutrina que considera a ascese como o essencial da vida moral  
-
-## Veja Também
-TODO
+* [Virtudes](/virtudes)
 
 ## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+* [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

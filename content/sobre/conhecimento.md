@@ -61,9 +61,7 @@ PIRES, J. H. Introdução à Filosofia Espírita. São Paulo: Paidéia,
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/teoria-espírita-do-conhecimento)  
 Autor: Sérgio Biagi Gregório
 
-
-
 ## Veja Também
-TODO
+* [Inteligência](../inteligencia)
 
 

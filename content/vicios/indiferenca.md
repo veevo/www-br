@@ -53,18 +53,15 @@ seguem além se não há interesse de seus contemporâneos.
 
 
 ### Bibliografia
-Enciclopédia Luso-Brasileira de Cultura
-
-KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE,
-1984.
+* Enciclopédia Luso-Brasileira de Cultura
+* KARDEC, A. O Evangelho Segundo o Espiritismo. 39. ed. São Paulo: IDE, 1984.
 
 ## Fonte
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/indiferença)  
 Autor: Sérgio Biagi Gregório
 
-
-
 ## Veja Também
-TODO
+* [Egoísmo](/vicios/egoismo)
+* [Vícios Morais](/vicios)
 
 

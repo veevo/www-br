@@ -212,11 +212,14 @@ O Livro dos Espíritos, Pergunta 625
 * "O sublime peregrino", obra psicografada pelo médium Hercílio Maes e ditada pelo espírito Ramatís,
 
 ## Veja Também
-TODO
+* [Jesus](../jesus)
+* [O Evangelho](/evangelho)
+* [Bíblia](../biblia)
+* [Espíritos Puros](../espirito-puro)
 
 ## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
-[Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/jesus-cristo), Sérgio Biagi Gregório
+* [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+* [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/jesus-cristo), Sérgio Biagi Gregório
 
 
 

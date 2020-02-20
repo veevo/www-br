@@ -40,11 +40,11 @@ norteador para nos direcionar até o Cristo.
 
 
 ## Fonte
-[FEEMT | Saiba Mais Sobre o Projeto Espiritizar](https://espiritizar.feemt.org.br/projeto-espiritizar/)
+* [FEEMT | Saiba Mais Sobre o Projeto Espiritizar](https://espiritizar.feemt.org.br/projeto-espiritizar/)
 
 ## Veja Também
-[FEEMT | O que é o um Projeto Iluminativo](https://espiritizar.feemt.org.br/noticias/saiba-o-que-e-um-projeto-iluminativo/)  
-[FEEMT | Quais os novos paradigmas para as instituições espíritas?](https://espiritizar.feemt.org.br/noticias/as-instituicoes-espiritas-e-a-mudanca-de-paradigma/)  
-[FEEMT | Conheça o Espírito Honório](https://espiritizar.feemt.org.br/noticias/saiba-o-que-e-um-projeto-iluminativo/)  
-[FEEMT | Mensagem ditada pelo Espírito Honório apresenta o propósito do Projeto Espiritizar](https://espiritizar.feemt.org.br/mensagens/mensagem-ditada-pelo-espirito-honorio-apresenta-o-proposito-do-projeto-espiritizar/)  
+* * [FEEMT | O que é o um Projeto Iluminativo](https://espiritizar.feemt.org.br/noticias/saiba-o-que-e-um-projeto-iluminativo/)  
+* [FEEMT | Quais os novos paradigmas para as instituições espíritas?](https://espiritizar.feemt.org.br/noticias/as-instituicoes-espiritas-e-a-mudanca-de-paradigma/)  
+* [FEEMT | Conheça o Espírito Honório](https://espiritizar.feemt.org.br/noticias/saiba-o-que-e-um-projeto-iluminativo/)  
+* [FEEMT | Mensagem ditada pelo Espírito Honório apresenta o propósito do Projeto Espiritizar](https://espiritizar.feemt.org.br/mensagens/mensagem-ditada-pelo-espirito-honorio-apresenta-o-proposito-do-projeto-espiritizar/)  
 

@@ -19,7 +19,9 @@ definições de duplo etéreo são vastas e, muita vez, até opostas. O conceito
 perispírito permanece consolidado nas definições kardequianas.
 
 ## Veja Também
-TODO
+* [Mediunidade](../mediunidade)
+* [Médium](../medium)
+* [Espiritismo](/espiritismo)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

@@ -68,19 +68,16 @@ em corpos mais leves que os atuais. (2)
 
 
 ### Bibliografia
-(1) LIMA, Carlos. Genealogia Dialética da Utopia. Rio de Janeiro:
-Contraponto, 2008.
-
-(2) KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o
-Espiritismo. 17. ed. Rio de Janeiro: FEB, 1975.)
+* (1) LIMA, Carlos. Genealogia Dialética da Utopia. Rio de Janeiro: Contraponto,
+  2008.
+* (2) KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o Espiritismo.
+  17. ed. Rio de Janeiro: FEB, 1975.)
 
 ## Fonte
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/utopia)  
 Autor: Sérgio Biagi Gregório
 
-
-
 ## Veja Também
-TODO
-
+* [Espiritismo](/espiritismo)
+* [Espíritos](../espirito)
 

@@ -89,6 +89,3 @@ Amor).
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/teoria-e-prática-no-espiritismo)  
 Autor: Sérgio Biagi Gregório
 
-## Veja Também
-TODO
-

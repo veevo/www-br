@@ -13,13 +13,10 @@ Princípio de tudo o que existe, constituído por Deus, Espírito e Matéria. Na
 além disto existe no Universo. 
 
 ## Veja Também
-Deus  
-Espirito
-Matéria
-Universo
-
-## Veja Também
-TODO
+* [Deus](../deus)
+* [Espirito](../espirito)
+* [Matéria](../materia)
+* [Universo](../universo)
 
 ## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+* [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

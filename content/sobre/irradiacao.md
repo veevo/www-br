@@ -74,7 +74,7 @@ ao estudo, à meditação e à prece. Acima de tudo, porém, devemos praticar,
 efetivamente, o amor ao próximo.
 
 ## Fonte
-[Introdução à Doutrina Espírita | Irradiação](https://introducaodoutrinaespirita.blogspot.com/2009/01/irradiao-bases-do-fenmeno.html)
+* [Introdução à Doutrina Espírita | Irradiação](https://introducaodoutrinaespirita.blogspot.com/2009/01/irradiao-bases-do-fenmeno.html)
 
 ## Veja Também
-TODO
+* [Espiritismo](/espiritismo)

@@ -98,23 +98,15 @@ Deus". (S. LUCAS, cap. XII, vv. 13 a 21)
 
 
 ## Bibliografia
-
-KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o
-Espiritismo. 17. ed. Rio de Janeiro: FEB, 1975.
-
-KARDEC, A. O Céu e o Inferno ou A Justiça Divina Segundo o
-Espiritismo. 22. ed. Rio de Janeiro: FEB, 1975.
+* KARDEC, A. A Gênese - Os Milagres e as Predições Segundo o Espiritismo. 17. ed. Rio de Janeiro: FEB, 1975.
+* KARDEC, A. O Céu e o Inferno ou A Justiça Divina Segundo o Espiritismo. 22. ed. Rio de Janeiro: FEB, 1975.
 
 ## Fonte
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/morte)  
 Autor: Sérgio Biagi Gregório
 
-
 ## Veja Também
-[Desencarnação](../desencarnacao)
-
-## Veja Também
-TODO
+* [Desencarnação](../desencarnacao)
 
 ## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+* [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

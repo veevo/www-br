@@ -7,10 +7,18 @@ topics:
 - mente
 - energia
 - psicosfera
+- pensamento
+- prece
 ---
 
-todo
+Denomina-se energia mental à toda a carga energética produzida por nossos
+pensamentos.
+
+Sabe-se que pensamento e força e que todo pensamento emana energias boas ou
+ruins que afetam aquele à quem são direcionadas. Daí a importância de sempre
+cultivarmos bons pensamentos e sentimentos.
 
 ## Veja Também
-TODO
+* [Pensamento](../pensamento)
+* [Prece](../prece)
 

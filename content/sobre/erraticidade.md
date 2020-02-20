@@ -15,11 +15,12 @@ Deixando o corpo, a alma reentra no Mundo dos Espíritos, de onde havia saído,
 para retomar uma nova existência material, depois de um lapso de tempo mais ou
 menos longo, durante o qual permanece no estado de Espírito errante.
 
-## Origem
 Do francês erraticité
 
 ## Veja Também
-TODO
+* [Mundo Espiritual](../mundo-espiritual)
+* [Mundo Físico](../mundo-fisico)
+* [Umbral](../umbral)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

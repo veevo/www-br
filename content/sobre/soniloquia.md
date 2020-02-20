@@ -6,13 +6,13 @@ topics:
 - sonambulismo
 ---
 
-Estado de emancipação da alma intermediário ao sono e ao sonambulismo natural.
+Estado de emancipação da alma intermediário ao sono e ao [sonambulismo
+natural](../sonambulismo)
 
-## Origem
 Do latim somnus= sono + loqui= falar
 
 ## Veja Também
-TODO
+* [Sonambulismo](../sonambulismo)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

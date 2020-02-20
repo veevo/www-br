@@ -3,6 +3,8 @@ title: Bicorporeidade
 date: 2019-02-01 19:00:00
 topics:
 - bicorporeidade
+- mediunidade
+- espiritismo
 ---
 
 Variação das manifestações visuais, quando o indivíduo se mostra simultaneamente
@@ -17,7 +19,8 @@ reentra no corpo material.
 Do latim bis + corporalitate
 
 ## Veja Também
-TODO
+* [Mediunidade](../mediunidade)
+* [Espiritismo](/espiritismo)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)

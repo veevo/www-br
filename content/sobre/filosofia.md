@@ -28,6 +28,9 @@ mundo. Daí, dizer-se que o mito é atraso, a filosofia traz o progresso;
 o mito é treva, a filosofia é luz...
 
 ## Veja Também
+* [Andropomorfismo](../antropomorfismo)
+* [Sócrates](../socrates)
+* [Platão](../platao)
 * [Filosofia Cristã](filosofia-crista)
 * [Filosofia da Religião](filosofia-da-religiao)
 * [Filosofia Espírita](filosofia-espirita)

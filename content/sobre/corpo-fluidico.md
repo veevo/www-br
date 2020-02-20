@@ -8,9 +8,6 @@ topics:
 Ver: [Perispirito](../perispirito).
 
 ## Veja Também
-[Perispirito](../perispirito).
-[Corpo Físico](../corpo-fisico)
-
-## Veja Também
-TODO
+* [Perispirito](../perispirito).
+* [Corpo Físico](../corpo-fisico)
 

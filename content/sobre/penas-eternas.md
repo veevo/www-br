@@ -10,9 +10,9 @@ e que o mal terá um fim. Por conseqüência deste princípio, combatem a doutri
 da eternidade das penas como contrária à idéia que Deus nos dá de sua justiça e
 de sua bondade.
 
+## Fonte
+* [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
 ## Veja Também
-TODO
-
-## Fonte
-[O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
+* [Espírito Imortal](../espirito-imortal)
+* [Umbral](../umbral)

@@ -3,6 +3,7 @@ title: Antroposofia
 date: 2019-01-11 13:00:00
 topics: 
 -  antroposofia
+- ciencia
 ---
 
 De antropo (homem) e sofia (ciência). Estudo do homem sob o ponto de
@@ -67,19 +68,20 @@ dela emanam e a ela tornam.
 
 
 ### Bibliografia
-ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, \[s. d. p.\]
-
-GRANDE ENCICLOPÉDIA PORTUGUESA E BRASILEIRA. Lisboa/Rio de Janeiro:
-Editorial Enciclopédia, \[s.d. p.\].
-
-LANZ, Rudolf. Noções Básicas de Antroposofia. 4. ed., São Paulo:
-Antroposófica, 1997.
+* ENCICLOPÉDIA LUSO-BRASILEIRA DE CULTURA. Lisboa: Verbo, [s. d. p.]
+* GRANDE ENCICLOPÉDIA PORTUGUESA E BRASILEIRA. Lisboa/Rio de Janeiro: Editorial Enciclopédia, [s.d. p.].
+* LANZ, Rudolf. Noções Básicas de Antroposofia. 4. ed., São Paulo: Antroposófica, 1997.
 
 ## Fonte
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/antroposofia)  
 Autor: Sérgio Biagi Gregório
 
-
 ## Veja Também
-TODO
+* [Filosofia](../filosofia)
+* [Sócrates](../socrates)
+* [Platão](../platao)
+* [Filosofia Cristã](filosofia-crista)
+* [Filosofia da Religião](filosofia-da-religiao)
+* [Filosofia Espírita](filosofia-espirita)
+* [Filosofia Oriental](filosofia-oriental)
 

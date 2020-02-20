@@ -8,11 +8,10 @@ topics:
 * Qualidade atribuída a ações e obras humanas que lhes confere um caráter moral. 
 * Tudo que beneficia e auxilia o progresso do homem do ponto de vista moral. 
 * Favor, benefício.
-
-Do latim bene
+* Do latim bene
 
 ## Veja Também
-TODO
+* [Virtudes](/virtudes)
 
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
