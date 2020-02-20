@@ -15,7 +15,7 @@ atmosfera fluídica.
 
 Ver: [Lei de Afinidade Fluídica](/leis/afinidade-fluidica)
 
-## Relacionado
+## Veja Também
 Psicofonia
 
 ## Veja Também

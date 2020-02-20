@@ -189,7 +189,7 @@ KARDEC, A. O Livro dos Espíritos. 8. ed. São Paulo: Feesp, 1995.
 
 
 
-## Relacionado
+## Veja Também
 todo
 
 ## Veja Também

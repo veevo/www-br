@@ -14,7 +14,7 @@ vinculados com as sensações e os interesses materiais.
 ## Origem
 Do latim crusta
 
-## Relacionado
+## Veja Também
 Umbral  
 Trevas  
 

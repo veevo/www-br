@@ -12,7 +12,7 @@ topics:
 Princípio de tudo o que existe, constituído por Deus, Espírito e Matéria. Nada
 além disto existe no Universo. 
 
-## Relacionado
+## Veja Também
 Deus  
 Espirito
 Matéria

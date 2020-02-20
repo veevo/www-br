@@ -32,7 +32,7 @@ lisonjeia os gostos e os desejos.
 ## Origem
 Do latim possessu
 
-## Relacionado
+## Veja Também
 Possesao
 
 ## Veja Também

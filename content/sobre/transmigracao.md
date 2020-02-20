@@ -11,7 +11,7 @@ Ato ou efeito de transmigrar(-se), passar (o Espírito) de um corpo para outro.
 ## Origem
 Do latim trans + migratione
 
-## Relacionado
+## Veja Também
 Metempsicose
 Reencarnação
 

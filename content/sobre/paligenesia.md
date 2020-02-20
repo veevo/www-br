@@ -11,7 +11,7 @@ Renascimentos sucessivos dos mesmos indivíduos.
 ## Origem
 Do grego palin= repetição, de novo + genes(e)= nascimento
 
-## Relacionado
+## Veja Também
 Reencarnação
 
 ## Veja Também

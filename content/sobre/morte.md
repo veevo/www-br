@@ -110,7 +110,7 @@ Espiritismo. 22. ed. Rio de Janeiro: FEB, 1975.
 Autor: Sérgio Biagi Gregório
 
 
-## Relacionado
+## Veja Também
 [Desencarnação](../desencarnacao)
 
 ## Veja Também

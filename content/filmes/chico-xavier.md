@@ -33,5 +33,5 @@ irá agir no processo que pode condenar o responsável pela morte de Tomás.
 ## Veja Também
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 
-## Relacionado
+## Veja Também
 [IMDB | Chico Xavier](https://www.imdb.com/title/tt1234559/)

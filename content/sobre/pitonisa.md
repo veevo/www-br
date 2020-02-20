@@ -10,7 +10,7 @@ serpente Pitão que Apolo havia matado. A pítia dava os oráculos, mas, como el
 nem sempre eram inteligíveis, os sacerdotes se encarregavam de interpretá-los
 segundo as circunstâncias. 
 
-## Relacionado
+## Veja Também
 Sibila
 
 ## Veja Também

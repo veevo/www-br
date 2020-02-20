@@ -13,7 +13,7 @@ topics:
 ## Origem
 Do grego tuptó + logos + -ia
 
-## Relacionado
+## Veja Também
 Tiptólogo
 
 ## Veja Também

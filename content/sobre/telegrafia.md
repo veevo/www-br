@@ -20,7 +20,7 @@ humana será um privilégio das almas de escol.
 ## Origem
 do grego têle+graphé
 
-## Relacionado
+## Veja Também
 Telepatia
 
 ## Veja Também

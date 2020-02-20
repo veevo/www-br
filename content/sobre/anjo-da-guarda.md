@@ -9,7 +9,7 @@ topics:
 
 Ver: [Anjo Guardião](../anjo-guardiao)
 
-## Relacionado
+## Veja Também
 Anjo Guardião
 Benfeitor
 

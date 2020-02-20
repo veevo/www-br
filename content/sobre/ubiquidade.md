@@ -12,7 +12,7 @@ tempo.
 ## Origem
 Do latim ubique + -idade
 
-## Relacionado
+## Veja Também
 Bicorporeidade
 
 ## Veja Também

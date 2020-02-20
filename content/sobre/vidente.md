@@ -15,7 +15,7 @@ mundo espiritual.
 ## Origem
 do latim vidente
 
-## Relacionado
+## Veja Também
 Mediunidade
 Medium
 Espirito

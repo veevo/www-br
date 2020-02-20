@@ -8,7 +8,7 @@ topics:
 Ver: [Perispirito](../perispirito).
 
 
-## Relacionado
+## Veja Também
 [Perispirito](../perispirito)
 [Corpo Físico](../corpo-fisico)
 

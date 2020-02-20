@@ -70,7 +70,7 @@ de fato estiver necessitando dela. Tudo em excesso faz mal, não é mesmo.
 Mediunidade Sem Preconceito  
 Autor: Edvaldo Kulcheski
 
-## Relacionado
+## Veja Também
 [Água magnetizada](../agua-magnetizada)
 do
 

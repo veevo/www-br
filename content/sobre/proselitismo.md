@@ -14,7 +14,7 @@ topics:
 ## Origem
 De prosélito
 
-## Relacionado
+## Veja Também
 Prosélito
 
 ## Veja Também

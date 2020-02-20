@@ -12,7 +12,7 @@ topics:
 ## Fonte
 [O Consolador - Vocabulário](http://www.oconsolador.com.br/linkfixo/vocabulario/principal.html)
 
-## Relacionado
+## Veja Também
 Deus
 Providencia Divina
 

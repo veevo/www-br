@@ -13,7 +13,7 @@ Ver: [Proselitismo](../proselitismo)
 ## Origem
 do grego prosélytos
 
-## Relacionado
+## Veja Também
 [Proselitismo](../proselitismo)
 
 ## Veja Também

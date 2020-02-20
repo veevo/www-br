@@ -25,5 +25,5 @@ está machucada emocionalmente devido à infidelidade do marido.
 ## Veja Também
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 
-## Relacionado
+## Veja Também
 [IMDB | E a Vida Continua...](https://www.imdb.com/title/tt2366794/)

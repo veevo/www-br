@@ -65,7 +65,7 @@ TODO
 ## Origem
 Do latim fatalitate
 
-## Relacionado
+## Veja Também
 Livre-arbítrio
 
 ## Veja Também

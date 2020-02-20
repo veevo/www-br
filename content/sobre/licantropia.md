@@ -12,7 +12,7 @@ topics:
 ## Origem
 Do grego lykanthropía
 
-## Relacionado
+## Veja Também
 Licantropo [do grego lykaánthropos] – 1. Alienado que sofre de licantropia.. 2. Por extensão, Lobisomen.
 
 ## Veja Também

@@ -12,7 +12,7 @@ de sua própria alma.
 ## Origem
 Do latim mediu + anima + -ico
 
-## Relacionado
+## Veja Também
 Medium
 Mediunidade
 

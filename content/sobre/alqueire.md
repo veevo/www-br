@@ -76,7 +76,7 @@ deste tema.
 Autor: Sérgio Biagi Gregório
 
 
-## Relacionado
+## Veja Também
 Alqueire
 
 ## Veja Também

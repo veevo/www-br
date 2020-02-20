@@ -27,6 +27,6 @@ médiuns mais importantes de todos os tempos.
 [Biografia - Divaldo Franco](/bio/divaldo-franco)  
 [Biografia - Joanna de Angelis](/bio/joanna-de-angelis)  
 
-## Relacionado
+## Veja Também
 [IMDB | Divaldo - O Mensageiro da Paz](https://www.imdb.com/title/tt10278930/)  
 [Wikipedia | Divaldo Franco](https://pt.wikipedia.org/wiki/Divaldo_Pereira_Franco)  

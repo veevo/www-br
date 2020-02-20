@@ -33,5 +33,5 @@ sua obra.
 ## Veja Também
 [Biografia - Bezerra de Menezes](/bio/bezerra-de-menezes)
 
-## Relacionado
+## Veja Também
 [IMDB | Bezerra de Menezes](https://www.imdb.com/title/tt1882041/)

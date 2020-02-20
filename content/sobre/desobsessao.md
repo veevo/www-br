@@ -16,7 +16,7 @@ topics:
 ## Origem
 Do latim des- + obsessione
 
-## Relacionado
+## Veja Também
 Obsessão
 
 ## Veja Também

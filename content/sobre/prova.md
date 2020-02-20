@@ -26,7 +26,7 @@ retarda.
 ## Origem
 Do latim proba
 
-## Relacionado
+## Veja Também
 Expiação
 
 ## Veja Também

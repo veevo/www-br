@@ -14,7 +14,7 @@ topics:
 ## Origem
 Do grego kánon= regra, do latim canon
 
-## Relacionado
+## Veja Também
 Cânone [do grego kánon= regra, do latim canon] - Variante de cânon.
 
 ## Veja Também

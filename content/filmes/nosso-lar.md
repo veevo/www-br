@@ -39,5 +39,5 @@ todos".
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 [Wikipedia | Nosso Lar (o filme)](https://pt.wikipedia.org/wiki/Nosso_Lar_(filme))  
 
-## Relacionado
+## Veja Também
 [IMDB | Nosso Lar](https://www.imdb.com/title/tt1467388/)  

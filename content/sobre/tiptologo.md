@@ -14,7 +14,7 @@ Ver: [Tiptologia](../tiptologia)
 ## Origem
 Do grego tuptó= eu bato
 
-## Relacionado
+## Veja Também
 [Tiptologia](../tiptologia)
 
 ## Veja Também

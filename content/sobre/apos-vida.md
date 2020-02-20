@@ -11,7 +11,7 @@ Após-vida é o termo dado ao período pós-desencarnação e entre encaranaçõ
 
 Ver: [Erraticidade](../erraticidade).
 
-## Relacionado
+## Veja Também
 Encarnação
 Desencarnação
 [Erraticidade](../erraticidade)

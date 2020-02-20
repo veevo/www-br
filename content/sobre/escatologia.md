@@ -20,7 +20,7 @@ realizou na justiça e no amor. [1]
 Autor: Sérgio Biagi Gregório 
 São Paulo, outubro de 2008
 
-## Relacionado
+## Veja Também
 [Fim do Mundo](../fim-do-mundo)
 
 ## Veja Também

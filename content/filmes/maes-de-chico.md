@@ -26,5 +26,5 @@ procurar a ajuda do médium Chico Xavier
 ## Veja Também
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 
-## Relacionado
+## Veja Também
 [IMDB | As Mães de Chico Xavier](https://www.imdb.com/title/tt1882041/)

@@ -28,5 +28,5 @@ filhos, entre Chico e essas mães e seus filhos, entre o público e o filme.
 ## Veja Também
 [Biografia - Chico Xavier](/bio/chico-xavier)  
 
-## Relacionado
+## Veja Também
 [IMDB | As Cartas Psicografadas de Chico Xavier](https://www.imdb.com/title/tt2160085/)

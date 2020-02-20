@@ -17,7 +17,7 @@ e manifestar sua presença. A invocação não é dirigida senão aos seres que
 supomos bastante elevados para nos assistir. Evocam-se tantos os Espíritos
 inferiores como os superiores.
 
-## Relacionado
+## Veja Também
 Evocação
 
 ## Veja Também

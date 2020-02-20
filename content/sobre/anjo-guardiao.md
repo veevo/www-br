@@ -87,7 +87,7 @@ Tradução de Daniel Vieira. São Paulo: Makron Books, 1999.
 ## Fonte
 [Aprofundamento Doutrinário](https://sites.google.com/view/aprofundamentodoutrinario/anjos-da-guarda)  
 Autor: Sérgio Biagi Gregório
-## Relacionado
+## Veja Também
 Benfeitor
 Anjo da Guarda
 

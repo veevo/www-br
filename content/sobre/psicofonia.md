@@ -13,7 +13,7 @@ Comunicação dos Espíritos pela voz de um médium falante.
 ## Origem
 Do grego psyké= borboleta, alma + phoné= som, voz + -ia
 
-## Relacionado
+## Veja Também
 Incorporação
 
 ## Veja Também

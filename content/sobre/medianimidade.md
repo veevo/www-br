@@ -15,7 +15,7 @@ medianimidade, um sentido mais restrito.
 ## Origem
 Do latim mediu + anima + -idade
 
-## Relacionado
+## Veja Também
 Médium
 Mediunidade
 

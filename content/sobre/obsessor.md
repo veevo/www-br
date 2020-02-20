@@ -12,7 +12,7 @@ ou importuna, em virtude da sintonia moral estabelecida. Sinônimo de Obsidiante
 ## Origem
 Do latim obsessore
 
-## Relacionado
+## Veja Também
 Obsessão
 
 ## Veja Também

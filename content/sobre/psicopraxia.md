@@ -14,7 +14,7 @@ Espírito através do corpo de um médium.
 ## Origem
 Do grego psyché= espírito + práxis= ação
 
-## Relacionado
+## Veja Também
 Incorporação
 
 ## Veja Também

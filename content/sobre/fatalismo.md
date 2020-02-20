@@ -14,7 +14,7 @@ fatos da vida.
 ## Origem
 Do latim fatale + -ismo
 
-## Relacionado
+## Veja Também
 Livre-arbítrio.
 
 ## Veja Também

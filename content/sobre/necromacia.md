@@ -13,7 +13,7 @@ Ver: Quiromancia e Cartomancia.
 ## Origem
 Do grego nekros= morte + mantéia= adivinhação
 
-## Relacionado
+## Veja Também
 Quiromancia
 Cartomancia
 

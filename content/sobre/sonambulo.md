@@ -11,7 +11,7 @@ sono.
 ## Origem
 Do francês somnambule
 
-## Relacionado
+## Veja Também
 Noctâmbulo.
 
 ## Veja Também

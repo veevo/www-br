@@ -23,7 +23,7 @@ morais da alma no estado errante.
 Do latim purgatorium= efeito de purgare= purgar; raiz purus= puro,
 que se derivado do grego pyr, pyrus= fogo, antigo emblema da purificação
 
-## Relacionado
+## Veja Também
 Umbral
 
 ## Veja Também

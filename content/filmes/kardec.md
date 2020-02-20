@@ -22,5 +22,5 @@ esposa Amélie-Gabrielle Boudet.
 [Biografia - Allan Kardec](/bio/allan-kardec)  
 [Amélie-Gabrielle Boudet](/bio/amelie-boudet)  
 
-## Relacionado
+## Veja Também
 [IMDB | Kardec](https://www.imdb.com/title/tt9213932/)

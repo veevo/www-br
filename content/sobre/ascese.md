@@ -12,7 +12,7 @@ moral.
 ## Origem
 Do grego áskesis
 
-## Relacionado
+## Veja Também
 Asceta [do grego asketes] - Pessoa que se consagra à ascese.  
 Ascetismo - [do grego áskesis + -ismo] - Doutrina que considera a ascese como o essencial da vida moral  
 

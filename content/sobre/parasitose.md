@@ -14,7 +14,7 @@ Vampirismo.
 ## Origem
 Do grego parásitos e do latim parasitu
 
-## Relacionado
+## Veja Também
 Obsessao
 Vampirismo
 
