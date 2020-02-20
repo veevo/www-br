@@ -1,5 +1,5 @@
 ---
-title: Francois Fenelon
+title: François Fénelon
 date: 2019-02-01 19:00:00
 topics:
 - espiritismo
@@ -127,5 +127,17 @@ dando seu especial contributo, eis que foi convidado pelo Espírito da Verdade a
 compor sua equipe, em tão grandioso empreendimento.
 
 ## Fonte
-[FEB / Revista Delfos Nº 9 (Ed. Boa Nova)](https://www.febnet.org.br/wp-content/uploads/2012/06/Francois-de-Fenelon.pdf)
+* [FEB / Revista Delfos Nº 9 (Ed. Boa Nova)](https://www.febnet.org.br/wp-content/uploads/2012/06/Francois-de-Fenelon.pdf)
 
+## Veja Também
+* [Erasto](../erasto)
+* [Emmanuel](../emmanuel)
+* [Chico Xavier](../chico-xavier)
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Léon Denis](../leon-denis)
+* [Gabriel Delanne](../gabriel-delanne)
+* [Ermance Dufaux](../ermance-dufaux)
+* [Camille Flammarion](../camille-flamarion)
+
+## Leitura Recomendada
+* [O Espírito de Verdade](/sobre/espirito-de-verdade)

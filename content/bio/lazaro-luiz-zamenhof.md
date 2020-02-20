@@ -4,6 +4,8 @@ date: 2019-02-01 19:00:00
 topics: 
 - polonia
 - esperanto
+- moscou
+- russia
 ---
 
 Lázaro Luiz Zamenhof (ou Ludwik Lejzer Zamenhof) nasceu em 15 de dezembro de
@@ -75,4 +77,4 @@ fraternidade universal.
 * Site EBiografia.
 
 ## Fonte
-[União Espírita Mineira (UEM)](https://www.uemmg.org.br/biografias/lazaro-luiz-zamenhof)
+* [União Espírita Mineira (UEM)](https://www.uemmg.org.br/biografias/lazaro-luiz-zamenhof)

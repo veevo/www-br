@@ -4,6 +4,8 @@ date: 2019-02-01 19:00:00
 topics: 
 - portugal
 - minas-gerais
+- espiritismo
+- brasil
 ---
 
 Nascido no dia 30 de dezembro de 1877, na antiga cidade de Conceição do Turvo,
@@ -104,5 +106,7 @@ favor da sua divulgação, principalmente no Estado de Minas Gerais.
 [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/abelgomes.html)
 
 ## Veja Também
-TODO
-
+* [Chico Xavier](../chico-xavier)
+* [Bezerra de Menezes](../bezerra-de-menezes)
+* [Eurípedes Barsanulfo](../euripedes-barsanulfo)
+* [Bittencourt Sampaio](../bittencourt-sampaio)

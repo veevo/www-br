@@ -7,6 +7,7 @@ topics:
 - joana-darc
 - medium
 - psicografia
+- livro-dos-espiritos
 ---
 
 Ermance De La Jonchére Dufaux nasceu em 1841, na cidade de Fontainebleau,
@@ -140,7 +141,7 @@ finalmente publicada pela revista La Verité de Paris em 1864. No início de 199
 a editora brasileira Edições LFU traduziu "A história de Joana D'Arc" para o
 português.
 
-### NOTAS
+## NOTAS
 (1) Rei francês, filho de Luís VIII e Branca de Castela, nascido em 1215,
 coroado em 1226 e morto em 1270. Luís IX teve um reinado bastante conturbado.
 Até 1236 enfrentou a Revolta dos Vassalos e a Guerra dos Albigenses. Venceu duas
@@ -162,5 +163,12 @@ canonizado pela Igreja em 1297.
 * COLEÇÃO DA REVISTA ESPÍRITA, Allan Kardec, EDICEL, São Paulo.
 
 ## Fonte
-[FEB](https://www.febnet.org.br/ba/file/Pesquisa/Textos/Ermance%20Dufaux.pdf)
+* [FEB](https://www.febnet.org.br/ba/file/Pesquisa/Textos/Ermance%20Dufaux.pdf)
+
+## Veja Também
+* [Amélie Gabrielle Boudet](../amelie-gabrielle-boudet)
+* [Léon Denis](../leon-denis)
+* [Gabriel Delanne](../gabriel-delanne)
+* [Ermance Dufaux](../ermance-dufaux)
+* [Joanna D'arc](../joanna-darc)
 

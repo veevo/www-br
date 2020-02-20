@@ -2,7 +2,9 @@
 title: Hernani Guimarães Andrade
 date: 2019-02-01 19:00:00
 topics: 
-
+- sao-paulo
+- brasil
+- espiritismo
 ---
 
 Nascido no Brasil, em 1913, Hernani Guimarães Andrade se formou em engenharia
@@ -75,12 +77,11 @@ prolongado com um professor e amigo incomparáveis. Isso continuou através de
 correspondência até pouco antes de sua morte.
 
 ## Referências
-Guy Lyon Playfair, Journal of the Society for Psychica.
-Research, October 2003, Vol. 67.4, No. 873. Published on this website with the author’s and Editor’s permission.
-http://www.survivalafterdeath.org/researchers/andrade.ht.
+* Guy Lyon Playfair, Journal of the Society for Psychica.
+* Research, October 2003, Vol. 67.4, No. 873. Published on this website with the author’s and Editor’s permission.
+* http://www.survivalafterdeath.org/researchers/andrade.ht.
 
 ## Source
-[SGNY.org](//sgny.org)
-Traduzido por Veevo.org
+* [SGNY.org](//sgny.org), traduzido por Veevo.org
 
 

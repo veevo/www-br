@@ -95,6 +95,9 @@ no universo. Seu nome brilha entre os estudiosos do Espiritismo como os sóis qu
 pesquisou, e, não há névoa por mais espessa, que um dia lhe venha a ofuscar a
 magnitude.
 
+
+## Perguntas Relacionadas
+
 ### Que tipo de atividade desenvolvia?
 Fez estudos no Observatório de Paris. Para conhecer a direção das
 correntes aéreas, realizou, no ano de 1868, algumas ascensões
@@ -127,17 +130,19 @@ Delanne, a estrada científica; à Gabriel Delanne, a abertura da cortina
 dos mundos. (3)
 
 ## Referências Biliográficas
-(1) BODIER, Paul e REGNAULT, Henri. Gabriel Delanne: Sua Vida, seu
-Apostolado. Rio de Janeiro: C. E. Léon Denis, 1988.
-
-(2) GODOY, Paulo Alves. Grandes Vultos do Espiritismo. São Paulo: FEESP.
-
-(3) XAVIER, F. C. Brasil, Coração do Mundo, Pátria do Evangelho, pelo
-Espírito Humberto de Campos. 11. ed. Rio de Janeiro: FEB, 1977.
+* (1) BODIER, Paul e REGNAULT, Henri. Gabriel Delanne: Sua Vida, seu Apostolado. Rio de Janeiro: C. E. Léon Denis, 1988.
+* (2) GODOY, Paulo Alves. Grandes Vultos do Espiritismo. São Paulo: FEESP.
+* (3) XAVIER, F. C. Brasil, Coração do Mundo, Pátria do Evangelho, pelo Espírito Humberto de Campos. 11. ed. Rio de Janeiro: FEB, 1977.
 
 ## Fonte
-[O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/camilleflammarion.html)
+* Biografia: [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/camilleflammarion.html)
+* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
 
-## Leitura Recomendada
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
+## Veja Também
+* [Allan Kardec](../allan-kardec)
+* [Léon Denis](../leon-denis)
+* [Gabriel Delanne](../gabriel-delanne)
+* [Ermance Dufaux](../ermance-dufaux)
+* [Camille Flammarion](../camille-flamarion)
+* [Fénelon](../fenelon)
 

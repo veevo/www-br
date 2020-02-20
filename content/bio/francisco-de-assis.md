@@ -177,4 +177,12 @@ Paulo II proclamou-o Santo Patrono dos Ecologistas. 
 * Vídeo sobre a Biografia de Francisco de Assis, pela FEBtv;
 
 ## Fonte
-[União Espírita Mineira (UEM)](https://www.uemmg.org.br/biografias/francisco-de-assis)
+* [União Espírita Mineira (UEM)](https://www.uemmg.org.br/biografias/francisco-de-assis)
+
+## Veja Também
+* [Jesus](/sobre/jesus)
+* [O Espírito de Verdade](/sobre/espirito-de-verdade)
+* [Allan Kardec](../allan-kardec)
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Emmanuel](../emmanuel)
+* [Ismael](../ismael)

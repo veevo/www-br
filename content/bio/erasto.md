@@ -345,19 +345,26 @@ Kleber Halfeld - Reformador(FEB), pág. 304
 Outubro 1993  
 
 ## Referencias
-[1] 4:17
-[2] 1:2
-[3] 19:22
-[4] 4:20
-[5] 16:23
-[6] Hermínio de Miranda em sua obra “A Memória e o Tempo”, no Capítulo IV -
-Visão Retrospectiva -, (segmento Paracelso, o médico maldito, editora EDICEL)
-escreve: “Voltaria (Paracelso) em outra vida, mais tarde, desta vez como Samuel
-Hahnemann, o criador da Homeopatia. A informação é do próprio que, na condição
-de Espírito desencarnado, ditou à Madame W. Krell, em março de 1875, uma
-mensagem sob o título: “Ao cavouqueiro, a terra; à inteligência, a cabeça”.
-Assinou-a : “Hahnemann, autrefois Paracelse”. (Outrora Paracelso).”(...)  
-[7]  Esclarece Kardec que o médium do qual se serviu o Espírito Erasto era o
-Sr. d’Ambel. Acrescenta ainda que esse Espírito era, igualmente, o guia do
-médium.
+* [1] 4:17
+* [2] 1:2
+* [3] 19:22
+* [4] 4:20
+* [5] 16:23
+* [6] Hermínio de Miranda em sua obra “A Memória e o Tempo”, no Capítulo IV -
+  Visão Retrospectiva -, (segmento Paracelso, o médico maldito, editora EDICEL)
+  escreve: “Voltaria (Paracelso) em outra vida, mais tarde, desta vez como
+  Samuel Hahnemann, o criador da Homeopatia. A informação é do próprio que, na
+  condição de Espírito desencarnado, ditou à Madame W. Krell, em março de 1875,
+  uma mensagem sob o título: “Ao cavouqueiro, a terra; à inteligência, a
+  cabeça”.  Assinou-a : “Hahnemann, autrefois Paracelse”. (Outrora
+  Paracelso).”(...)
+* [7] Esclarece Kardec que o médium do qual se serviu o
+  Espírito Erasto era o Sr. d’Ambel. Acrescenta ainda que esse Espírito era,
+  igualmente, o guia do médium.
 
+## Veja Também
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Emmanuel](../emmanuel)
+* [Léon Denis](../leon-denis)
+* [Chico Xavier](../chico-xavier)
+* [Fenelon](../fenelon)

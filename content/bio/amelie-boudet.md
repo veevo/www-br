@@ -353,8 +353,11 @@ belas nos conceitos, tinham ainda um sopro de imortalidade e comprovavam que a
 vida continua... 
 
 ## Fonte
-[O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/amelieboudet.html)
+[O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/amelieboudet.html)
 
-## Perfis Relacionados
-[Allan Kardec](../allan-kardec)
+## Veja Também
+* [Allan Kardec](../allan-kardec)
+* [Léon Denis](../leon-denis)
+* [Gabriel Delanne](../gabriel-delanne)
+* [Ermance Dufaux](../ermance-dufaux)
 

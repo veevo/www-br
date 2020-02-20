@@ -31,12 +31,12 @@ Dentre seus vários livros, podemos citar:
 * A sublime oração de Francisco de Assis
 * Psicoterapia à luz do Evangelho de Jesus
 
-## Perfis Relacionados
-* [Divaldo Franco](../divaldo-franco)  
-* [Afro Stefanini II](../afro-stefanini) 
-* [Espírito Honório](../honorio)  
-* [Espírito Joanna de Angelis](../joanna-de-angelis)  
-
 ## Veja Também
+* [Divaldo Franco](../divaldo-franco)  
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Honório](../honorio)  
+* [Afro Stefanini II](../afro-stefanini) 
+
+## Leitura Recomendada
 * [Espiritismo](/espiritismo)  
 * [Projeto Espiritizar](/sobre/espiritizar)  

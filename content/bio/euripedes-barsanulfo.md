@@ -7,6 +7,7 @@ topics:
 - minas-gerais
 - bezerra-de-menezes
 - mediunidade
+- cura-espiritual
 ---
 
 Nascido em 1° de maio de 1880, na pequena cidade de Sacramento, Estado de Minas
@@ -140,10 +141,6 @@ terrena. Esgotado pelo esforço despendido, desencarnou no dia 1° de novembro d
 Sacramento em peso, em verdadeira romaria, acompanhou-lhe o corpo até a
 sepultura, sentindo que ele ressurgia para uma vida mais elevada e mais sublime
 
-## Fonte
-[O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/euripedesbarsanulfo.html)
-
-
 ## Perguntas Relacionadas
 
 ### Quais são os seus dados pessoais?
@@ -206,12 +203,22 @@ pelo Reverendo, reduzindo-o à insignificância dos seus parcos
 conhecimentos.
 
 ### Bibliografia
-NOVELINO, CORINA. Eurípedes, o Homem e a Missão. 3.ed., Araras/SP,
-IDE, 1979.
+* NOVELINO, CORINA. Eurípedes, o Homem e a Missão. 3.ed., Araras/SP, IDE, 1979.
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/barsanulfo-eurípedes)  
-Autor: Sérgio Biagi Gregório
+* Biografia: [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/euripedesbarsanulfo.html)
+* Perguntas e Respostas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/barsanulfo-eurípedes), Sérgio Biagi Gregório
 
-
+## Veja Também
+* [Bezerra de Menezes](../bezerra-de-menezes)
+* [Bittencourt Sampaio](../bittencourt-sampaio)
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Emmanuel](../emmanuel)  
+* [Andre Luis](../andre-luis)   
+* [Chico Xavier](../chico-xavier)
+* [Divaldo Franco](../divaldo-franco)
+* [Humberto de Campos](../humberto-de-campos)
+* [Léon Denis](../leon-denis)
+* [Allan Kardec](../allan-kardec)
+* [Honório](../honorio)  
 

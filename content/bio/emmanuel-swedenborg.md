@@ -6,6 +6,10 @@ topics:
 - igreja
 - swedenborg
 - suecia
+- inglaterra
+- ciencia
+- filosofia
+- cristianismo
 ---
 
 Apesar de seu impacto óbvio, o nome de Swedenborg ainda não é bem conhecido três
@@ -41,7 +45,8 @@ Uma biografia de Swedenbord e uma lista cronológica de suas principais obras s�
 incluído nesta antologia porque um conhecimento do homem ea substância de seus
 escritos podem fornecer alguma visão sobre a persistência de sua influência.
 
-Histórico Emanuel Nasceu em Estocolmo em 29 de janeiro de 1688 . No época de seu
+## Biografia
+Emanuel Nasceu em Estocolmo em 29 de janeiro de 1688 . No época de seu
 nascimento, o século de expansão da Suécia estava chegando ao fim. Em afirmando
 sua independência durante este século, o reino sueco tornou-se mais
 economicamente e politicamente integrado à órbita cultural da Europa. O grande
@@ -78,21 +83,23 @@ interesses de mineração. Notado por o Rei no início de sua carreira enquanto
 servindo na posição de capelão de sua guardas de cavalos em Estocolmo, em 1702,
 Swedberg foi elevado ao posto de Bispo de Skara, tendo servido em Uppsala como
 professor de teologia e Reitor e Reitor da Catedral nesse ínterim. Ele
-permaneceu em Skara até sua morte em
-1735. Seu mandato em Skara é lembrado hoje por causa de seu profundo interesse
-	  em Educação. Apesar de sua proeminência, Swedberg permaneceu fora da
-	  Igreja estrutura formal de poder e inocente de sua ideologia oficial de fé
-	  sozinho.  Ao longo de sua longa e próspera vida, Swedberg nunca abandonou
-	  o perspectiva e sensibilidades de sua educação rural inicial com sua
-	  ênfase em o sobrenatural, piedade, e boas obras.
+permaneceu em Skara até sua morte em 1735. 
 
-Início da Vida Emanuel foi o terceiro de nove filhos e o segundo filho nascido
-Jesper e Sarah Behm Swedberg. Enquanto vivia em Uppsala, em 1696, Swedenbord de
-repente perdeu sua mãe e seu irmão mais velho Albert em uma epidemia. Um ano
-mais tarde, Swedberg se casou pela segunda vez. Sua nova esposa era Sarah
-Bergia, um viúva rica, que também tinha interesses de mineração. Ela parece ter
-sido particularmente afeiçoado a Emanuel e após sua morte em 1720, ele herdou
-metade dos sua propriedade, Starbo, e uma fortuna modesta.
+Seu mandato em Skara é lembrado hoje por causa de seu profundo interesse em
+Educação. Apesar de sua proeminência, Swedberg permaneceu fora da Igreja
+estrutura formal de poder e inocente de sua ideologia oficial de fé sozinho.  Ao
+longo de sua longa e próspera vida, Swedberg nunca abandonou o perspectiva e
+sensibilidades de sua educação rural inicial com sua ênfase em o sobrenatural,
+piedade, e boas obras.
+
+## Início da Vida 
+Emanuel foi o terceiro de nove filhos e o segundo filho nascido Jesper e Sarah
+Behm Swedberg. Enquanto vivia em Uppsala, em 1696, Swedenbord de repente perdeu
+sua mãe e seu irmão mais velho Albert em uma epidemia. Um ano mais tarde,
+Swedberg se casou pela segunda vez. Sua nova esposa era Sarah Bergia, um viúva
+rica, que também tinha interesses de mineração. Ela parece ter sido
+particularmente afeiçoado a Emanuel e após sua morte em 1720, ele herdou metade
+dos sua propriedade, Starbo, e uma fortuna modesta.
 
 Swedenbord escreveu muito pouco sobre sua vida inicial, e exceto para o
 seguindo, que foi escrito em uma carta para um amigo em 1769, o que pouco mais é
@@ -167,8 +174,7 @@ das críticas que seu método recebeu, ele continuou a ter confiança em sua ide
 talvez porque o problema não foi finalmente resolvido até a década de 1740,
 "quando John Harrison aperfeiçoou um cronômetro, usado com sucesso por James
 Cook." Swedenborg publicou seu método em 1718 e novamente em 1769. No momento de
-sua segunda publicação, ele apresentou seu método à Royal Society na Inglaterra
-.
+sua segunda publicação, ele apresentou seu método à Royal Society na Inglaterra.
 
 Swedenbord permaneceu no exterior até 1715, passando um tempo considerável na
 Holanda e França absorvendo novos conhecimentos, e tempo na cidade alemã de
@@ -647,14 +653,18 @@ Swedenbord deixou a Holanda e foi para a Inglaterra. Ele sofreu um derrame em
 dezembro de 1771 e morreu em 29 de março de 1772.
 
 ## Referências
-Jane K. Williams-Hogan, Ph.D. Bryn Athyn College of the New Church
-Spiritist Group of New York, Aug 2002  
-Great Exponents of Spiritism  
+* Jane K. Williams-Hogan, Ph.D. Bryn Athyn College of the New Church Spiritist Group of New York, Aug 2002  
+* Great Exponents of Spiritism  
 
 ## Fonte
-[SGNY.org](//sgny.org)  
-Traduzido por Veevo.org
+* [SGNY.org](//sgny.org), traduzido por Veevo.org
 
-
+## Veja Também
+* [Allan Kardec](../allan-kardec)
+* [Léon Denis](../leon-denis)
+* [Gabriel Delanne](../gabriel-delanne)
+* [Ermance Dufaux](../ermance-dufaux)
+* [Camille Flammarion](../camille-flamarion)
+* [Fénelon](../fenelon)
 
 

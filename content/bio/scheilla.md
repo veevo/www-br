@@ -95,8 +95,7 @@ aviação. Ela e meu pai desencarnaram. Dias depois, para agradável surpresa da
 equipe, materializou-se uma jovem loura e disse: − Eu sou Scheilla. Foi muita
 alegria! Os irmãos ficaram cheios de júbilos espirituais.
 
-* Rodolfo, nas primeiras vezes em que psicografou mensagens, assinava O
-  Fuzilado.
+Rodolfo, nas primeiras vezes em que psicografou mensagens, assinava O Fuzilado.
 
 ## Obras
 * "A Mensagem do Dia" (psicografia de Clayton B. Levy)  
@@ -107,6 +106,6 @@ alegria! Os irmãos ficaram cheios de júbilos espirituais.
 * "Superando Desafios" (psicografia de Jairo Avellar)  
 
 ## Source
-[O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/scheilla.html)
+* [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/scheilla.html)
 
 

@@ -232,6 +232,15 @@ não apenas a educação convencional.
   Polinésia, Nova Zelândia.
 
 ## Fonte
-[O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/divaldofranco.html)
+* [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/divaldofranco.html)
 
+## Veja Também
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Emmanuel](../emmanuel)
+* [Chico Xavier](../chico-xavier)
+* [Humberto de Campos](../humberto-de-campos)
+* [Léon Denis](../leon-denis)
+* [Allan Kardec](../allan-kardec)
+* [Hermínio C. Miranda](../herminio-miranda)
+* [Herculano Pires](../herculano-pires)
 

@@ -25,12 +25,12 @@ de Milagres e Prodígios”, livro editado pela Federação Espírita Brasileira
 vivência na Sé de Lisboa foi muito importante para a aquisição de conhecimentos
 e ainda para a percepção dos valores que animam seu coração.
 
-	“Esboçadas no seu espírito as primeiras lutas que deviam marcar o início da
-	missão que trouxera, decidiu-se entrar, em 1211, para o convento dos frades
-	agostinhos, em São Vicente de Fora, onde pouco permaneceu, porque seu feitio
-	moral não se coadunava com as perturbações que o importunavam e impediam de
-	estudar e concentrar-se, motivando transferir-se para o retiro de Coimbra,
-	em 1212”.
+> “Esboçadas no seu espírito as primeiras lutas que deviam marcar o início da
+missão que trouxera, decidiu-se entrar, em 1211, para o convento dos frades
+agostinhos, em São Vicente de Fora, onde pouco permaneceu, porque seu feitio
+moral não se coadunava com as perturbações que o importunavam e impediam de
+estudar e concentrar-se, motivando transferir-se para o retiro de Coimbra,
+em 1212”.
 
 Em Coimbra teve a oportunidade de aprofundar nos conhecimentos de filosofia e
 teologia. Nesse momento, pode aprimorar suas faculdades mediúnicas que o
@@ -129,17 +129,20 @@ milagreiro. 2 que ou aquele que adivinha; visionário.
 excessivamente elogiosa.
 
 ## Referências Bibliográficas
-KARDEC, Allan. O livro dos médiuns. Federação Espírita Brasileira.
- 
-CASTRO, Almerindo Martins de. Antônio de Pádua — Sua Vida de Milagres e
-Prodígios. 7ª edição, Federação Espírita Brasileira, 1987. 
-
-VAINFAS, Ronaldo. Santo Antônio na América Portuguesa: religiosidade e política.
-REVISTA USP, São Paulo, n.57, p. 28-37, março/maio 2003 (disponível em:
-http://www.revistas.usp.br/revusp/article/viewFile/33831/36564) 
-
-VIEIRA, Antônio, SJ. Santo Antônio, Luz do Mundo (nove sermões). Organização,
-introdução e notas de frei Clarêncio Neotti, OFM. Petrópolis, Vozes, 1997.
+* KARDEC, Allan. O livro dos médiuns. Federação Espírita Brasileira.
+* CASTRO, Almerindo Martins de. Antônio de Pádua — Sua Vida de Milagres e Prodígios. 7ª edição, Federação Espírita Brasileira, 1987. 
+* VAINFAS, Ronaldo. Santo Antônio na América Portuguesa: religiosidade e política.
+* [REVISTA USP](http://www.revistas.usp.br/revusp/article/viewFile/33831/36564) São Paulo, n.57, p. 28-37, março/maio 2003. 
+* VIEIRA, Antônio, SJ. Santo Antônio, Luz do Mundo (nove sermões). Organização, introdução e notas de frei Clarêncio Neotti, OFM. Petrópolis, Vozes, 1997.
 
 ## Fonte
-[União Espírita Mineira (UEM)](https://www.uemmg.org.br/biografias/antonio-de-padua)
+* [União Espírita Mineira (UEM)](https://www.uemmg.org.br/biografias/antonio-de-padua)
+
+## Veja Também
+* [Jesus](/sobre/jesus)
+* [Francisco de Assis](../francisco-de-assis)
+* [O Espírito de Verdade](/sobre/espirito-de-verdade)
+* [Allan Kardec](../allan-kardec)
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Emmanuel](../emmanuel)
+* [Ismael](../ismael)

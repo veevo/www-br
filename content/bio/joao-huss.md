@@ -52,11 +52,8 @@ religiosos.
 ## Fonte
 * [CEIsmael](http://www.ceismael.com.br/bio/biografia-joao-huss.htm)
 
-## Bibliografias Relacionaas
+## Veja Também
 * [Allan Kardec](/bio/allan-kardec)
 * [Espírito de Verdade](/sobre/espirito-de-verdade)
-* [Espírito Joanna de Angelis](../joanna-de-angelis)  
-
-## Veja Também
-[Espiritismo](/espiritismo)  
-[Projeto Espiritizar](/sobre/espiritizar)  
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Espiritismo](/espiritismo)  

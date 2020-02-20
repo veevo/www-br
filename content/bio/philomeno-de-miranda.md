@@ -137,5 +137,11 @@ passagem pela Terra.
 * “O Espírita Mineiro”, nº 288, nov./dez./2005.
 
 ## Fonte
-[União Espírita Mineira (UEM)](https://www.uemmg.org.br/biografias/manoel-philomeno-de-miranda)
+* [União Espírita Mineira (UEM)](https://www.uemmg.org.br/biografias/manoel-philomeno-de-miranda)
 
+## Veja Também
+* [Divaldo Franco](../divaldo-franco)
+* [Chico Xavier](../chico-xavier)
+* [Bezerra de Menezes](../bezerra-de-menezes)
+* [Eurípedes Barsanulfo](../euripedes-barsanulfo)
+* [Bittencourt Sampaio](../bittencourt-sampaio)

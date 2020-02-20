@@ -150,6 +150,13 @@ O Mistério de Edwin Drood (de Charles Dickens, com final psicografado por
 Thomas P. James); e Processo dos Espíritas (de Madame Pierre-Gaëtan Leymarie).
 
 ## Fonte
-[Espirinet: Herminio C. Miranda](http://www.espiritnet.com.br/Biografias/biohermi.htm)
-Autor: Wilson Garcia
+* [Espirinet: Herminio C. Miranda](http://www.espiritnet.com.br/Biografias/biohermi.htm), Wilson Garcia
+
+## Veja Também
+* [Humberto de Campos](../humberto-de-campos)
+* [Léon Denis](../leon-denis)
+* [Chico Xavier](../chico-xavier)
+* [Divaldo Franco](../divaldo-franco)
+* [Hermínio C. Miranda](../herminio-miranda)
+
 

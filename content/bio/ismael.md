@@ -94,20 +94,15 @@ construção da pátria do meu ensinamento.
 Book: Brasil, Coração do Mundo, Pátria do Evangelho.
 
 ## Referências
-[1] Biografia - Espírito Ismael - Entrevista com Carlos Campetti na FEBTv.
-Disponível em: <https://www.youtube.com/watch?v=gdXnSLIrrLs>.
-
-[2] Brasil, Coração do Mundo, Pátria do Evangelho. Ditado pelo Espírito:
-Humberto de Campos. Psicografado por: Francisco Cândido Xavier. Primeira edição
-lançada em 1938. Editora FEB.
-
-[3] Anjo Ismael, o Guia Espiritual do Brasil. Artigo do site Vinha de Luz.
-Disponível em: <https://vinhas-de-luz.blogspot.com.br/2017/02/
-anjo-ismael-o-guia-espiritual-do-brasil.html>
+* [1] Biografia - Espírito Ismael - Entrevista com Carlos Campetti na FEBTv.
+  Disponível em: <https://www.youtube.com/watch?v=gdXnSLIrrLs>.
+* [2] Brasil, Coração do Mundo, Pátria do Evangelho. Ditado pelo Espírito:
+  Humberto de Campos. Psicografado por: Francisco Cândido Xavier. Primeira
+  edição lançada em 1938. Editora FEB.
+* [3] [Anjo Ismael, o Guia Espiritual do Brasil](https://vinhas-de-luz.blogspot.com.br/2017/02/anjo-ismael-o-guia-espiritual-do-brasil.html).
 
 ## Fonte
-[Casa do Caminho - Perfil: Quem é Ismael?](https://casadocaminho-pae.org.br/temas-doutrinarios/perfil-quem-e-ismael)
+* [Casa do Caminho - Perfil: Quem é Ismael?](https://casadocaminho-pae.org.br/temas-doutrinarios/perfil-quem-e-ismael)
 
 ## Literatura Recomendada
-[Brasil, Coração do Mundo, Pátria do Evangelho - pelo Espírito Humberto Campos,
-psicografia de Chico Xavier](/books/brasil-coracao-mundo)
+* [Brasil, Coração do Mundo, Pátria do Evangelho](/livros/brasil-coracao-mundo)

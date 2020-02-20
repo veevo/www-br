@@ -166,3 +166,13 @@ Bittencourt Sampaio é um arauto da difusão do Evangelho à luz do Espiritismo!
 ## Veja Também
 * [Bezerra de Menezes](../bezerra-de-menezes)  
 * [Euripedes Barsanulfo](../euripedes-barsanulfo)  
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Emmanuel](../emmanuel)  
+* [Andre Luis](../andre-luis)   
+* [Chico Xavier](../chico-xavier)
+* [Divaldo Franco](../divaldo-franco)
+* [Humberto de Campos](../humberto-de-campos)
+* [Léon Denis](../leon-denis)
+* [Allan Kardec](../allan-kardec)
+* [Honório](../honorio)  
+

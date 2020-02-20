@@ -190,29 +190,11 @@ de que era presidente honorário. Onde quer que comparecesse, ali davam-lhe
 sempre o lugar de maior destaque, lugar conquistado a preço de profunda
 dedicação, perseverança e incansável operosidade no bem.
 
-
-## Referências
-
-## Bibliografia do Autor
-Christianity and Spiritism  
-Here and Hereafter  
-Spirits and Mediums  
-Joan of Arc  
-In the Invisible  
-The Beyond and the Survival of the Being  
-Spiritism and the Catholic Clergy  
-Spiritism in the Art  
-The Celtic Genius and the Invisible World  
-The Great Enigma  
-The Invisible World and the War  
-The Reason of Life  
-Life and Destiny  
-Progress  
-Experimental tests of the Survival  
-Socialism and Spiritism  
+## Fonte
+* [Leon Denis - O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/leondenis.html)  
 
 ## Veja Também
-[Leon Denis - O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/leondenis.html)  
-TODO
-
+* [Allan Kardec](../allan-kardec)
+* [Humberto de Campos](../humberto-de-campos)
+* [Amélie Gabrielle Boudet](../amelie-boudet)
 

@@ -55,8 +55,5 @@ venerado como um Espírito de Luz, foi lhe dado em vida, carinhosamente, pelo
 esposo Arnaldo Rocha.
 
 ## Fonte
-[O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/meimei.html)
-
-
-
+* [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/meimei.html)
 

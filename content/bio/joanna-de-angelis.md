@@ -245,13 +245,20 @@ especiais, a Mansão do Caminho adquiriu uma vibração de espiritualidade que
 suplantas humanas vibrações dos que ali residem e colaboram.
 
 ## Fonte
-[O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/joanna.html)  
-
-## Bibliografias Relacionadas
-[Espírito Andre Luis](../andre-luis)   
-[Espírito Emmanuel](../emmanuel)  
-[Espírito Honório](../honorio)  
-[Chico Xavier](../chico-xavier)  
+* [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/joanna.html)  
 
 ## Veja Também
-[Espiritismo](/espiritismo)  
+* [Divaldo Franco](../divaldo-franco)
+* [Chico Xavier](../chico-xavier)  
+* [Emmanuel](../emmanuel)  
+* [Andre Luis](../andre-luis)   
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Emmanuel](../emmanuel)
+* [Chico Xavier](../chico-xavier)
+* [Humberto de Campos](../humberto-de-campos)
+* [Léon Denis](../leon-denis)
+* [Allan Kardec](../allan-kardec)
+* [Honório](../honorio)  
+
+## Leitura Recomendada
+* [Espiritismo](/espiritismo)  

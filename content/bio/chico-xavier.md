@@ -456,6 +456,15 @@ no Centro Espírita Caminho da Redenção, em Salvador, Bahia).
 [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/chicoxavier.html)
 
 ## Veja Também
-* [Emmanuel](/bio/emmanuel)
-* [André Luiz](/bio/andre-luis)
+* [Bezerra de Menezes](../bezerra-de-menezes)
+* [Bittencourt Sampaio](../bittencourt-sampaio)
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Emmanuel](../emmanuel)  
+* [Andre Luis](../andre-luis)   
+* [Chico Xavier](../chico-xavier)
+* [Divaldo Franco](../divaldo-franco)
+* [Humberto de Campos](../humberto-de-campos)
+* [Léon Denis](../leon-denis)
+* [Allan Kardec](../allan-kardec)
+* [Honório](../honorio)  
 

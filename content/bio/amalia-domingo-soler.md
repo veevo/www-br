@@ -103,7 +103,6 @@ Kardec. Os espiritistas de Alicante a convidaram para permanecer com eles, sua
 proteção para que ela pudesse se dedicar inteiramente à disseminação do
 Espiritismo.
 
-## Referências
-[SGNY.org](//sgny.org)
-Traduzido por Veevo.org
+## Fonte
+* [SGNY.org](//sgny.org), traduzido por Veevo.org
 

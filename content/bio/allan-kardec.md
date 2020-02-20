@@ -137,20 +137,24 @@ amigos, a ódios de inimigos, a injúrias e a calúnias de elementos fanatizados
 Entretanto, ele jamais esmoreceu diante da tarefa.
 
 ## Fonte
-[O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/allankardec.html)
+* [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/allankardec.html)
 
-## Perfis Relacionados
-[Amélie Gabrielle Boudet](../amelie-gabrielle-boudet)
+## Veja Também
+* [Amélie Gabrielle Boudet](../amelie-gabrielle-boudet)
+* [Léon Denis](../leon-denis)
+* [Gabriel Delanne](../gabriel-delanne)
+* [Ermance Dufaux](../ermance-dufaux)
+* [Camille Flammarion](../camille-flamarion)
+* [Fénelon](../fenelon)
 
-## Bibliografia Recomendada
-[The Spirits' Book]()  
-[The Mediums Book]()  
-[The Gospel Explained By The Spiritist Doctrine]()  
-[Genesis]()  
-[Heaven and Hell]()  
-[The Spiritist Revue]()  
-[The Spiritism on its simplest expression]()  
-[What is Spiritism?]()  
+## Leitura Recomendada
+* [O Livro dos Espíritos](/livros/lds)  
+* [O Livro dos Médiuns](/livros/ldm)  
+* [O Evangelho segundo a Doutrina Espírita](/livros/ese)
+* [A Gênesis](/livros/genesis)
+* [O Céu e Inferno](/livros/ceu-e-inferno)
+* [Revista Espírita](/livros/revista-espirita)
+* [O que é espiritismo?](/livros/o-que-e-o-espiritismo)
 
 
 

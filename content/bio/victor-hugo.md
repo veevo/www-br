@@ -100,7 +100,7 @@ Em 22 de maio, de 1885, desencarnou o Espírito de Victor Hugo. Eis as suas
 > Deixo 50.000 francos aos pobres. Desejo que me levem ao cemitério na carreta
 > dos pobres. Recuso as orações de todas as igrejas. Creio em Deus.
 
-## Referências
-[Victor Hugo - O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/vitorhugo.html)
+## Fonte
+* [Victor Hugo - O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/vitorhugo.html)
 
 

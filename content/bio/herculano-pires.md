@@ -5,6 +5,9 @@ topics:
 - espiritismo
 - herculano-pires
 - escritores
+- filosofia
+- psicologia
+- pedagogia
 ---
 
 José Herculano Pires nasceu na cidade de Avaré, no estado de São Paulo em 25 de
@@ -146,14 +149,19 @@ principalmente aqueles cometidos pelas Federações. A cada correção dava
 as suas razões. Não queria que um órgão coordenador do movimento
 espírita pudesse propagar falhas doutrinárias.
 
-### Algumas de suas obras espíritas
-Introdução à Filosofia Espírita, Mediunidade (Vida e Comunicação),
-O Espírito e o Tempo, Agonia das Religiões, Revisão do
-Cristianismo, Ciência Espírita, Curso Dinâmico de Espiritismo e
-Centro Espírita.
+## Obras Espíritas
+Algumas de suas obras espíritas são:
+* Introdução à Filosofia Espírita
+* Mediunidade (Vida e Comunicação)
+* O Espírito e o Tempo
+* Agonia das Religiões
+* Revisão do Cristianismo
+* Ciência Espírita
+* Curso Dinâmico de Espiritismo
+* Centro Espírita.
 
-Fonte: RIZZINI, Jorge. J. Herculano Pires: O Apóstolo de Kardec.
-São Paulo: Paidéia, 2001.
+## Bibliografia
+* RIZZINI, Jorge. J. Herculano Pires: O Apóstolo de Kardec. São Paulo: Paidéia, 2001.
 
 ## Fonte
 [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/joseherculanopires.html)
@@ -161,6 +169,10 @@ São Paulo: Paidéia, 2001.
 Autor: Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
+* [Humberto de Campos](../humberto-de-campos)
+* [Léon Denis](../leon-denis)
+* [Chico Xavier](../chico-xavier)
+* [Divaldo Franco](../divaldo-franco)
+* [Hermínio C. Miranda](../herminio-miranda)
 
 

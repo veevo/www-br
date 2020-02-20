@@ -96,10 +96,6 @@ Vasconcellos, prestou-lhe ultimamente significativa homenagem, dando seu
 respeitável e inesquecível nome ao educandário que naquele bairro mantém, no
 momento, funcionando com o curso ginasial, o Instituto 'Lins de Vasconcellos'. 
 
-
 ## Fonte
-[O Consolador (pt-BR)](http://www.oconsolador.com.br/linkfixo/biografias/linsdevasconcellos.html)
-
-
-
+* [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/linsdevasconcellos.html)
 

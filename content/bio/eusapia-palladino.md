@@ -3,9 +3,11 @@ title: Eusapia Palladino
 date: 2019-02-01 19:00:00
 topics: 
 - italia
+- medim
+- mediunidade
 ---
 
-Eusapia Palladino nasceu em Murga, Nápoles , em 31 de janeiro de 1854 . Sua mãe
+Eusapia Palladino nasceu em Murga, Nápoles , em 31 de janeiro de 1854. Sua mãe
 morreu alguns dias após seu nascimento, e seu pai camponês deu-lhe para ser
 criado por um par de amigos. Antes de ela ter um ano de idade, diz-se que ela
 caiu e machucou gravemente a cabeça dela. Dessa fratura no crânio, cientistas
@@ -106,14 +108,10 @@ contínuas, as condições mais rigorosas estipuladas pelo maiores cientistas da
 época.
 
 ## Referências
-Sir William Crookes Spiritist Society, June 2002  
-Great Exponents of Spiritism  
-(From “Eusapia, The “Witch”, L Palhano Jr, 1995, Brazilian Edition)  
+* Sir William Crookes Spiritist Society, June 2002  
+* Great Exponents of Spiritism (From “Eusapia, The “Witch”, L Palhano Jr, 1995, Brazilian Edition)  
 
 ## Fonte
-[SGNY.org](//sgny.org)  
-Traduzido por Veevo.org
-
-
+* [SGNY.org](//sgny.org), traduzido por Veevo.org
 
 

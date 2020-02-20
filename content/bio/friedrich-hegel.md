@@ -4,6 +4,10 @@ date: 2019-01-11 13:00:00
 topics: 
 - filosofia
 - alemanha
+- pensamento
+- dialetica
+- platao
+- allan-kardec
 ---
 
 Georg Wilhelm Friedrich Hegel foi um filósofo alemão. Nasceu em
@@ -12,6 +16,9 @@ Stuttgart, em 1770 e faleceu em 1831.
 O pano de fundo de sua filosofia foi o idealismo absoluto. Ele já fora ventilado
 por outros filósofos, entre eles Schelling, mas somente com Hegel atinge a sua
 maturidade.
+
+
+## Perguntas Relacionadas
 
 ### O que é o pensar absoluto?
 Para Hegel, há uma identidade entre sujeito e objeto: "O absoluto é
@@ -53,8 +60,7 @@ vez realizadas, novos modos de crescimento ou declínio começam. Ela não
 envolve o conceito de contradição, que é marca registrada da dialética.
 (Bunge, 2002)
 
-### Como comparar a dialética da ideia de Hegel à evolução do princípio
-espiritual através da matéria, em Kardec?
+### Como comparar a dialética da ideia de Hegel à evolução do princípio espiritual através da matéria, em Kardec?
 De acordo com Hegel, o espírito evolui, passando por sucessivas
 sínteses, tal qual o desenvolvimento de uma planta: semente, botão,
 fruto, novamente semente, ... De acordo com Kardec, os Espíritos são
@@ -68,10 +74,11 @@ quando, então, não terão necessidade de reencarnar novamente.
 * Temática Barsa - Filosofia
 
 ## Fonte
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/hegel-e-a-dialética)  
-Autor: Sérgio Biagi Gregório
+* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/hegel-e-a-dialética), Sérgio Biagi Gregório
 
 ## Veja Também
-TODO
+* [Allan Kardec](../bio/allan-kardec)
+* [Léon Denis](../leon-denis)
+* [Platao](../platao)
 
 

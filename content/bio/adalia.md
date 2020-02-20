@@ -64,13 +64,11 @@ Cuja versão interpretada por Afro Stefanini II e Amandinha Morais pode ser
 vista:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9Bn317_IIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Perfis Relacionados
-* [Afro Stefanini II](/bio/afro-stefanini)
-* [Alírio de Cerqueira Filho](../alirio-de-cerqueira-filho)  
-* [Divaldo Franco](../divaldo-franco)  
-* [Espírito Honório](../honorio)  
-* [Espírito Joanna de Angelis](../joanna-de-angelis)  
-
 ## Veja Também
-* [Espiritismo](/espiritismo)  
-* [Projeto Espiritizar](/sobre/espiritizar)  
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Honório](../honorio)  
+* [Divaldo Franco](../divaldo-franco)  
+* [Alírio de Cerqueira Filho](../alirio-de-cerqueira-filho)  
+* [Afro Stefanini II](/bio/afro-stefanini)
+* [O que é o Espiritismo?](/espiritismo)  
+* [O que é o Projeto Espiritizar?](/sobre/espiritizar)  

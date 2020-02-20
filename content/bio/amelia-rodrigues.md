@@ -4,6 +4,9 @@ date: 2019-02-01 19:00:00
 topics: 
 - divaldo-franco
 - bahia
+- poesia
+- joanna-de-angelis
+- divaldo-franco
 ---
 
 Poetisa, educadora e escritora desencarnada em 1926, continua escrevendo
@@ -44,19 +47,20 @@ Evangelho de Jesus, fonte inspiradora de suas obras quando encarnada.  Encontrou
 na Espiritualidade – seara infinita da imortalidade – maior expansão para seu
 espírito sequioso de conhecimento e faminto de amor, dando vazão aos anseios
 mais nobres. Aprofundou-se na mensagem de Jesus e, na atualidade, participa da
-falange de Joanna de Ângelis, mentora de Divaldo Pereira Franco.  Pela
-psicografia do abnegado trabalhador, vem trazendo páginas de beleza intraduzível
-que abordam os mais variados assuntos sobre o Evangelho, seu tema predileto, de
-onde extrai lições edificantes para aqueles que estão cansados e
+falange de Joanna de Ângelis, mentora de Divaldo Pereira Franco.
+
+Pela psicografia do abnegado trabalhador, vem trazendo páginas de beleza
+intraduzível que abordam os mais variados assuntos sobre o Evangelho, seu tema
+predileto, de onde extrai lições edificantes para aqueles que estão cansados e
 sobrecarregados, necessitados de orientação e de consolo.
 
 ## Fonte
-Até o Fim dos Tempos Amélia Rodrigues (espírito)   
-Psicografia de Divaldo Franco Editora LEAL, publicado em 2000.
+* Até o Fim dos Tempos Amélia Rodrigues (espírito)   
+* Psicografia de Divaldo Franco Editora LEAL, publicado em 2000.
 
 ## Perfis Relacionados
-[Divaldo Franco](../divaldo-franco)  
-[Afro Stefanini II](../afro-stefanini) 
-[Espírito Honório](../honorio)  
-[Espírito Joanna de Angelis](../joanna-de-angelis)  
+* [Joanna de Angelis](../joanna-de-angelis)  
+* [Divaldo Franco](../divaldo-franco)  
+* [Honório](../honorio)  
+* [Afro Stefanini II](../afro-stefanini) 
 

@@ -119,6 +119,7 @@ Por toda sua dedicação à ideia espírita, na defesa do aspecto científico do
 Espiritismo e por seu humanismo, Gabriel Delanne merece lugar de destaque entre
 os pensadores que contribuíram para a evolução da ideia espírita no século XX.
 
+## Perguntas Relacionadas
 
 ### Delanne foi um apóstolo do Espiritismo?
 Sim. Ao lado de Allan Kardec e Léon Denis merece, por seu devotamento à
@@ -164,7 +165,12 @@ Apostolado. Rio de Janeiro: C. E. Léon Denis, 1988.
 Espírito Humberto de Campos. 11. ed. Rio de Janeiro: FEB, 1977.
 
 ## Fonte
-[O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/gabrieldelanne.html)  
+* Biografia: [O Consolador](http://www.oconsolador.com.br/linkfixo/biografias/gabrieldelanne.html)  
+* Perguntas Relacionadas: [Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
+
+## Veja Também
+* [Allan Kardec](../allan-kardec)
+* [Léon Denis](../leon-denis)
+* [Ermance Dufaux](../ermance-dufaux)
 
 ## Leitura Recomendada
-[Aprofundamento Doutrinário (Temas Diversos)](https://sites.google.com/view/aprofundamentodoutrinario/delanne-e-flammarion)  
