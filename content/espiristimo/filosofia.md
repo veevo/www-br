@@ -2,7 +2,7 @@
 title: O Aspecto Filosófico do Espiritismo
 description: Conheça o aspecto filosófico que o Espiritismo nos apresenta.
 date: "2019-01-01"
-topics
+topics:
 - philosophy
 ---
 

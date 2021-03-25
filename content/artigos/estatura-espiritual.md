@@ -1,6 +1,7 @@
 ---
 title: Estatura Espiritual
 image: "images/masonary-post/post-2.jpg"
+topics:
 - julgamento
 - esforco
 - justica

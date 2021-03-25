@@ -1,4 +1,4 @@
---
+---
 title: Lei de Afinidade Fluídica
 description: Conheça mais sobre a Lei de Afinidade Fluídica.
 date: 2019-01-11 13:00:00
